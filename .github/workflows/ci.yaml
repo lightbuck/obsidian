@@ -1,7 +1,7 @@
 name: Build and Test
 
 env:
-  THEME_NAME: pine-forest-berry
+  THEME_NAME: catppuccin
 
 on:
   push:
@@ -64,6 +64,7 @@ jobs:
 
       - name: Fetch Quartz Theme
         run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action_v1.sh | bash -s -- $THEME_NAME
+        working-directory: ./source
 
       - name: Build Quartz
         run: |
