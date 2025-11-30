@@ -1,5 +1,5 @@
 #PhotonTTRPG
-Player Characters have 4 Action Points (AP)
+Player Characters have 4 Action Points (AP) which they spend to take Actions
 There are 4 types of actions: 
 - Core Actions
 	Can cost 1 to 4 AP. Each Core Action can be used once per turn. ^8c5a75
@@ -24,8 +24,11 @@ There are 4 types of actions:
 	Roll your [[Health and Stamina#^7170e3|Recovery Dice]] thrice and take the better result 
 - Combat Repair (3 AP)
 	You return a [[Gear|Scrapped]] piece of gear to its original form and choose if to equip it or return it to your inventory. ^19f82e
-
-### Rising/Falling Action ^5b10a9
+### Action Pools
+The main actions most Player Characters will be taking are usually from Action Pools such as:
+- [[Styles]]
+- [[Powers]]
+### Rising Action ^5b10a9
 At the beginning of a PC's turn they also have a special **Rising Action**, which they can take to either:
 - roll their [[Health and Stamina#^7170e3|Recovery Dice]] twice and take the better result 
 - take a 1 AP Universal Action
@@ -33,12 +36,3 @@ Additional Rising and Falling actions may be granted by a character's [[Roles|Ro
 ### Effective AP ^2c1bb5
 Sometimes effects will call for 'Effective APs', this is the measure of how many Action Points you would spend without counting [[Conditions#^685a66|Adrenaline]].
 For example: if you take two actions, one that costs 2 AP and one that costs 3 AP, but reduce the cost of the latter with one stack of Adrenaline, in total you would spen 4 AP. But in this scenario the Effective AP you spent would be 5.
-## Action Composition #PH 
-This is what a typical action will look like:
-![[Action PH.png]] #PH
-1. The name of the action, "Crashing Strike"
-2. The AP Cost, in this case it is 2 out of 4
-3. The description of the action "You bring down your weapon with all your might, leveraging your momentum to bring down a devastating blow"
-4. The [[Traits]] of the action, bundled together in various aspects. The first aspect is the first row "ATTACK | 1D6 | MELEE(1)" and the second is "RISKY(5) | MOMENTUM"
-## Action Building #PH
-Traits come bundled together in "Aspects" that when choosing actions to learn, the [[Terminology]] build a pool of. The players can then mix and match these aspects to modify Core Actions to fit their character fantasy. Only one Aspect can be modified per action at level one #PH

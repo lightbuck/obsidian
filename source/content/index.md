@@ -1,7 +1,17 @@
 ---
-title: My GitHub Pages Notebook!
+title: PHOTON TTRPG
 ---
+Welcome to the online repository for lightbuck's TTRPG system, Photon (this name is a placeholder)
+### The Golden Rules
+This is a list of guidelines I strive for when designing this system:
+- Combat is **fast** and **stylish**
+- Build crafting is **flavorful** and **modestly deep**
+- Enemies should never interrupt Players
+- Players should interrupt enemies regularly
+- _Players can do only what they can describe._
+#### Inspirations
+Photon is inspired by a lot of different things: Spectacle Fighters, Fighting Games, Super Hero Comic Books and other TTRPGS!
 
-Hello world!
+Start Reading from [[Actions|The Actions Section]]
 
-Write some words here!
+Check my progress [here](https://trello.com/b/PjEv2lQF/ttrpg-designing-progress)!
