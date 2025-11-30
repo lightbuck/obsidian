@@ -8,37 +8,37 @@ Powers are the other side of the coin from [[Styles]], but they also grant free 
 - "Work with the dead"
 [[Features]]:
 - From Spirits
-	>At the end of your turn gain 2 stacks of [[Conditions#^1d4c54|Empowered]] for every point of [[Meter]] you gained this turn 
+	- At the end of your turn gain 2 stacks of [[Conditions#^1d4c54|Empowered]] for every point of [[Meter]] you gained this turn 
 
 Actions:
 - Gather Spirit, 1 AP
-	> *You reach out and absorb nearby Spirit Energy*
-	>[[Traits#^d02161|Gain(+1)]] [[Traits#^be2d6b|Immobile]] | [[Traits#^d02161|Gain(+1)]]  ^6989f2
+	- *You reach out and absorb nearby Spirit Energy*
+	- [[Traits#^d02161|Gain(+1)]] [[Traits#^be2d6b|Immobile]] | [[Traits#^d02161|Gain(+1)]]  ^6989f2
 - Combat Communion, 3 AP
 	- You focus completely on absorbing nearby spirit energy from the battlefield.*
 	- Effect: Gain an extra point of [[Meter]] per round number.
 	- [[Traits#^be2d6b|Immobile]] | [[Traits#^d02161|Gain(+3)]] 
 - Summon Weapon, 2 AP
-	> *You spend the Spirit Energy you have accumulated to summon a Weapon*
-	Effect: Summon a weapon, either place it in an adjecent space or [[Actions#^644f38|Swap]] to it for free. For every point of [[Meter]] spent by this action increases the weapon's Damage by 1 when wielded by you.
-	[[Traits#^69bd9b|Spend(1)]] [[Traits#^2d7726|Create]] |
+	- *You spend the Spirit Energy you have accumulated to summon a Weapon*
+	- Effect: Summon a weapon, either place it in an adjecent space or [[Actions#^644f38|Swap]] to it for free. For every point of [[Meter]] spent by this action increases the weapon's Damage by 1 when wielded by you.
+	- [[Traits#^69bd9b|Spend(1)]] [[Traits#^2d7726|Create]] |
 - Summon Companion, 2 AP
-	> *You gather Spirit Energy to give shape to a dead animal you had bounded with*
-	> Effect: For every point of [[Meter]] spent by this action the created Companion gains +1 Damage. You can only have one companion summoned at a time
-	> [[Traits#^69bd9b|Spend(1)]] [[Traits#^2d7726|Create]] |
+	- *You gather Spirit Energy to give shape to a dead animal you had bounded with*
+	-  Effect: For every point of [[Meter]] spent by this action the created Companion gains +1 Damage. You can only have one companion summoned at a time
+	-  [[Traits#^69bd9b|Spend(1)]] [[Traits#^2d7726|Create]] |
 - From the Spirits with Love, 3 AP
 	- *You spend Spirit Energy you have accumulated to summon a massive bone blade that thrusts forward.*
-	Effect: Target a 10 length line originating from you, or every point of [[Meter]] spent you deal +d4 to all [[Foes]] in that line.
-	[[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] [[Traits#^69bd9b|Spend(5)]] | [[Traits#^be2d6b|Immobile]] [[Traits#^69bd9b|Spend(5)]] ^d1cd4e
+	- Effect: Target a 10 length line originating from you, or every point of [[Meter]] spent you deal +d4 to all [[Foes]] in that line.
+	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] [[Traits#^69bd9b|Spend(5)]] | [[Traits#^be2d6b|Immobile]] [[Traits#^69bd9b|Spend(5)]] ^d1cd4e
 - Spirit Barrier, 1 AP
-	*You use Spirit Energy to create a barrier between you and your Foes*
-	Effect: Create within a radius of 5 a piece of [[The Battlefield#^4eb84d|Full Cover]] for every 2 points of [[Meter]] spent by this action
-	[[Traits#^69bd9b|Spend(2)]] [[Traits#^2d7726|Create]] | [[Traits#^69bd9b|Spend(2)]]
+	- *You use Spirit Energy to create a barrier between you and your Foes*
+	- Effect: Create within a radius of 5 a piece of [[The Battlefield#^4eb84d|Full Cover]] for every 2 points of [[Meter]] spent by this action
+	- [[Traits#^69bd9b|Spend(2)]] [[Traits#^2d7726|Create]] | [[Traits#^69bd9b|Spend(2)]]
 Combo Actions:
 - Ain't afraid of no spirits, 2 AP
-	*After attacking a foe with Spirit Energy you force said energy into your Foe's body*
-	Condition: The Previous action had the [[Traits#^69bd9b|Spend Trait]] and the [[Traits#^8f40c8|Attack Trait]] 
-	Effect: Target a Foe you targeted with your previousaction, they **get** 1 stack of the [[Conditions#^7a7e20|Stunned Condition]] ^a5d02f
+	- *After attacking a foe with Spirit Energy you force said energy into your Foe's body*
+	- Condition: The Previous action had the [[Traits#^69bd9b|Spend Trait]] and the [[Traits#^8f40c8|Attack Trait]] 
+	- Effect: Target a Foe you targeted with your previous action, they **get** 1 stack of the [[Conditions#^7a7e20|Stunned Condition]] ^a5d02f
 - Possessed and Obsessed, 1 AP
 	*You infuse yourself with the Spirit Energy you collected, temporarily empowering yourself*
 	Condition: The Previous action had the [[Traits#^d02161|Gain Trait]] 
