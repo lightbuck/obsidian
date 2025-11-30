@@ -164,11 +164,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7f065998151291b2",
   "lastOpenFiles": [
+    "Action Pools/Roles.md",
+    "Action Pools/Powers.md",
+    "Action Pools/Styles.md",
+    "Gear.md",
     "Actions.md"
   ]
 }
