@@ -1,13 +1,15 @@
 #PhotonTTRPG 
-Powers are the other side of the coin from [[Styles]], but they also grant free points in certain [[Skills]]
+Powers are the other side of the coin from [[Styles]], but they also grant free points in certain [[Skills]] and [[Features]]
 # List of Powers
 ## Alkean Magic
 %%Gain n Spend Meter, Summon Things%%
 [[Skills]]:
 - "Alkean Magic"
 - "Work with the dead"
+
 [[Features]]:
 - From Spirits: At the end of your turn gain 2 stacks of [[Conditions#^1d4c54|Empowered]] for every point of [[Meter]] you gained this turn 
+
 Actions:
 - **Gather Spirit**, 1 AP
 	- *You reach out and absorb nearby Spirit Energy*
@@ -32,6 +34,7 @@ Actions:
 	- *You use Spirit Energy to create a barrier between you and your Foes*
 	- Effect: Create within a radius of 5 a piece of [[The Battlefield#^4eb84d|Full Cover]] for every 2 points of [[Meter]] spent by this action
 	- [[Traits#^69bd9b|Spend(2)]] [[Traits#^2d7726|Create]] | [[Traits#^69bd9b|Spend(2)]]
+
 Combo Actions:
 - **Ain't afraid of no Spirits**, 2 AP
 	- *After attacking a foe with Spirit Energy you force said energy into your Foe's body*
@@ -101,6 +104,7 @@ Combo Actions:
 	- Condition: Your last action did not have the [[Traits#^8f40c8|Attack Trait]]
 	- Gain stacks of [[Conditions#^685a66|Adrenaline]] equal to the turn number. 
 	- [[Traits#^d885e1|Self]] 
+
 Reactions:
 - Iron Skin
 	- *Just as a foe is about to strike you, you channel your power making your skin impenetrable*
@@ -115,8 +119,10 @@ Reactions:
 [[Skills]]:
 - "Phoenix Talon Knowledge"
 - "Work with fire"
+
 [[Features]]:
 - From Blasts: Any time you deal damage to two foes with one action, you gain 2d4 stacks of [[Conditions#^1d4c54|Empowered]]. Any time you deal damage to more than two foes with one action, you instead gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]
+
 Actions:
 - Heart Afire, 2 AP
 	- *You open your palms and unleash a wave of fire*
@@ -134,6 +140,7 @@ Actions:
 	- *You cover an ally in fire, which will hurt any Foe that gets too close*
 	- Effect: Target an Ally, any Foe adjecent to them takes 3 damage both now and every time they end their turn adjacent to them. The ally may expend this effect as a reaction to a Melee Attack, becoming immune to that attack 
 	- [[Traits#^e327ca|Aid]]
+
 Combo Actions:
 - Boil The Ocean, 2 AP
 	- *You release the flames you've been holding inside in a massive wave of fire around you.*
@@ -164,8 +171,10 @@ Reactions:
 - "Magical Knowledge"
 - "Work with Magic"
 - Fleet
+
 [[Features]]:
 - From Strings: At the end of your turn gain 2d4 empowered for every AP spent on actions with the [[Traits#^e327ca|Aid Trait]]
+
 Actions:
 - **Everybody in the world**, 3 AP
 	- *Link the Life Force of multiple foes together.*
@@ -179,6 +188,7 @@ Actions:
 	- *You link two of your allies' Life Forces together.*
 	- Effect: Target yourself and an ally or two allies, that were adjacent to you at some point during this action. Transfer between the targets a condition or any amount of stamina. 
 	- [[Traits#^412513|Allies]] [[Traits#^e327ca|Aid]] | [[Traits#^77bf53|Step(2)]] ^4c7c29
+
 Combo Actions:
 - **Got him where I want him now**, 2 AP
 	- *You grab an opponent by the life force and paralyze them* 
@@ -195,6 +205,7 @@ Combo Actions:
 	- Condition: You gained a condition with you last action
 	- Effect: All allies also gain that condition
 	- [[Traits#^412513|Allies]] [[Traits#^e327ca|Aid]] | [[Traits#^77bf53|Step(2)]] ^d9ed8f
+
 Reactions:
 - **Before I come Undone**, R
 	- *After you take damage you physically pull on your connection with an ally to move closer to them*
@@ -210,6 +221,7 @@ Actions:
 	- You 
 - spikeThrow(), 2 AP
 	- You summon a storm of pointy constructs, 
+
 Combo Actions:
 - **Debug**, 2 AP
 	- *You take a moment to reassess your code after noticing a bug*
@@ -221,6 +233,7 @@ Combo Actions:
 	- Condition: The result of your previous action was underwhelming.
 	- Effect: Gain
 	- [[Traits#^412513|Allies]] [[Traits#^e327ca|Aid]] | 
+
 Reactions:
 - Burning Blood
 	- *Fire lashes out from your wounds*
@@ -233,8 +246,10 @@ Reactions:
 - "Storm Hook Knowledge"
 - "Work with lightning"
 - Flex
+
 [[Features]]:
 - From Storms: When you lose  the [[Conditions#^f57404|Charged Condition]], gain 2 empowered for every for every [[Actions#^2c1bb5|Effective AP]] spent since you last gained the [[Conditions#^f57404|Charged Condition]].
+
 Actions:
 - **Of Ice And Snow**, 2 AP
 	- *You summon the storm, emitting lightning around you*
@@ -252,6 +267,7 @@ Actions:
 	- *You lift yourself with lightning, leaping a great distance*
 	- Effect: Move your speed twice. You may choose to land in a space occupied by a Foe, forcing them to move to an adjacent space.
 	- [[Traits#^d2dbb4|Charging]] [[Traits#^c90f08|Move]]|
+
 Combo Actions: 
 - **Danger! High Voltage!**, 2 AP
 	- *The lightning from one of your strikes jumps to another foe*
@@ -278,6 +294,7 @@ Combo Actions:
 	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]] and the [[Traits#^8f40c8|Attack Trait]]
 	- Effect: Target any foe affected by your last action, cause them to move to an adjacent space to you, or you may instead move yourself to a space adjacent to a foe you just affected.
 	- [[Traits#^8f40c8|Attack]] [[Traits#^c90f08|Move]]|
+
 Reactions: 
 - **Name**, R
 	- *Description*
@@ -291,8 +308,10 @@ Reactions:
 - "Daemonic Knowledge"
 - "Work with Daemons"
 - "Work with Magic"
+
 [[Features]]:
 - From Name:
+
 Actions:
 - **Procedurally Generated**, 1 AP
 	- *You feed the Daemon with your own Life Force.*
@@ -310,6 +329,7 @@ Actions:
 	- *You allow your Daemon to take over your body*
 	- Effect: You gain the [[Conditions#^9d723e|Daemonized Condition]], until you have the condition your stamina is unlimited. Replace your current stamina by an amount equal to every point of [[Meter]] Spent by this action. 
 	- [[Traits#^69bd9b|Spend(ALL)]]
+
 Combo Actions: 
 - **Asynchronous Carnage**, 2 AP
 	- *Description*
@@ -336,6 +356,7 @@ Combo Actions:
 	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
 	- Effect: You exhaust your [[Health and Stamina|Stamina]].
 	- [[Traits]]
+
 Reactions: 
 - **Daemon Out Of Bounds**, R
 	- *Description*
@@ -353,8 +374,10 @@ Reactions:
 - "Astracentrism Knowledge" 
 - Flex
 - Fleet
+
 [[Features]]:
 - From Name:
+
 Actions:
 - **Let's Rock!**, 1 AP
 	- *You enter your Astracentric stance*
@@ -368,6 +391,7 @@ Actions:
 	- *You grab a hold of an enemy and hold them still by absorbing their kinetic energy*
 	- Effect: Target one foe within melee range, that foe gains an amount of [[Conditions#^8081d3|Slowed]] equal to their movement speed and you gain an equal amount of [[Meter]]. Additionally you gain the [[Conditions#^503ca4|Centered Condition]]. 
 - 	[[Traits]]
+
 Combo Actions: 
 - **Heaven**, 2 AP
 	- *After taking your stance you simply remain still.*
@@ -384,6 +408,7 @@ Combo Actions:
 	- Condition: Your last action had the [[Traits#^8f40c8|Attack Trait]]
 	- Effect: Target one foe within line of sight, they must take a 1 AP action with the attack trait, targeting you.
 	- [[Traits]]
+
 Reactions: 
 - **6P**, R
 	- *Description*
@@ -415,19 +440,23 @@ Powers are meant to be a layer of extra flavor that adds mechanical complexity t
 [[Skills]]:
 - "Name Knowledge"
 - "Work with Name"
+
 [[Features]]:
 - From Name: 
+
 Actions:
 - **Name**, 1 AP
 	- *Description*
 	- Effect:
 	- [[Traits]]
+
 Combo Actions: 
 - **Name**, 1 AP
 	- *Description*
 	- Condition:
 	- Effect:
 	- [[Traits]]
+
 Reactions: 
 - **Name**, R
 	- *Description*
