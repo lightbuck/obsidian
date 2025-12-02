@@ -51,7 +51,7 @@ Feats 'From Power' are passive abilities that grant [[Conditions#^1d4c54|Empower
 - From Teamwork
 	At the end of your turn gain 1d6 stacks of [[Conditions#^1d4c54|Empowered]] for every AP spent on actions with the [[Traits#^e327ca|Aid Trait]]
 - From Overflow
-	Any time you would gain stamina above your [[Health and Stamina#^059ed3|Maximum Stamina]] you instead gain an equal amount of [[Conditions#^1d4c54|Empowered]]
+	Any time you would gain stamina above your [[Health and Stamina#^059ed3|Maximum Stamina]] you instead gain an equal amount of [[Conditions#^1d4c54|Empowered]] ^a04714
 ### To Power
 Feats 'To Power' are active abilities that convert stacks of [[Conditions#^1d4c54|Empowered]] into useful buffs. You can take a [[Actions#^ffdf5f|Flourish Action]] to activate a Feat To Power
 - To Rage

@@ -73,8 +73,10 @@ Reactions:
 - "Exceed Knowledge"
 - Fleet
 - Flex
+
 [[Features]]: 
 - From Excess: Any time you deal damage equal or greater to thrice the stamina pool of your target you gain 4d6 stacks of [[Conditions#^1d4c54|Empowered]]
+
 Actions:
 - **Siege Engine**, 2 AP
 	- *You charge forward, destroying anything in your path*
@@ -261,7 +263,7 @@ Actions:
 	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] |
 - **To Fight The Horde**, 3 AP
 	- *You channel lightning through your conduit to unleash a lightning bolt*
-	- Effect: Target one foe with your Melee weapon, dealing 3d6 damage
+	- Effect: Target one foe within Line of Sight, dealing 3d6 damage
 	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] |
 - **Threshing Oar**, 2 AP
 	- *You lift yourself with lightning, leaping a great distance*
@@ -269,10 +271,10 @@ Actions:
 	- [[Traits#^d2dbb4|Charging]] [[Traits#^c90f08|Move]]|
 
 Combo Actions: 
-- **Danger! High Voltage!**, 2 AP
+- **Danger, High Voltage**, 2 AP
 	- *The lightning from one of your strikes jumps to another foe*
 	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]] and the [[Traits#^8f40c8|Attack Trait]]
-	- Effect: target a second foe within 3 distance of your original target, they take the same damage you dealt with your previous action. If this attack exhausts a target's stamina you may repeat this effect for free.
+	- Effect: target a second foe within a radius of 3 of your original target, they take the same damage you dealt with your previous action. If this attack exhausts a target's stamina you may repeat this effect for free.
 	- [[Traits#^d2dbb4|Charging]] |
 - **Feel The Thunder**, 1 AP
 	- *You concentrate the lightning within you, increasing its power*
@@ -287,9 +289,9 @@ Combo Actions:
 - **You've Been Thunderstruck**, 4 AP
 	- *You force the lightning you just discharged to return to you in a massive blast*
 	- Condition: Your last action caused you to lose the [[Conditions#^f57404|Charged Condition]]
-	- Effect: Target a radius of 3 centered on a space within line of sight, deal 3d6 damage to all Foes.
+	- Effect: Target a radius of 3 centered on you within, deal 3d6 damage to all Foes.
 	- [[Traits]]
-- **What's up danger**, 1 AP
+- **Don't Be a Stranger**, 1 AP
 	- *You use the electricity of your strikes to magnetically move your foes*
 	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]] and the [[Traits#^8f40c8|Attack Trait]]
 	- Effect: Target any foe affected by your last action, cause them to move to an adjacent space to you, or you may instead move yourself to a space adjacent to a foe you just affected.
@@ -313,13 +315,13 @@ Reactions:
 - From Name:
 
 Actions:
-- **Procedurally Generated**, 1 AP
+- **Procedurally Generated Ritual**, 1 AP
 	- *You feed the Daemon with your own Life Force.*
 	- Effect: Roll your [[Health and Stamina#^7170e3|Recovery Die]] twice and choose a result.
 	- [[Traits#^195914|Sacrifice]] [[Traits#^d885e1|Self]]
 - **Open Source Bloodshed**, 2 AP
 	- *You absorb Life Force around you to feed your Daemon.*
-	- Effect: Target a radius of 3, all Characters other than you take 1d6 damage, if this action exhausts a Character's Stamina you may roll your [[Health and Stamina#^7170e3|Recovery Die]]. 
+	- Effect: Target a radius of 3, all Characters other than you take 2d6 damage, if this action exhausts a Character's Stamina you may roll your [[Health and Stamina#^7170e3|Recovery Die]]. 
 	- [[Traits#^195914|Sacrifice]] [[Traits#^d885e1|Self]]
 - **Mono-Threaded Skewering**, 2 AP
 	- *You use your Daemon to deliver a devastating Blow and then you let it feed on the spoils*
@@ -327,7 +329,7 @@ Actions:
 	- [[Traits#^195914|Sacrifice]] [[Traits#^8f40c8|Attack]]
 - **Push**, 1 AP
 	- *You allow your Daemon to take over your body*
-	- Effect: You gain the [[Conditions#^9d723e|Daemonized Condition]], until you have the condition your stamina is unlimited. Replace your current stamina by an amount equal to every point of [[Meter]] Spent by this action. 
+	- Effect: You gain the [[Conditions#^9d723e|Daemonized Condition]], replace your current stamina by an amount equal to every point of [[Meter]] Spent by this action. 
 	- [[Traits#^69bd9b|Spend(ALL)]]
 
 Combo Actions: 
