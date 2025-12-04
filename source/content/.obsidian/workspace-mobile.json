@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Features.md",
-                "mode": "preview",
+                "file": "Action Pools/Styles.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Features"
+              "title": "Styles"
+            }
+          },
+          {
+            "id": "75181953baff6a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Action Pools/Powers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Powers"
             }
           }
         ]
@@ -155,9 +169,12 @@
   },
   "active": "9a958e8a7eb3d4e1",
   "lastOpenFiles": [
-    "Conditions.md",
     "Action Pools/Powers.md",
+    "Action Pools/Styles.md",
     "Actions.md",
-    "index.md"
+    "index.md",
+    "Health and Stamina.md",
+    "Features.md",
+    "Conditions.md"
   ]
 }

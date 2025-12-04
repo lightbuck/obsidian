@@ -1,17 +1,17 @@
 #PhotonTTRPG 
-	Styles define in broad strokes the ways a character fights and provide important Bases and [[Traits]] for [[Actions##Action Building|Action Building]] albeit without Action Effects
+	Styles define in broad strokes the ways a character fights.
 # Main Styles
 ## Close Quarters ^5381b9
 
 You fight up close, you could be doing anything from stabbing someone with a sword to stuffing a gun in someone's mouth
 Actions:
--  **Bash**, 1 AP
-	Effect: Target one foe with your Melee weapon, dealing 1d6 damage
-	[[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] | ^3b39fa
+- **Bash**, 1 AP
+	- Effect: Target one foe with your Melee weapon, dealing 1d6 damage
+	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] | ^3b39fa
 - **Push Through** , 2 AP
-	*You rush past your foes, attacking as you move* 
-	Effect: You may pass through spaces occupied by enemies with this action but not end in such a space. Target two foes (that were adjacent to you at some point during this action) with your Melee weapon, dealing 1d6 damage to both
-	[[Traits#^8f40c8|Attack]] [[Traits#^9e3f4f|Mobile]] [[Traits#^ff0aa3|Melee]] | ^931d0f
+	- *You rush past your foes, attacking as you move* 
+	- Effect: You may pass through spaces occupied by enemies with this action but not end in such a space. Target two foes (that were adjacent to you at some point during this action) with your Melee weapon, dealing 1d6 damage to both
+	- [[Traits#^8f40c8|Attack]] [[Traits#^9e3f4f|Mobile]] [[Traits#^ff0aa3|Melee]] | ^931d0f
 - **Readjust Stance**, 1 AP
 	*You readjust your stance, possibly swapping your weapon for another*
 	Effect: Roll your [[Health and Stamina#^7170e3|Recovery Die]]
