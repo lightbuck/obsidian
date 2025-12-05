@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actions.md",
+                "file": "Action Pools/Styles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actions"
+              "title": "Styles"
+            }
+          },
+          {
+            "id": "b933f9425b34e66d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Action Pools/Powers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Powers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,15 +183,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f065998151291b2",
+  "active": "b933f9425b34e66d",
   "lastOpenFiles": [
+    "Health and Stamina.md",
+    "Action Pools/Powers.md",
+    "Action Pools/Styles.md",
+    "Traits.md",
+    "Target Ranges.md",
+    "Actions.md",
     "index.md",
     "Photon TTRPG.md",
-    "Action Pools/Powers.md",
-    "Untitled.md",
     "Action Pools/Roles.md",
-    "Action Pools/Styles.md",
-    "Gear.md",
-    "Actions.md"
+    "Gear.md"
   ]
 }

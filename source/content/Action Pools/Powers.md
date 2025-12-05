@@ -327,7 +327,7 @@ Actions:
 	- *You use your Daemon to deliver a devastating Blow and then you let it feed on the spoils*
 	- Effect: Target one Foe within Weapon Range, deal 4d6 damage.
 	- [[Traits#^195914|Sacrifice]] [[Traits#^8f40c8|Attack]]
-- **Push**, 1 AP
+- **Pull**, 1 AP
 	- *You allow your Daemon to take over your body*
 	- Effect: You gain the [[Conditions#^9d723e|Daemonized Condition]], replace your current stamina by an amount equal to every point of [[Meter]] Spent by this action. 
 	- [[Traits#^69bd9b|Spend(ALL)]]
@@ -341,7 +341,7 @@ Combo Actions:
 - **Back End Imp**, 1 AP
 	- *Description*
 	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
-	- Effect: Target one Character within line of sight, if the target is unwilling deal 2d6 damage, the next time that Character would gain stamina they instead gain half  and you may roll your [[Health and Stamina#^7170e3|Recovery Die]].
+	- Effect: Target one Character within line of sight, if the target is unwilling deal 2d6 damage, the next time that Character would gain stamina they instead gain half and you may roll your [[Health and Stamina#^7170e3|Recovery Die]].
 	- [[Traits]] 
 - **Front End Gargoyle**, 2 AP
 	- *Description*
@@ -353,7 +353,7 @@ Combo Actions:
 	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
 	- Effect: The next time you roll your [[Health and Stamina#^7170e3|Recovery Die]] you may choose to double or halve its results.
 	- [[Traits#^d885e1|Self]]
-- **Pull**, 1 AP
+- **Push**, 1 AP
 	- *Description*
 	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
 	- Effect: You exhaust your [[Health and Stamina|Stamina]].
@@ -362,7 +362,7 @@ Combo Actions:
 Reactions: 
 - **Daemon Out Of Bounds**, R
 	- *Description*
-	- Condition:
+	- Condition: You lose stamina
 	- Effect:
 	- [[Traits]]
 
