@@ -35,8 +35,7 @@
               "title": "Powers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,12 +182,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b933f9425b34e66d",
+  "active": "7f065998151291b2",
   "lastOpenFiles": [
-    "Health and Stamina.md",
     "Action Pools/Powers.md",
     "Action Pools/Styles.md",
+    "Conditions.md",
     "Traits.md",
+    "Health and Stamina.md",
     "Target Ranges.md",
     "Actions.md",
     "index.md",

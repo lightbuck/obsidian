@@ -1,6 +1,5 @@
 #PhotonTTRPG 
 Styles define in broad strokes the ways a character fights.
-# Main Styles
 ## Close Quarters ^5381b9
 
 You fight up close, you could be doing anything from stabbing someone with a sword to stuffing a gun in someone's mouth
@@ -110,27 +109,85 @@ Reaction:
 	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Ranged]] ^c8b15b
 
 
-# Sub Styles
-In case a player character wishes to derive flavor from 
-### Cavalier
+## Cavalier
 You ride into battle atop a steed, or a motorbike, and fight while riding it.
 Actions:
 - **Push Through** , 2 AP
 	- *You rush past your foes, attacking as you move* 
-	- Effect: You may pass through spaces occupied by enemies with this action but not end in such a space. Target two foes (that were adjacent to you at some point during this action) with your Melee weapon, dealing 1d6 damage to both
-	- [[Traits#^8f40c8|Attack]] [[Traits#^9e3f4f|Mobile]] [[Traits#^ff0aa3|Melee]] | ^931d0f
+	- Effect: Move your speed. You may pass through spaces occupied by enemies with this action but not end in such a space. Target two foes (that were adjacent to you at some point during this action) with your Melee weapon, dealing 1d6 damage to both
+	- [[Traits#^8f40c8|Attack]] [[Traits#^c90f08|Move]] [[Traits#^ff0aa3|Melee]] | ^931d0f
 - Armored Gallop, 1 AP
-	- You move with your mount, taking a defensive stance
+	- *You move with your mount, taking a defensive stance*
+	- Effect: Move your speed and roll your [[Health and Stamina#^7170e3|Recovery Die]]
+	- [[Traits#^d885e1|Self]] [[Traits#^e327ca|Aid]]
+- **Paw The Ground**, 1 AP
+	- *You prepare to rush down a Foe*
+	- Effect: You gain an amount of stacks of [[Conditions#^868aeb|Quickened]] equal to your speed. Target one foe, if you exhaust your target's stamina this turn you gain the same amount of [[Conditions#^868aeb|Quickened]] again.
+	- [[Traits#^d885e1|Self]] [[Traits#^e327ca|Aid]]
 
 Combo Actions:
 - **Crash**, 1 AP
-	- *You use your momentum to increase the damage of your attack*
+	- *You use your momentum to deliver a devastating attack*
 	- Condition: you moved with your previous action
 	- Effect: Take a move action, after finishing this movement target one foe adjacent to you. Deal a point of damage for every space you moved this round, in a move action that was a line.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^9e3f4f|Mobile]] [[Traits#^21477e|Brutal]] |  ^35a702
-### Hidden
+	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^c90f08|Move]] [[Traits#^21477e|Brutal]] |  ^35a702
+- **Blast Off**, 1 AP
+	- *You use the momentum of your attack to quickly depart*
+	- Condition: Your last action was an attack
+	- Effect: Move twice your speed
+	- [[Traits#^c90f08|Move]]
+	
+Reactions: 
+- **Panic at the stable**, R
+	- *After you were wounded your mount takes you away to safety*
+	- Condition: You took damage to [[Health and Stamina|Health]]
+	- Effect: Move your speed
+	- [[Traits]]
+## Hidden
 You use ambush tactics, you appear for a quick strike and then you're gone again, not even your GM knows where you are
-### Auxiliary
+Actions:
+- **Hide**, 2 AP
+	- *Description*
+	- Effect: Gain the [[Conditions#^47fe37|Hidden Condition]] ![[Conditions#^47fe37|Hidden Condition]]
+	- [[Traits]]
+- **Name**, 1 AP
+	- *Description*
+	- Effect:
+	- [[Traits]]
+- **Name**, 1 AP
+	- *Description*
+	- Effect:
+	- [[Traits]]
+
+Combo Actions: 
+- **Hidden Sprint**, 1 AP
+	- *Description*
+	- Condition: Your last action had the move trait
+	- Effect: Gain the [[Conditions#^47fe37|Hidden Condition]]
+	- [[Traits]]
+- **Name**, 1 AP
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+- **Name**, 1 AP
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+
+Reactions: 
+- **Name**, R
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+- **Name**, R
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+## Auxiliary
 You fight with something at your side, it could be a high tech drone or a faithful animal companion
-### Aerial
+## Aerial
 Combat from the sky, whether you fly with your wings or you swing with a grapple hook 
