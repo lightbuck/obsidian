@@ -3,6 +3,7 @@ Powers are the other side of the coin from [[Styles]], but they also grant free 
 # List of Powers
 ## Alkean Magic
 %%Gain n Spend Meter, Summon Things%%
+*Alkeans have the inborn ability to manipulate Spirit Energy, which is Life Force that has been separated from a living host. They can bind this energy to themselves to summon constructs or even temporarily bring back to life the perished being.* 
 [[Skills]]:
 - "Alkean Magic"
 - "Work with the dead"
@@ -69,6 +70,7 @@ Reactions:
 	[[Traits#^d02161|Gain(+2)]] ^909a48
 ## Active Exceed
 %%Movement, Self Buffs%%
+*All humans have the ability to exceed the natural limitations of their body. Most fighters do so subconsciously in moments of high stress, but some have learned to do so intentionally, allowing them to accomplish awe inspiring feats worthy of legend.*
 [[Skills]]:
 - "Exceed Knowledge"
 - Fleet
@@ -118,6 +120,7 @@ Reactions:
 	- Effect: You are not moved by the forced movement. If your speed is greater than the speed of the moving action you gain [[Conditions#^685a66|Adrenaline]]
 ## Phoenix Talon ^22318f
 %% Deal Aoe Damage, Buff Allies %%
+*The Phoenix Talon is the most recent Aspect of Magic, it originated 16 years ago during the Sunnaut Revolution and those who wield it carry forward the legacy of that war. In fact the bursts of fire that characterize this Magic grow in power if the cause they are being used for is just and righteous.*
 [[Skills]]:
 - "Phoenix Talon Knowledge"
 - "Work with fire"
@@ -168,6 +171,7 @@ Reactions:
 	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^c65353|Blasting(3)]]  ^c9a5e9
 ## Resono Magic
 %%Spread Results, Support Allies and move stay on the move%%
+*All Resono inherit the ability to interact with Life Force, which is the silk that empowers living beings. They can share life force, steal it, suppress it and so on. But to do so a Resono must be able to physically reach with their hands into their target.*
 [[Skills]]:
 - "Resono Magic Knowledge"
 - "Magical Knowledge"
@@ -214,6 +218,7 @@ Reactions:
 	- [[Traits#^d885e1|Self]] ^48007f
 ## Mana Scripting
 %%Change environment, AOE, Trade stamina for damage%%
+*Mana Scripting is likely the most accessible Aspect of Magic, Technically speaking all it requires is for the caster to be conscious. This is due to the fact that Mana Scripting is not an embodied form of magic. But instead it consists in writing spells, using expensive liquid mana, much like one would write high level computer code. These spells often consist of simple matter and energy generation.* 
 Actions:
 - **createWall()**, 1 AP
 	- *You summon a barrier of a solid material and send it forward*
@@ -244,6 +249,7 @@ Reactions:
 	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^c65353|Blasting(3)]]  ^c9a5e9
 ## Storm Hook
 %% Upkeep State, High AP, Adrenaline NEEDER %%
+*The Storm Hook is a powerful and raw Aspect of Magic. To obtain it one must get struck by lightning and survive the experience. Afterward the wielder will be able to summon electrical discharges at will, but to properly make use of the lightning the wielder must make use of a metal conduit of some sort.*
 [[Skills]]:
 - "Storm Hook Knowledge"
 - "Work with lightning"
@@ -303,9 +309,9 @@ Reactions:
 	- Condition:
 	- Effect:
 	- [[Traits]]
-## Vampirism
 ## Daemonic Possession
 %%Transform, Leech, Tank%%
+*To be possessed by a Daemon is to surrender yourself to the allure of power, at the cost of those around you. At first blush it might appear that this is an Aspect of Magic, but it is not. It consists in creating a bond with a Daemon, a Dark Magic Entity, which will nest within the wielder's life force. The purpose of the Daemon is to feed on Spirit Energy, so it will only bond to hosts it deems capable of finding it*
 [[Skills]]:
 - "Daemonic Knowledge"
 - "Work with Daemons"
@@ -320,7 +326,7 @@ Actions:
 	- Effect: Roll your [[Health and Stamina#^7170e3|Recovery Die]] twice and choose a result.
 	- [[Traits#^195914|Sacrifice]] [[Traits#^d885e1|Self]]
 - **Open Source Bloodshed**, 2 AP
-	- *You absorb Life Force around you to feed your Daemon.*
+	- *You absorb Spirit Energy around you to feed your Daemon.*
 	- Effect: Target a radius of 3, all Characters other than you take 2d6 damage, if this action exhausts a Character's Stamina you may roll your [[Health and Stamina#^7170e3|Recovery Die]]. 
 	- [[Traits#^195914|Sacrifice]] [[Traits#^d885e1|Self]]
 - **Mono-Threaded Skewering**, 2 AP
@@ -372,6 +378,7 @@ Reactions:
 ## Shadow Dance
 ## Astracentrism
 %% Stance, meter, reaction heavy, melee %%
+*Astracentrism is a martial art, learned specifically within environments in which the only source of gravity is a local Sun. This Aspect of Magic allows the wielder to redirect incoming kinetic energy in contact with their body.*
 [[Skills]]:
 - "Astracentrism Knowledge" 
 - Flex
@@ -439,6 +446,8 @@ Powers are meant to be a layer of extra flavor that adds mechanical complexity t
 ## Template
 # Name
 %% Comment The Aspects of the Magic %%
+*Description*
+*Galactic Rarity*
 [[Skills]]:
 - "Name Knowledge"
 - "Work with Name"

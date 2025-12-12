@@ -50,7 +50,7 @@ These Traits revolve around invoking rolls for an action or modifying their resu
 - Gain(N): This action adds N [[Meter]] after resolving its rolls ^d02161
 - Expend(N): This action drains N stamina from you and gain one stack of [[Conditions#^685a66|Adrenaline]]. If you have no stamina you instead gain N stacks of the [[Conditions#^9ed920|Stressed Condition]]. ^deed79
 - Charging: You gain or sustain the [[Conditions#^f57404|Charged Condition]] ^d2dbb4
-- Sacrifice: At the end of this action your current stamina is halved. Gain [[Meter]] equal to the amount lost. If you currently have the [[Conditions#^9d723e|Daemonized Condition]] you don't lose any stamina, instead if you expended your stamina on this action apply the [[Conditions#^471f1e|Impacted Condition]] to a target of this action. ^195914
+- Sacrifice: At the end of this action your current stamina is reduced by half of your maximum stamina. Gain [[Meter]] equal to the amount lost. If you currently have the [[Conditions#^9d723e|Daemonized Condition]] you don't gain Meter, instead if you expended your stamina on this action apply the [[Conditions#^471f1e|Impacted Condition]] to a target of this action. ^195914
 ## Magic Traits 
 List:
 - Ancestral : Someone in your family line also possesses this Origin. You cannot pick other Ancestral Magics

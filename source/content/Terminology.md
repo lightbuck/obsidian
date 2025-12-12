@@ -14,3 +14,4 @@
 - GM: a nerd
 - Table: Players and the GM ^74458d
 - Tax: Reduce a value by the Tax value the first time it is invoked in a round
+- Move Range: A space on the board, that you could move to within 4 move actions. ^fa1fe4
