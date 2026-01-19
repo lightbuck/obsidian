@@ -53,7 +53,7 @@ Reactions:
 - **Cut the Wind**, R
 	- *You use your weapon to deflect a ranged attack to an enemy close to you.*
 	- Condition: Whenever you would take damage to your [[Health and Stamina|Stamina]] from an action with the [[Traits#^cbb2c4|Ranged Trait]]
-	- Effect: Target one Foe within #PH Range, that Foe becomes the new target for the Action that provoked this Reaction
+	- Effect: Target one Foe that you can see, that Foe becomes the new target for the Action that provoked this Reaction
 	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^6ed443|Risky(3)]] |
 
 ## Ranged ^cbf70b

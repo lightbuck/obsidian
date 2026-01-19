@@ -147,7 +147,7 @@ Actions:
 	- [[Traits#^e327ca|Aid]]
 
 Combo Actions:
-- Boil The Ocean, 2 AP
+- Everything Burns, 2 AP
 	- *You release the flames you've been holding inside in a massive wave of fire around you.*
 	- Condition: Your previous action did not have the [[Traits#^8f40c8|Attack Trait]]
 	- Target all Foes in a 3 space radius centered on you, deal 2d6 damage
