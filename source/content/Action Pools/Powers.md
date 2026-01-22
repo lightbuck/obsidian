@@ -373,9 +373,13 @@ Reactions:
 	- [[Traits]]
 
 ## Static
+*There aren't many records of those who wield static and while this Aspect of Magic is rare that is not the main reason why such records are missing. Static allows the wielder to elude cognition itself, this often boils down to invisibility and intangibility. While the latter of the two can be used to devastating effect when overlapping with other matter, this primarily remains an Aspect of Magic focused on evasion.*
 ## Rouge Bud
+*Rouge Bud revolves around its namesake flower, that must be planted within the wielder's body. Once fully grown the wielder will be able to reshape inanimate, solid matter. Any tactically minded user of Rouge Bud can control the battlefield with ease, creating and removing cover, blocking off sightlines, etc. But a more simple minded approach can be equally effective.*
 ## Bloodsten
+*A simple Aspect of Magic which replaces a wielder's limb with a metal that the user can morph into any shape they desire.*
 ## Shadow Dance
+*The Shadow Dance is both an art and an Aspect of Magic, to make use of the latter a performer must demonstrate mastery over the former to a judge of The Court. The Aspect of Magic itself allows the dancer to transform shadows into portals that they alone may use.*
 ## Astracentrism
 %% Stance, meter, reaction heavy, melee %%
 *Astracentrism is a martial art, learned specifically within environments in which the only source of gravity is a local Sun. This Aspect of Magic allows the wielder to redirect incoming kinetic energy in contact with their body.*
@@ -440,9 +444,11 @@ Reactions:
 	- Effect:
 - 	[[Traits]]
 ## Lycanthropy
-# On Creating New Powers
+*WERWOLF WOOF WOOF BAU BAU*
+
+%%# On Creating New Powers
 The purpose of powers is to be the 'how' of the way a character fights. For example a character can be a gunslinger, or in the system they would be a [[Styles#^cbf70b|Ranged Combatant]], that's the 'what'. But the gunslinger could be an Alkean, that uses their powers to generate bullets, that's the 'how'.
-Powers are meant to be a layer of extra flavor that adds mechanical complexity to a character  build. Therefore a Power should revolve around a central mechanical throughline, that can be used to create synergies with [[Styles]] and [[Roles]]. #PH 
+Powers are meant to be a layer of extra flavor that adds mechanical complexity to a character  build. Therefore a Power should revolve around a central mechanical throughline, that can be used to create synergies with [[Styles]] and [[Roles]]. #PH  %%
 ## Template
 # Name
 %% Comment The Aspects of the Magic %%
