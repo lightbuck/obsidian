@@ -1,5 +1,5 @@
 #PhotonTTRPG 
-Powers are the other side of the coin from [[Styles]], but they also grant free points in certain [[Skills]] and [[Features]]
+Powers are the other side of the coin from [[Styles]], but they also grant free points in certain [[Skills]] and [[Feats of Power]]
 # List of Powers
 ## Alkean Magic
 %%Gain n Spend Meter, Summon Things%%
@@ -8,7 +8,7 @@ Powers are the other side of the coin from [[Styles]], but they also grant free 
 - "Alkean Magic"
 - "Work with the dead"
 
-[[Features]]:
+[[Feats of Power]]:
 - From Spirits: At the end of your turn gain 2 stacks of [[Conditions#^1d4c54|Empowered]] for every point of [[Meter]] you gained this turn 
 
 Actions:
@@ -76,7 +76,7 @@ Reactions:
 - Fleet
 - Flex
 
-[[Features]]: 
+[[Feats of Power]]: 
 - From Excess: Any time you deal damage equal or greater to thrice the stamina pool of your target you gain 4d6 stacks of [[Conditions#^1d4c54|Empowered]]
 
 Actions:
@@ -125,7 +125,7 @@ Reactions:
 - "Phoenix Talon Knowledge"
 - "Work with fire"
 
-[[Features]]:
+[[Feats of Power]]:
 - From Blasts: Any time you deal damage to two foes with one action, you gain 2d4 stacks of [[Conditions#^1d4c54|Empowered]]. Any time you deal damage to more than two foes with one action, you instead gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]
 
 Actions:
@@ -178,7 +178,7 @@ Reactions:
 - "Work with Magic"
 - Fleet
 
-[[Features]]:
+[[Feats of Power]]:
 - From Strings: At the end of your turn gain 2d4 empowered for every AP spent on actions with the [[Traits#^e327ca|Aid Trait]]
 
 Actions:
@@ -255,7 +255,7 @@ Reactions:
 - "Work with lightning"
 - Flex
 
-[[Features]]:
+[[Feats of Power]]:
 - From Storms: When you lose  the [[Conditions#^f57404|Charged Condition]], gain 2 empowered for every for every [[Actions#^2c1bb5|Effective AP]] spent since you last gained the [[Conditions#^f57404|Charged Condition]].
 
 Actions:
@@ -317,7 +317,7 @@ Reactions:
 - "Work with Daemons"
 - "Work with Magic"
 
-[[Features]]:
+[[Feats of Power]]:
 - From Name:
 
 Actions:
@@ -388,7 +388,7 @@ Reactions:
 - Flex
 - Fleet
 
-[[Features]]:
+[[Feats of Power]]:
 - From Name:
 
 Actions:
@@ -458,7 +458,7 @@ Powers are meant to be a layer of extra flavor that adds mechanical complexity t
 - "Name Knowledge"
 - "Work with Name"
 
-[[Features]]:
+[[Feats of Power]]:
 - From Name: 
 
 Actions:

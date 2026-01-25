@@ -52,6 +52,7 @@ These Traits revolve around invoking rolls for an action or modifying their resu
 - Charging: You gain or sustain the [[Conditions#^f57404|Charged Condition]] ^d2dbb4
 - Sacrifice: At the end of this action your current stamina is reduced by half of your maximum stamina. Gain [[Meter]] equal to the amount lost. If you currently have the [[Conditions#^9d723e|Daemonized Condition]] you don't gain Meter, instead if you expended your stamina on this action apply the [[Conditions#^471f1e|Impacted Condition]] to a target of this action. ^195914
 - Crossover: Any ally with a bond with you may expend their AP to use this action. If this action has the [[Traits#^8f40c8|Attack Trait]] it must target a Foe within line of sight of the ally. Any effects of the action happen as if you used it, but for the purposes of conditions for the ally's following actions it will count as if they had taken this action. When used this way, you may also take a move action for free before taking this action. ^0609c3
+- Companion: This action may only be taken by your Companion(s). ^c2aac5
 ## Magic Traits 
 List:
 - Ancestral : Someone in your family line also possesses this Origin. You cannot pick other Ancestral Magics

@@ -13,15 +13,15 @@ Stamina is associated with a **Recovery Die**, which certain actions can invoke.
 That is to say that your pool of Stamina is equal to your Recovery Die's size. You can gain **Extra Stamina** equal to the size of your Stamina Pool. Meaning your Maximum stamina is equal to twice the value of your Stamina Pool   ^1141c0
 ## Body Build
 - Nimble
-	10 Health
+	4 Health
 	D12 Stamina
 	6 Speed ^b58495
 - Medium
-	12 Health
+	6 Health
 	D10 Stamina
 	5 Speed ^591097
 - Big
-	14 Health
+	8 Health
 	D8 Stamina
 	4 Speed ^cf2cc4
 
@@ -37,7 +37,7 @@ That is to say that your pool of Stamina is equal to your Recovery Die's size. Y
 ^0823c9
 
 Whenever a character's stamina is exhausted, the damage they are taking is "gated". This means that any left over damage will not be carried over to the health.
-Depending on a character's [[Features]] characters might have other gates, which limit damage in the same way.
+Depending on a character's [[Feats of Power]] characters might have other gates, which limit damage in the same way.
 Additionally "Triggering a Gate" might be also be the requirement for reactions or combo actions.  ^1911da
 
 # Tank Or Flank?

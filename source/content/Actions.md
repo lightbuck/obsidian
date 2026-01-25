@@ -4,7 +4,7 @@ There are 4 types of actions:
 - Core Actions: Can cost 1 to 4 AP. Each Core Action can be used once per turn. ^8c5a75
 - Combo Actions: Cost 1 AP. Can only be used after you or an allied character used a specific action or an action with a specific trait. ^22357c
 - Reactions: Cost no AP and can only be used under specific circumstances even if it's not your turn. Can be used only once per round. ^45d755
-- Flourishes: Flourish Actions are 1 AP actions that can be taken once during your turn for free. When taking a Flourish Action you must declare a [[Features#^acac8c|Feat of Power]] you choose to activate. ^ffdf5f
+- Flourish Actions: Flourish Actions are 1 AP actions that can be taken once during your turn for free. When taking a Flourish Action you must declare a [[Feats of Power#^acac8c|Feat of Power]] you choose to activate. ^ffdf5f
 ### List of Universal Actions
 - Move (1 AP): [[Movement|Move]] a number of spaces equal to your speed ^642a2c
 - Catch(1 AP): You take your weapon back, removing its lost condition, if you last action involved making a ranged attack with the weapon.  ^bb3ce4
@@ -20,7 +20,7 @@ The main actions most Player Characters will be taking are usually from Action P
 ### Rising Action ^5b10a9
 At the beginning of a PC's turn they also have a special **Rising Action**, which they can take to either:
 - roll their [[Health and Stamina#^7170e3|Recovery Dice]] twice and take the better result 
-- take a 1 AP Universal Action
+- Move once 
 Additional Rising and Falling actions may be granted by a character's [[Roles|Role]]
 ### Effective AP ^2c1bb5
 Sometimes effects will call for 'Effective APs', this is the measure of how many Action Points you would spend without counting [[Conditions#^685a66|Adrenaline]].

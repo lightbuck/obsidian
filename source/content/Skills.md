@@ -7,13 +7,21 @@ For every 2 points assigned in a specific skill, add a point in a generic skill 
 
 You can chose a specific skill from the list or make up your own with the GM
 
-Physical Skills
+### Physical Skills
+
+^7454e9
+
 - Generic:
 	- Flex
 	- Fleet
 - Specifics:
-	- 
-Social Skills:
+	- Dash
+	- Push
+	- Restrain
+	- Escape
+	- ...
+
+### Social Skills: ^b6d6c5
 - Generic:
 	- Manipulate
 	- Empathize
@@ -23,7 +31,8 @@ Social Skills:
 	- Charm someone
 	- Read someone
 	- ...
-Manual Labor skills:
+
+### Manual Labor skills: ^5254e4
 - Generic:
 	- Invent
 	- Fix
@@ -33,10 +42,11 @@ Manual Labor skills:
 	- Work with mechanisms
 	- Work with electronics
 	- Work with Magic
-	- Work with Vehichles
+	- Work with Vehicles
 	- Work with wounds/ailments #PH
 	- ...
-Knowledge Skills:
+
+### Knowledge Skills: ^b86bbf
 - Generic:
 	- Research
 	- Observe

@@ -70,3 +70,5 @@ Feats 'To Power' are active abilities that convert stacks of [[Conditions#^1d4c5
 	Consume all stacks of [[Conditions#^1d4c54|Empowered]] the next time you roll your recovery die, increasing the result by one for every 2 stacks
 - To Consumption
 	Consume all stacks of [[Conditions#^1d4c54|Empowered]]. Your two next actions this turn gain a [[Traits#^69bd9b|Spend Trait]] with a value equal to half the stacks of  [[Conditions#^1d4c54|Empowered]] consumed
+- To Ally
+	Consume all stacks of [[Conditions#^1d4c54|Empowered]]. Split your stacks of [[Conditions#^1d4c54|Empowered]] equally among any amount allied characters.
