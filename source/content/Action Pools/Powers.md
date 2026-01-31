@@ -396,51 +396,51 @@ Reactions:
 - From Name: 
 
 Actions:
-- **Barre**, 1 AP ^3a1b9e
-	- *You perfome a dance move and vanish into the shadow beneath your feet*
-	- Effect: Gain the [[Conditions#^47fe37|Hidden Condition]]
+- **Barre**, 2 AP ^3a1b9e
+	- *You slowly and carefully dance move and vanish into the shadow beneath your feet*
+	- Effect: Gain the [[Conditions#^47fe37|Hidden Condition]] and one stack of [[Conditions#^685a66|Adrenaline]]
 	- [[Traits#^d885e1|Self]]
-- **Arriere**, 1 AP
-	- *You begin to dance, manipulating the shadows of a nearby character.*
-	- Effect:The next time you become [[Conditions#^47fe37|Hidden]] choose a willing character near you and also make them hidden for as long as  you're hidden, until the end of your turn or until they take an action.
-	- [[Traits#^d885e1|Self]][[Traits#^e327ca|Aid]]
+- **Arriere**, 2 AP
+	- *You take advantage of a Foe's vulnerable state to sink them in the shadows.*
+	- Effect: Target a foe with the [[Conditions#^471f1e|Impacted Condition]] or an ally, they gain the [[Conditions#^47fe37|Hidden Condition]]. The target loses the condition when their turn begins or when you gain the [[Conditions#^47fe37|Hidden Condition]]. If this action targets a foe then it gains the [[Traits#^8f40c8|Attack Trait]].
+	- [[Traits#^d885e1|Self]]
 - **Tourant**, 2 AP
 	- *You dance, commanding nearby shadows to inprison your foes*
-	- Effect: Target up to three Foes that you can see, any of your targets that are exhausted become [[Conditions#^471f1e|Impacted]]
+	- Effect: Target up to three exhausted Foes, they become [[Conditions#^471f1e|Impacted]]
 	- [[Traits#^8f40c8|Attack]]
-- **Avant**, 1 AP
-	- *You command shadows to follow you as you dance, creating a path for your allies to fllow.*
-	- Effect: Take a [[Actions#^642a2c|Move Action]], any allies within range 2 of you, may choose to move to a space that you have moved through. Gain the [[Conditions#^47fe37|Hidden Condition]]
+- **Avant**, 2 AP
+	- *You command shadows to follow you as you dance, creating a path for your allies to follow.*
+	- Effect: Take a [[Actions#^642a2c|Move Action]], any allies you move through with this action may choose to move to a space that you passed through. Gain the [[Conditions#^47fe37|Hidden Condition]]
 	- [[Traits#^c90f08|Move]][[Traits#^e327ca|Aid]]
 
 Combo Actions: 
-- **Second Position**, 1 AP
+- **Fan Kick**, 2 AP
 	- *You emerge from the shadows for a brief moment before continuing to dance*
 	- Condition: You have the [[Conditions#^47fe37|Hidden Condition]]
-	- Effect: Select a radius of 3, all foes within that radius gain the [[Conditions#^471f1e|Impacted Condition]], gain the[[Conditions#^47fe37|Hidden Condition]].
-	- [[Traits]]
-- **Name**, 1 AP
-	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
-- **Name**, 1 AP
-	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
-- **Name**, 1 AP
-	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
+	- Effect: Select a radius of 3, all foes within that radius gain the [[Conditions#^471f1e|Impacted Condition]]. You gain the[[Conditions#^47fe37|Hidden Condition]].
+	- [[Traits#^8f40c8|Attack]]
+- **Heel Drop**, 2 AP
+	- *You emerge from the shadows and deliver a devastating yet graceful blow*
+	- Condition: You have the [[Conditions#^47fe37|Hidden Condition]]
+	- Effect: Target one foe within melee range, deal 3d6 damage.
+	- [[Traits#^ff0aa3|Melee]] [[Traits#^8f40c8|Attack]] 
+- **Nerve Tap**, 3 AP
+	- *You tap the floor, turning nearby shadows against their owners.*
+	- Condition:Your last action made you lose the [[Conditions#^47fe37|Hidden Condition]]
+	- Effect: Target up to three Foes that you can see and that are currently impacted, deal 3d4 damage. 
+	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]]
+- **Changement**, 1 AP
+	- *Even if you aren't outright dancing, your movements are so graceful you might as well still be dancing.*
+	- Condition: Your last action did not have the [[Traits#^8f40c8|Attack Trait]]
+	- Effect: Gain the [[Conditions#^47fe37|Hidden Condition]]
+	- [[Traits#^d885e1|Self]]
 
 Reactions: 
-- **Name**, R
-	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
+- **Tanglefoot**, R
+	- *You emerge from a Foe's shadow, stopping them in their tracks*
+	- Condition: you have the [[Conditions#^47fe37|Hidden Condition]] and a Foe just took an action with the [[Traits#^c90f08|Move Trait]]
+	- Effect: Cancel the triggering action and appear in a space adjacent to the triggering Foe.
+	- [[Traits#^c90f08|Move]] [[Traits#^d885e1|Self]]
 ## Astracentrism
 %% Stance, meter, reaction heavy, melee %%
 *Astracentrism is a martial art, learned specifically within environments in which the only source of gravity is a local Sun. This Aspect of Magic allows the wielder to redirect incoming kinetic energy in contact with their body.*
