@@ -280,13 +280,13 @@ Combo Actions:
 - **Danger, High Voltage**, 2 AP
 	- *The lightning from one of your strikes jumps to another foe*
 	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]] and the [[Traits#^8f40c8|Attack Trait]]
-	- Effect: target a second foe within a radius of 3 of your original target, they take the same damage you dealt with your previous action. If this attack exhausts a target's stamina you may repeat this effect for free.
-	- [[Traits#^d2dbb4|Charging]] |
+	- Effect: target a second foe within a radius of 4 of your original target, they take the same damage you dealt with your previous action. If this attack exhausts a target's stamina you may repeat this effect for free.
+	- [[Traits#^d2dbb4|Charging]] 
 - **Feel The Thunder**, 1 AP
 	- *You concentrate the lightning within you, increasing its power*
 	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]]
 	- Effect: you gain 1 stack of [[Conditions#^685a66|Adrenaline]]
-	- [[Traits#^9e3f4f|Mobile]] [[Traits#^d2dbb4|Charging]] |
+	- [[Traits#^9e3f4f|Mobile]] [[Traits#^d2dbb4|Charging]] 
 - **Recharge ElectroHeart**, 1 AP
 	- *You absorb your lightning to reinvigorate yourself*
 	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]]
@@ -296,19 +296,25 @@ Combo Actions:
 	- *You force the lightning you just discharged to return to you in a massive blast*
 	- Condition: Your last action caused you to lose the [[Conditions#^f57404|Charged Condition]]
 	- Effect: Target a radius of 3 centered on you within, deal 3d6 damage to all Foes.
-	- [[Traits]]
+	-  [[Traits#^d2dbb4|Charging]] 
 - **Don't Be a Stranger**, 1 AP
 	- *You use the electricity of your strikes to magnetically move your foes*
 	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]] and the [[Traits#^8f40c8|Attack Trait]]
 	- Effect: Target any foe affected by your last action, cause them to move to an adjacent space to you, or you may instead move yourself to a space adjacent to a foe you just affected.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^c90f08|Move]]|
+	- [[Traits#^8f40c8|Attack]] [[Traits#^c90f08|Move]]
 
 Reactions: 
-- **Name**, R
-	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
+- **Garden in the Rain**, R
+	- *You release your lightning to someone who was foolish enough to strike you*
+	- Condition: You have the  [[Conditions#^f57404|Charged Condition]] and a Foe targeted you with a melee attack
+	- Effect: Deal 1d6 damage to the triggering foe, if their stamina is exhausted by this action their action is cancelled.
+	- [[Traits#^8f40c8|Attack]]
+- **Tempest's Overture**, R
+	- *You got hit, but this only made you more determined to strike down your foes.*
+	- Condition: You take damage to your stamina from an attack
+	- Effect: If the triggering attack caused you to become exhausted you gain the [[Conditions#^f57404|Charged Condition]] 
+	- [[Traits#^d885e1|Self]]
+
 ## Daemonic Possession
 %%Transform, Leech, Tank%%
 *To be possessed by a Daemon is to surrender yourself to the allure of power, at the cost of those around you. At first blush it might appear that this is an Aspect of Magic, but it is not. It consists in creating a bond with a Daemon, a Dark Magic Entity, which will nest within the wielder's life force. The purpose of the Daemon is to feed on Spirit Energy, so it will only bond to hosts it deems capable of finding it*

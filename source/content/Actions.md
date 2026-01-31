@@ -25,3 +25,5 @@ Additional Rising and Falling actions may be granted by a character's [[Roles|Ro
 ### Effective AP ^2c1bb5
 Sometimes effects will call for 'Effective APs', this is the measure of how many Action Points you would spend without counting [[Conditions#^685a66|Adrenaline]].
 For example: if you take two actions, one that costs 2 AP and one that costs 3 AP, but reduce the cost of the latter with one stack of Adrenaline, in total you would spen 4 AP. But in this scenario the Effective AP you spent would be 5.
+Reactions count for 1 AP.
+Flourish Actions count for 0 AP for their free uses.
