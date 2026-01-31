@@ -32,7 +32,7 @@ These Traits revolve around invoking rolls for an action or modifying their resu
 - Piercing: If this action [[Health and Stamina|Exhausts the target's Stamina]] you also deal damage to the target's [[Health and Stamina|Health]] ^cb440a
 ### Revised Traits
 - Attack: This action deals the listed damage to the target ^8f40c8
-- Surprising: This action deals double damage to [[Health and Stamina|Stamina]] ^ed045c
+- Surprising: This action's target becomes impacted ^ed045c
 - Risky(N): This action has a risk to deal N stamina damage, which you take if you fail a [[Health and Stamina#^77a09d|Tank Or Flank?]] check against a DC of 10+N #PH . You roll this check after resolving the action ^6ed443
 - Fling(N): This action **forces** the target move N spaces in a horizontal direction of your choice or straight up. ^7c76e1
 - Push: This action forces movement in a manner described by the effect
@@ -53,6 +53,7 @@ These Traits revolve around invoking rolls for an action or modifying their resu
 - Sacrifice: At the end of this action your current stamina is reduced by half of your maximum stamina. Gain [[Meter]] equal to the amount lost. If you currently have the [[Conditions#^9d723e|Daemonized Condition]] you don't gain Meter, instead if you expended your stamina on this action apply the [[Conditions#^471f1e|Impacted Condition]] to a target of this action. ^195914
 - Crossover: Any ally with a bond with you may expend their AP to use this action. If this action has the [[Traits#^8f40c8|Attack Trait]] it must target a Foe within line of sight of the ally. Any effects of the action happen as if you used it, but for the purposes of conditions for the ally's following actions it will count as if they had taken this action. When used this way, you may also take a move action for free before taking this action. ^0609c3
 - Companion: This action may only be taken by your Companion(s). ^c2aac5
+- Crushing: If this action exhausts its target's stamina, they automatically become impacted. ^7782f4
 ## Magic Traits 
 List:
 - Ancestral : Someone in your family line also possesses this Origin. You cannot pick other Ancestral Magics

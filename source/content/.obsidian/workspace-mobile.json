@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "998e4da1079c57a5",
+        "id": "28707dee9f040241",
         "type": "tabs",
         "children": [
           {
-            "id": "9a958e8a7eb3d4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Action Pools/Styles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Styles"
-            }
-          },
-          {
-            "id": "75181953baff6a9a",
+            "id": "4e739362ecd81724",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Powers"
+            }
+          },
+          {
+            "id": "d0bc17d9f6591ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Traits"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Features.md",
+            "file": "Action Pools/Powers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,7 +157,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,14 +166,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "9a958e8a7eb3d4e1",
+  "active": "4e739362ecd81724",
   "lastOpenFiles": [
+    "Conditions.md",
+    "Traits.md",
     "Action Pools/Powers.md",
+    "Health and Stamina.md",
     "Action Pools/Styles.md",
     "Actions.md",
     "index.md",
-    "Health and Stamina.md",
-    "Features.md",
-    "Conditions.md"
+    "Features.md"
   ]
 }

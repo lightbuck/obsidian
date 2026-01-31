@@ -83,14 +83,14 @@ Actions:
 - **Siege Engine**, 2 AP
 	- *You charge forward, destroying anything in your path*
 	- Effect: Move in a line for double your speed (you can add [[Conditions#^868aeb|Quickened]]). Destroy any piece of terrain in the path you would move through and deal 2d6 damage to any enemy in the path (you can damage any enemy once with this action)
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^7c76e1|Fling(1)]]
+	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^7782f4|Crushing]]
 - **Burst Dash**, 2 AP
 	- *You suddenly move at incredible speed, suddenly appearing next to a foe*
-	- Effect: Move to a space adjacent to a Foe that you can see. Your next action gains the [[Traits#^ed045c|Surprising Trait]]
-	- [[Traits#^d885e1|Self]] [[Conditions#^1d4c54|Empowering(3)]] ^4eb5b4
+	- Effect: Move to a space adjacent to a Foe that you can see. Your next action gains the [[Traits#^7782f4|Crushing Trait]]
+	- [[Traits#^d885e1|Self]] [[Traits#^c90f08|Move]] ^4eb5b4
 - **Limit Break**, 3 AP
 	- *You call upon all your energy, setting every single nerve in your body on fire and empowering yourself*
-	- [[Traits#^d885e1|Self]] [[Conditions#^1d4c54|Empowering(7)]] ^d39321
+	- [[Traits#^d885e1|Self]] [[Traits#^7782f4|Crushing]] ^d39321
 
 Combo Actions:
 - **Tail Wind**, 1 AP
@@ -102,11 +102,11 @@ Combo Actions:
 	- *After throwing away the enemy you follow after the to deliver a follow up attack.*
 	- Condition: Your last action had the [[Traits#^7c76e1|Fling Trait]]
 	- Effect: You may move to adjacent space to a Foe you moved with your previous action.
-	- [[Traits#^8f40c8|Attack]] [[Conditions#^1d4c54|Empowering(3)]] ^dca3e5
+	- [[Traits#^8f40c8|Attack]] [[Traits#^7782f4|Crushing]] ^dca3e5
 - **Battle Meditation**, 1 AP
 	- *You focus on the battle*
 	- Condition: Your last action did not have the [[Traits#^8f40c8|Attack Trait]]
-	- Gain stacks of [[Conditions#^685a66|Adrenaline]] equal to the turn number. 
+	- Gain stacks of [[Conditions#^685a66|Adrenaline]] equal to the Round number. 
 	- [[Traits#^d885e1|Self]] 
 
 Reactions:
@@ -385,7 +385,62 @@ Reactions:
 ## Bloodsten
 *A simple Aspect of Magic which replaces a wielder's limb with a metal that the user can morph into any shape they desire.*
 ## Shadow Dance
+%% Teleport, avoid, impact%%
 *The Shadow Dance is both an art and an Aspect of Magic, to make use of the latter a performer must demonstrate mastery over the former to a judge of The Court. The Aspect of Magic itself allows the dancer to transform shadows into portals that they alone may use.*
+
+[[Skills]]:
+- "Name Knowledge"
+- "Work with Name"
+
+[[Power Features]]:
+- From Name: 
+
+Actions:
+- **Barre**, 1 AP ^3a1b9e
+	- *You perfome a dance move and vanish into the shadow beneath your feet*
+	- Effect: Gain the [[Conditions#^47fe37|Hidden Condition]]
+	- [[Traits#^d885e1|Self]]
+- **Arriere**, 1 AP
+	- *You begin to dance, manipulating the shadows of a nearby character.*
+	- Effect:The next time you become [[Conditions#^47fe37|Hidden]] choose a willing character near you and also make them hidden for as long as  you're hidden, until the end of your turn or until they take an action.
+	- [[Traits#^d885e1|Self]][[Traits#^e327ca|Aid]]
+- **Tourant**, 2 AP
+	- *You dance, commanding nearby shadows to inprison your foes*
+	- Effect: Target up to three Foes that you can see, any of your targets that are exhausted become [[Conditions#^471f1e|Impacted]]
+	- [[Traits#^8f40c8|Attack]]
+- **Avant**, 1 AP
+	- *You command shadows to follow you as you dance, creating a path for your allies to fllow.*
+	- Effect: Take a [[Actions#^642a2c|Move Action]], any allies within range 2 of you, may choose to move to a space that you have moved through. Gain the [[Conditions#^47fe37|Hidden Condition]]
+	- [[Traits#^c90f08|Move]][[Traits#^e327ca|Aid]]
+
+Combo Actions: 
+- **Second Position**, 1 AP
+	- *You emerge from the shadows for a brief moment before continuing to dance*
+	- Condition: You have the [[Conditions#^47fe37|Hidden Condition]]
+	- Effect: Select a radius of 3, all foes within that radius gain the [[Conditions#^471f1e|Impacted Condition]], gain the[[Conditions#^47fe37|Hidden Condition]].
+	- [[Traits]]
+- **Name**, 1 AP
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+- **Name**, 1 AP
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+- **Name**, 1 AP
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+
+Reactions: 
+- **Name**, R
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
 ## Astracentrism
 %% Stance, meter, reaction heavy, melee %%
 *Astracentrism is a martial art, learned specifically within environments in which the only source of gravity is a local Sun. This Aspect of Magic allows the wielder to redirect incoming kinetic energy in contact with their body.*
@@ -459,7 +514,6 @@ Powers are meant to be a layer of extra flavor that adds mechanical complexity t
 # Name
 %% Comment The Aspects of the Magic %%
 *Description*
-*Galactic Rarity*
 [[Skills]]:
 - "Name Knowledge"
 - "Work with Name"

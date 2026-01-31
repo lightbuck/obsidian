@@ -21,7 +21,7 @@ The main actions most Player Characters will be taking are usually from Action P
 At the beginning of a PC's turn they also have a special **Rising Action**, which they can take to either:
 - roll their [[Health and Stamina#^7170e3|Recovery Dice]] twice and take the better result 
 - Move once 
-Additional Rising and Falling actions may be granted by a character's [[Roles|Role]]
+Additional Rising and Falling actions may be granted by a character's [[Roles|Role]] ^46bb84
 ### Effective AP ^2c1bb5
 Sometimes effects will call for 'Effective APs', this is the measure of how many Action Points you would spend without counting [[Conditions#^685a66|Adrenaline]].
 For example: if you take two actions, one that costs 2 AP and one that costs 3 AP, but reduce the cost of the latter with one stack of Adrenaline, in total you would spen 4 AP. But in this scenario the Effective AP you spent would be 5.
