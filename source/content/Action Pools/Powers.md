@@ -14,27 +14,23 @@ Powers are the other side of the coin from [[Styles]], but they also grant free 
 Actions:
 - **Gather Spirit**, 1 AP
 	- *You reach out and absorb nearby Spirit Energy*
-	- [[Traits#^d02161|Gain(+1)]] [[Traits#^be2d6b|Immobile]] | [[Traits#^d02161|Gain(+1)]]  ^6989f2
+	- [[Traits#^d02161|Gain(+2)]] [[Traits#^be2d6b|Immobile]] ^6989f2
 - **Combat Communion**, 3 AP
 	- You focus completely on absorbing nearby spirit energy from the battlefield.*
 	- Effect: Gain an extra point of [[Meter]] per round number.
-	- [[Traits#^be2d6b|Immobile]] | [[Traits#^d02161|Gain(+3)]] 
-- **Summon Weapon**, 2 AP
-	- *You spend the Spirit Energy you have accumulated to summon a Weapon*
-	- Effect: Summon a weapon, either place it in an adjecent space or [[Actions#^644f38|Swap]] to it for free. For every point of [[Meter]] spent by this action increases the weapon's Damage by 1 when wielded by you.
-	- [[Traits#^69bd9b|Spend(1)]] [[Traits#^2d7726|Create]] |
-- **Summon Companion**, 2 AP
-	- *You gather Spirit Energy to give shape to a dead animal you had bounded with*
-	-  Effect: For every point of [[Meter]] spent by this action the created Companion gains +1 Damage. You can only have one companion summoned at a time
-	-  [[Traits#^69bd9b|Spend(1)]] [[Traits#^2d7726|Create]] |
+	- [[Traits#^be2d6b|Immobile]]  [[Traits#^d02161|Gain(+3)]] 
 - **From the Spirits with Love**, 3 AP
 	- *You spend Spirit Energy you have accumulated to summon a massive bone blade that thrusts forward.*
 	- Effect: Target a 10 length line originating from you, or every point of [[Meter]] spent you deal +d4 to all [[Foes]] in that line.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] [[Traits#^69bd9b|Spend(5)]] | [[Traits#^be2d6b|Immobile]] [[Traits#^69bd9b|Spend(5)]] ^d1cd4e
+	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] [[Traits#^69bd9b|Spend(10)]] ^d1cd4e
 - **Spirit Barrier**, 1 AP
 	- *You use Spirit Energy to create a barrier between you and your Foes*
 	- Effect: Create within a radius of 5 a piece of [[The Battlefield#^4eb84d|Full Cover]] for every 2 points of [[Meter]] spent by this action
-	- [[Traits#^69bd9b|Spend(2)]] [[Traits#^2d7726|Create]] | [[Traits#^69bd9b|Spend(2)]]
+	- [[Traits#^69bd9b|Spend(4)]] [[Traits#^2d7726|Create]]
+- ###### Death, 6 AP
+	- *You use your magic to catalyze all nearby Spirit Energy and you channel it into a devastating blow*
+	- Effect: Target a radius of 1, for every point of [[Meter]] spent by this action deal 2d6 damage to all characters within the radius. Until the end of the Scene any time a character is knocked out you gain 1 stack of [[Conditions#^685a66|Adrenaline]] 
+	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] [[Traits#^69bd9b|Spend(All)]] [[Traits#^ace9f7|Final]]
 
 Combo Actions:
 - **Ain't afraid of no Spirits**, 2 AP
@@ -52,6 +48,11 @@ Combo Actions:
 	- Condition: The Previous action had the [[Traits#^69bd9b|Spend Trait]] 
 	- Effect: You gain 1 point of [[Health and Stamina|Stamina]] for each point of [[Meter]] spent by the previous action
 	- [[Traits#^d885e1|Self]] [[Traits#^be2d6b|Immobile]] |
+- **Death Begets Death**, 1 AP
+	- *You collect the Spirit Energy of a foe you just defeated.*
+	- Condition: You knocked out a Foe with your last action
+	- Effect: Gain 1d4 of [[Meter]] for every rank of the Foe you defeated.
+	- [[Traits]]
 
 %%
 
@@ -88,9 +89,10 @@ Actions:
 	- *You suddenly move at incredible speed, suddenly appearing next to a foe*
 	- Effect: Move to a space adjacent to a Foe that you can see. Your next action gains the [[Traits#^7782f4|Crushing Trait]]
 	- [[Traits#^d885e1|Self]] [[Traits#^c90f08|Move]] ^4eb5b4
-- **Limit Break**, 3 AP
-	- *You call upon all your energy, setting every single nerve in your body on fire and empowering yourself*
-	- [[Traits#^d885e1|Self]] [[Traits#^7782f4|Crushing]] ^d39321
+- ###### Limit Break, 7 AP
+	- *You've pushed past the limits of your body, now it's time to push past the limits of Exceed itself.*
+	- Effect: Consume all stacks of [[Conditions#^1d4c54|Empowered]], gain one stack of [[Conditions#^685a66|Adrenaline]] for each stack. Until the end of the Scene any damage you deal is increased by 1d6 for every 3 stacks of [[Conditions#^685a66|Adrenaline]] you have.
+	- [[Traits#^d885e1|Self]] [[Traits#^ace9f7|Final]]
 
 Combo Actions:
 - **Tail Wind**, 1 AP
@@ -126,49 +128,53 @@ Reactions:
 - "Work with fire"
 
 [[Power Features]]:
-- From Blasts: Any time you deal damage to two foes with one action, you gain 2d4 stacks of [[Conditions#^1d4c54|Empowered]]. Any time you deal damage to more than two foes with one action, you instead gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]
+- From Fires: Any time you take an action with the [[Traits#^e327ca|Aid Trait]], you gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]. Any time an action with the [[Traits#^8f40c8|Attack Trait]] targets more than one foe, you gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]
 
 Actions:
 - Heart Afire, 2 AP
 	- *You open your palms and unleash a wave of fire*
-	- Effect: Deal 2d4 damage in a #PH cone angled from you
-	- [[Traits#^8f40c8|Attack]] [[Traits#^Ranged|Ranged]] | [[Traits#^c65353|Blasting(6)]] ^51ca19
-- Sun's Anvil, 2 AP
+	- Effect: Deal 2d4 damage in a 3 cone angled from you
+	- [[Traits#^8f40c8|Attack]] [[Traits#^Ranged|Ranged]] [[Traits#^c65353|Burning(6)]] ^51ca19
+- Blessed me with your future, 2 AP
 	- *You empower yourself and your allies weapons with fire*
 	- Effect: All Allies gain +1d6 damage to their next attack
-	- [[Traits#^e327ca|Aid]] [[Traits#^412513|Allies(All)]] 
-- On Parade, 2 AP
-	- *You shoot up a flare of fire, inspiring your allies*
-	- Effect: All Allies Gain 3 stacks of [[Conditions#^1d4c54|Empowered]]
-	- [[Traits#^e327ca|Aid]] [[Traits#^412513|Allies(All)]]  ^091b70
+	- [[Traits#^e327ca|Aid]]
+- On Parade, 1 AP
+	- *You shoot up a flare of fire, inspiring your allies and blinding your foes*
+	- Effect: All Allies Gain 1d6 stacks of [[Conditions#^1d4c54|Empowered]], any Foes that you can see and that are below half Stamina become [[Conditions#^471f1e|Impacted]].
+	- [[Traits#^e327ca|Aid]] [[Traits#^8f40c8|Attack]]  ^091b70
 - Protected with Fire, 3 AP
 	- *You cover an ally in fire, which will hurt any Foe that gets too close*
-	- Effect: Target an Ally, any Foe adjecent to them takes 3 damage both now and every time they end their turn adjacent to them. The ally may expend this effect as a reaction to a Melee Attack, becoming immune to that attack 
-	- [[Traits#^e327ca|Aid]]
+	- Effect: Target an Ally, any Foe within radius 2 of them takes 1d8 damage.
+	- [[Traits#^e327ca|Aid]] [[Traits#^8f40c8|Attack]] [[Traits#^7782f4|Crushing]]
+- ###### Justice, 6 AP
+	- *You channel an immense amount of power, burning away the evil of this world and empowering your allies.*
+	- Effect: Restore all allied Characters to maximum Stamina. Deal damage to all Foes for an equal amount of Stamina restored, additionally this action gains [[Traits#^c65353|Burning]] with a value equal to the stamina restored.
+	- [[Traits#^8f40c8|Attack]] [[Traits#^ace9f7|Final ]] [[Traits#^c65353|Burning]]
 
 Combo Actions:
-- Everything Burns, 2 AP
+- Everything Burns, 3 AP
 	- *You release the flames you've been holding inside in a massive wave of fire around you.*
 	- Condition: Your previous action did not have the [[Traits#^8f40c8|Attack Trait]]
-	- Target all Foes in a 3 space radius centered on you, deal 2d6 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^Ranged|Ranged]] |  [[Traits#^c65353|Blasting(8)]] ^037b8f
+	- Target all Foes in a radius of 7 centered on you, deal 3d6 damage
+	- [[Traits#^8f40c8|Attack]] [[Traits#^Ranged|Ranged]] [[Traits#^c65353|Burning(8)]] ^037b8f
 - Take You Higher 1 AP
 	- *You further empower an ally with fire*
 	- Condition: You previous action had the [[Traits#^e327ca|Aid Trait]]
-	- Effect: Choose 1 ally that you targeted with your previous action, their next action gains the [[Traits#^c65353|Blasting(5) Trait]]
-	- [[Traits#^e327ca|Aid]] [[Traits#^d885e1|Self]] [[Traits#^412513|Allies(1)]] ^24412e
-- Catch these Righteous Hands, 2 AP
+	- Effect: Choose 1 ally that you targeted with your previous action, their next action gains the [[Traits#^c65353|Burning(5) Trait]]
+	- [[Traits#^e327ca|Aid]] ^24412e
+- Work Forces, 2 AP
 	- *You follow up a melee attack with a fistful of fire*
-	- Condition: Your previous action had the [[Traits#^8f40c8|Attack Trait]]
-	- Effect: Target one Foe, deal 1d8 damage to them and make them [[Conditions#^471f1e|Impacted]]
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] | [[Traits#^c65353|Blasting(7)]] ^9a79c8
+	- Condition: Your previous action had the [[Traits#^c65353|Burning Trait]]
+	- Effect: Target one Foe, deal 2d6 damage to them and make them [[Conditions#^471f1e|Impacted]]
+	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^c65353|Burning(7)]] ^9a79c8
 
 Reactions:
-- Burning Blood
-	- *Fire lashes out from your wounds*
+- Ignite The Suits, R
+	- *Fight back*
 	- Condition: You took damage to your [[Health and Stamina|Health]]
-	- Effect: Target 1 adjacent foe, deal 3d4 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^c65353|Blasting(3)]]  ^c9a5e9
+	- Effect: Target 1 adjacent foe, deal 3d6 damage
+	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^c65353|Burning(6)]]  ^c9a5e9
 ## Resono Magic
 %%Spread Results, Support Allies and move stay on the move%%
 *All Resono inherit the ability to interact with Life Force, which is the silk that empowers living beings. They can share life force, steal it, suppress it and so on. But to do so a Resono must be able to physically reach with their hands into their target.*
@@ -194,6 +200,10 @@ Actions:
 	- *You link two of your allies' Life Forces together.*
 	- Effect: Target yourself and an ally or two allies, that were adjacent to you at some point during this action. Transfer between the targets a condition or any amount of stamina. 
 	- [[Traits#^412513|Allies]] [[Traits#^e327ca|Aid]] | [[Traits#^77bf53|Step(2)]] ^4c7c29
+- ###### Life, 6 AP
+	- *You weave together a web of all your allies, the connection forms an loop that exponentially empowers all of you.*
+	- Effect: Sum together yours and all your allies stacks of [[Conditions#^1d4c54|Empowered]], this number is the new amount of [[Conditions#^1d4c54|Empowered]] you and your allies have.
+	- [[Traits#^e327ca|Aid]] 
 
 Combo Actions:
 - **Got him where I want him now**, 2 AP
@@ -316,6 +326,9 @@ Reactions:
 	- [[Traits#^d885e1|Self]]
 
 ## Daemonic Possession
+
+^06da48
+
 %%Transform, Leech, Tank%%
 *To be possessed by a Daemon is to surrender yourself to the allure of power, at the cost of those around you. At first blush it might appear that this is an Aspect of Magic, but it is not. It consists in creating a bond with a Daemon, a Dark Magic Entity, which will nest within the wielder's life force. The purpose of the Daemon is to feed on Spirit Energy, so it will only bond to hosts it deems capable of finding it*
 [[Skills]]:
@@ -343,23 +356,26 @@ Actions:
 	- *You allow your Daemon to take over your body*
 	- Effect: You gain the [[Conditions#^9d723e|Daemonized Condition]], replace your current stamina by an amount equal to every point of [[Meter]] Spent by this action. 
 	- [[Traits#^69bd9b|Spend(ALL)]]
-
+- ###### Deliverance, 6 AP
+	- *Your Daemon is unleashed, but instead of stealing your life force it fights by your side completely autonomously.*
+	- Effect: If you had it, you lose the [[Conditions#^9d723e|Daemonized Condition]]. Place a token on the field representing your Daemon as a [[Companions|Companion]], which has the [[Conditions#^9d723e|Daemonized Condition]] with stamina equal to every point spent by this action. The Daemon can take actions only from [[Powers#^06da48|Daemonic Possession]] and [[Styles|Style Actions]]. If either you or Daemon become exhausted, the other character can transfer their current stamina to the former. If the Daemon becomes Exhausted it is removed from the field. While the Daemon is on the field you cannot gain the [[Conditions#^9d723e|Daemonized Condition]]. 
+	- [[Traits#^69bd9b|Spend(ALL)]] [[Traits#^ace9f7|Final]]
 Combo Actions: 
 - **Asynchronous Carnage**, 2 AP
 	- *Description*
 	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
 	- Effect: The next time you lose [[Health and Stamina|Stamina]] you may roll your [[Health and Stamina#^7170e3|Recovery Die]] (before you become exhausted).
-	- [[Traits]] 
+	- [[Traits#^d885e1|Self]] 
 - **Back End Imp**, 1 AP
 	- *Description*
 	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
-	- Effect: Target one Character within line of sight, if the target is unwilling deal 2d6 damage, the next time that Character would gain stamina they instead gain half and you may roll your [[Health and Stamina#^7170e3|Recovery Die]].
-	- [[Traits]] 
+	- Effect: Target one Character within line of sight, if the target is unwilling deal 2d6 damage, the next time that Character would gain stamina they instead gain half and you may roll your [[Health and Stamina#^7170e3|Recovery Die]]to gain Stamina.
+	- [[Traits#^d885e1|Self]] 
 - **Front End Gargoyle**, 2 AP
 	- *Description*
 	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
 	- Effect: Target the nearest Character, the next time they deal damage you may roll your [[Health and Stamina#^7170e3|Recovery Die]] (if that damage would have caused you to become exhausted you gain the stamina before that damage.)
-	- [[Traits]] 
+	-  [[Traits#^d885e1|Self]] 
 - **The Human Factor**, 2 AP
 	- *Your Daemon is clearly digging into your soul, but you resist its influence.*
 	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
@@ -369,7 +385,7 @@ Combo Actions:
 	- *Description*
 	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
 	- Effect: You exhaust your [[Health and Stamina|Stamina]].
-	- [[Traits]]
+	-  [[Traits#^d885e1|Self]] 
 
 Reactions: 
 - **Daemon Out Of Bounds**, R
@@ -400,12 +416,12 @@ Actions:
 	- *You slowly and carefully dance move and vanish into the shadow beneath your feet*
 	- Effect: Gain the [[Conditions#^47fe37|Hidden Condition]] and one stack of [[Conditions#^685a66|Adrenaline]]
 	- [[Traits#^d885e1|Self]]
-- **Arriere**, 2 AP
+- **Arrière**, 2 AP
 	- *You take advantage of a Foe's vulnerable state to sink them in the shadows.*
 	- Effect: Target a foe with the [[Conditions#^471f1e|Impacted Condition]] or an ally, they gain the [[Conditions#^47fe37|Hidden Condition]]. The target loses the condition when their turn begins or when you gain the [[Conditions#^47fe37|Hidden Condition]]. If this action targets a foe then it gains the [[Traits#^8f40c8|Attack Trait]].
 	- [[Traits#^d885e1|Self]]
 - **Tourant**, 2 AP
-	- *You dance, commanding nearby shadows to inprison your foes*
+	- *You dance, commanding nearby shadows to imprison your foes*
 	- Effect: Target up to three exhausted Foes, they become [[Conditions#^471f1e|Impacted]]
 	- [[Traits#^8f40c8|Attack]]
 - **Avant**, 2 AP
@@ -426,7 +442,7 @@ Combo Actions:
 	- [[Traits#^ff0aa3|Melee]] [[Traits#^8f40c8|Attack]] 
 - **Nerve Tap**, 3 AP
 	- *You tap the floor, turning nearby shadows against their owners.*
-	- Condition:Your last action made you lose the [[Conditions#^47fe37|Hidden Condition]]
+	- Condition: Your last action made you lose the [[Conditions#^47fe37|Hidden Condition]]
 	- Effect: Target up to three Foes that you can see and that are currently impacted, deal 3d4 damage. 
 	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]]
 - **Changement**, 1 AP

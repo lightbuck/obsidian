@@ -40,8 +40,8 @@ These Traits revolve around invoking rolls for an action or modifying their resu
 - Immobile: You can't move for the rest of this turn. ^be2d6b
 - Consumed: This action's cost increases by your remaining AP. Example, the original action cost is 2, but you have 3 ap, the action will cost 3 instead ^74b16d
 - Swap(Weapon/Armor): After this action is resolved you may exchange a piece of gear you have equipped for a different piece of gear, without exceeding your Load. ^803dca
-- Aid: This action aids someone in some way ^e327ca
-- Blasting(N): If this action deals N damage or more (to one target of this action of your choice), it will also deal N damage in a radius 1 centered on the target and half of that damage to all Foes in a Radius 2. ^c65353
+- Aid: This action aids someone in some way. Allies characters affected by this action lose the [[Conditions#^471f1e|Impacted Condition]] ^e327ca
+- Burning(N): The next time this character takes damage they take extra N damage after resolving the action that caused them to take damage. ^c65353
 - Step(N): At any point during this action you can move one space N times. [[Conditions#^868aeb|Quickened]] can be consumed to increase N. ^77bf53
 - Mobile: Before taking this Action you can take a 0 AP [[Actions#^642a2c|Move Action]] ^9e3f4f
 - Move: This action makes you move in some way determined by the effect, you must take this movement. ^c90f08
@@ -50,10 +50,11 @@ These Traits revolve around invoking rolls for an action or modifying their resu
 - Gain(N): This action adds N [[Meter]] after resolving its rolls ^d02161
 - Expend(N): This action drains N stamina from you and gain one stack of [[Conditions#^685a66|Adrenaline]]. If you have no stamina you instead gain N stacks of the [[Conditions#^9ed920|Stressed Condition]]. ^deed79
 - Charging: You gain or sustain the [[Conditions#^f57404|Charged Condition]] ^d2dbb4
-- Sacrifice: At the end of this action your current stamina is reduced by half of your maximum stamina. Gain [[Meter]] equal to the amount lost. If you currently have the [[Conditions#^9d723e|Daemonized Condition]] you don't gain Meter, instead if you expended your stamina on this action apply the [[Conditions#^471f1e|Impacted Condition]] to a target of this action. ^195914
+- Sacrifice: At the end of this action your current stamina is reduced by the size of your [[Health and Stamina|Recovery Die]]. Gain [[Meter]] equal to the amount lost. However you currently have the [[Conditions#^9d723e|Daemonized Condition]] you instead gain [[Meter]] equal to the amount of damage you deal, up to twice the size of your [[Health and Stamina|Recovery Die]]. ^195914
 - Crossover: Any ally with a bond with you may expend their AP to use this action. If this action has the [[Traits#^8f40c8|Attack Trait]] it must target a Foe within line of sight of the ally. Any effects of the action happen as if you used it, but for the purposes of conditions for the ally's following actions it will count as if they had taken this action. When used this way, you may also take a move action for free before taking this action. ^0609c3
 - Companion: This action may only be taken by your Companion(s). ^c2aac5
 - Crushing: If this action exhausts its target's stamina, they automatically become impacted. ^7782f4
+- Final: You can only use this action once per Scene. This Action cannot have the [[Traits#^0609c3|Crossover Trait]]. You can only Know one of this actions. ^ace9f7
 ## Magic Traits 
 List:
 - Ancestral : Someone in your family line also possesses this Origin. You cannot pick other Ancestral Magics
