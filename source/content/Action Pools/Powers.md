@@ -149,7 +149,7 @@ Actions:
 	- [[Traits#^e327ca|Aid]] [[Traits#^8f40c8|Attack]] [[Traits#^7782f4|Crushing]]
 - ###### Justice, 6 AP
 	- *You channel an immense amount of power, burning away the evil of this world and empowering your allies.*
-	- Effect: Restore all allied Characters to maximum Stamina. Deal damage to all Foes for an equal amount of Stamina restored, additionally this action gains [[Traits#^c65353|Burning]] with a value equal to the stamina restored.
+	- Effect: Restore all allied Characters to maximum Stamina. Deal damage to all Foes for an amount equal to the total Stamina restored, additionally this action gains [[Traits#^c65353|Burning]] with a value equal to total the stamina restored.
 	- [[Traits#^8f40c8|Attack]] [[Traits#^ace9f7|Final ]] [[Traits#^c65353|Burning]]
 
 Combo Actions:
@@ -271,26 +271,30 @@ Reactions:
 Actions:
 - **Of Ice And Snow**, 2 AP
 	- *You summon the storm, emitting lightning around you*
-	- Effect: Target one foe within 3 spaces of you, deal 3d6.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] [[Traits#^d2dbb4|Charging]] |
+	- Effect: Target one foe within 3 spaces of you, deal 2d6.
+	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] [[Traits#^d2dbb4|Charging]] 
 - **The Hammer Of The Gods**, 3 AP
 	- *You channel lightning through your conduit and into a foe as you strike them*
-	- Effect: Target one foe with your Melee weapon, dealing 3d8 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] |
+	- Effect: Target one foe with your Melee weapon, dealing 2d8 damage
+	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] 
 - **To Fight The Horde**, 3 AP
-	- *You channel lightning through your conduit to unleash a lightning bolt*
-	- Effect: Target one foe within Line of Sight, dealing 3d6 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] |
+	- *You channel lightning through your Conduit to unleash a lightning bolt*
+	- Effect: Target one foe within Line of Sight, dealing 2d6 damage
+	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] 
 - **Threshing Oar**, 2 AP
 	- *You lift yourself with lightning, leaping a great distance*
 	- Effect: Move your speed twice. You may choose to land in a space occupied by a Foe, forcing them to move to an adjacent space.
-	- [[Traits#^d2dbb4|Charging]] [[Traits#^c90f08|Move]]|
+	- [[Traits#^d2dbb4|Charging]] [[Traits#^c90f08|Move]]
+- ###### The Storm, 4 AP
+	- *For an instant as brief as a lightning strike you become one with the storm, releasing its power through your Conduit*
+	- Effect: DIE
+	- [[Traits#^8f40c8|Attack]] [[Traits#^d2dbb4|Charging]] [[Traits#^ace9f7|Final]]
 
 Combo Actions: 
 - **Danger, High Voltage**, 2 AP
 	- *The lightning from one of your strikes jumps to another foe*
 	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]] and the [[Traits#^8f40c8|Attack Trait]]
-	- Effect: target a second foe within a radius of 4 of your original target, they take the same damage you dealt with your previous action. If this attack exhausts a target's stamina you may repeat this effect for free.
+	- Effect: target a second foe within a radius of 3 of your original target, they take the same damage you dealt with your previous action. If this attack exhausts a target's stamina you may repeat this effect once.
 	- [[Traits#^d2dbb4|Charging]] 
 - **Feel The Thunder**, 1 AP
 	- *You concentrate the lightning within you, increasing its power*
@@ -301,17 +305,17 @@ Combo Actions:
 	- *You absorb your lightning to reinvigorate yourself*
 	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]]
 	- Effect: gain 1d6 [[Health and Stamina|Stamina]]
-	- [[Traits#^d885e1|Self]] [[Traits#^e327ca|Aid]]
+	- [[Traits#^d885e1|Self]] 
 - **You've Been Thunderstruck**, 4 AP
 	- *You force the lightning you just discharged to return to you in a massive blast*
 	- Condition: Your last action caused you to lose the [[Conditions#^f57404|Charged Condition]]
-	- Effect: Target a radius of 3 centered on you within, deal 3d6 damage to all Foes.
-	-  [[Traits#^d2dbb4|Charging]] 
+	- Effect: Target a radius of 3 centered on you, deal 3d6 damage to all Characters.
+	- [[Traits#^8f40c8|Attack]] [[Traits#^d2dbb4|Charging]] 
 - **Don't Be a Stranger**, 1 AP
 	- *You use the electricity of your strikes to magnetically move your foes*
 	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]] and the [[Traits#^8f40c8|Attack Trait]]
 	- Effect: Target any foe affected by your last action, cause them to move to an adjacent space to you, or you may instead move yourself to a space adjacent to a foe you just affected.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^c90f08|Move]]
+	- [[Traits#^8f40c8|Attack]] [[Traits#^c90f08|Move]] [[Traits#^d2dbb4|Charging]] 
 
 Reactions: 
 - **Garden in the Rain**, R
@@ -321,8 +325,8 @@ Reactions:
 	- [[Traits#^8f40c8|Attack]]
 - **Tempest's Overture**, R
 	- *You got hit, but this only made you more determined to strike down your foes.*
-	- Condition: You take damage to your stamina from an attack
-	- Effect: If the triggering attack caused you to become exhausted you gain the [[Conditions#^f57404|Charged Condition]] 
+	- Condition: You take damage from an attack
+	- Effect: You gain the [[Conditions#^f57404|Charged Condition]] 
 	- [[Traits#^d885e1|Self]]
 
 ## Daemonic Possession
