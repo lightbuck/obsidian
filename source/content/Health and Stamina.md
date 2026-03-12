@@ -4,7 +4,8 @@ Characters have two hit point pools, stamina and health. Health instead represen
 
 
 # Stamina
-^a7e8ee
+
+^3236bc
 
 Stamina represents an active defense from the character, their ability to avoid, deflect or stop attacks. ^059ed3
 

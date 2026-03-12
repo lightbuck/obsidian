@@ -49,13 +49,13 @@ If the cost is listed with a + at the end it means you may spend more points for
 ## Armor
 Armor is subdivided by how heavy it is:
 - Nimble
-	You could be wearing very little or no protective gear, allowing you to move freely. This grants +4 [[Health and Stamina#^a7e8ee|Recovery Die Size]]
+	You could be wearing very little or no protective gear, allowing you to move freely. This grants +4 [[Health and Stamina#^7170e3|Recovery Die Size]]
 - Medium
-	You could be wearing a partial shield generator , a layer Kevlar or chainmail with your clothes, Etc. This grants you +2 [[Health and Stamina#^a7e8ee|Recovery Die Size]] and +2 [[Health and Stamina|Health]]
+	You could be wearing a partial shield generator , a layer Kevlar or chainmail with your clothes, Etc. This grants you +2 [[Health and Stamina#^7170e3|Recovery Die Size]] and +2 [[Health and Stamina|Health]]
 - Heavy
 	You could be wearing a full suit of riot armor or iron plating. +3 [[Health and Stamina|Health]]
 - Super-Heavy
-	You could be wearing a full shield generator or some sort of armored exosuit. This grants you -2 [[Health and Stamina#^a7e8ee|Recovery Die Size]] and +4 [[Health and Stamina|Health]]
+	You could be wearing a full shield generator or some sort of armored exosuit. This grants you -2 [[Health and Stamina#^7170e3|Recovery Die Size]] and +4 [[Health and Stamina|Health]]
 
 
 
