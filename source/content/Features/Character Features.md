@@ -1,5 +1,7 @@
 # Boasts
-Start with two point to spend.
+
+^33ae95
+
 - Fast (-1)
 	+2 Speed
 - Companion (-1)
@@ -33,6 +35,8 @@ Start with two point to spend.
 	-2 dots to spend in [[Skills]]
 
 # Banes V2
+
+^fa936f
 
 ## Physical
 You may pick only one of these.

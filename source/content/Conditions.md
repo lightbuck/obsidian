@@ -8,7 +8,7 @@ Conditions are applied depending on the result of a [[Health and Stamina#^77a09d
 - Silenced: You cannot gain or spend [[Meter]] ^263e50
 - Confused: You cannot use reactions
 - Impacted: you have been crushed into a surface, made to fall or in some way incapacitated. You can't take your [[Actions#^5b10a9|Rising Action]] and you must spend an interact action to remove this condition. ^471f1e
-- Adrenaline(N): You can reduce an action's AP cost by 1 to a minimum of 1, consuming 1 stack out of N stacks of adrenaline. This applies after traits like [[Traits#^74b16d|Consumed]]. ^685a66
+- Adrenaline(N): You can reduce an action's AP cost by 1 to a minimum of 1, consuming 1 stack out of N stacks of adrenaline. ^685a66
 - Inspired: For your next Roll you may roll again and chose from either results  ^06e916
 - Empowered(N): This condition is used by your [[Power Features]]  ^1d4c54
 - Quickened(N): You can consume any number of stacks of this condition to increase the speed of any move action by the amount consumed ^868aeb

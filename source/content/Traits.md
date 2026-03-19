@@ -6,18 +6,20 @@ Trait List:
 (N = can be a number or a roll)
 
 - Attack: This action deals the listed damage to the target ^8f40c8
+- Area: This action targets an area in some way described by the effect. ^e6b705
 - Surprising: This action's target becomes impacted ^ed045c
 - Risky(N): This action has a risk to deal N stamina damage, which you take if you fail a [[Health and Stamina#^77a09d|Tank Or Flank?]] check against a DC of 10+N #PH . You roll this check after resolving the action ^6ed443
 - Fling(N): This action **forces** the target move N spaces in a horizontal direction of your choice or straight up. ^7c76e1
 - Push: This action forces movement in a manner described by the effect
 - Create: This action creates something. If it's a piece of gear it can be automatically swapped to by a character in the same space as it. If it's a piece of gear or companion it must be chosen from your [[Gear#Prepared Gear List|Prepared Gear]] ^2d7726
 - Immobile: You can't move for the rest of this turn. ^be2d6b
-- Consumed: This action's cost increases by your remaining AP. Example, the original action cost is 2, but you have 3 ap, the action will cost 3 instead ^74b16d
+- Consumed: This action ends your turn. ^74b16d
 - Aid: This action aids someone in some way. Allies characters affected by this action lose the [[Conditions#^471f1e|Impacted Condition]] ^e327ca
 - Burning(N): The next time this character takes damage they take extra N damage after resolving the action that caused them to take damage. ^c65353
 - Step(N): At any point during this action you can move one space N times. [[Conditions#^868aeb|Quickened]] can be consumed to increase N. ^77bf53
 - Mobile: Before taking this Action you can take a 0 AP [[Actions#^642a2c|Move Action]] ^9e3f4f
 - Move: This action makes you move in some way determined by the effect, you must take this movement. ^c90f08
+- Protected: After this action resolves roll your recovery die. ^7b905e
 - Role: This action is a Role Action. ^c39ead
 - Spend(N): This action spends N [[Meter]] after resolving its rolls. However if the action did not specify an effect for the spent [[Meter]], you may add the amount spent to its results ^69bd9b
 - Gain(N): This action adds N [[Meter]] after resolving its rolls ^d02161

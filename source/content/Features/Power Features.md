@@ -53,22 +53,25 @@ Feats 'From Power' are passive abilities that grant [[Conditions#^1d4c54|Empower
 - From Overflow
 	Any time you would gain stamina above your [[Health and Stamina#^059ed3|Maximum Stamina]] you instead gain an equal amount of [[Conditions#^1d4c54|Empowered]] ^a04714
 ### To Power
-Feats 'To Power' are active abilities that convert stacks of [[Conditions#^1d4c54|Empowered]] into useful buffs. You can take a [[Actions#^ffdf5f|Flourish Action]] to activate a Feat To Power
-- To Rage
-	Consume all stacks of [[Conditions#^1d4c54|Empowered]], the next time you roll damage increase the size of all your damage dice by two steps for every 10 stacks consumed
+
+^40632d
+
+Feats 'To Power' are active abilities that convert stacks of [[Conditions#^1d4c54|Empowered]] into useful buffs. Take a [[Actions#^ffdf5f|Flourish Action]] to activate a To Power Feat
+- To Devastation
+	Consume all stacks of [[Conditions#^1d4c54|Empowered]], the next time you roll damage increase the size of all your damage dice by a step for every 10 stacks consumed
 - To Brutality
 	Consume all stacks of [[Conditions#^1d4c54|Empowered]], the next time you roll damage add +1d6 damage to the result for every 5 stacks of [[Conditions#^1d4c54|Empowered]]
 - To Strength
 	Consume all stacks of [[Conditions#^1d4c54|Empowered]], any time you roll damage this turn increase the result by 2 for every 5 stacks of [[Conditions#^1d4c54|Empowered]]
 - To Resilience
-	Consume all stacks of [[Conditions#^1d4c54|Empowered]] gain one stack of [[Conditions#^9f2db4|Protected]] for every 2 stacks
+	Consume all stacks of [[Conditions#^1d4c54|Empowered]] gain one stack of [[Conditions#^9f2db4|Protected]] for every 5 stacks
 - To Speed
-	Consume all stacks of [[Conditions#^1d4c54|Empowered]], for every stack you receive a  stack of [[Conditions#^868aeb|Quickened]] 
+	Consume all stacks of [[Conditions#^1d4c54|Empowered]], for every 2 stacks consumed you receive a stack of [[Conditions#^868aeb|Quickened]] 
 - To Adrenaline
 	Consume all stacks of [[Conditions#^1d4c54|Empowered]], for every 7 stacks you receive a stack of [[Conditions#^868aeb|Adrenaline]] 
 - To Stamina
 	Consume all stacks of [[Conditions#^1d4c54|Empowered]] the next time you roll your recovery die, increasing the result by one for every 2 stacks
 - To Consumption
 	Consume all stacks of [[Conditions#^1d4c54|Empowered]]. Your two next actions this turn gain a [[Traits#^69bd9b|Spend Trait]] with a value equal to half the stacks of  [[Conditions#^1d4c54|Empowered]] consumed
-- To Ally
+- To Allies
 	Consume all stacks of [[Conditions#^1d4c54|Empowered]]. Split your stacks of [[Conditions#^1d4c54|Empowered]] equally among any amount allied characters.

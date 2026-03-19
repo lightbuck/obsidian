@@ -1,4 +1,4 @@
-## Combat Approaches
+## Combat Approaches ^020f15
 - Intra Cognitive Approach
 	+6 to initiative rolls
 - Steadfast Approach
