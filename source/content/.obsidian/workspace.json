@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outer Modules/Witching Hour.md",
+                "file": "Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Witching Hour"
+              "title": "Skills"
             }
           },
           {
@@ -184,8 +184,8 @@
   },
   "active": "62dc0daf64427356",
   "lastOpenFiles": [
-    "Action Pools/Powers.md",
     "Outer Modules/Witching Hour.md",
+    "Action Pools/Powers.md",
     "Action Pools/Roles.md",
     "Traits.md",
     "Features/Power Features.md",
