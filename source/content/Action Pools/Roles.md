@@ -136,3 +136,60 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 				- *You see a foe try to pull some shit and you politely make them stop* 
 				- Condition: a Foe adjacent to you targets someone other than you with an action.
 				- Effect: Deal 2d4 Damage to that Foe. Additionally if that Foe's stamina wasn't exhausted by this attack and the attack didn't deal damage to health, you regain your reaction.
+				- [[Traits#^8f40c8|Attack]] [[Traits#^c39ead|Role]] 
+- Support
+	Help others to stay alive or make them more powerful
+	- Medic
+		- Combo Actions:
+			- **Back again**, 1 AP
+				- *A*
+				- Condition: You targeted an Ally with an action with the [[Traits#^e327ca|Aid Trait]]
+				- Effect: The target of that action may roll their recovery die twice and pick 2 results.
+				- [[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]]
+		- Reactions: 
+			- **Get Up!**, R
+				- *A* 
+				- Condition: An Ally that you can see takes damage to Health 
+				- Effect: The ally 
+				- [[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]]
+	- Tactician
+		- Combo Actions:
+			- **Stratagem Rising**, 1 AP
+				- *A*
+				- Condition: You targeted an Ally with an action with the [[Traits#^e327ca|Aid Trait]]
+				- Effect: Target a foe, they gain the [[Conditions#^abf227|Hunted Condition]]
+				- [[Traits#^c39ead|Role]]
+		- Reactions: 
+			- **Random stratagem go!**, R
+				- *A* 
+				- Condition: An Ally that you can see takes damage to Health or gains the [[Conditions#^471f1e|Impacted Condition]]
+				- Effect: 
+				- [[Traits#^c39ead|Role]]
+- Offense
+	Make your foes suffer by your hand or help your allies do so.
+	- Destroyer
+		- Combo Actions:
+			- **I like violence**, 1 AP
+				- *A*
+				- Condition: You knocked out a Unit with your last action
+				- Effect: you gain something idk man
+				- [[Traits#^c39ead|Role]]
+		- Reactions: 
+			- **You thought I was done?**, R
+				- *A* 
+				- Condition: A Foe that you attacked last begins their turn.
+				- Effect: Take an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]], targeting that Foe, 
+				- [[Traits#^c39ead|Role]]
+	- Aggravator
+		- Combo Actions:
+			- **Sorry about that**, 1 AP
+				- *A*
+				- Condition: 
+				- Effect: 
+				- [[Traits#^c39ead|Role]]
+		- Reactions: 
+			- **No thanks!**, R
+				- *A* 
+				- Condition: 
+				- Effect: 
+				- [[Traits#^c39ead|Role]]
