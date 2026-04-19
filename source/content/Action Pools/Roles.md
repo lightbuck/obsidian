@@ -169,27 +169,27 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 	Make your foes suffer by your hand or help your allies do so.
 	- Destroyer
 		- Combo Actions:
-			- **I like violence**, 1 AP
-				- *A*
+			- **Sadist just for kicks**, 1 AP
+				- *You revel in the violence you brought upon your enemy*
 				- Condition: You knocked out a Unit with your last action
-				- Effect: you gain something idk man
+				- Effect: At the end of this turn you gain double the amount of empowered you would normally gain.
 				- [[Traits#^c39ead|Role]]
 		- Reactions: 
 			- **You thought I was done?**, R
-				- *A* 
+				- *You surprise your foe by continuing your turn.* 
 				- Condition: A Foe that you attacked last begins their turn.
 				- Effect: Take an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]], targeting that Foe, 
 				- [[Traits#^c39ead|Role]]
 	- Aggravator
 		- Combo Actions:
 			- **Sorry about that**, 1 AP
-				- *A*
-				- Condition: 
-				- Effect: 
+				- *You pretend to apologize but you instead you taunt your foe, because you were never sorry at all.*
+				- Condition: Your last action caused at least one Foe to become [[Conditions#^471f1e|Impacted]]
+				- Effect: Choose one triggering Foe, they lose [[Conditions#^471f1e|Impacted]] and gain stacks of  [[Conditions#^7a7e20|Stunned]]equal to the round number.
 				- [[Traits#^c39ead|Role]]
 		- Reactions: 
 			- **No thanks!**, R
 				- *A* 
-				- Condition: 
+				- Condition: An enemy within 
 				- Effect: 
 				- [[Traits#^c39ead|Role]]
