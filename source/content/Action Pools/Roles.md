@@ -112,10 +112,11 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 - Tank
 	Redirect damage to yourself, force foes to deal with you.
 	- Wall
-		- Actions:
+		- Combo Actions:
 			- **Moving Barrier**, 1 AP
 				- *You move while keeping your guard up*
-				- Effect: Roll your recovery die twice.
+				- Condition: Your previous action caused you to gain stamina.
+				- Effect: Gain protected equal to the stamina you actually gained
 				- [[Traits#^9e3f4f|Mobile]] [[Traits#^e327ca|Aid]] [[Traits#^c39ead|Role]]
 		- Reactions: 
 			- **Stand Behind Me!**, R
@@ -124,37 +125,14 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 				- Effect: The allies are no longer targeted by the triggering attack. And you become the sole target. If the attack had the [[Traits#^e6b705|Area Trait]], your allies may move to a free space next to you, if it didn't you instead move to a free space next to them.
 				- [[Traits#^e327ca|Aid]] [[Traits#^c39ead|Role]]
 	- Wasp
-		- Actions:
+		- Combo Actions:
 			- **Impending Doom**, 1 AP
 				- *You expose yourself to become more of a threat*
-				- Effect: Roll your recovery die. Gain a damage bonus of +1d6 that applies to all attacks you deal and receive until you become exhausted. 
+				- Condition: You dealt damage with your last action
+				- Effect: Gain a damage bonus equal to the previous action's damage, this bonus remains until you become exhausted. 
 				- [[Traits#^9e3f4f|Mobile]] [[Traits#^e327ca|Aid]] [[Traits#^c39ead|Role]] [[Traits#^74b16d|Consumed]]
 		- Reactions: 
-			- **What's up buddy?**, R
+			- **Eyes on me**, R
 				- *You see a foe try to pull some shit and you politely make them stop* 
-				- Condition: a Foe adjacent to you takes a move action to move away from you or targets someone other than you with an action.
+				- Condition: a Foe adjacent to you targets someone other than you with an action.
 				- Effect: Deal 2d4 Damage to that Foe. Additionally if that Foe's stamina wasn't exhausted by this attack and the attack didn't deal damage to health, you regain your reaction.
-				- [[Traits#^8f40c8|Attack]] [[Traits#^c39ead|Role]]
-	- From Power Features:
-		- From Protection
-			Gain stacks of [[Conditions#^1d4c54|Empowered]] when you take damage, the amount is equal to the damage you took.
-- Support
-	Keep teammates alive, make foes worse at staying alive.
-	- Medic
-		- Actions:
-		- Reactions: 
-	- Tactician
-		- Actions:
-		- Reactions: 
-	- From Power Features:
-		- From Teamwork
-			At the end of your turn gain 1d6 stacks of [[Conditions#^1d4c54|Empowered]] for every AP spent on actions with the [[Traits#^e327ca|Aid Trait]]
-- Damage Dealer
-	Deal damage to one guy or deal damage to more than one guy.
-	- Blaster
-		- Actions:
-		- Reactions: 
-	- Assassin
-		- Actions:
-		- Reactions: 
-- From Power Features:
