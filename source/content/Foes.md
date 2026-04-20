@@ -1,4 +1,5 @@
 #PhotonTTRPG 
+#Deprecated
 # Role
 Foes have Roles, which determine their function in combat through the actions they have access to
 ## Hitter

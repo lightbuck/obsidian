@@ -5,6 +5,8 @@ Traits are used to described basic functions of an Action along side the Action 
 Trait List: 
 (N = can be a number or a roll)
 
+- Melee: This action targets characters adjacent to you. ^ff0aa3
+- Ranged: This action targets characters within line of sight of you.  ^cbb2c4
 - Attack: This action deals the listed damage to the target ^8f40c8
 - Area: This action targets an area in some way described by the effect. ^e6b705
 - Surprising: This action's target becomes impacted ^ed045c
@@ -47,7 +49,7 @@ List:
 - Royale(N): At the end of every turn all characters who aren't in this area take N damage
 - Trudging(N): All characters in this area have a N movement tax
 - Showdown:  At the beginning of the first round all Characters gain [[Conditions#^685a66|Adrenaline]]
-- Mosh Pit: All characters in this area take 1 stamina damage once per turn in which they take an action without the [[Traits#^8f40c8|Attack Trait]] #PH
+- Mosh Pit: All characters in this area take 1 stamina damage once per turn in which they take an action without the [[Traits#^8f40c8|Attack Trait]] #PH ^1bef78
 - Library: All characters in this area take 1 stamina damage once per turn in which they take an action with the [[Traits#^8f40c8|Attack Trait]] #PH
 
 ## Deprecated Traits
@@ -59,8 +61,6 @@ These traits determine the who or what this action targets, they are mutually ex
 - Cone(N): This Action targets an area determined by a cone of N
 - Radius(N): This Action targets an area determined by a radius of N
 - Line(N): This Action targets an area determined by a line long N ^cdf11b
-- Melee: This action targets N characters within the reach of your melee weapon ^ff0aa3
-- Ranged(N): This action targets N characters within line of sight   ^cbb2c4
 - Self: This Action targets the user ^d885e1
 - Allies(N): This Action targets N allies at any range ^412513
 - Foes(N): This Action targets N foes at any range ^5d64a2

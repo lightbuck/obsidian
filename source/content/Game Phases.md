@@ -1,10 +1,24 @@
 #PhotonTTRPG 
 Photon's gameplay is divided in three different phases which should altnernate each other
 # Combat Encounters
-This is the bread an butter of Photon, most of the rules revolve around combat encounters 
+This is the bread an butter of Photon, most of the rules revolve around combat encounters.
+Combat Encounters are divided in Rounds which are further divided in turns.
+Types of Turns:
+- Setup Turn: The turn in which the GM makes a [[NPCS|Declaration]], happens first in every round.
+- Team Turn: A turn in which a Unit of one of the teams present in combat acts. A Unit may take only one turn per round. Each Team alternates taking turns, meaning the same Team can't take a turn twice in a row, unless every other Unit from every other Team has already acted.
+- Payoff Turn: A turn in which the [[NPCS|Declaration]] takes effect if possible, happens last in every round.
+
+- Round 1
+	- Setup Turn
+	- Side A Turn 1
+	- Side B Turn 1
+	- Side A Turn 2
+	- Side B Turn 2
+	- ...
+	- Payoff Turn
 # Roleplay Encounters
 Social Phases are when [[Skills]] come into play the most. But other attributes might still come into play. 
-For example, let's take a scenario in which a party is trying to capture someone who's running away. The characters with the most speed would be leading the charge (of course if the target of the chase is slower than those characters there should be no chase at all), maybe using their actions to further increase the speeds. Other characters might be trying to hinder the target of the chase, maybe they had premtively placed themselves in strategic locations to cut the runner off. The chase should resolve itself when all characters have succesfuly contributed, but this is up to the GM's discretion. 
+For example, let's take a scenario in which a party is trying to capture someone who's running away. The characters with the most speed would be leading the charge (of course if the target of the chase is slower than those characters there should be no chase at all), maybe using their actions to further increase the speeds. Other characters might be trying to hinder the target of the chase, maybe they had preemptively placed themselves in strategic locations to cut the runner off. The chase should resolve itself when all characters have successfully contributed, but this is up to the GM's discretion. 
 # Montages
 The Montages, also known as "Down Time", is a period of time in which one or more characters strive for a goal. For example a character could be Training a Skill, creating a new weapon or simply travelling to a location.
 # Time Skips

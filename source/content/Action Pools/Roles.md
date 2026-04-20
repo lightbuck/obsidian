@@ -21,8 +21,6 @@ What Role does your character play in a team? Roles determine your health and st
 		- "Keeping Count" 1 AP Whenever you exhaust a character's [[Health and Stamina|Stamina]] you add a +1 to your [[Meter]], if you down an enemy you add a +2 #ph
 		- "You thought I was done?" 2 AP Whenever you roll less than half on an attack action that costed 2 ap or less, you can roll all its damage again, adding the [[Traits#^ed045c|Surprising Trait]] and the [[Traits#^b15948|ACE trait]] in a new aspect
 	- Trait: [[Traits#^b15948|ACE]]
----
-#PhotonTTRPG 
 
 ## VERSION 2 #PH
 What Role does your character play in a team? Roles give you ways to contribute to your team with reactions and give you escalating benefits throughout a fight
@@ -148,9 +146,9 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 				- [[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]]
 		- Reactions: 
 			- **Get Up!**, R
-				- *A* 
-				- Condition: An Ally that you can see takes damage to Health 
-				- Effect: The ally 
+				- *You spur your ally to get back up* 
+				- Condition: An Ally that you can see takes damage to Health. gains the [[Conditions#^471f1e|Impacted Condition]] or the [[Conditions#^7a7e20]]
+				- Effect: The ally may take Move action despite the [[Conditions#^471f1e|Impacted Condition]], the next time they roll a recovery die they automatically gain Stamina equal to their Maximum Stamina
 				- [[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]]
 	- Tactician
 		- Combo Actions:
@@ -160,10 +158,10 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 				- Effect: Target a foe, they gain the [[Conditions#^abf227|Hunted Condition]]
 				- [[Traits#^c39ead|Role]]
 		- Reactions: 
-			- **Random stratagem go!**, R
+			- **Remember the plan!**, R
 				- *A* 
-				- Condition: An Ally that you can see takes damage to Health or gains the [[Conditions#^471f1e|Impacted Condition]]
-				- Effect: 
+				- Condition: An Ally consumes all stacks of [[Conditions#^1d4c54|Empowered]]
+				- Effect: That Ally gains stacks of [[Conditions#^1d4c54|Empowered]] equal to the amount you have.
 				- [[Traits#^c39ead|Role]]
 - Offense
 	Make your foes suffer by your hand or help your allies do so.
@@ -178,18 +176,18 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 			- **You thought I was done?**, R
 				- *You surprise your foe by continuing your turn.* 
 				- Condition: A Foe that you attacked last begins their turn.
-				- Effect: Take an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]], targeting that Foe, 
+				- Effect: Take an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]], targeting that Foe.
 				- [[Traits#^c39ead|Role]]
-	- Aggravator
+	- Irritator
 		- Combo Actions:
 			- **Sorry about that**, 1 AP
 				- *You pretend to apologize but you instead you taunt your foe, because you were never sorry at all.*
 				- Condition: Your last action caused at least one Foe to become [[Conditions#^471f1e|Impacted]]
-				- Effect: Choose one triggering Foe, they lose [[Conditions#^471f1e|Impacted]] and gain stacks of  [[Conditions#^7a7e20|Stunned]]equal to the round number.
+				- Effect: Choose a triggering Foe, they lose [[Conditions#^471f1e|Impacted]] and become [[Conditions#^7a7e20|Stunned]].
 				- [[Traits#^c39ead|Role]]
 		- Reactions: 
-			- **No thanks!**, R
-				- *A* 
-				- Condition: An enemy within 
-				- Effect: 
-				- [[Traits#^c39ead|Role]]
+			- **Nah**, R
+				- *Just as a Foe is about to regain their footing you smack them back down* 
+				- Condition: An enemy adjacent to you is about to lose the [[Conditions#^471f1e|Impacted Condition]] or the [[Conditions#^7a7e20|Stunned Condition]].
+				- Effect: The foe gains the [[Conditions#^471f1e|Impacted Condition]].
+				- [[Traits#^c39ead|Role]] [[Traits#^9e3f4f|Mobile]]
