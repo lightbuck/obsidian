@@ -1,5 +1,6 @@
 #PhotonTTRPG 
 Styles define in broad strokes the ways a character fights.
+# V1
 ## Close Quarters ^5381b9
 
 You fight up close, you could be doing anything from stabbing someone with a sword to stuffing a gun in someone's mouth
@@ -191,3 +192,57 @@ Reactions:
 You fight with something at your side, it could be a high tech drone or a faithful animal companion
 ## Aerial
 Combat from the sky, whether you fly with your wings or you swing with a grapple hook 
+# V2
+## Daredevil 
+%% Comment The Aspects of the Magic %%
+*Taunts and jokes come as natural to you as combat itself. Your virtues are being hot and cool and your vices are being too hot and being too cool, and you'll make sure your foes know it.*
+[[Skills]]:
+- "Name Knowledge"
+- "Work with Name"
+
+Actions:
+- **Hey, do your job!**, 1 AP
+	- *You make a flourish as you flash a smile to your foes.*
+	- Effect: Gain the [[Conditions#^abf227|Hunted Condition]], take a [[Actions#^ffdf5f|Flourish Action]] for free. If by your next turn you still have the Hunted Condition you lose it and gain Empowered equal to the amount of [[Conditions#^685a66|Adrenaline]] that would be gained by dealing damage to your health.
+	- [[Traits]]
+
+Combo Actions: 
+- **You're wasting my time!**, 2 AP
+	- *You cease fighting a Foe who's definitely not worth your time, which hurts your Foes on an emotional level*
+	- Condition: Your last action had the [[Traits#^8f40c8|Attack Trait]] and did not have the [[Traits#^e6b705|Area Trait]]
+	- Effect: Take a [[Actions#^ffdf5f|Flourish Action]] for free. You target a Foe, which can't be one of the Triggering Foes, with an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]]. If you exhaust this Foe's stamina you gain one stack of [[Conditions#^1d4c54|Empowered]]
+	- [[Traits]]
+
+Reactions: 
+- **Where's your motivation?**, R
+	- *You taunt an enemy that hasn't even managed to scratch you*
+	- Condition: A foe has targeted you with an attack, but has not exhausted your stamina nor caused you to gain any [[Conditions]]
+	- Effect: Gain one stack of [[Conditions#^1d4c54|Empowered]], gain an extra stack for every attack the Triggering Foe makes this turn until you become exhausted. If you don't become exhausted this Turn you regain your reaction once this Round.
+	- [[Traits]]
+## Template
+## Name
+%% Comment The Aspects of the Magic %%
+*Description*
+[[Skills]]:
+- "Name Knowledge"
+- "Work with Name"
+
+Actions:
+- **Name**, 1 AP
+	- *Description*
+	- Effect:
+	- [[Traits]]
+
+Combo Actions: 
+- **Name**, 1 AP
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+
+Reactions: 
+- **Name**, R
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]

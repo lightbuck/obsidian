@@ -422,14 +422,14 @@ Actions:
 	- [[Traits#^d885e1|Self]]
 - **Arrière**, 2 AP
 	- *You take advantage of a Foe's vulnerable state to sink them in the shadows.*
-	- Effect: Target a foe with the [[Conditions#^471f1e|Impacted Condition]] or an ally, they gain the [[Conditions#^47fe37|Hidden Condition]]. The target loses the condition when their turn begins or when you gain the [[Conditions#^47fe37|Hidden Condition]]. If this action targets a foe then it gains the [[Traits#^8f40c8|Attack Trait]].
+	- Effect: Target a foe with the [[Conditions#^471f1e|Impacted Condition]] or an ally, they gain the [[Conditions#^47fe37|Hidden Condition]]. If the Target was a foe, they become [[Conditions#^7a7e20|Stunned]] the next time you gain the [[Conditions#^47fe37|Hidden Condition]]. If this action targets a foe then it gains the [[Traits#^8f40c8|Attack Trait]].
 	- [[Traits#^d885e1|Self]]
-- **Tourant**, 2 AP
+- **Tourant**, 1 AP
 	- *You dance, commanding nearby shadows to imprison your foes*
 	- Effect: Target up to three exhausted Foes, they become [[Conditions#^471f1e|Impacted]]
 	- [[Traits#^8f40c8|Attack]]
-- **Avant**, 2 AP
-	- *You command shadows to follow you as you dance, creating a path for your allies to follow.*
+- **Avant**, 1 AP
+	- *You transport your allies with you as you dance.*
 	- Effect: Take a [[Actions#^642a2c|Move Action]], any allies you move through with this action may choose to move to a space that you passed through. Gain the [[Conditions#^47fe37|Hidden Condition]]
 	- [[Traits#^c90f08|Move]][[Traits#^e327ca|Aid]]
 
@@ -530,8 +530,8 @@ Reactions:
 %%# On Creating New Powers
 The purpose of powers is to be the 'how' of the way a character fights. For example a character can be a gunslinger, or in the system they would be a [[Styles#^cbf70b|Ranged Combatant]], that's the 'what'. But the gunslinger could be an Alkean, that uses their powers to generate bullets, that's the 'how'.
 Powers are meant to be a layer of extra flavor that adds mechanical complexity to a character  build. Therefore a Power should revolve around a central mechanical throughline, that can be used to create synergies with [[Styles]] and [[Roles]]. #PH  %%
-## Template
-# Name
+# Template
+## Name
 %% Comment The Aspects of the Magic %%
 *Description*
 [[Skills]]:

@@ -14,7 +14,7 @@ Conditions are applied depending on the result of a [[Health and Stamina#^77a09d
 - Daemonized: Your Stamina pool is unlimited. However effects such as the [[Power Features#^a04714|From Overflow Feature]] still reference your original stamina pool. Any time you would deal damage you may choose to add all your current stamina as a damage bonus, and lose that amount of stamina. If your Stamina is exhausted remove this condition after resolving that action. ^9d723e
 - Hidden: Remove your token from the board. You can't be targeted directly nor from AOE attacks. At the beginning of your next **action** place yourself back on the board. That action gains the [[Traits#^ed045c|Surprising Trait]] ^47fe37
 ## Negative Conditions
-- Hunted: When you are dealt damage to health, the character who dealt it gains one stack of Adrenaline and you lose this Condition. ^abf227
+- Hunted: When you are dealt damage to health, the character who dealt it gains one stack of Adrenaline multiplied by the round number and you lose this Condition. ^abf227
 - Silenced: You cannot gain or spend [[Meter]] ^263e50
 - Impacted: you have been crushed into a surface, made to fall or in some way incapacitated. You can't take your [[Actions#^5b10a9|Rising Action]] or [[Actions#^45d755|Reactions]] and you must spend an interact action to remove this condition. ^471f1e
 - Stunned: your AP are lowered to 1. You can't take your [[Actions#^5b10a9|Rising Action]] or [[Actions#^45d755|Reactions]]. You lose this condition at the end of your turn. ^7a7e20

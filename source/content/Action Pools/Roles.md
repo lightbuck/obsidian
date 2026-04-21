@@ -111,10 +111,10 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 	Redirect damage to yourself, force foes to deal with you.
 	- Wall
 		- Combo Actions:
-			- **Moving Barrier**, 1 AP
+			- **Fight me!**, 1 AP
 				- *You move while keeping your guard up*
 				- Condition: Your previous action caused you to gain stamina.
-				- Effect: Gain protected equal to the stamina you actually gained
+				- Effect: Gain protected equal to the stamina you actually gained, the next Foe that takes their turn must target you for their first attack.
 				- [[Traits#^9e3f4f|Mobile]] [[Traits#^e327ca|Aid]] [[Traits#^c39ead|Role]]
 		- Reactions: 
 			- **Stand Behind Me!**, R
@@ -124,7 +124,7 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 				- [[Traits#^e327ca|Aid]] [[Traits#^c39ead|Role]]
 	- Wasp
 		- Combo Actions:
-			- **Impending Doom**, 1 AP
+			- **Doomed to Fight**, 1 AP
 				- *You expose yourself to become more of a threat*
 				- Condition: You dealt damage with your last action
 				- Effect: Gain a damage bonus equal to the previous action's damage, this bonus remains until you become exhausted. 
@@ -133,44 +133,44 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 			- **Eyes on me**, R
 				- *You see a foe try to pull some shit and you politely make them stop* 
 				- Condition: a Foe adjacent to you targets someone other than you with an action.
-				- Effect: Deal 2d4 Damage to that Foe. Additionally if that Foe's stamina wasn't exhausted by this attack and the attack didn't deal damage to health, you regain your reaction.
+				- Effect: Deal 2d4 Damage to that Foe. Additionally if you are not Exhausted, you may deal 2d8 Damage to that Foe if their next attack does not target you.
 				- [[Traits#^8f40c8|Attack]] [[Traits#^c39ead|Role]] 
 - Support
 	Help others to stay alive or make them more powerful
 	- Medic
 		- Combo Actions:
-			- **Back again**, 1 AP
+			- **Keep Fighting!**, 1 AP
 				- *A*
-				- Condition: You targeted an Ally with an action with the [[Traits#^e327ca|Aid Trait]]
-				- Effect: The target of that action may roll their recovery die twice and pick 2 results.
+				- Condition: Your last action had the [[Traits#^e327ca|Aid Trait]]
+				- Effect: Roll your Recovery Die a number of times equal to how many AP you spent on actions with the [[Traits#^e327ca|Aid Trait]] , additionally all your allies also gain that stamina. 
 				- [[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]]
 		- Reactions: 
 			- **Get Up!**, R
 				- *You spur your ally to get back up* 
-				- Condition: An Ally that you can see takes damage to Health. gains the [[Conditions#^471f1e|Impacted Condition]] or the [[Conditions#^7a7e20]]
-				- Effect: The ally may take Move action despite the [[Conditions#^471f1e|Impacted Condition]], the next time they roll a recovery die they automatically gain Stamina equal to their Maximum Stamina
+				- Condition: An Ally that you can see takes damage to Health. gains the [[Conditions#^471f1e|Impacted Condition]] or the [[Conditions#^7a7e20|Stunned Condition]]
+				- Effect: The ally may take a Move action despite the [[Conditions#^471f1e|Impacted Condition]], the next time they would gain Stamina, they instead automatically gain Stamina equal to their Maximum Stamina
 				- [[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]]
 	- Tactician
 		- Combo Actions:
-			- **Stratagem Rising**, 1 AP
+			- **Fighting Stratagem**, 1 AP
 				- *A*
 				- Condition: You targeted an Ally with an action with the [[Traits#^e327ca|Aid Trait]]
 				- Effect: Target a foe, they gain the [[Conditions#^abf227|Hunted Condition]]
-				- [[Traits#^c39ead|Role]]
+				- [[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]]
 		- Reactions: 
 			- **Remember the plan!**, R
 				- *A* 
 				- Condition: An Ally consumes all stacks of [[Conditions#^1d4c54|Empowered]]
-				- Effect: That Ally gains stacks of [[Conditions#^1d4c54|Empowered]] equal to the amount you have.
-				- [[Traits#^c39ead|Role]]
+				- Effect: That Ally gains stacks of [[Conditions#^1d4c54|Empowered]] equal to the amount of [[Conditions#^1d4c54|Empowered]] you have.
+				- [[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]]]]
 - Offense
 	Make your foes suffer by your hand or help your allies do so.
 	- Destroyer
 		- Combo Actions:
-			- **Sadist just for kicks**, 1 AP
+			- **Fighting instinct**, 1 AP
 				- *You revel in the violence you brought upon your enemy*
-				- Condition: You knocked out a Unit with your last action
-				- Effect: At the end of this turn you gain double the amount of empowered you would normally gain.
+				- Condition: You Knocked Out a Unit with your last action
+				- Effect: Take an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]], even actions you already took this round.
 				- [[Traits#^c39ead|Role]]
 		- Reactions: 
 			- **You thought I was done?**, R
@@ -180,13 +180,13 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 				- [[Traits#^c39ead|Role]]
 	- Irritator
 		- Combo Actions:
-			- **Sorry about that**, 1 AP
-				- *You pretend to apologize but you instead you taunt your foe, because you were never sorry at all.*
-				- Condition: Your last action caused at least one Foe to become [[Conditions#^471f1e|Impacted]]
-				- Effect: Choose a triggering Foe, they lose [[Conditions#^471f1e|Impacted]] and become [[Conditions#^7a7e20|Stunned]].
+			- **Won't you Fight back?**, 1 AP
+				- *You taunt your Foe*
+				- Condition: Your last action caused at least one Foe to become [[Conditions#^471f1e|Impacted]] or [[Conditions#^7a7e20|Stunned]].
+				- Effect: The triggering Foes that were [[Conditions#^471f1e|Impacted]] gain the [[Conditions#^7a7e20|Stunned Condition]]. Triggering Foes that were [[Conditions#^7a7e20|Stunned]] become exhausted.
 				- [[Traits#^c39ead|Role]]
 		- Reactions: 
-			- **Nah**, R
+			- **Nah!**, R
 				- *Just as a Foe is about to regain their footing you smack them back down* 
 				- Condition: An enemy adjacent to you is about to lose the [[Conditions#^471f1e|Impacted Condition]] or the [[Conditions#^7a7e20|Stunned Condition]].
 				- Effect: The foe gains the [[Conditions#^471f1e|Impacted Condition]].
