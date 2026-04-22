@@ -203,14 +203,19 @@ Combat from the sky, whether you fly with your wings or you swing with a grapple
 Actions:
 - **Hey, do your job!**, 1 AP
 	- *You make a flourish as you flash a smile to your foes.*
-	- Effect: Gain the [[Conditions#^abf227|Hunted Condition]], take a [[Actions#^ffdf5f|Flourish Action]] for free. If by your next turn you still have the Hunted Condition you lose it and gain Empowered equal to the amount of [[Conditions#^685a66|Adrenaline]] that would be gained by dealing damage to your health.
+	- Effect: Gain the [[Conditions#^abf227|Hunted Condition]], take a [[Actions#^ffdf5f|Flourish Action]] for free. If by your next turn you still have the Hunted Condition you lose it and gain a bonus to the next time you gain Empowered equal to the number of rounds that have passed.
 	- [[Traits]]
 
 Combo Actions: 
 - **You're wasting my time!**, 2 AP
 	- *You cease fighting a Foe who's definitely not worth your time, which hurts your Foes on an emotional level*
-	- Condition: Your last action had the [[Traits#^8f40c8|Attack Trait]] and did not have the [[Traits#^e6b705|Area Trait]]
+	- Condition: Your last action had the [[Traits#^8f40c8|Attack Trait]] and did not have the [[Traits#^e6b705|Area Trait]] and your target did not take damage nor was exhausted by that action
 	- Effect: Take a [[Actions#^ffdf5f|Flourish Action]] for free. You target a Foe, which can't be one of the Triggering Foes, with an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]]. If you exhaust this Foe's stamina you gain one stack of [[Conditions#^1d4c54|Empowered]]
+	- [[Traits]]
+- **Now I'm motivated!**, 2 AP
+	- *You are ready for the fight*
+	- Condition: Your took a [[Actions#^ffdf5f|Flourish Action]] with your last action, or your last action was a[[Actions#^ffdf5f|Flourish Action]]
+	- Effect: 
 	- [[Traits]]
 
 Reactions: 
@@ -218,6 +223,130 @@ Reactions:
 	- *You taunt an enemy that hasn't even managed to scratch you*
 	- Condition: A foe has targeted you with an attack, but has not exhausted your stamina nor caused you to gain any [[Conditions]]
 	- Effect: Gain one stack of [[Conditions#^1d4c54|Empowered]], gain an extra stack for every attack the Triggering Foe makes this turn until you become exhausted. If you don't become exhausted this Turn you regain your reaction once this Round.
+	- [[Traits]]
+- **This could be fun!**, R
+	- *You look at the battlefield and you flash a grin to your enemies*
+	- Condition: The round begins
+	- Effect: Gain the [[Conditions#^abf227|Hunted Condition]] and roll your recovery die. On your turn gain a bonus to the next time you gain [[Conditions#^1d4c54|Empowered]] for every round that have passed.
+	- [[Traits]]
+
+## Hunter
+%% Comment The Aspects of the Magic %%
+*Description*
+[[Skills]]:
+- "Name Knowledge"
+- "Work with Name"
+
+Actions:
+- **Howdy Partner**, 1 AP ^8c3935
+	- *You greet your Foe*
+	- Effect: Target a Foe.
+	- [[Traits]]
+- **Let's make this a fair fight**, 1 AP
+	- *Description*
+	- Effect: Target a Foe that has taken damage during this Combat Encounter. They regain stamina equal to their Stamina Pool. If They take damage to health this round they become [[Conditions#^7a7e20|Stunned]].
+	- [[Traits]]
+
+Combo Actions: 
+- **Isn't there a bounty on your head?**, 1 AP
+	- *Description*
+	- Condition: Your last action targeted a Foe and did not have the [[Traits#^8f40c8|Attack Trait]]
+	- Effect: The foe gains the [[Conditions#^abf227|Hunted Condition]]
+	- [[Traits]]
+- **Stow Weapon**, 1 AP
+	- *Description*
+	- Condition: You Exhausted a Foe's stamina or dealt damage to their health with your last action
+	- Effect: The Foe becomes [[Conditions#^7a7e20|Stunned]].
+	- [[Traits#^74b16d|Consumed]]
+Reactions: 
+- **Are you afraid partner?**, R
+	- *Description*
+	- Condition: The turn after yours begins and the Foe you targeted with the action [[Styles#^8c3935|Howdy Partner]] took damage to their Health
+	- Effect: the Foe you targeted with your action [[Styles#^8c3935|Howdy Partner]] becomes [[Conditions#^7a7e20|Stunned]]
+	- [[Traits]]
+- **Dead or alive**, R
+	- *Description*
+	- Condition: A foe you can see loses a condition inflicted by you or an Ally.
+	- Effect: The Foe either gains [[Conditions#^abf227|Hunted]] or regains the condition they just lost.
+	- [[Traits]]
+
+## Remorseful
+%% Comment The Aspects of the Magic %%
+*Description*
+[[Skills]]:
+- "Name Knowledge"
+- "Work with Name"
+
+Actions:
+- **Name**, 1 AP
+	- *Description*
+	- Effect:
+	- [[Traits]]
+
+Combo Actions: 
+- **Name**, 1 AP
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+
+Reactions: 
+- **Name**, R
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+## Valiant
+%% Comment The Aspects of the Magic %%
+*Description*
+[[Skills]]:
+- "Name Knowledge"
+- "Work with Name"
+
+Actions:
+- **Name**, 1 AP
+	- *Description*
+	- Effect:
+	- [[Traits]]
+
+Combo Actions: 
+- **Name**, 1 AP
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+
+Reactions: 
+- **Name**, R
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+## Brainiac
+%% Comment The Aspects of the Magic %%
+*Description*
+[[Skills]]:
+- "Name Knowledge"
+- "Work with Name"
+
+Actions:
+- **Name**, 1 AP
+	- *Description*
+	- Effect:
+	- [[Traits]]
+
+Combo Actions: 
+- **Name**, 1 AP
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+
+Reactions: 
+- **Name**, R
+	- *Description*
+	- Condition:
+	- Effect:
 	- [[Traits]]
 ## Template
 ## Name
