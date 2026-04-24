@@ -30,7 +30,7 @@ Trait List:
 - Sacrifice: At the end of this action your current stamina is reduced by the size of your [[Health and Stamina|Recovery Die]]. Gain [[Meter]] equal to the amount lost. However you currently have the [[Conditions#^9d723e|Daemonized Condition]] you instead gain [[Meter]] equal to the amount of damage you deal, up to twice the size of your [[Health and Stamina|Recovery Die]]. ^195914
 - Crossover: Any ally with a bond with you may expend their AP to use this action. If this action has the [[Traits#^8f40c8|Attack Trait]] it must target a Foe within line of sight of the ally. Any effects of the action happen as if you used it, but for the purposes of conditions for the ally's following actions it will count as if they had taken this action. When used this way, you may also take a move action for free before taking this action. ^0609c3
 - Companion: This action may only be taken by your Companion(s). ^c2aac5
-- Crushing: If this action exhausts its target's stamina, they automatically become impacted. ^7782f4
+- Crushing: If this action exhausts its target's stamina, they also become impacted. ^7782f4
 - Final: You can only use this action once per Scene. This Action cannot have the [[Traits#^0609c3|Crossover Trait]]. You can only Know one of this actions. ^ace9f7
 - Piercing: If this action [[Health and Stamina|Exhausts the target's Stamina]] it also deal damage to the target's [[Health and Stamina|Health]] as if they had no Stamina ^cb440a
 - Brutal: This action deals an extra point of damage if it deals damage to health. ^21477e

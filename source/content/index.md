@@ -14,4 +14,4 @@ Photon is inspired by a lot of different things: Spectacle Fighters, Fighting Ga
 
 A proper introduction isn't reqdy yet, but you can start reading from [[Actions|The Actions Section]]
 
-Check my progress [here](https://trello.com/b/PjEv2lQF/ttrpg-designing-progress)!
+%%Check my progress [here](https://trello.com/b/PjEv2lQF/ttrpg-designing-progress)!%%

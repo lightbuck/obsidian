@@ -203,18 +203,18 @@ Combat from the sky, whether you fly with your wings or you swing with a grapple
 Actions:
 - **Hey, do your job!**, 1 AP
 	- *You make a flourish as you flash a smile to your foes.*
-	- Effect: Gain the [[Conditions#^abf227|Hunted Condition]], take a [[Actions#^ffdf5f|Flourish Action]] for free. If by your next turn you still have the Hunted Condition you lose it and gain a bonus to the next time you gain Empowered equal to the number of rounds that have passed.
+	- Effect: Gain the [[Conditions#^abf227|Hunted Condition]], take a [[Actions#^ffdf5f|Flourish Action]] for free. If by your next turn you still have the Hunted Condition you lose it and gain a bonus to the next time you gain Stamina equal to the number of rounds that have passed.
 	- [[Traits]]
 
 Combo Actions: 
 - **You're wasting my time!**, 2 AP
 	- *You cease fighting a Foe who's definitely not worth your time, which hurts your Foes on an emotional level*
 	- Condition: Your last action had the [[Traits#^8f40c8|Attack Trait]] and did not have the [[Traits#^e6b705|Area Trait]] and your target did not take damage nor was exhausted by that action
-	- Effect: Take a [[Actions#^ffdf5f|Flourish Action]] for free. You target a Foe, which can't be one of the Triggering Foes, with an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]]. If you exhaust this Foe's stamina you gain one stack of [[Conditions#^1d4c54|Empowered]]
+	- Effect: Take a [[Actions#^ffdf5f|Flourish Action]] for free. You target a Foe, which can't be one of the Triggering Foes, with an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]]. If you exhaust this Foe's stamina you may roll your Recovery Die twice and choose the better result.
 	- [[Traits]]
-- **Now I'm motivated!**, 2 AP
+- **Now I'm motivated!**, 1 AP
 	- *You are ready for the fight*
-	- Condition: Your took a [[Actions#^ffdf5f|Flourish Action]] with your last action, or your last action was a[[Actions#^ffdf5f|Flourish Action]]
+	- Condition: You took a [[Actions#^ffdf5f|Flourish Action]] with your last action, or your last action was a[[Actions#^ffdf5f|Flourish Action]]
 	- Effect: 
 	- [[Traits]]
 
@@ -227,7 +227,7 @@ Reactions:
 - **This could be fun!**, R
 	- *You look at the battlefield and you flash a grin to your enemies*
 	- Condition: The round begins
-	- Effect: Gain the [[Conditions#^abf227|Hunted Condition]] and roll your recovery die. On your turn gain a bonus to the next time you gain [[Conditions#^1d4c54|Empowered]] for every round that have passed.
+	- Effect: Gain the [[Conditions#^abf227|Hunted Condition]] and roll your recovery die. On your turn gain Stamina for every round that has passed.
 	- [[Traits]]
 
 ## Hunter
@@ -278,51 +278,30 @@ Reactions:
 - "Work with Name"
 
 Actions:
-- **Name**, 1 AP
+- **Leave me alone!**, 1 AP
 	- *Description*
-	- Effect:
+	- Effect: Target all nearby characters, force them to move 3d4 spaces away from you. Then take a Move Action.
 	- [[Traits]]
 
 Combo Actions: 
-- **Name**, 1 AP
-	- *Description*
-	- Condition:
-	- Effect:
+- **You're going to make me angry!**, 1 AP
+	- *You threaten your Foe with the promise of showing what you're truly capable of*
+	- Condition: Your last action had the [[Traits#^8f40c8|Attack Trait]]  
+	- Effect: Your Foe gains the [[Conditions#^471f1e|Impacted condition]]
+	- [[Traits]]
+- **You forced me to do this!**, 1 AP
+	- *You lose your patience and set your power loose*
+	- Condition: Your last action did not have the [[Traits#^8f40c8|Attack Trait]]   
+	- Effect: Your next action must gains the [[Traits#^21477e|Brutal Trait]]
 	- [[Traits]]
 
 Reactions: 
-- **Name**, R
-	- *Description*
-	- Condition:
-	- Effect:
+- **Stop it please!**, R
+	- *You beg your enemies to stop, possibly distracting them at the very least*
+	- Condition: An ally that you can see is targeted with an Attack
+	- Effect: The triggering Ally may take a Move Action after resolving the triggering action. If the triggering Ally becomes exhausted you regain your reaction once this round.
 	- [[Traits]]
-## Valiant
-%% Comment The Aspects of the Magic %%
-*Description*
-[[Skills]]:
-- "Name Knowledge"
-- "Work with Name"
-
-Actions:
-- **Name**, 1 AP
-	- *Description*
-	- Effect:
-	- [[Traits]]
-
-Combo Actions: 
-- **Name**, 1 AP
-	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
-
-Reactions: 
-- **Name**, R
-	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
-## Brainiac
+## Name
 %% Comment The Aspects of the Magic %%
 *Description*
 [[Skills]]:
@@ -350,7 +329,6 @@ Reactions:
 	- [[Traits]]
 ## Template
 ## Name
-%% Comment The Aspects of the Magic %%
 *Description*
 [[Skills]]:
 - "Name Knowledge"
