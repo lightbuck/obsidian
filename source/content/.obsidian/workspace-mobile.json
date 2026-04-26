@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Action Pools/Roles.md",
+                "file": "Action Pools/Styles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roles"
+              "title": "Styles"
             }
           },
           {
@@ -169,12 +169,13 @@
   },
   "active": "4e739362ecd81724",
   "lastOpenFiles": [
+    "Conditions.md",
+    "Action Pools/Styles.md",
+    "Action Pools/Roles.md",
     "Features/Character Features.md",
     "Action Pools/Powers.md",
-    "Conditions.md",
     "Traits.md",
     "Health and Stamina.md",
-    "Action Pools/Styles.md",
     "Actions.md",
     "index.md",
     "Features.md"

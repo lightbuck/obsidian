@@ -203,19 +203,19 @@ Combat from the sky, whether you fly with your wings or you swing with a grapple
 Actions:
 - **Hey, do your job!**, 1 AP
 	- *You make a flourish as you flash a smile to your foes.*
-	- Effect: Gain the [[Conditions#^abf227|Hunted Condition]], take a [[Actions#^ffdf5f|Flourish Action]] for free. If by your next turn you still have the Hunted Condition you lose it and gain a bonus to the next time you gain Stamina equal to the number of rounds that have passed.
+	- Effect: Gain the [[Conditions#^abf227|Hunted Condition]], take a [[Actions#^ffdf5f|Flourish Action]] for free. If by your next turn you still have the Hunted Condition you lose it and gain Stamina equal to the number of rounds that have passed.
 	- [[Traits]]
 
 Combo Actions: 
 - **You're wasting my time!**, 2 AP
 	- *You cease fighting a Foe who's definitely not worth your time, which hurts your Foes on an emotional level*
 	- Condition: Your last action had the [[Traits#^8f40c8|Attack Trait]] and did not have the [[Traits#^e6b705|Area Trait]] and your target did not take damage nor was exhausted by that action
-	- Effect: Take a [[Actions#^ffdf5f|Flourish Action]] for free. You target a Foe, which can't be one of the Triggering Foes, with an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]]. If you exhaust this Foe's stamina you may roll your Recovery Die twice and choose the better result.
+	- Effect: Take a [[Actions#^ffdf5f|Flourish Action]] for free. You target a Foe, which can't be one of the Triggering Foes, with an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]]. If you exhaust this Foe's stamina the target of the Triggering action also becomes Exhausted
 	- [[Traits]]
 - **Now I'm motivated!**, 1 AP
 	- *You are ready for the fight*
 	- Condition: You took a [[Actions#^ffdf5f|Flourish Action]] with your last action, or your last action was a[[Actions#^ffdf5f|Flourish Action]]
-	- Effect: 
+	- Effect: Roll your recovery die thrice and pick two results.
 	- [[Traits]]
 
 Reactions: 
@@ -327,23 +327,59 @@ Combo Actions:
 	- [[Traits#^c90f08|Move]]
 
 Reactions: 
+- **Tactical Roll**, R
+	- *Description*
+	- Condition: you are targeted with a [[Traits#^ff0aa3|Melee]] or [[Traits#^e6b705|Area]] Attack
+	- Effect: You may move 1 to 3 spaces before being attacked.
+	- [[Traits]]
 - **Shoot the Bullet**, R
 	- *Description*
 	- Condition: you are targeted with a [[Traits#^cbb2c4|Ranged]] Attack
 	- Effect: You cancel the triggering attack.
 	- [[Traits]]
-- **Tactical Roll**, R
+## Rider
+*Description*
+
+Actions:
+- **Full Throttle**, 1 AP
 	- *Description*
-	- Condition: you are targeted with a [[Traits#^cbb2c4|Ranged]] Attack
-	- Effect: You cancel the triggering attack.
+	- Effect: Gain a d6 of stacks of [[Conditions#^868aeb|Energized]] per Round Number and then take a move action.
 	- [[Traits]]
-## Template
+- **Crash**, 3 AP
+	- *Description*
+	- Effect: Move in a line, target all foes within the line and deal a d6 of damage for every 3 Spaces you moved through at the point where the Foe is. Any previous movement that could be considered part of this line that you took with your previous action is also included.
+	- [[Traits]]
+- **Get in loser**, 1 AP
+	- *Description*
+	- Effect: Target an Ally adjacent to you, take a move action, the Ally mantains their relative position to you as you move.
+	- [[Traits]]
+- **Jousting will never go out of fashion**, 2 AP
+	- *Description*
+	- Effect: Take a move action, deal 2d4 damage up to two foes along your path. Gain [[Conditions#^868aeb|Energized]] equal to the damage you dealt.
+	- [[Traits]]
+
+Combo Actions: 
+- **Slide to a stop**, 1 AP
+	- *Description*
+	- Condition: Your last action was a move action.
+	- Effect: You may move an additional number of spaces equal to half the amount you moved with your last action, also gain stacks of [[Conditions#^868aeb|Energized]] equal to that amount. Take a [[Actions#^ffdf5f|Flourish Action]] for free.
+	- [[Traits]] 
+- **Drift Burst**, 1 AP
+	- *Description*
+	- Condition: Your last action was a move action.
+	- Effect: Gain stacks of [[Conditions#^868aeb|Energized]] equal to half the amount of spaces you moved with your last action then take a Move action.
+	- [[Traits]]
+
+
+Reactions: 
+- **I was parked here first**, R
+	- *Description*
+	- Condition: You would incur Forced Movement.
+	- Effect:  Gain [[Conditions#^868aeb|Energized]] equal to the amount of Forced Movement and you don't move.
+	- [[Traits]]
 ## Template
 ## Name
 *Description*
-[[Skills]]:
-- "Name Knowledge"
-- "Work with Name"
 
 Actions:
 - **Name**, 1 AP
