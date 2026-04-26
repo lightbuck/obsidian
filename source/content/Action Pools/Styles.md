@@ -248,7 +248,7 @@ Actions:
 	- [[Traits]]
 
 Combo Actions: 
-- **Isn't there a bounty on your head?**, 1 AP
+- **Isn't there a bounty on your head?**, 2 AP
 	- *Description*
 	- Condition: Your last action targeted a Foe and did not have the [[Traits#^8f40c8|Attack Trait]]
 	- Effect: The foe gains the [[Conditions#^abf227|Hunted Condition]]
@@ -292,7 +292,7 @@ Combo Actions:
 - **You forced me to do this!**, 1 AP
 	- *You lose your patience and set your power loose*
 	- Condition: Your last action did not have the [[Traits#^8f40c8|Attack Trait]]   
-	- Effect: Your next action must gains the [[Traits#^21477e|Brutal Trait]]
+	- Effect: Your next action gains the [[Traits#^21477e|Brutal Trait]]
 	- [[Traits]]
 
 Reactions: 
@@ -301,7 +301,7 @@ Reactions:
 	- Condition: An ally that you can see is targeted with an Attack
 	- Effect: The triggering Ally may take a Move Action after resolving the triggering action. If the triggering Ally becomes exhausted you regain your reaction once this round.
 	- [[Traits]]
-## Name
+## Sniper
 %% Comment The Aspects of the Magic %%
 *Description*
 [[Skills]]:
@@ -309,24 +309,35 @@ Reactions:
 - "Work with Name"
 
 Actions:
-- **Name**, 1 AP
+- **One Shot**, 3 AP ^9ce859
 	- *Description*
-	- Effect:
+	- Effect: Target a Foe, your next Attack with the [[Traits#^cbb2c4|Ranged Trait]] gains the [[Traits#^21477e|Brutal Trait]]
 	- [[Traits]]
 
 Combo Actions: 
-- **Name**, 1 AP
+- **One Kill**, 1 AP
 	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
+	- Condition: You used the [[Styles#^9ce859|One Shot]] action this turn and your previous action exhausted the Stamina or dealt damage to the Health of a single Foe.
+	- Effect: Gain two stacks of [[Conditions#^685a66|Adrenaline]]
+	- [[Traits#^74b16d|Consumed]]
+- **Tactical Reposition**, 1 AP
+	- *Description*
+	- Condition: Your last action was a [[Traits#^cbb2c4|Ranged]] Attack
+	- Effect: Take two Move Actions, your next Attack gains the [[Traits#^ed045c|Surprising Trait]]
+	- [[Traits#^c90f08|Move]]
 
 Reactions: 
-- **Name**, R
+- **Shoot the Bullet**, R
 	- *Description*
-	- Condition:
-	- Effect:
+	- Condition: you are targeted with a [[Traits#^cbb2c4|Ranged]] Attack
+	- Effect: You cancel the triggering attack.
 	- [[Traits]]
+- **Tactical Roll**, R
+	- *Description*
+	- Condition: you are targeted with a [[Traits#^cbb2c4|Ranged]] Attack
+	- Effect: You cancel the triggering attack.
+	- [[Traits]]
+## Template
 ## Template
 ## Name
 *Description*
