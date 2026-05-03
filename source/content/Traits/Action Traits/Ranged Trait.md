@@ -1,0 +1,1 @@
+This action targets characters within line of sight of you.

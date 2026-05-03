@@ -1,0 +1,1 @@
+This action's target becomes impacted

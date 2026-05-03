@@ -1,0 +1,1 @@
+This action deals an extra point of damage if it deals damage to health.

@@ -1,0 +1,1 @@
+If this action exhausts its target's stamina, they also become impacted.

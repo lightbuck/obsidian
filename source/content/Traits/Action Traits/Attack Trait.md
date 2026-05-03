@@ -1,0 +1,1 @@
+This action deals damage to one or more targets.

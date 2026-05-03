@@ -1,0 +1,1 @@
+This action targets characters adjacent to you.

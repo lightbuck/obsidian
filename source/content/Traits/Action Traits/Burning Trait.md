@@ -1,0 +1,1 @@
+The next time this character takes damage they take extra N damage after resolving the action that caused them to take damage. ^c65353

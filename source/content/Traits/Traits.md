@@ -5,15 +5,14 @@ Traits are used to described basic functions of an Action along side the Action 
 Trait List: 
 (N = can be a number or a roll)
 
+
 - Melee: This action targets characters adjacent to you. ^ff0aa3
 - Ranged: This action targets characters within line of sight of you.  ^cbb2c4
 - Attack: This action deals the listed damage to the target ^8f40c8
 - Area: This action targets an area in some way described by the effect. ^e6b705
 - Surprising: This action's target becomes impacted ^ed045c
-- Risky(N): This action has a risk to deal N stamina damage, which you take if you fail a [[Health and Stamina#^77a09d|Tank Or Flank?]] check against a DC of 10+N #PH . You roll this check after resolving the action ^6ed443
 - Fling(N): This action **forces** the target move N spaces in a horizontal direction of your choice or straight up. ^7c76e1
 - Push: This action forces movement in a manner described by the effect
-- Create: This action creates something. If it's a piece of gear it can be automatically swapped to by a character in the same space as it. If it's a piece of gear or companion it must be chosen from your [[Gear#Prepared Gear List|Prepared Gear]] ^2d7726
 - Immobile: You can't move for the rest of this turn. ^be2d6b
 - Consumed: This action ends your turn. ^74b16d
 - Aid: This action aids someone in some way. Allies characters affected by this action lose the [[Conditions#^471f1e|Impacted Condition]] ^e327ca

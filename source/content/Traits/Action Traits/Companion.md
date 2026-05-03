@@ -1,0 +1,1 @@
+This action may be taken by your Companion and only by your Companions.

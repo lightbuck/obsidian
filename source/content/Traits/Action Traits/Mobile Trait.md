@@ -1,0 +1,1 @@
+Before taking this Action you can take a 0 AP [[Actions#^642a2c|Move Action]]

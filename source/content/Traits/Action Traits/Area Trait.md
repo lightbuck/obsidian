@@ -1,0 +1,1 @@
+This action targets characters area in some way described by the effect.

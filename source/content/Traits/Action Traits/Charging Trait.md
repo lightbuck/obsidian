@@ -1,0 +1,1 @@
+You gain or sustain the [[Conditions#^f57404|Charged Condition]].

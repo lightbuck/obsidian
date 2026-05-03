@@ -7,7 +7,7 @@ Types of Turns:
 - Setup Turn: The turn in which the GM makes a [[NPCS|Declaration]], happens first in every round.
 - Team Turn: A turn in which a Unit of one of the teams present in combat acts. A Unit may take only one turn per round. Each Team alternates taking turns, meaning the same Team can't take a turn twice in a row, unless every other Unit from every other Team has already acted.
 - Payoff Turn: A turn in which the [[NPCS|Declaration]] takes effect if possible, happens last in every round.
-
+ ^5bb2cb
 - Round 1
 	- Setup Turn
 	- Side A Turn 1
