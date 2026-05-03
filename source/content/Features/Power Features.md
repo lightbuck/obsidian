@@ -49,7 +49,7 @@ Feats 'From Power' are passive abilities that grant [[Conditions#^1d4c54|Empower
 - From Rise
 	Gain 2d6 stacks of [[Conditions#^1d4c54|Empowered]] when you remove the [[Conditions#^471f1e|Impacted Condition]]
 - From Teamwork
-	At the end of your turn gain 1d6 stacks of [[Conditions#^1d4c54|Empowered]] for every AP spent on actions with the [[Traits#^e327ca|Aid Trait]]
+	At the end of your turn gain 1d6 stacks of [[Conditions#^1d4c54|Empowered]] for every AP spent on actions with the [[Aid Trait]]
 - From Overflow
 	Any time you would gain stamina above your [[Health and Stamina#^059ed3|Maximum Stamina]] you instead gain an equal amount of [[Conditions#^1d4c54|Empowered]] ^a04714
 ### To Power

@@ -1,1 +1,3 @@
 This action adds N [[Meter]] after resolving its rolls.
+
+![[N]]

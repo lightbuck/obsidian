@@ -74,12 +74,12 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 	Condition: An ally is about to take damage to their [[Health and Stamina|Health]]
 	You jump in the way of an attack that would have harmed your teammate.
 	Effect: Take a [[Actions#^642a2c|Move Action]] to move toward the ally, if you reach an adjacent square to them you take the damage instead of your ally, directly to your health.
-	[[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]] |
+	[[Traits#^c39ead|Role]] [[Aid Trait|Aid]] |
 - Get it together! , Reaction
 	Condition:An ally fails a [[Health and Stamina#^77a09d|Tank or Flank Check]]
 	You encourage your ally to recompose themselves
 	Effect: The ally may remove one stack of a condition they are afflicted by
-	[[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]] |
+	[[Traits#^c39ead|Role]] [[Aid Trait|Aid]] |
 - I'm with you! , Reaction
 	Condition: An ally moves in a space adjacent to you
 	You follow your ally into battle
@@ -115,20 +115,20 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 				- *You move while keeping your guard up*
 				- Condition: Your previous action caused you to gain stamina.
 				- Effect: Gain protected equal to the stamina you actually gained, the next Foe that takes their turn must target you for their first attack.
-				- [[Traits#^9e3f4f|Mobile]] [[Traits#^e327ca|Aid]] [[Traits#^c39ead|Role]]
+				- [[Traits#^9e3f4f|Mobile]] [[Aid Trait|Aid]] [[Traits#^c39ead|Role]]
 		- Reactions: 
 			- **Stand Behind Me!**, R
 				- *You act as a wall* 
 				- Condition: One ore more allies you can see are targeted by an attack.
 				- Effect: The allies are no longer targeted by the triggering attack. And you become the sole target. If the attack had the [[Area Trait|Area Trait]], your allies may move to a free space next to you, if it didn't you instead move to a free space next to them.
-				- [[Traits#^e327ca|Aid]] [[Traits#^c39ead|Role]]
+				- [[Aid Trait|Aid]] [[Traits#^c39ead|Role]]
 	- Wasp
 		- Combo Actions:
 			- **Doomed to Fight**, 1 AP
 				- *You expose yourself to become more of a threat*
 				- Condition: You dealt damage with your last action
 				- Effect: Gain a damage bonus equal to the previous action's damage, this bonus remains until you become exhausted. 
-				- [[Traits#^9e3f4f|Mobile]] [[Traits#^e327ca|Aid]] [[Traits#^c39ead|Role]] [[Traits#^74b16d|Consumed]]
+				- [[Traits#^9e3f4f|Mobile]] [[Aid Trait|Aid]] [[Traits#^c39ead|Role]] [[Consumed Trait|Consumed]]
 		- Reactions: 
 			- **Eyes on me**, R
 				- *You see a foe try to pull some shit and you politely make them stop* 
@@ -141,28 +141,28 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 		- Combo Actions:
 			- **Keep Fighting!**, 1 AP
 				- *A*
-				- Condition: Your last action had the [[Traits#^e327ca|Aid Trait]]
-				- Effect: Roll your Recovery Die a number of times equal to how many AP you spent on actions with the [[Traits#^e327ca|Aid Trait]] , additionally all your allies also gain that stamina. 
-				- [[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]]
+				- Condition: Your last action had the [[Aid Trait]]
+				- Effect: Roll your Recovery Die a number of times equal to how many AP you spent on actions with the [[Aid Trait]] , additionally all your allies also gain that stamina. 
+				- [[Traits#^c39ead|Role]] [[Aid Trait|Aid]]
 		- Reactions: 
 			- **Get Up!**, R
 				- *You spur your ally to get back up* 
 				- Condition: An Ally that you can see takes damage to Health. gains the [[Conditions#^471f1e|Impacted Condition]] or the [[Conditions#^7a7e20|Stunned Condition]]
 				- Effect: The ally may take a Move action despite the [[Conditions#^471f1e|Impacted Condition]], the next time they would gain Stamina, they instead automatically gain Stamina equal to their Maximum Stamina
-				- [[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]]
+				- [[Traits#^c39ead|Role]] [[Aid Trait|Aid]]
 	- Tactician
 		- Combo Actions:
 			- **Fighting Stratagem**, 1 AP
 				- *A*
-				- Condition: You targeted an Ally with an action with the [[Traits#^e327ca|Aid Trait]]
+				- Condition: You targeted an Ally with an action with the [[Aid Trait]]
 				- Effect: Target a foe, they gain the [[Conditions#^abf227|Hunted Condition]]
-				- [[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]]
+				- [[Traits#^c39ead|Role]] [[Aid Trait|Aid]]
 		- Reactions: 
 			- **Remember the plan!**, R
 				- *A* 
 				- Condition: An Ally consumes all stacks of [[Conditions#^1d4c54|Empowered]]
 				- Effect: That Ally gains stacks of [[Conditions#^1d4c54|Empowered]] equal to the amount of [[Conditions#^1d4c54|Empowered]] you have.
-				- [[Traits#^c39ead|Role]] [[Traits#^e327ca|Aid]]]]
+				- [[Traits#^c39ead|Role]] [[Aid Trait|Aid]]
 - Offense
 	Make your foes suffer by your hand or help your allies do so.
 	- Destroyer

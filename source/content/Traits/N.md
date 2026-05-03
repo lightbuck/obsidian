@@ -1,0 +1,1 @@
+N: is a number written alongside the trait, this indicated a variable value that the trait uses and must be 0 or higher. It can also be a roll such as '1d6'. And in special cases can also be 'ALL'.

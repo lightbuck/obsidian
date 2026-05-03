@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "6695b92f6d2da553",
+        "id": "9b8d911bbbd45586",
         "type": "tabs",
         "children": [
           {
-            "id": "c3ae0681274987ba",
+            "id": "1f8f400e99d2ce1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits/Traits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Traits"
+            }
+          },
+          {
+            "id": "7cceb5d030a6379b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,8 +54,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Push",
-                "matchingCase": false,
+                "query": "77bf53",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -74,7 +88,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,34 +182,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3ae0681274987ba",
+  "active": "1f8f400e99d2ce1b",
   "lastOpenFiles": [
+    "Traits/Action Traits/Step Trait.md",
     "Action Pools/Powers.md",
+    "Tests/Halloween test/Halloween Characters/D's Halloween Character.md",
     "Traits/Traits.md",
     "Action Pools/Styles.md",
+    "Tests/Halloween test/Halloween Characters/Flame's Halloween Character.md",
+    "Actions.md",
+    "Traits/Action Traits/Burning Trait.md",
+    "Traits/N.md",
+    "Traits/Action Traits/Charging Trait.md",
+    "Traits/Action Traits/Brutal Trait.md",
+    "Traits/Action Traits/Attack Trait.md",
+    "Traits/Action Traits/Aid Trait.md",
+    "Traits/Action Traits/Gain Trait.md",
+    "Traits/Action Traits/Fling Trait.md",
+    "Traits/Action Traits/Expend Trait.md",
+    "Traits/Action Traits/Spend Trait.md",
+    "Traits/Action Traits/Area Trait.md",
+    "index.md",
+    "Action Pools/Roles.md",
+    "Features/Power Features.md",
+    "Traits/Action Traits/Surprising Trait.md",
+    "Traits/Action Traits/Immobile Trait.md",
     "Gear.md",
     "Tests/Halloween test/Halloween Characters/Wormy's Halloween Character.md",
     "Movement.md",
-    "Traits/Action Traits/Surprising Trait.md",
-    "Traits/Action Traits/Aid Trait.md",
-    "Action Pools/Roles.md",
-    "Conditions.md",
-    "NPCS.md",
-    "Traits/Action Traits/Crossover Trait.md",
-    "Traits/Action Traits/Ranged Trait.md",
-    "Traits/Action Traits/Melee Trait.md",
-    "Traits/Action Traits/Step Trait.md",
-    "Traits/Action Traits/Area Trait.md",
-    "Traits/Action Traits/Brutal Trait.md",
-    "Traits/Action Traits/Piercing Trait.md",
-    "Traits/Action Traits/Final Trait.md",
-    "Traits/Action Traits/Crushing Trait.md",
-    "Traits/Action Traits/Companion.md",
-    "Traits/Action Traits/Sacrifice Trait.md",
-    "Traits/Action Traits/Charging Trait.md",
-    "Traits/Action Traits/Expend Trait.md",
-    "Traits/Action Traits/Gain Trait.md",
-    "Traits/Action Traits/Spend Trait.md",
     "Traits/Action Traits",
     "Traits",
     "Foes",

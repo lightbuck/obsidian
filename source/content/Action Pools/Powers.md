@@ -14,11 +14,11 @@ Powers are the other side of the coin from [[Styles]], but they also grant free 
 Actions:
 - **Gather Spirit**, 1 AP
 	- *You reach out and absorb nearby Spirit Energy*
-	- [[Traits#^d02161|Gain(+2)]] [[Traits#^be2d6b|Immobile]] ^6989f2
+	- [[Traits#^d02161|Gain(+2)]] [[Immobile Trait|Immobile]] ^6989f2
 - **Combat Communion**, 3 AP
 	- You focus completely on absorbing nearby spirit energy from the battlefield.*
 	- Effect: Gain an extra point of [[Meter]] per round number.
-	- [[Traits#^be2d6b|Immobile]]  [[Traits#^d02161|Gain(+3)]] 
+	- [[Immobile Trait|Immobile]]  [[Traits#^d02161|Gain(+3)]] 
 - **From the Spirits with Love**, 3 AP
 	- *You spend Spirit Energy you have accumulated to summon a massive bone blade that thrusts forward.*
 	- Effect: Target a 10 length line originating from you, or every point of [[Meter]] spent you deal +d4 to all [[Foes]] in that line.
@@ -47,7 +47,7 @@ Combo Actions:
 	- *You recycle some of the Spirit Energy you used to defend yourself*
 	- Condition: The Previous action had the [[Traits#^69bd9b|Spend Trait]] 
 	- Effect: You gain 1 point of [[Health and Stamina|Stamina]] for each point of [[Meter]] spent by the previous action
-	- [[Traits#^d885e1|Self]] [[Traits#^be2d6b|Immobile]] |
+	- [[Traits#^d885e1|Self]] [[Immobile Trait|Immobile]] |
 - **Death Begets Death**, 1 AP
 	- *You collect the Spirit Energy of a foe you just defeated.*
 	- Condition: You knocked out a Foe with your last action
@@ -63,7 +63,7 @@ Combo Actions:
 *The Spirit Energy you collected was unstable and you have to attempt to quell it.*
 	Condition: The Previous action had the [[Traits#^d02161|Gain Trait]] 
 	Effect: Roll 1d12 and [[Meter|Spend]] that amount. If the result is [[Terminology#^9e500c|Underwhelming]] you gain the result as stamina. If the result is [[Terminology#^08cbdf|Overwhelming]] you deal the result as damage in a radius 1 circle, centered on you, #PH to all characters, including yourself. 
-	[[Traits#^be2d6b|Immobile]] %%
+	[[Immobile Trait|Immobile]] %%
 Reactions:
 - Bones from Blood, R
 	*You collect your sprit energy from a strike that you managed to avoid* 
@@ -128,28 +128,28 @@ Reactions:
 - "Work with fire"
 
 [[Power Features]]:
-- From Fires: Any time you take an action with the [[Traits#^e327ca|Aid Trait]], you gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]. Any time an action with the [[Attack Trait]]targets more than one foe, you gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]
+- From Fires: Any time you take an action with the [[Aid Trait]], you gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]. Any time an action with the [[Attack Trait]]targets more than one foe, you gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]
 
 Actions:
 - Heart Afire, 2 AP
 	- *You open your palms and unleash a wave of fire*
 	- Effect: Deal 2d4 damage in a 3 cone angled from you
-	- [[Attack Trait|Attack]] [[Traits#^Ranged|Ranged]] [[Traits#^c65353|Burning(6)]] ^51ca19
+	- [[Attack Trait|Attack]] [[Traits#^Ranged|Ranged]] [[Burning Trait|Burning(6)]] ^51ca19
 - Blessed me with your future, 2 AP
 	- *You empower yourself and your allies weapons with fire*
 	- Effect: All Allies gain +1d6 damage to their next attack
-	- [[Traits#^e327ca|Aid]]
+	- [[Aid Trait|Aid]]
 - On Parade, 1 AP
 	- *You shoot up a flare of fire, inspiring your allies and blinding your foes*
 	- Effect: All Allies Gain 1d6 stacks of [[Conditions#^1d4c54|Empowered]], any Foes that you can see and that are below half Stamina become [[Conditions#^471f1e|Impacted]].
-	- [[Traits#^e327ca|Aid]] [[Attack Trait|Attack]]  ^091b70
+	- [[Aid Trait|Aid]] [[Attack Trait|Attack]]  ^091b70
 - Protected with Fire, 3 AP
 	- *You cover an ally in fire, which will hurt any Foe that gets too close*
 	- Effect: Target an Ally, any Foe within radius 2 of them takes 1d8 damage.
-	- [[Traits#^e327ca|Aid]] [[Attack Trait|Attack]] [[Traits#^7782f4|Crushing]]
+	- [[Aid Trait|Aid]] [[Attack Trait|Attack]] [[Traits#^7782f4|Crushing]]
 - ###### Justice, 6 AP
 	- *You channel an immense amount of power, burning away the evil of this world and empowering your allies.*
-	- Effect: Restore all allied Characters to maximum Stamina. Deal damage to all Foes for an amount equal to the total Stamina restored, additionally this action gains [[Traits#^c65353|Burning]] with a value equal to total the stamina restored.
+	- Effect: Restore all allied Characters to maximum Stamina. Deal damage to all Foes for an amount equal to the total Stamina restored, additionally this action gains [[Burning Trait|Burning]] with a value equal to total the stamina restored.
 	- [[Attack Trait|Attack]] [[Traits#^ace9f7|Final ]] [[Traits#^c65353|Burning]]
 
 Combo Actions:
@@ -157,24 +157,24 @@ Combo Actions:
 	- *You release the flames you've been holding inside in a massive wave of fire around you.*
 	- Condition: Your previous action did not have the [[Attack Trait]]
 	- Target all Foes in a radius of 7 centered on you, deal 3d6 damage
-	- [[Attack Trait|Attack]] [[Traits#^Ranged|Ranged]] [[Traits#^c65353|Burning(8)]] ^037b8f
+	- [[Attack Trait|Attack]] [[Traits#^Ranged|Ranged]] [[Burning Trait|Burning(8)]] ^037b8f
 - Take You Higher 1 AP
 	- *You further empower an ally with fire*
-	- Condition: You previous action had the [[Traits#^e327ca|Aid Trait]]
-	- Effect: Choose 1 ally that you targeted with your previous action, their next action gains the [[Traits#^c65353|Burning(5) Trait]]
-	- [[Traits#^e327ca|Aid]] ^24412e
+	- Condition: You previous action had the [[Aid Trait]]
+	- Effect: Choose 1 ally that you targeted with your previous action, their next action gains the [[Burning Trait|Burning(5) Trait]]
+	- [[Aid Trait|Aid]] ^24412e
 - Work Forces, 2 AP
 	- *You follow up blast with a fistful of fire*
-	- Condition: Your previous action had the [[Traits#^c65353|Burning Trait]]
+	- Condition: Your previous action had the [[Burning Trait]]
 	- Effect: Target one Foe, deal 2d6 damage to them and make them [[Conditions#^471f1e|Impacted]]
-	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^c65353|Burning(7)]] ^9a79c8
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Burning Trait|Burning(7)]] ^9a79c8
 
 Reactions:
 - Ignite The Suits, R
 	- *Fight back*
 	- Condition: You took damage to your [[Health and Stamina|Health]]
 	- Effect: Target 1 adjacent foe, deal 3d6 damage
-	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^c65353|Burning(6)]]  ^c9a5e9
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Burning Trait|Burning(6)]]  ^c9a5e9
 ## Resono Magic
 %%Spread Results, Support Allies and move stay on the move%%
 *All Resono inherit the ability to interact with Life Force, which is the silk that empowers living beings. They can share life force, steal it, suppress it and so on. But to do so a Resono must be able to physically reach with their hands into their target.*
@@ -185,42 +185,42 @@ Reactions:
 - Fleet
 
 [[Power Features]]:
-- From Strings: At the end of your turn gain 2d4 empowered for every AP spent on actions with the [[Traits#^e327ca|Aid Trait]]
+- From Strings: At the end of your turn gain 2d4 empowered for every AP spent on actions with the [[Aid Trait]]
 
 Actions:
 - **Everybody in the world**, 3 AP
 	- *Link the Life Force of multiple foes together.*
 	- Effect: Target 3 Foes that were adjacent to you at some point during this action. If any of these Foes take damage to health, so do the others. This link remains until one of the enemies is defeated (The link is removed after sharing the damage).
-	- [[Traits#^5d64a2|Foes]] | [[Traits#^77bf53|Step(4)]] ^6985b8
+	- [[Traits#^5d64a2|Foes]] | [[Step Trait|Step(4)]] ^6985b8
 - **You're gonna go far**, 2 AP
 	- *You lend some of your lifeforce to an ally, bolstering them*
 	- Effect: Target one Ally adjacent to you, both you and that ally gain [[Conditions#^685a66|Adrenaline(2)]]
-	- [[Traits#^412513|Allies]] [[Traits#^e327ca|Aid]] | [[Traits#^77bf53|Step(2)]] ^e183a4
+	- [[Traits#^412513|Allies]] [[Aid Trait|Aid]] | [[Step Trait|Step(2)]] ^e183a4
 - **Hand in Hand**, 2 AP
 	- *You link two of your allies' Life Forces together.*
 	- Effect: Target yourself and an ally or two allies, that were adjacent to you at some point during this action. Transfer between the targets a condition or any amount of stamina. 
-	- [[Traits#^412513|Allies]] [[Traits#^e327ca|Aid]] | [[Traits#^77bf53|Step(2)]] ^4c7c29
+	- [[Traits#^412513|Allies]] [[Aid Trait|Aid]] | [[Step Trait|Step(2)]] ^4c7c29
 - ###### Life, 6 AP
 	- *You weave together a web of all your allies, the connection forms an loop that exponentially empowers all of you.*
 	- Effect: Sum together yours and all your allies stacks of [[Conditions#^1d4c54|Empowered]], this number is the new amount of [[Conditions#^1d4c54|Empowered]] you and your allies have.
-	- [[Traits#^e327ca|Aid]] 
+	- [[Aid Trait|Aid]] 
 
 Combo Actions:
 - **Got him where I want him now**, 2 AP
 	- *You grab an opponent by the life force and paralyze them* 
 	- Condition: Your previous action had the [[Attack Trait]]and your target's stamina is exhausted.
 	- Effect: Target the Foe described by the condition and is adjacent to you, the foe gains [[Conditions#^7a7e20|Stunned(2)]]
-	- [[Attack Trait|Attack]] [[Traits#^5d64a2|Foes]] | [[Traits#^77bf53|Step(2)]] ^f51106
+	- [[Attack Trait|Attack]] [[Traits#^5d64a2|Foes]] | [[Step Trait|Step(2)]] ^f51106
 - **What you get**, 1 AP
 	- *After injuring a foe you transfer a negative condition from yourself to them*
 	- Condition: Your previous action had the [[Attack Trait]]
 	- Effect: Transfer a condition from yourself to one target of your previous action that is adjacent to you.
-	- [[Traits#^5d64a2|Foes]] | [[Traits#^77bf53|Step(2)]] ^b29e10
+	- [[Traits#^5d64a2|Foes]] | [[Step Trait|Step(2)]] ^b29e10
 - **I get this Feeling**, 2 AP
 	- *Choose a positive condition you gained with your last action, all allies gain it.*
 	- Condition: You gained a condition with you last action
 	- Effect: All allies also gain that condition
-	- [[Traits#^412513|Allies]] [[Traits#^e327ca|Aid]] | [[Traits#^77bf53|Step(2)]] ^d9ed8f
+	- [[Traits#^412513|Allies]] [[Aid Trait|Aid]] | [[Step Trait|Step(2)]] ^d9ed8f
 
 Reactions:
 - **Before I come Undone**, R
@@ -244,12 +244,12 @@ Combo Actions:
 	- *You take a moment to reassess your code after noticing a bug*
 	- Condition: Your previous action had the [[Traits#^deed79|Expend Trait]]
 	- Effect: Gain
-	- [[Traits#^412513|Allies]] [[Traits#^e327ca|Aid]] | 
+	- [[Traits#^412513|Allies]] [[Aid Trait|Aid]] | 
 - **On and Off Again**, 1 AP
 	- *Something's off with your spells, maybe just.. closing your tome and opening again might help?*
 	- Condition: The result of your previous action was underwhelming.
 	- Effect: Gain
-	- [[Traits#^412513|Allies]] [[Traits#^e327ca|Aid]] | 
+	- [[Traits#^412513|Allies]] [[Aid Trait|Aid]] | 
 
 Reactions:
 - Burning Blood
@@ -431,7 +431,7 @@ Actions:
 - **Avant**, 1 AP
 	- *You transport your allies with you as you dance.*
 	- Effect: Take a [[Actions#^642a2c|Move Action]], any allies you move through with this action may choose to move to a space that you passed through. Gain the [[Conditions#^47fe37|Hidden Condition]]
-	- [[Traits#^c90f08|Move]][[Traits#^e327ca|Aid]]
+	- [[Traits#^c90f08|Move]][[Aid Trait|Aid]]
 
 Combo Actions: 
 - **Fan Kick**, 2 AP

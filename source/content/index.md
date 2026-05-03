@@ -1,7 +1,7 @@
 ---
-title: PHOTON TTRPG
+title: "Starsilk: Fight Forever"
 ---
-Welcome to the online rulebook for lightbuck's TTRPG system, Photon (this name is a placeholder)
+Welcome to the online rulebook for Starsilk: Fight Forever
 ### The Golden Rules
 This is a list of guidelines I strive to adhere to when designing this system:
 - Combat is **fast** and **stylish**
@@ -12,6 +12,4 @@ This is a list of guidelines I strive to adhere to when designing this system:
 #### Inspirations
 Photon is inspired by a lot of different things: Spectacle Fighters, Fighting Games, Super Hero Comic Books and other TTRPGS!
 
-A proper introduction isn't reqdy yet, but you can start reading from [[Actions|The Actions Section]]
-
-%%Check my progress [here](https://trello.com/b/PjEv2lQF/ttrpg-designing-progress)!%%
+A proper introduction isn't ready yet, but you can start reading from [[Actions|The Actions Section]]

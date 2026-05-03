@@ -1,7 +1,6 @@
-## Action Traits
 Traits are used to described basic functions of an Action along side the Action Description
-Trait List: 
-(N = can be a number or a roll)
+## Action Traits
+
 
 ![[Surprising Trait]]
 ![[Aid Trait]]
@@ -31,11 +30,6 @@ Trait List:
 ![[Spend Trait]]
 ![[Step Trait]]
 
-- Immobile: You can't move for the rest of this turn. ^be2d6b
-- Consumed: This action ends your turn. ^74b16d
-- Aid: This action aids someone in some way. Allies characters affected by this action lose the [[Conditions#^471f1e|Impacted Condition]] ^e327ca
-- Burning(N): The next time this character takes damage they take extra N damage after resolving the action that caused them to take damage. ^c65353
-- Step(N): At any point during this action you can move one space N times. [[Conditions#^868aeb|Quickened]] can be consumed to increase N. ^77bf53
 - Mobile: Before taking this Action you can take a 0 AP [[Actions#^642a2c|Move Action]] ^9e3f4f
 - Move: This action makes you move in some way determined by the effect, you must take this movement. ^c90f08
 - Protected: After this action resolves roll your recovery die. ^7b905e

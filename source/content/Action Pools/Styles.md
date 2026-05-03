@@ -19,7 +19,7 @@ Actions:
 - **Overbearing Strike**, 2 AP
 	- *You make an attack with all your strength*
 	- Effect: Target one foe with your Melee weapon, dealing 4d6. 
-	- [[Attack Trait|Attack]][[Melee Trait|Melee]] [[Traits#^74b16d|Consumed]] | ^417f07
+	- [[Attack Trait|Attack]][[Melee Trait|Melee]] [[Consumed Trait|Consumed]] | ^417f07
 - **Sweep**, 3 AP
 	- *You making a sweeping attack around you, hitting all foes near you and pushing them away*
 	- Effect: Target any foes with your Melee Weapon within its range, dealing 1d4
@@ -27,7 +27,7 @@ Actions:
 - Make A Stand. 2 AP
 	- *You plant your feet and stop right where you are, determined to not let anyone pass*
 	- Effect: Until your next turn, your reach with melee weapons is increased by 1 space and any time you take an action with the [[Attack Trait]]your target(s) gains stacks of [[Conditions#^8081d3|Slowed]] equal to the damage you deal. 
-	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^be2d6b|Immobile]] |
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Immobile Trait|Immobile]] |
 Combo Actions:
 - **One Two**, 1 AP
 	- *You follow up a strike with a quick jab.*
@@ -38,7 +38,7 @@ Combo Actions:
 	- *You use the momentum from your last attack to spin around, hitting anyone in the way.
 	- Condition: Your last action had the [[Attack Trait]]*
 	- Effect: Target two foes with your Melee weapon, dealing 1d6 damage
-	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^74b16d|Consumed]] |  ^6e75b3
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Consumed Trait|Consumed]] |  ^6e75b3
 - **Where were we?**, 1 AP
 	- *After a short break you immediately return to smashing someone's face in.*
 	- Condition: Your last action did not have the  [[Attack Trait]]
@@ -95,7 +95,7 @@ Combo Actions:
 	- *You follow up your shot with... even more shots.*
 	- Condition: You previous action had the [[Attack Trait|Attack]] and [[Ranged Trait|Ranged]] traits
 	- Effect: Deal 2d4 three times, choosing a target for each roll.
-	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Traits#^74b16d|Consumed]]| ^bba0dd
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Consumed Trait|Consumed]]| ^bba0dd
 - Hipfire , 1 AP
 	- *You quickly fire a shot.*
 	- Condition: You previous action did not have the [[Attack Trait]]
@@ -120,11 +120,11 @@ Actions:
 - Armored Gallop, 1 AP
 	- *You move with your mount, taking a defensive stance*
 	- Effect: Move your speed and roll your [[Health and Stamina#^7170e3|Recovery Die]]
-	- [[Traits#^d885e1|Self]] [[Traits#^e327ca|Aid]]
+	- [[Traits#^d885e1|Self]] [[Aid Trait|Aid]]
 - **Paw The Ground**, 1 AP
 	- *You prepare to rush down a Foe*
 	- Effect: You gain an amount of stacks of [[Conditions#^868aeb|Quickened]] equal to your speed. Target one foe, if you exhaust your target's stamina this turn you gain the same amount of [[Conditions#^868aeb|Quickened]] again.
-	- [[Traits#^d885e1|Self]] [[Traits#^e327ca|Aid]]
+	- [[Traits#^d885e1|Self]] [[Aid Trait|Aid]]
 
 Combo Actions:
 - **Crash**, 1 AP
@@ -257,7 +257,7 @@ Combo Actions:
 	- *Description*
 	- Condition: You Exhausted a Foe's stamina or dealt damage to their health with your last action
 	- Effect: The Foe becomes [[Conditions#^7a7e20|Stunned]].
-	- [[Traits#^74b16d|Consumed]]
+	- [[Consumed Trait|Consumed]]
 Reactions: 
 - **Are you afraid partner?**, R
 	- *Description*
@@ -319,7 +319,7 @@ Combo Actions:
 	- *Description*
 	- Condition: You used the [[Styles#^9ce859|One Shot]] action this turn and your previous action exhausted the Stamina or dealt damage to the Health of a single Foe.
 	- Effect: Gain two stacks of [[Conditions#^685a66|Adrenaline]]
-	- [[Traits#^74b16d|Consumed]]
+	- [[Consumed Trait|Consumed]]
 - **Tactical Reposition**, 1 AP
 	- *Description*
 	- Condition: Your last action was a [[Ranged Trait|Ranged]] Attack
