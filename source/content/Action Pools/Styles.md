@@ -15,7 +15,7 @@ Actions:
 - **Shove Strike**, 1 AP
 	- *You make a strike that shoves away an enemy*
 	- Effect: Target one foe with your Melee weapon, dealing 1d4 damage
-	- [[Attack Trait|Attack]][[Melee Trait|Melee]] [[Traits#^7c76e1|Fling(3)]] ^adead5
+	- [[Attack Trait|Attack]][[Melee Trait|Melee]] [[Fling Trait|Fling(3)]] ^adead5
 - **Overbearing Strike**, 2 AP
 	- *You make an attack with all your strength*
 	- Effect: Target one foe with your Melee weapon, dealing 4d6. 
@@ -66,7 +66,7 @@ Actions: ^eb8eb1
 	- [[Attack Trait|Attack]] [[Ranged Trait]] | ^ba66aa
 - Trick Shot , 2 AP
 	- *You skillfully fire a shot that has extra effects*
-	- Effect: Target 1 Foe with your weapon, deal 1d4 damage. This action gains a [[Traits|Trait]] of your choice from the following list: [[Traits#^7c76e1|Fling(4)]], [[Conditions#^9ed920|Stressing(2)]], [[Traits#^9e3f4f|Mobile]], [[Traits#^c65353|Loaded(2)]], [[Traits#^21477e|Brutal]] or [[Traits#^cb440a|Piercing]].
+	- Effect: Target 1 Foe with your weapon, deal 1d4 damage. This action gains a [[Traits|Trait]] of your choice from the following list: [[Fling Trait|Fling(4)]], [[Conditions#^9ed920|Stressing(2)]], [[Traits#^9e3f4f|Mobile]], [[Traits#^c65353|Loaded(2)]], [[Traits#^21477e|Brutal]] or [[Traits#^cb440a|Piercing]].
 	- [[Traits#^d885e1|Self]] |  ^9e667a
 - Reload , 1 AP
 	- *Load ammunition into your weapon*
@@ -88,9 +88,9 @@ Combo Actions:
 	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] | ^523773
 - Devil Juggler , 1 AP
 	- *You shoot again to keep pushing your enemy.*
-	- Condition: You previous action had the [[Traits#^7c76e1|Fling Trait]]
-	- Effect: Target 1 Foe (that was the previous action's target) with your weapon, deal 1d6 damage. For every 2 points of damage you deal with this action you increase the [[Traits#^7c76e1|Fling]] trait on this action by 1.
-	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Traits#^7c76e1|Fling(1)]] | ^eb7c85
+	- Condition: You previous action had the [[Fling Trait]]
+	- Effect: Target 1 Foe (that was the previous action's target) with your weapon, deal 1d6 damage. For every 2 points of damage you deal with this action you increase the [[Fling Trait|Fling]] trait on this action by 1.
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Fling Trait|Fling(1)]] | ^eb7c85
 - More Dakka , 2 AP
 	- *You follow up your shot with... even more shots.*
 	- Condition: You previous action had the [[Attack Trait|Attack]] and [[Ranged Trait|Ranged]] traits

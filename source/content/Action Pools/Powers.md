@@ -102,7 +102,7 @@ Combo Actions:
 	- [[Attack Trait|Attack]]  ^22deee
 - **No Escape**, 1 AP
 	- *After throwing away the enemy you follow after the to deliver a follow up attack.*
-	- Condition: Your last action had the [[Traits#^7c76e1|Fling Trait]]
+	- Condition: Your last action had the [[Fling Trait]]
 	- Effect: You may move to adjacent space to a Foe you moved with your previous action.
 	- [[Attack Trait|Attack]] [[Traits#^7782f4|Crushing]] ^dca3e5
 - **Battle Meditation**, 1 AP

@@ -3,24 +3,34 @@ Traits are used to described basic functions of an Action along side the Action 
 Trait List: 
 (N = can be a number or a roll)
 
-
-[[Melee Trait]]
-![[Melee Trait]]
-
-[[Ranged Trait]]
-![[Ranged Trait]]
-
-[[Attack Trait]]
-![[Attack Trait]]
-
-[[Area Trait]]
-![[Area Trait]]
-
-[[Surprising Trait]]
 ![[Surprising Trait]]
+![[Aid Trait]]
+![[Area Trait]]
+![[Attack Trait]]
+![[Brutal Trait]]
+![[Burning Trait]]
+![[Charging Trait]]
+![[Companion]]
+![[Consumed Trait]]
+![[Crossover Trait]]
+![[Crushing Trait]]
+![[Expend Trait]]
+![[Final Trait]]
+![[Fling Trait]]
+![[Gain Trait]]
+![[Immobile Trait]]
+![[Melee Trait]]
+![[Mobile Trait]]
+![[Move Trait]]
+![[Piercing Trait]]
+![[Protected Trait]]
+![[Push Trait]]
+![[Ranged Trait]]
+![[Role Trait]]
+![[Sacrifice Trait]]
+![[Spend Trait]]
+![[Step Trait]]
 
-- Fling(N): This action **forces** the target move N spaces in a horizontal direction of your choice or straight up. ^7c76e1
-- Push: This action forces movement in a manner described by the effect
 - Immobile: You can't move for the rest of this turn. ^be2d6b
 - Consumed: This action ends your turn. ^74b16d
 - Aid: This action aids someone in some way. Allies characters affected by this action lose the [[Conditions#^471f1e|Impacted Condition]] ^e327ca

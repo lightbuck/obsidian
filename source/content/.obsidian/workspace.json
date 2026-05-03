@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3dbb88b2c3f7d234",
+        "id": "6695b92f6d2da553",
         "type": "tabs",
         "children": [
           {
-            "id": "dcef907f24347b18",
+            "id": "c3ae0681274987ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ed045c",
+                "query": "Push",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f91876d9e667db79",
@@ -168,20 +167,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcef907f24347b18",
+  "active": "c3ae0681274987ba",
   "lastOpenFiles": [
-    "Action Pools/Roles.md",
-    "Action Pools/Styles.md",
-    "Conditions.md",
-    "Traits/Traits.md",
-    "NPCS.md",
     "Action Pools/Powers.md",
+    "Traits/Traits.md",
+    "Action Pools/Styles.md",
+    "Gear.md",
+    "Tests/Halloween test/Halloween Characters/Wormy's Halloween Character.md",
+    "Movement.md",
+    "Traits/Action Traits/Surprising Trait.md",
+    "Traits/Action Traits/Aid Trait.md",
+    "Action Pools/Roles.md",
+    "Conditions.md",
+    "NPCS.md",
     "Traits/Action Traits/Crossover Trait.md",
     "Traits/Action Traits/Ranged Trait.md",
     "Traits/Action Traits/Melee Trait.md",
-    "Traits/Action Traits/Surprising Trait.md",
     "Traits/Action Traits/Step Trait.md",
-    "Traits/Action Traits/Aid Trait.md",
     "Traits/Action Traits/Area Trait.md",
     "Traits/Action Traits/Brutal Trait.md",
     "Traits/Action Traits/Piercing Trait.md",
@@ -193,9 +195,6 @@
     "Traits/Action Traits/Expend Trait.md",
     "Traits/Action Traits/Gain Trait.md",
     "Traits/Action Traits/Spend Trait.md",
-    "Traits/Action Traits/Role Trait.md",
-    "Traits/Action Traits/Move Trait.md",
-    "Traits/Action Traits/Protected Trait.md",
     "Traits/Action Traits",
     "Traits",
     "Foes",

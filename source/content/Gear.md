@@ -98,7 +98,7 @@ These traits add effects to maximum and minimum critical rolls that invoke this 
 - Reliable
 	Min Crits deal +1 damage, Max Crits deal +1 damage ^43881e
 - Heavy
-	Max Crits have [[Traits#^7c76e1|Fling(5)]] ^09d0cb
+	Max Crits have [[Fling Trait|Fling(5)]] ^09d0cb
 - Unstable
 	Min Crits deal +1 damage to the wielder, Max Crits Deal +3 damage
 - Impacting
