@@ -1,5 +1,3 @@
-#PhotonTTRPG  ^14b61d
-
 ## Action Traits
 Traits are used to described basic functions of an Action along side the Action Description
 Trait List: 
@@ -8,13 +6,19 @@ Trait List:
 
 [[Melee Trait]]
 ![[Melee Trait]]
+
 [[Ranged Trait]]
 ![[Ranged Trait]]
+
 [[Attack Trait]]
 ![[Attack Trait]]
+
 [[Area Trait]]
 ![[Area Trait]]
-- Surprising: This action's target becomes impacted ^ed045c
+
+[[Surprising Trait]]
+![[Surprising Trait]]
+
 - Fling(N): This action **forces** the target move N spaces in a horizontal direction of your choice or straight up. ^7c76e1
 - Push: This action forces movement in a manner described by the effect
 - Immobile: You can't move for the rest of this turn. ^be2d6b

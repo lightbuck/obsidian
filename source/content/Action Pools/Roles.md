@@ -19,7 +19,7 @@ What Role does your character play in a team? Roles determine your health and st
 - The Ace
 	- You shoot a target in the eye from a kilometer away, you slice a bullet flying through the air, when your team needs to do something impossible they ask you. The Ace has combo actions to set up buffs to greatly increase their results. 
 		- "Keeping Count" 1 AP Whenever you exhaust a character's [[Health and Stamina|Stamina]] you add a +1 to your [[Meter]], if you down an enemy you add a +2 #ph
-		- "You thought I was done?" 2 AP Whenever you roll less than half on an attack action that costed 2 ap or less, you can roll all its damage again, adding the [[Traits#^ed045c|Surprising Trait]] and the [[Traits#^b15948|ACE trait]] in a new aspect
+		- "You thought I was done?" 2 AP Whenever you roll less than half on an attack action that costed 2 ap or less, you can roll all its damage again, adding the [[Surprising Trait]] and the [[Traits#^b15948|ACE trait]] in a new aspect
 	- Trait: [[Traits#^b15948|ACE]]
 
 ## VERSION 2 #PH
@@ -65,7 +65,7 @@ What Role does your character play in a team? Roles give you ways to contribute 
 - The Ace
 	- You shoot a target in the eye from a kilometer away, you slice a bullet flying through the air, when your team needs to do something impossible they ask you. The Ace has combo actions to set up buffs to greatly increase their results. 
 		- "Keeping Count" 1 AP Whenever you exhaust a character's [[Health and Stamina|Stamina]] you add a +1 to your [[Meter]], if you down an enemy you add a +2 #ph
-		- "You thought I was done?" 2 AP Whenever you roll less than half on an attack action that costed 2 ap or less, you can roll all its damage again, adding the [[Traits#^ed045c|Surprising Trait]] and the [[Traits#^b15948|ACE trait]] in a new aspect
+		- "You thought I was done?" 2 AP Whenever you roll less than half on an attack action that costed 2 ap or less, you can roll all its damage again, adding the [[Surprising Trait]] and the [[Traits#^b15948|ACE trait]] in a new aspect
 	- Trait: [[Traits#^b15948|ACE]]
 ## VERSION 3 #PH 
 Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions]] and special [[Actions#^5b10a9|Rising/Falling Actions]] that inform your purpose in the team, they usually benefit your team more than you and cannot be taken by more than one character in a team.

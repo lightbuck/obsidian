@@ -74,7 +74,7 @@ Actions: ^eb8eb1
 	- [[Traits#^d885e1|Self]] |  ^aac58d
 - Draw! , 1 AP
 	- *You draw your weapon*
-	- Effect: Your next Attack gains the [[Traits#^ed045c|Surprising Trait]].
+	- Effect: Your next Attack gains the [[Surprising Trait]].
 	- [[Traits#^d885e1|Self]] | 
 - Aim for the Knee , 2 AP
 	- *You aim to cripple a Foe, prematurely ending their adventuring career.*
@@ -323,7 +323,7 @@ Combo Actions:
 - **Tactical Reposition**, 1 AP
 	- *Description*
 	- Condition: Your last action was a [[Ranged Trait|Ranged]] Attack
-	- Effect: Take two Move Actions, your next Attack gains the [[Traits#^ed045c|Surprising Trait]]
+	- Effect: Take two Move Actions, your next Attack gains the [[Surprising Trait]]
 	- [[Traits#^c90f08|Move]]
 
 Reactions: 

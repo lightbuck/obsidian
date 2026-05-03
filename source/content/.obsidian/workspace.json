@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55058c8c0a9adf92",
+        "id": "3dbb88b2c3f7d234",
         "type": "tabs",
         "children": [
           {
-            "id": "fcf471b7db219e6d",
+            "id": "dcef907f24347b18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "e6b705",
+                "query": "ed045c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f91876d9e667db79",
@@ -167,12 +168,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcf471b7db219e6d",
+  "active": "dcef907f24347b18",
   "lastOpenFiles": [
     "Action Pools/Roles.md",
     "Action Pools/Styles.md",
-    "NPCS.md",
+    "Conditions.md",
     "Traits/Traits.md",
+    "NPCS.md",
     "Action Pools/Powers.md",
     "Traits/Action Traits/Crossover Trait.md",
     "Traits/Action Traits/Ranged Trait.md",
@@ -189,7 +191,6 @@
     "Traits/Action Traits/Sacrifice Trait.md",
     "Traits/Action Traits/Charging Trait.md",
     "Traits/Action Traits/Expend Trait.md",
-    "Conditions.md",
     "Traits/Action Traits/Gain Trait.md",
     "Traits/Action Traits/Spend Trait.md",
     "Traits/Action Traits/Role Trait.md",
