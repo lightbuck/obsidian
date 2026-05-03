@@ -22,7 +22,7 @@ Actions:
 - **From the Spirits with Love**, 3 AP
 	- *You spend Spirit Energy you have accumulated to summon a massive bone blade that thrusts forward.*
 	- Effect: Target a 10 length line originating from you, or every point of [[Meter]] spent you deal +d4 to all [[Foes]] in that line.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] [[Traits#^69bd9b|Spend(10)]] ^d1cd4e
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Traits#^69bd9b|Spend(10)]] ^d1cd4e
 - **Spirit Barrier**, 1 AP
 	- *You use Spirit Energy to create a barrier between you and your Foes*
 	- Effect: Create within a radius of 5 a piece of [[The Battlefield#^4eb84d|Full Cover]] for every 2 points of [[Meter]] spent by this action
@@ -30,14 +30,14 @@ Actions:
 - ###### Death, 6 AP
 	- *You use your magic to catalyze all nearby Spirit Energy and you channel it into a devastating blow*
 	- Effect: Target a radius of 1, for every point of [[Meter]] spent by this action deal 2d6 damage to all characters within the radius. Until the end of the Scene any time a character is knocked out you gain 1 stack of [[Conditions#^685a66|Adrenaline]] 
-	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] [[Traits#^69bd9b|Spend(All)]] [[Traits#^ace9f7|Final]]
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Traits#^69bd9b|Spend(All)]] [[Traits#^ace9f7|Final]]
 
 Combo Actions:
 - **Ain't afraid of no Spirits**, 2 AP
 	- *After attacking a foe with Spirit Energy you force said energy into your Foe's body*
-	- Condition: The Previous action had the [[Traits#^69bd9b|Spend Trait]] and the [[Traits#^8f40c8|Attack Trait]] 
+	- Condition: The Previous action had the [[Traits#^69bd9b|Spend Trait]] and the [[Attack Trait]]
 	- Effect: Target a Foe you targeted with your previous action, they **get** 1 stack of the [[Conditions#^7a7e20|Stunned Condition]] ^a5d02f
-	- [[Traits#^8f40c8|Attack]]
+	- [[Attack Trait|Attack]]
 - **Possessed and Obsessed**, 1 AP
 	- *You infuse yourself with the Spirit Energy you collected, temporarily empowering yourself*
 	- Condition: The Previous action had the [[Traits#^d02161|Gain Trait]] 
@@ -58,7 +58,7 @@ Combo Actions:
 
 - Ain't afraid of no spirits, 2 AP
 	*After attacking a foe with Spirit Energy you force said energy into your Foe's body*
-	Condition: The Previous action had the [[Traits#^69bd9b|Spend Trait]] and the [[Traits#^8f40c8|Attack Trait]] 
+	Condition: The Previous action had the [[Traits#^69bd9b|Spend Trait]] and the [[Attack Trait]]
 	Effect: All targets of your previous action take 1d4 damage and if their stamina is exhausted they also **get** 1 stack of the [[Conditions#^7a7e20|Stunned Condition]]
 *The Spirit Energy you collected was unstable and you have to attempt to quell it.*
 	Condition: The Previous action had the [[Traits#^d02161|Gain Trait]] 
@@ -84,7 +84,7 @@ Actions:
 - **Siege Engine**, 2 AP
 	- *You charge forward, destroying anything in your path*
 	- Effect: Move in a line for double your speed (you can add [[Conditions#^868aeb|Quickened]]). Destroy any piece of terrain in the path you would move through and deal 2d6 damage to any enemy in the path (you can damage any enemy once with this action)
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^7782f4|Crushing]]
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^7782f4|Crushing]]
 - **Burst Dash**, 2 AP
 	- *You suddenly move at incredible speed, suddenly appearing next to a foe*
 	- Effect: Move to a space adjacent to a Foe that you can see. Your next action gains the [[Traits#^7782f4|Crushing Trait]]
@@ -97,17 +97,17 @@ Actions:
 Combo Actions:
 - **Tail Wind**, 1 AP
 	- *You are so powerful that your attacks unleash powerful winds*
-	- Condition: Your last action had the [[Traits#^8f40c8|Attack Trait]]
+	- Condition: Your last action had the [[Attack Trait]]
 	- Effect: Target all Foes in a radius equal to half the amount of damage you dealt with your last action, deal 1d6 damage.
-	- [[Traits#^8f40c8|Attack]]  ^22deee
+	- [[Attack Trait|Attack]]  ^22deee
 - **No Escape**, 1 AP
 	- *After throwing away the enemy you follow after the to deliver a follow up attack.*
 	- Condition: Your last action had the [[Traits#^7c76e1|Fling Trait]]
 	- Effect: You may move to adjacent space to a Foe you moved with your previous action.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^7782f4|Crushing]] ^dca3e5
+	- [[Attack Trait|Attack]] [[Traits#^7782f4|Crushing]] ^dca3e5
 - **Battle Meditation**, 1 AP
 	- *You focus on the battle*
-	- Condition: Your last action did not have the [[Traits#^8f40c8|Attack Trait]]
+	- Condition: Your last action did not have the [[Attack Trait]]
 	- Gain stacks of [[Conditions#^685a66|Adrenaline]] equal to the Round number. 
 	- [[Traits#^d885e1|Self]] 
 
@@ -128,13 +128,13 @@ Reactions:
 - "Work with fire"
 
 [[Power Features]]:
-- From Fires: Any time you take an action with the [[Traits#^e327ca|Aid Trait]], you gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]. Any time an action with the [[Traits#^8f40c8|Attack Trait]] targets more than one foe, you gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]
+- From Fires: Any time you take an action with the [[Traits#^e327ca|Aid Trait]], you gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]. Any time an action with the [[Attack Trait]]targets more than one foe, you gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]
 
 Actions:
 - Heart Afire, 2 AP
 	- *You open your palms and unleash a wave of fire*
 	- Effect: Deal 2d4 damage in a 3 cone angled from you
-	- [[Traits#^8f40c8|Attack]] [[Traits#^Ranged|Ranged]] [[Traits#^c65353|Burning(6)]] ^51ca19
+	- [[Attack Trait|Attack]] [[Traits#^Ranged|Ranged]] [[Traits#^c65353|Burning(6)]] ^51ca19
 - Blessed me with your future, 2 AP
 	- *You empower yourself and your allies weapons with fire*
 	- Effect: All Allies gain +1d6 damage to their next attack
@@ -142,39 +142,39 @@ Actions:
 - On Parade, 1 AP
 	- *You shoot up a flare of fire, inspiring your allies and blinding your foes*
 	- Effect: All Allies Gain 1d6 stacks of [[Conditions#^1d4c54|Empowered]], any Foes that you can see and that are below half Stamina become [[Conditions#^471f1e|Impacted]].
-	- [[Traits#^e327ca|Aid]] [[Traits#^8f40c8|Attack]]  ^091b70
+	- [[Traits#^e327ca|Aid]] [[Attack Trait|Attack]]  ^091b70
 - Protected with Fire, 3 AP
 	- *You cover an ally in fire, which will hurt any Foe that gets too close*
 	- Effect: Target an Ally, any Foe within radius 2 of them takes 1d8 damage.
-	- [[Traits#^e327ca|Aid]] [[Traits#^8f40c8|Attack]] [[Traits#^7782f4|Crushing]]
+	- [[Traits#^e327ca|Aid]] [[Attack Trait|Attack]] [[Traits#^7782f4|Crushing]]
 - ###### Justice, 6 AP
 	- *You channel an immense amount of power, burning away the evil of this world and empowering your allies.*
 	- Effect: Restore all allied Characters to maximum Stamina. Deal damage to all Foes for an amount equal to the total Stamina restored, additionally this action gains [[Traits#^c65353|Burning]] with a value equal to total the stamina restored.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ace9f7|Final ]] [[Traits#^c65353|Burning]]
+	- [[Attack Trait|Attack]] [[Traits#^ace9f7|Final ]] [[Traits#^c65353|Burning]]
 
 Combo Actions:
 - Everything Burns, 3 AP
 	- *You release the flames you've been holding inside in a massive wave of fire around you.*
-	- Condition: Your previous action did not have the [[Traits#^8f40c8|Attack Trait]]
+	- Condition: Your previous action did not have the [[Attack Trait]]
 	- Target all Foes in a radius of 7 centered on you, deal 3d6 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^Ranged|Ranged]] [[Traits#^c65353|Burning(8)]] ^037b8f
+	- [[Attack Trait|Attack]] [[Traits#^Ranged|Ranged]] [[Traits#^c65353|Burning(8)]] ^037b8f
 - Take You Higher 1 AP
 	- *You further empower an ally with fire*
 	- Condition: You previous action had the [[Traits#^e327ca|Aid Trait]]
 	- Effect: Choose 1 ally that you targeted with your previous action, their next action gains the [[Traits#^c65353|Burning(5) Trait]]
 	- [[Traits#^e327ca|Aid]] ^24412e
 - Work Forces, 2 AP
-	- *You follow up a melee attack with a fistful of fire*
+	- *You follow up blast with a fistful of fire*
 	- Condition: Your previous action had the [[Traits#^c65353|Burning Trait]]
 	- Effect: Target one Foe, deal 2d6 damage to them and make them [[Conditions#^471f1e|Impacted]]
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^c65353|Burning(7)]] ^9a79c8
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^c65353|Burning(7)]] ^9a79c8
 
 Reactions:
 - Ignite The Suits, R
 	- *Fight back*
 	- Condition: You took damage to your [[Health and Stamina|Health]]
 	- Effect: Target 1 adjacent foe, deal 3d6 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^c65353|Burning(6)]]  ^c9a5e9
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^c65353|Burning(6)]]  ^c9a5e9
 ## Resono Magic
 %%Spread Results, Support Allies and move stay on the move%%
 *All Resono inherit the ability to interact with Life Force, which is the silk that empowers living beings. They can share life force, steal it, suppress it and so on. But to do so a Resono must be able to physically reach with their hands into their target.*
@@ -208,12 +208,12 @@ Actions:
 Combo Actions:
 - **Got him where I want him now**, 2 AP
 	- *You grab an opponent by the life force and paralyze them* 
-	- Condition: Your previous action had the [[Traits#^8f40c8|Attack Trait]] and your target's stamina is exhausted.
+	- Condition: Your previous action had the [[Attack Trait]]and your target's stamina is exhausted.
 	- Effect: Target the Foe described by the condition and is adjacent to you, the foe gains [[Conditions#^7a7e20|Stunned(2)]]
-	- [[Traits#^8f40c8|Attack]] [[Traits#^5d64a2|Foes]] | [[Traits#^77bf53|Step(2)]] ^f51106
+	- [[Attack Trait|Attack]] [[Traits#^5d64a2|Foes]] | [[Traits#^77bf53|Step(2)]] ^f51106
 - **What you get**, 1 AP
 	- *After injuring a foe you transfer a negative condition from yourself to them*
-	- Condition: Your previous action had the [[Traits#^8f40c8|Attack Trait]]
+	- Condition: Your previous action had the [[Attack Trait]]
 	- Effect: Transfer a condition from yourself to one target of your previous action that is adjacent to you.
 	- [[Traits#^5d64a2|Foes]] | [[Traits#^77bf53|Step(2)]] ^b29e10
 - **I get this Feeling**, 2 AP
@@ -233,7 +233,7 @@ Actions:
 - **createWall()**, 1 AP
 	- *You summon a barrier of a solid material and send it forward*
 	- Effect: Target a 5 length line in beginning or ending in an adjacent space to you. Push enemies to the end of the line. Place a [[The Battlefield#^6e6320|Wall]] in the last space in the targeted line before the Foe you hit. 
-- 	[[Traits#^2d7726|Create]] [[Traits#^8f40c8|Attack]] [[Traits]] [[Traits#^deed79|Expend(3)]]
+- 	[[Traits#^2d7726|Create]] [[Attack Trait|Attack]] [[Traits]] [[Traits#^deed79|Expend(3)]]
 - **makeBlast()**, 2 AP
 	- You 
 - spikeThrow(), 2 AP
@@ -256,7 +256,7 @@ Reactions:
 	- *Fire lashes out from your wounds*
 	- Condition: You took damage to your [[Health and Stamina|Health]]
 	- Effect: Target 1 adjacent foe, deal 3d4 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^c65353|Blasting(3)]]  ^c9a5e9
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^c65353|Blasting(3)]]  ^c9a5e9
 ## Storm Hook
 %% Upkeep State, High AP, Adrenaline NEEDER %%
 *The Storm Hook is a powerful and raw Aspect of Magic. To obtain it one must get struck by lightning and survive the experience. Afterward the wielder will be able to summon electrical discharges at will, but to properly make use of the lightning the wielder must make use of a metal conduit of some sort.*
@@ -272,15 +272,15 @@ Actions:
 - **Of Ice And Snow**, 2 AP
 	- *You summon the storm, emitting lightning around you*
 	- Effect: Target one foe within 3 spaces of you, deal 2d6.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] [[Traits#^d2dbb4|Charging]] 
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Traits#^d2dbb4|Charging]] 
 - **The Hammer Of The Gods**, 3 AP
 	- *You channel lightning through your conduit and into a foe as you strike them*
 	- Effect: Target one foe with your Melee weapon, dealing 2d8 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] 
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] 
 - **To Fight The Horde**, 3 AP
 	- *You channel lightning through your Conduit to unleash a lightning bolt*
 	- Effect: Target one foe within Line of Sight, dealing 2d6 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] 
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] 
 - **Threshing Oar**, 2 AP
 	- *You lift yourself with lightning, leaping a great distance*
 	- Effect: Move your speed twice. You may choose to land in a space occupied by a Foe, forcing them to move to an adjacent space.
@@ -288,12 +288,12 @@ Actions:
 - ###### The Storm, 4 AP
 	- *For an instant as brief as a lightning strike you become one with the storm, releasing its power through your Conduit*
 	- Effect: DIE
-	- [[Traits#^8f40c8|Attack]] [[Traits#^d2dbb4|Charging]] [[Traits#^ace9f7|Final]]
+	- [[Attack Trait|Attack]] [[Traits#^d2dbb4|Charging]] [[Traits#^ace9f7|Final]]
 
 Combo Actions: 
 - **Danger, High Voltage**, 2 AP
 	- *The lightning from one of your strikes jumps to another foe*
-	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]] and the [[Traits#^8f40c8|Attack Trait]]
+	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]] and the [[Attack Trait]]
 	- Effect: target a second foe within a radius of 3 of your original target, they take the same damage you dealt with your previous action. If this attack exhausts a target's stamina you may repeat this effect once.
 	- [[Traits#^d2dbb4|Charging]] 
 - **Feel The Thunder**, 1 AP
@@ -310,19 +310,19 @@ Combo Actions:
 	- *You force the lightning you just discharged to return to you in a massive blast*
 	- Condition: Your last action caused you to lose the [[Conditions#^f57404|Charged Condition]]
 	- Effect: Target a radius of 3 centered on you, deal 3d6 damage to all Characters.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^d2dbb4|Charging]] 
+	- [[Attack Trait|Attack]] [[Traits#^d2dbb4|Charging]] 
 - **Don't Be a Stranger**, 1 AP
 	- *You use the electricity of your strikes to magnetically move your foes*
-	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]] and the [[Traits#^8f40c8|Attack Trait]]
+	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]] and the [[Attack Trait]]
 	- Effect: Target any foe affected by your last action, cause them to move to an adjacent space to you, or you may instead move yourself to a space adjacent to a foe you just affected.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^c90f08|Move]] [[Traits#^d2dbb4|Charging]] 
+	- [[Attack Trait|Attack]] [[Traits#^c90f08|Move]] [[Traits#^d2dbb4|Charging]] 
 
 Reactions: 
 - **Garden in the Rain**, R
 	- *You release your lightning to someone who was foolish enough to strike you*
 	- Condition: You have the  [[Conditions#^f57404|Charged Condition]] and a Foe targeted you with a melee attack
 	- Effect: Deal 1d6 damage to the triggering foe, if their stamina is exhausted by this action their action is cancelled.
-	- [[Traits#^8f40c8|Attack]]
+	- [[Attack Trait|Attack]]
 - **Tempest's Overture**, R
 	- *You got hit, but this only made you more determined to strike down your foes.*
 	- Condition: You take damage from an attack
@@ -355,7 +355,7 @@ Actions:
 - **Mono-Threaded Skewering**, 2 AP
 	- *You use your Daemon to deliver a devastating Blow and then you let it feed on the spoils*
 	- Effect: Target one Foe within Weapon Range, deal 4d6 damage.
-	- [[Traits#^195914|Sacrifice]] [[Traits#^8f40c8|Attack]]
+	- [[Traits#^195914|Sacrifice]] [[Attack Trait|Attack]]
 - **Pull**, 1 AP
 	- *You allow your Daemon to take over your body*
 	- Effect: You gain the [[Conditions#^9d723e|Daemonized Condition]], replace your current stamina by an amount equal to every point of [[Meter]] Spent by this action. 
@@ -422,12 +422,12 @@ Actions:
 	- [[Traits#^d885e1|Self]]
 - **Arrière**, 2 AP
 	- *You take advantage of a Foe's vulnerable state to sink them in the shadows.*
-	- Effect: Target a foe with the [[Conditions#^471f1e|Impacted Condition]] or an ally, they gain the [[Conditions#^47fe37|Hidden Condition]]. If the Target was a foe, they become [[Conditions#^7a7e20|Stunned]] the next time you gain the [[Conditions#^47fe37|Hidden Condition]]. If this action targets a foe then it gains the [[Traits#^8f40c8|Attack Trait]].
+	- Effect: Target a foe with the [[Conditions#^471f1e|Impacted Condition]] or an ally, they gain the [[Conditions#^47fe37|Hidden Condition]]. If the Target was a foe, they become [[Conditions#^7a7e20|Stunned]] the next time you gain the [[Conditions#^47fe37|Hidden Condition]]. If this action targets a foe then it gains the [[Attack Trait]].
 	- [[Traits#^d885e1|Self]]
 - **Tourant**, 1 AP
 	- *You dance, commanding nearby shadows to imprison your foes*
 	- Effect: Target up to three exhausted Foes, they become [[Conditions#^471f1e|Impacted]]
-	- [[Traits#^8f40c8|Attack]]
+	- [[Attack Trait|Attack]]
 - **Avant**, 1 AP
 	- *You transport your allies with you as you dance.*
 	- Effect: Take a [[Actions#^642a2c|Move Action]], any allies you move through with this action may choose to move to a space that you passed through. Gain the [[Conditions#^47fe37|Hidden Condition]]
@@ -438,20 +438,20 @@ Combo Actions:
 	- *You emerge from the shadows for a brief moment before continuing to dance*
 	- Condition: You have the [[Conditions#^47fe37|Hidden Condition]]
 	- Effect: Select a radius of 3, all foes within that radius gain the [[Conditions#^471f1e|Impacted Condition]]. You gain the[[Conditions#^47fe37|Hidden Condition]].
-	- [[Traits#^8f40c8|Attack]]
+	- [[Attack Trait|Attack]]
 - **Heel Drop**, 2 AP
 	- *You emerge from the shadows and deliver a devastating yet graceful blow*
 	- Condition: You have the [[Conditions#^47fe37|Hidden Condition]]
 	- Effect: Target one foe within melee range, deal 3d6 damage.
-	- [[Traits#^ff0aa3|Melee]] [[Traits#^8f40c8|Attack]] 
+	- [[Melee Trait|Melee]] [[Attack Trait|Attack]] 
 - **Nerve Tap**, 3 AP
 	- *You tap the floor, turning nearby shadows against their owners.*
 	- Condition: Your last action made you lose the [[Conditions#^47fe37|Hidden Condition]]
 	- Effect: Target up to three Foes that you can see and that are currently impacted, deal 3d4 damage. 
-	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]]
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]]
 - **Changement**, 1 AP
 	- *Even if you aren't outright dancing, your movements are so graceful you might as well still be dancing.*
-	- Condition: Your last action did not have the [[Traits#^8f40c8|Attack Trait]]
+	- Condition: Your last action did not have the [[Attack Trait]]
 	- Effect: Gain the [[Conditions#^47fe37|Hidden Condition]]
 	- [[Traits#^d885e1|Self]]
 
@@ -480,7 +480,7 @@ Actions:
 - **Half Circle Heavy Strike**, 1 AP
 	- *You release a large amount of kinetic energy into a single devastating blow*
 	- Effect: Target one foe within Melee Range, deal 2d6 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^69bd9b|Spend(All)]]
+	- [[Attack Trait|Attack]] [[Traits#^69bd9b|Spend(All)]]
 - **Commanding Grab**, 2 AP
 	- *You grab a hold of an enemy and hold them still by absorbing their kinetic energy*
 	- Effect: Target one foe within melee range, that foe gains an amount of [[Conditions#^8081d3|Slowed]] equal to their movement speed and you gain an equal amount of [[Meter]]. Additionally you gain the [[Conditions#^503ca4|Centered Condition]]. 
@@ -499,7 +499,7 @@ Combo Actions:
 	- [[Traits]]
 - **Framed and Trapped**, 1 AP
 	- *You take a pause, deliberately giving your foe an opportunity to strike you*
-	- Condition: Your last action had the [[Traits#^8f40c8|Attack Trait]]
+	- Condition: Your last action had the [[Attack Trait]]
 	- Effect: Target one foe within line of sight, they must take a 1 AP action with the attack trait, targeting you.
 	- [[Traits]]
 

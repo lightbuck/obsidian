@@ -7,7 +7,7 @@ You fight up close, you could be doing anything from stabbing someone with a swo
 Actions:
 - **Bash**, 1 AP
 	- Effect: Target one foe with your Melee weapon, dealing 1d6 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] | ^3b39fa
+	- [[Attack Trait|Attack]][[Melee Trait|Melee]] | ^3b39fa
 - **Readjust Stance**, 1 AP
 	- *You readjust your stance, possibly swapping your weapon for another*
 	- Effect: Roll your [[Health and Stamina#^7170e3|Recovery Die]]
@@ -15,47 +15,47 @@ Actions:
 - **Shove Strike**, 1 AP
 	- *You make a strike that shoves away an enemy*
 	- Effect: Target one foe with your Melee weapon, dealing 1d4 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^7c76e1|Fling(3)]] ^adead5
+	- [[Attack Trait|Attack]][[Melee Trait|Melee]] [[Traits#^7c76e1|Fling(3)]] ^adead5
 - **Overbearing Strike**, 2 AP
 	- *You make an attack with all your strength*
 	- Effect: Target one foe with your Melee weapon, dealing 4d6. 
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^74b16d|Consumed]] | ^417f07
+	- [[Attack Trait|Attack]][[Melee Trait|Melee]] [[Traits#^74b16d|Consumed]] | ^417f07
 - **Sweep**, 3 AP
 	- *You making a sweeping attack around you, hitting all foes near you and pushing them away*
 	- Effect: Target any foes with your Melee Weapon within its range, dealing 1d4
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] |
+	- [[Attack Trait|Attack]][[Melee Trait|Melee]] |
 - Make A Stand. 2 AP
 	- *You plant your feet and stop right where you are, determined to not let anyone pass*
-	- Effect: Until your next turn, your reach with melee weapons is increased by 1 space and any time you take an action with the [[Traits#^8f40c8|Attack Trait]] your target(s) gains stacks of [[Conditions#^8081d3|Slowed]] equal to the damage you deal. 
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^be2d6b|Immobile]] |
+	- Effect: Until your next turn, your reach with melee weapons is increased by 1 space and any time you take an action with the [[Attack Trait]]your target(s) gains stacks of [[Conditions#^8081d3|Slowed]] equal to the damage you deal. 
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^be2d6b|Immobile]] |
 Combo Actions:
 - **One Two**, 1 AP
 	- *You follow up a strike with a quick jab.*
-	- Condition: Your last action had the [[Traits#^8f40c8|Attack Trait]] and the [[Traits#^ff0aa3|Melee Trait]] 
+	- Condition: Your last action had the [[Attack Trait]]and the[[Melee Trait]]
 	- Effect: Target one foe with your Melee weapon, dealing 1d4 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Conditions#^9ed920|Stressing(2)]] | ^486153
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Conditions#^9ed920|Stressing(2)]] | ^486153
 - **And Bow**, 2 AP
 	- *You use the momentum from your last attack to spin around, hitting anyone in the way.
-	- Condition: Your last action had the [[Traits#^8f40c8|Attack Trait]] *
+	- Condition: Your last action had the [[Attack Trait]]*
 	- Effect: Target two foes with your Melee weapon, dealing 1d6 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^74b16d|Consumed]] |  ^6e75b3
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^74b16d|Consumed]] |  ^6e75b3
 - **Where were we?**, 1 AP
 	- *After a short break you immediately return to smashing someone's face in.*
-	- Condition: Your last action did not have the  [[Traits#^8f40c8|Attack Trait]] 
+	- Condition: Your last action did not have the  [[Attack Trait]]
 	- Effect: Target one foe with your Melee weapon, dealing 1d6 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Conditions#^9ed920|Stressing(2)]] |  ^2433da
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Conditions#^9ed920|Stressing(2)]] |  ^2433da
 
 Reactions:
 - **Clashing Arms**, R
 	- *You raise your weapon to stop an enemy's strike*
-	- Condition: Whenever you take damage to your [[Health and Stamina|Stamina]] from an action with the [[Traits#^8f40c8|Attack Trait]] and the [[Traits#^ff0aa3|Melee Trait]]
+	- Condition: Whenever you take damage to your [[Health and Stamina|Stamina]] from an action with the [[Attack Trait]]and the [[Melee Trait]]
 	- Effect: Gain 3d4 stacks of [[Conditions#^9f2db4|Protected]] before you take the damage that triggered this attack
-	- [[Traits#^ff0aa3|Melee]] ^09e508
+	- [[Melee Trait|Melee]] ^09e508
 - **Cut the Wind**, R
 	- *You use your weapon to deflect a ranged attack to an enemy close to you.*
-	- Condition: Whenever you would take damage to your [[Health and Stamina|Stamina]] from an action with the [[Traits#^cbb2c4|Ranged Trait]]
+	- Condition: Whenever you would take damage to your [[Health and Stamina|Stamina]] from an action with the [[Ranged Trait]]
 	- Effect: Target one Foe that you can see, that Foe becomes the new target for the Action that provoked this Reaction
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^6ed443|Risky(3)]] |
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^6ed443|Risky(3)]] |
 
 ## Ranged ^cbf70b
 Combat from afar, could be shooting arrows, bullets, spells, throwing knives, hammers etc.
@@ -63,14 +63,14 @@ Actions: ^eb8eb1
 - Shoot , 1 AP
 	- *You shoot a foe with your weapon*
 	- Effect: Target 1 Foe with your weapon, deal 1d6 damage
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Ranged]] | ^ba66aa
+	- [[Attack Trait|Attack]] [[Ranged Trait]] | ^ba66aa
 - Trick Shot , 2 AP
 	- *You skillfully fire a shot that has extra effects*
 	- Effect: Target 1 Foe with your weapon, deal 1d4 damage. This action gains a [[Traits|Trait]] of your choice from the following list: [[Traits#^7c76e1|Fling(4)]], [[Conditions#^9ed920|Stressing(2)]], [[Traits#^9e3f4f|Mobile]], [[Traits#^c65353|Loaded(2)]], [[Traits#^21477e|Brutal]] or [[Traits#^cb440a|Piercing]].
 	- [[Traits#^d885e1|Self]] |  ^9e667a
 - Reload , 1 AP
 	- *Load ammunition into your weapon*
-	- Effect: Your next Attack with the [[Traits#^cbb2c4|Ranged Trait]] deals +1d6 extra damage
+	- Effect: Your next Attack with the [[Ranged Trait]] deals +1d6 extra damage
 	- [[Traits#^d885e1|Self]] |  ^aac58d
 - Draw! , 1 AP
 	- *You draw your weapon*
@@ -83,31 +83,31 @@ Actions: ^eb8eb1
 Combo Actions:
 - RicoShot , 1 AP
 	- *Your previous shot bounces off of your target and onto another target*
-	- Condition: You previous action had the [[Traits#^8f40c8|Attack]] and [[Traits#^ff0aa3|Ranged]] traits
+	- Condition: You previous action had the [[Attack Trait|Attack]] and **[[Ranged Trait|Ranged]]** traits
 	- Effect: Target 1 Foe within line of sight of your previous target, this attack inherits any traits of your previous attack but its damage is its weapon bonus +1d4 
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Ranged]] | ^523773
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] | ^523773
 - Devil Juggler , 1 AP
 	- *You shoot again to keep pushing your enemy.*
 	- Condition: You previous action had the [[Traits#^7c76e1|Fling Trait]]
 	- Effect: Target 1 Foe (that was the previous action's target) with your weapon, deal 1d6 damage. For every 2 points of damage you deal with this action you increase the [[Traits#^7c76e1|Fling]] trait on this action by 1.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Ranged]] [[Traits#^7c76e1|Fling(1)]] | ^eb7c85
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Traits#^7c76e1|Fling(1)]] | ^eb7c85
 - More Dakka , 2 AP
 	- *You follow up your shot with... even more shots.*
-	- Condition: You previous action had the [[Traits#^8f40c8|Attack]] and [[Traits#^ff0aa3|Ranged]] traits
+	- Condition: You previous action had the [[Attack Trait|Attack]] and [[Ranged Trait|Ranged]] traits
 	- Effect: Deal 2d4 three times, choosing a target for each roll.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Ranged]] [[Traits#^74b16d|Consumed]]| ^bba0dd
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Traits#^74b16d|Consumed]]| ^bba0dd
 - Hipfire , 1 AP
 	- *You quickly fire a shot.*
-	- Condition: You previous action did not have the [[Traits#^8f40c8|Attack Trait]] 
+	- Condition: You previous action did not have the [[Attack Trait]]
 	- Effect: Target one Foe with your weapon, deal 1d8. If this action exhausts the target's stamina you gain [[Conditions|Adrenaline]]
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Ranged]] [[Traits#^9e3f4f|Mobile]]| ^e11950
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Traits#^9e3f4f|Mobile]]| ^e11950
 
 Reaction:
 - Shoot the Bullet
 	- *You shoot an enemy's shot out of the air.*
-	- Condition: Whenever you would take damage to your [[Health and Stamina|Stamina]] from an action with the [[Traits#^cbb2c4|Ranged Trait]]
-	- Effect: Choose a [[Actions#^8c5a75|Core Action]] with the [[Traits#^8f40c8|Attack]] and [[Traits#^ff0aa3|Ranged]] traits and roll its damage. Reduce the triggering attack's damage by the damage you just rolled.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Ranged]] ^c8b15b
+	- Condition: Whenever you would take damage to your [[Health and Stamina|Stamina]] from an action with the [[Ranged Trait]]
+	- Effect: Choose a [[Actions#^8c5a75|Core Action]] with the [[Attack Trait|Attack]] and [[Ranged Trait|Ranged]] traits and roll its damage. Reduce the triggering attack's damage by the damage you just rolled.
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] ^c8b15b
 
 
 ## Cavalier
@@ -116,7 +116,7 @@ Actions:
 - **Push Through** , 2 AP
 	- *You rush past your foes, attacking as you move* 
 	- Effect: Move your speed. You may pass through spaces occupied by enemies with this action but not end in such a space. Target two foes (that were adjacent to you at some point during this action) with your Melee weapon, dealing 1d6 damage to both
-	- [[Traits#^8f40c8|Attack]] [[Traits#^c90f08|Move]] [[Traits#^ff0aa3|Melee]] | ^931d0f
+	- [[Attack Trait|Attack]] [[Traits#^c90f08|Move]] [[Melee Trait|Melee]] | ^931d0f
 - Armored Gallop, 1 AP
 	- *You move with your mount, taking a defensive stance*
 	- Effect: Move your speed and roll your [[Health and Stamina#^7170e3|Recovery Die]]
@@ -131,7 +131,7 @@ Combo Actions:
 	- *You use your momentum to deliver a devastating attack*
 	- Condition: you moved with your previous action
 	- Effect: Take a move action, after finishing this movement target one foe adjacent to you. Deal a point of damage for every space you moved this round, in a move action that was a line.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]] [[Traits#^c90f08|Move]] [[Traits#^21477e|Brutal]] |  ^35a702
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^c90f08|Move]] [[Traits#^21477e|Brutal]] |  ^35a702
 - **Blast Off**, 1 AP
 	- *You use the momentum of your attack to quickly depart*
 	- Condition: Your last action was an attack
@@ -209,8 +209,8 @@ Actions:
 Combo Actions: 
 - **You're wasting my time!**, 2 AP
 	- *You cease fighting a Foe who's definitely not worth your time, which hurts your Foes on an emotional level*
-	- Condition: Your last action had the [[Traits#^8f40c8|Attack Trait]] and did not have the [[Traits#^e6b705|Area Trait]] and your target did not take damage nor was exhausted by that action
-	- Effect: Take a [[Actions#^ffdf5f|Flourish Action]] for free. You target a Foe, which can't be one of the Triggering Foes, with an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]]. If you exhaust this Foe's stamina the target of the Triggering action also becomes Exhausted
+	- Condition: Your last action had the [[Attack Trait]]and did not have the [[Area Trait|Area]] and your target did not take damage nor was exhausted by that action
+	- Effect: Take a [[Actions#^ffdf5f|Flourish Action]] for free. You target a Foe, which can't be one of the Triggering Foes, with an applicable 1 AP Main Action that has the [[Traits#^|Attack Trait]]. If you exhaust this Foe's stamina the target of the Triggering action also becomes Exhausted
 	- [[Traits]]
 - **Now I'm motivated!**, 1 AP
 	- *You are ready for the fight*
@@ -250,7 +250,7 @@ Actions:
 Combo Actions: 
 - **Isn't there a bounty on your head?**, 2 AP
 	- *Description*
-	- Condition: Your last action targeted a Foe and did not have the [[Traits#^8f40c8|Attack Trait]]
+	- Condition: Your last action targeted a Foe and did not have the [[Attack Trait]]
 	- Effect: The foe gains the [[Conditions#^abf227|Hunted Condition]]
 	- [[Traits]]
 - **Stow Weapon**, 1 AP
@@ -286,12 +286,12 @@ Actions:
 Combo Actions: 
 - **You're going to make me angry!**, 1 AP
 	- *You threaten your Foe with the promise of showing what you're truly capable of*
-	- Condition: Your last action had the [[Traits#^8f40c8|Attack Trait]]  
+	- Condition: Your last action had the [[Attack Trait]] 
 	- Effect: Your Foe gains the [[Conditions#^471f1e|Impacted condition]]
 	- [[Traits]]
 - **You forced me to do this!**, 1 AP
 	- *You lose your patience and set your power loose*
-	- Condition: Your last action did not have the [[Traits#^8f40c8|Attack Trait]]   
+	- Condition: Your last action did not have the [[Attack Trait]]  
 	- Effect: Your next action gains the [[Traits#^21477e|Brutal Trait]]
 	- [[Traits]]
 
@@ -311,7 +311,7 @@ Reactions:
 Actions:
 - **One Shot**, 3 AP ^9ce859
 	- *Description*
-	- Effect: Target a Foe, your next Attack with the [[Traits#^cbb2c4|Ranged Trait]] gains the [[Traits#^21477e|Brutal Trait]]
+	- Effect: Target a Foe, your next Attack with the [[Ranged Trait]] gains the [[Traits#^21477e|Brutal Trait]]
 	- [[Traits]]
 
 Combo Actions: 
@@ -322,19 +322,19 @@ Combo Actions:
 	- [[Traits#^74b16d|Consumed]]
 - **Tactical Reposition**, 1 AP
 	- *Description*
-	- Condition: Your last action was a [[Traits#^cbb2c4|Ranged]] Attack
+	- Condition: Your last action was a [[Ranged Trait|Ranged]] Attack
 	- Effect: Take two Move Actions, your next Attack gains the [[Traits#^ed045c|Surprising Trait]]
 	- [[Traits#^c90f08|Move]]
 
 Reactions: 
 - **Tactical Roll**, R
 	- *Description*
-	- Condition: you are targeted with a [[Traits#^ff0aa3|Melee]] or [[Traits#^e6b705|Area]] Attack
+	- Condition: you are targeted with a [[Melee Trait|Melee]] or [[Area Trait|Area]] Attack
 	- Effect: You may move 1 to 3 spaces before being attacked.
 	- [[Traits]]
 - **Shoot the Bullet**, R
 	- *Description*
-	- Condition: you are targeted with a [[Traits#^cbb2c4|Ranged]] Attack
+	- Condition: you are targeted with a [[Ranged Trait|Ranged]] Attack
 	- Effect: You cancel the triggering attack.
 	- [[Traits]]
 ## Rider

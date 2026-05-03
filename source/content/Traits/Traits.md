@@ -6,10 +6,14 @@ Trait List:
 (N = can be a number or a roll)
 
 
-- Melee: This action targets characters adjacent to you. ^ff0aa3
-- Ranged: This action targets characters within line of sight of you.  ^cbb2c4
-- Attack: This action deals the listed damage to the target ^8f40c8
-- Area: This action targets an area in some way described by the effect. ^e6b705
+[[Melee Trait]]
+![[Melee Trait]]
+[[Ranged Trait]]
+![[Ranged Trait]]
+[[Attack Trait]]
+![[Attack Trait]]
+[[Area Trait]]
+![[Area Trait]]
 - Surprising: This action's target becomes impacted ^ed045c
 - Fling(N): This action **forces** the target move N spaces in a horizontal direction of your choice or straight up. ^7c76e1
 - Push: This action forces movement in a manner described by the effect
@@ -27,7 +31,7 @@ Trait List:
 - Expend(N): This action drains N stamina from you and gain one stack of [[Conditions#^685a66|Adrenaline]]. If you have no stamina you instead gain N stacks of the [[Conditions#^9ed920|Stressed Condition]]. ^deed79
 - Charging: You gain or sustain the [[Conditions#^f57404|Charged Condition]] ^d2dbb4
 - Sacrifice: At the end of this action your current stamina is reduced by the size of your [[Health and Stamina|Recovery Die]]. Gain [[Meter]] equal to the amount lost. However you currently have the [[Conditions#^9d723e|Daemonized Condition]] you instead gain [[Meter]] equal to the amount of damage you deal, up to twice the size of your [[Health and Stamina|Recovery Die]]. ^195914
-- Crossover: Any ally with a bond with you may expend their AP to use this action. If this action has the [[Traits#^8f40c8|Attack Trait]] it must target a Foe within line of sight of the ally. Any effects of the action happen as if you used it, but for the purposes of conditions for the ally's following actions it will count as if they had taken this action. When used this way, you may also take a move action for free before taking this action. ^0609c3
+- Crossover: Any ally with a bond with you may expend their AP to use this action. If this action has the [[Attack Trait]]it must target a Foe within line of sight of the ally. Any effects of the action happen as if you used it, but for the purposes of conditions for the ally's following actions it will count as if they had taken this action. When used this way, you may also take a move action for free before taking this action. ^0609c3
 - Companion: This action may only be taken by your Companion(s). ^c2aac5
 - Crushing: If this action exhausts its target's stamina, they also become impacted. ^7782f4
 - Final: You can only use this action once per Scene. This Action cannot have the [[Traits#^0609c3|Crossover Trait]]. You can only Know one of this actions. ^ace9f7
@@ -48,8 +52,8 @@ List:
 - Royale(N): At the end of every turn all characters who aren't in this area take N damage
 - Trudging(N): All characters in this area have a N movement tax
 - Showdown:  At the beginning of the first round all Characters gain [[Conditions#^685a66|Adrenaline]]
-- Mosh Pit: All characters in this area take 1 stamina damage once per turn in which they take an action without the [[Traits#^8f40c8|Attack Trait]] #PH ^1bef78
-- Library: All characters in this area take 1 stamina damage once per turn in which they take an action with the [[Traits#^8f40c8|Attack Trait]] #PH
+- Mosh Pit: All characters in this area take 1 stamina damage once per turn in which they take an action without the [[Attack Trait]]#PH ^1bef78
+- Library: All characters in this area take 1 stamina damage once per turn in which they take an action with the [[Attack Trait]]#PH
 
 ## Deprecated Traits
 
@@ -64,11 +68,6 @@ These traits determine the who or what this action targets, they are mutually ex
 - Allies(N): This Action targets N allies at any range ^412513
 - Foes(N): This Action targets N foes at any range ^5d64a2
 - Any(N): This Action targets N characters at any range
-if an aspect does not have a targeting trait it means it inherits the target from the previous aspect. Example
-[[Traits#^8f40c8|Attack]](W+1d6), [[Traits#^ff0aa3|Melee(1)]] | [[Conditions#^9ed920|Stressing(2)]] 
-The second aspect targets the same foe you targeted with the previous aspect
-[[Traits#^8f40c8|Attack]](W+1d6), [[Traits#^ff0aa3|Melee(1)]] |  [[Traits#^ff0aa3|Melee(1)]], [[Conditions#^9ed920|Stressing(2)]] |
-The second aspect targets the any foe in melee of your choice
 
 #### Roll Traits
 These Traits revolve around invoking rolls for an action or modifying their results

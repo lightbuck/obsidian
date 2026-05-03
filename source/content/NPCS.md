@@ -14,28 +14,28 @@ Specialist Units have 2 AP and have access to Actions with the Save Trait
 # NPC Actions
 - **Ranged Barrage**, 1 AP
 	- Effect: Each Character Targets one Foe, dealing 1d4+2 damage.
-	- [[NPCS#^1998e7|Group]] [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]]
+	- [[NPCS#^1998e7|Group]] [[Attack Trait|Attack]] [[Ranged Trait|Ranged]]
 - **Running Gun**, 1 AP
 	- Effect: Each character takes a move action and Targets one Foe, dealing 1d4 damage.
-	- [[NPCS#^1998e7|Group]] [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]]
+	- [[NPCS#^1998e7|Group]] [[Attack Trait|Attack]][[Ranged Trait|Ranged]]
 - **Melee Fest**, 1 AP
 	- Effect: Each character targets an adjacent Foe, dealing 1d6+2 damage.
-	- [[NPCS#^1998e7|Group]] [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]]
+	- [[NPCS#^1998e7|Group]] [[Attack Trait|Attack]][[Melee Trait|Melee]]
 - **Rushdown**, 1 AP
 	- Effect: Each characters takes a move action and then targets an adjacent Foe, dealing 1d6 damage.
-	- [[NPCS#^1998e7|Group]] [[Traits#^8f40c8|Attack]] [[Traits#^ff0aa3|Melee]]
+	- [[NPCS#^1998e7|Group]] [[Attack Trait|Attack]][[Melee Trait|Melee]]
 - **Body Shot**, 1 AP
 	- Effect: Target one Foe, dealing 1d6+4 damage.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]]
+	- [[Attack Trait|Attack]][[Ranged Trait|Ranged]]
 - **Snipe**, 2 AP
 	- Effect: Target one Foe, dealing 3d4+6 damage.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]]
+	- [[Attack Trait|Attack]][[Ranged Trait|Ranged]]
 - **Aim for the Knee**, 2 AP
 	- Effect: Target one Foe, dealing 2d4 damage.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^cbb2c4|Ranged]] [[NPCS#^157812|Save(10)(Impacted)]]
+	- [[Attack Trait|Attack]][[Ranged Trait|Ranged]] [[NPCS#^157812|Save(10)(Impacted)]]
 - **Concussing Wave**, 2 AP
 	- Effect: Target a cone of 3, dealing 2d4 damage.
-	- [[Traits#^8f40c8|Attack]] [[Traits#^e6b705|Area]] [[NPCS#^157812|Save(8)(Impacted)]]
+	- [[Attack Trait|Attack]][[Area Trait|Area]] [[NPCS#^157812|Save(8)(Impacted)]]
 
 ## NPC Traits
 - Group: All characters within this unit count as taking this action ^1998e7

@@ -31,7 +31,7 @@ What Role does your character play in a team? Roles give you ways to contribute 
 		- "You'll have to get through me first" R, Whenever a [[Terminology#^2669e6|Foe]] uses a move action to pass in a square adjacent to you, you make the enemy end their movement action.
 	- Actions: 
 		- "I'll hold them back!" Combo 1 AP, Your last action made you gain [[Health and Stamina|Stamina]], you lose that stamina you would have gained but your allies gain it instead
-		- "Eyes on me" Combo 1 AP, Your previous action had the [[Traits#^8f40c8|Attack Trait]], any foe you previously this turn hit will be forced to target you with their next action that has the [[Traits#^8f40c8|Attack Trait]]
+		- "Eyes on me" Combo 1 AP, Your previous action had the [[Attack Trait]], any foe you previously this turn hit will be forced to target you with their next action that has the [[Attack Trait]]
 	- Passive:
 		At the beginning of your turn get a stack of [[Conditions#^685a66|Adrenaline]] for every 2 missing [[Health and Stamina|Health]]
 - The Tactician
@@ -104,7 +104,7 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 - Hands off of my friend! , Reaction
 	Condition: An ally's [[Health and Stamina|Stamina]] is [[Health and Stamina|Exhausted]] by a Foe
 	You avenge your ally by quickly hitting the enemy.
-	Effect: You may take a 1 AP action with the [[Traits#^8f40c8|Attack Trait]], targeting only the Foe that exhausted your teammate's [[Health and Stamina|Stamina]].
+	Effect: You may take a 1 AP action with the [[Attack Trait]], targeting only the Foe that exhausted your teammate's [[Health and Stamina|Stamina]].
 ## VERSION 4 this time im sure I know what im doing
 
 - Tank
@@ -120,7 +120,7 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 			- **Stand Behind Me!**, R
 				- *You act as a wall* 
 				- Condition: One ore more allies you can see are targeted by an attack.
-				- Effect: The allies are no longer targeted by the triggering attack. And you become the sole target. If the attack had the [[Traits#^e6b705|Area Trait]], your allies may move to a free space next to you, if it didn't you instead move to a free space next to them.
+				- Effect: The allies are no longer targeted by the triggering attack. And you become the sole target. If the attack had the [[Area Trait|Area Trait]], your allies may move to a free space next to you, if it didn't you instead move to a free space next to them.
 				- [[Traits#^e327ca|Aid]] [[Traits#^c39ead|Role]]
 	- Wasp
 		- Combo Actions:
@@ -134,7 +134,7 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 				- *You see a foe try to pull some shit and you politely make them stop* 
 				- Condition: a Foe adjacent to you targets someone other than you with an action.
 				- Effect: Deal 2d4 Damage to that Foe. Additionally if you are not Exhausted, you may deal 2d8 Damage to that Foe if their next attack does not target you.
-				- [[Traits#^8f40c8|Attack]] [[Traits#^c39ead|Role]] 
+				- [[Attack Trait|Attack]] [[Traits#^c39ead|Role]] 
 - Support
 	Help others to stay alive or make them more powerful
 	- Medic
@@ -170,13 +170,13 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 			- **Fighting instinct**, 1 AP
 				- *You revel in the violence you brought upon your enemy*
 				- Condition: You Knocked Out a Unit with your last action
-				- Effect: Take an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]], even actions you already took this round.
+				- Effect: Take an applicable 1 AP Main Action that has the [[Attack Trait]], even actions you already took this round.
 				- [[Traits#^c39ead|Role]]
 		- Reactions: 
 			- **You thought I was done?**, R
 				- *You surprise your foe by continuing your turn.* 
 				- Condition: A Foe that you attacked last begins their turn.
-				- Effect: Take an applicable 1 AP Main Action that has the [[Traits#^8f40c8|Attack Trait]], targeting that Foe.
+				- Effect: Take an applicable 1 AP Main Action that has the [[Attack Trait]], targeting that Foe.
 				- [[Traits#^c39ead|Role]]
 	- Irritator
 		- Combo Actions:

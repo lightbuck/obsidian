@@ -1,0 +1,14 @@
+{
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    },
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ]
+}
