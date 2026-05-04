@@ -1,0 +1,1 @@
+Your Stamina pool is unlimited. However effects such as the [[Power Features#^a04714|From Overflow Feature]] still reference your original stamina pool. Any time you would deal damage you may choose to add all your current stamina as a damage bonus, and lose that amount of stamina. If your Stamina is exhausted remove this condition after resolving that action.

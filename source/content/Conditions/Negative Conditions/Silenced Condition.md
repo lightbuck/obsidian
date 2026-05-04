@@ -1,0 +1,1 @@
+You cannot gain or spend [[Meter]].

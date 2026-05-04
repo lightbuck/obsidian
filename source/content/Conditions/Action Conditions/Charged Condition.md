@@ -1,0 +1,1 @@
+When you take an action without the [[Charging Trait]] increase any damage it might deal (or any stamina it might grant) by 1d6 for every [[Actions#^2c1bb5|Effective AP]] spent since you last gained this condition including this action. Afterward this condition is removed. 

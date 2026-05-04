@@ -1,0 +1,1 @@
+You can consume any number of stacks of this condition when moving to increase your speed for that move action. Or you may consume them to increase the Stamina regained when rolling your recovery die. (both are increased by +1 per stack).

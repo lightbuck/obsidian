@@ -123,7 +123,7 @@ Actions:
 	- [[Traits#^d885e1|Self]] [[Aid Trait|Aid]]
 - **Paw The Ground**, 1 AP
 	- *You prepare to rush down a Foe*
-	- Effect: You gain an amount of stacks of [[Conditions#^868aeb|Quickened]] equal to your speed. Target one foe, if you exhaust your target's stamina this turn you gain the same amount of [[Conditions#^868aeb|Quickened]] again.
+	- Effect: You gain an amount of stacks of [[Energized Condition|Energized]] equal to your speed. Target one foe, if you exhaust your target's stamina this turn you gain the same amount of [[Energized Condition|Energized]] again.
 	- [[Traits#^d885e1|Self]] [[Aid Trait|Aid]]
 
 Combo Actions:
@@ -149,7 +149,7 @@ You use ambush tactics, you appear for a quick strike and then you're gone again
 Actions:
 - **Hide**, 2 AP
 	- *Description*
-	- Effect: Gain the [[Conditions#^47fe37|Hidden Condition]] ![[Conditions#^47fe37|Hidden Condition]]
+	- Effect: Gain the [[Hidden Condition]]e37|Hidden Condition]]
 	- [[Traits]]
 - **Name**, 1 AP
 	- *Description*
@@ -164,7 +164,7 @@ Combo Actions:
 - **Hidden Sprint**, 1 AP
 	- *Description*
 	- Condition: Your last action had the move trait
-	- Effect: Gain the [[Conditions#^47fe37|Hidden Condition]]
+	- Effect: Gain the [[Hidden Condition]]
 	- [[Traits]]
 - **Name**, 1 AP
 	- *Description*
@@ -203,7 +203,7 @@ Combat from the sky, whether you fly with your wings or you swing with a grapple
 Actions:
 - **Hey, do your job!**, 1 AP
 	- *You make a flourish as you flash a smile to your foes.*
-	- Effect: Gain the [[Conditions#^abf227|Hunted Condition]], take a [[Actions#^ffdf5f|Flourish Action]] for free. If by your next turn you still have the Hunted Condition you lose it and gain Stamina equal to the number of rounds that have passed.
+	- Effect: Gain the [[Hunted Condition]], take a [[Actions#^ffdf5f|Flourish Action]] for free. If by your next turn you still have the Hunted Condition you lose it and gain Stamina equal to the number of rounds that have passed.
 	- [[Traits]]
 
 Combo Actions: 
@@ -222,12 +222,12 @@ Reactions:
 - **Where's your motivation?**, R
 	- *You taunt an enemy that hasn't even managed to scratch you*
 	- Condition: A foe has targeted you with an attack, but has not exhausted your stamina nor caused you to gain any [[Conditions]]
-	- Effect: Gain one stack of [[Conditions#^1d4c54|Empowered]], gain an extra stack for every attack the Triggering Foe makes this turn until you become exhausted. If you don't become exhausted this Turn you regain your reaction once this Round.
+	- Effect: Gain one stack of [[Empowered Condition|Empowered]], gain an extra stack for every attack the Triggering Foe makes this turn until you become exhausted. If you don't become exhausted this Turn you regain your reaction once this Round.
 	- [[Traits]]
 - **This could be fun!**, R
 	- *You look at the battlefield and you flash a grin to your enemies*
 	- Condition: The round begins
-	- Effect: Gain the [[Conditions#^abf227|Hunted Condition]] and roll your recovery die. On your turn gain Stamina for every round that has passed.
+	- Effect: Gain the [[Hunted Condition]] and roll your recovery die. On your turn gain Stamina for every round that has passed.
 	- [[Traits]]
 
 ## Hunter
@@ -244,30 +244,30 @@ Actions:
 	- [[Traits]]
 - **Let's make this a fair fight**, 1 AP
 	- *Description*
-	- Effect: Target a Foe that has taken damage during this Combat Encounter. They regain stamina equal to their Stamina Pool. If They take damage to health this round they become [[Conditions#^7a7e20|Stunned]].
+	- Effect: Target a Foe that has taken damage during this Combat Encounter. They regain stamina equal to their Stamina Pool. If They take damage to health this round they become [[Stunned Condition|Stunned]] .
 	- [[Traits]]
 
 Combo Actions: 
 - **Isn't there a bounty on your head?**, 2 AP
 	- *Description*
 	- Condition: Your last action targeted a Foe and did not have the [[Attack Trait]]
-	- Effect: The foe gains the [[Conditions#^abf227|Hunted Condition]]
+	- Effect: The foe gains the [[Hunted Condition]]
 	- [[Traits]]
 - **Stow Weapon**, 1 AP
 	- *Description*
 	- Condition: You Exhausted a Foe's stamina or dealt damage to their health with your last action
-	- Effect: The Foe becomes [[Conditions#^7a7e20|Stunned]].
+	- Effect: The Foe becomes [[Stunned Condition|Stunned]] .
 	- [[Consumed Trait|Consumed]]
 Reactions: 
 - **Are you afraid partner?**, R
 	- *Description*
 	- Condition: The turn after yours begins and the Foe you targeted with the action [[Styles#^8c3935|Howdy Partner]] took damage to their Health
-	- Effect: the Foe you targeted with your action [[Styles#^8c3935|Howdy Partner]] becomes [[Conditions#^7a7e20|Stunned]]
+	- Effect: the Foe you targeted with your action [[Styles#^8c3935|Howdy Partner]] becomes [[Stunned Condition|Stunned]] 
 	- [[Traits]]
 - **Dead or alive**, R
 	- *Description*
 	- Condition: A foe you can see loses a condition inflicted by you or an Ally.
-	- Effect: The Foe either gains [[Conditions#^abf227|Hunted]] or regains the condition they just lost.
+	- Effect: The Foe either gains [[Hunted Condition|Hunted]] or regains the condition they just lost.
 	- [[Traits]]
 
 ## Remorseful
@@ -287,7 +287,7 @@ Combo Actions:
 - **You're going to make me angry!**, 1 AP
 	- *You threaten your Foe with the promise of showing what you're truly capable of*
 	- Condition: Your last action had the [[Attack Trait]] 
-	- Effect: Your Foe gains the [[Conditions#^471f1e|Impacted condition]]
+	- Effect: Your Foe gains the [[Impacted Condition]]
 	- [[Traits]]
 - **You forced me to do this!**, 1 AP
 	- *You lose your patience and set your power loose*
@@ -318,7 +318,7 @@ Combo Actions:
 - **One Kill**, 1 AP
 	- *Description*
 	- Condition: You used the [[Styles#^9ce859|One Shot]] action this turn and your previous action exhausted the Stamina or dealt damage to the Health of a single Foe.
-	- Effect: Gain two stacks of [[Conditions#^685a66|Adrenaline]]
+	- Effect: Gain two stacks of [[Adrenaline Condition|Adrenaline]]
 	- [[Consumed Trait|Consumed]]
 - **Tactical Reposition**, 1 AP
 	- *Description*
@@ -343,7 +343,7 @@ Reactions:
 Actions:
 - **Full Throttle**, 1 AP
 	- *Description*
-	- Effect: Gain a d6 of stacks of [[Conditions#^868aeb|Energized]] per Round Number and then take a move action.
+	- Effect: Gain a d6 of stacks of [[Energized Condition|Energized]] per Round Number and then take a move action.
 	- [[Traits]]
 - **Crash**, 3 AP
 	- *Description*
@@ -355,19 +355,19 @@ Actions:
 	- [[Traits]]
 - **Jousting will never go out of fashion**, 2 AP
 	- *Description*
-	- Effect: Take a move action, deal 2d4 damage up to two foes along your path. Gain [[Conditions#^868aeb|Energized]] equal to the damage you dealt.
+	- Effect: Take a move action, deal 2d4 damage up to two foes along your path. Gain [[Energized Condition|Energized]] equal to the damage you dealt.
 	- [[Traits]]
 
 Combo Actions: 
 - **Slide to a stop**, 1 AP
 	- *Description*
 	- Condition: Your last action was a move action.
-	- Effect: You may move an additional number of spaces equal to half the amount you moved with your last action, also gain stacks of [[Conditions#^868aeb|Energized]] equal to that amount. Take a [[Actions#^ffdf5f|Flourish Action]] for free.
+	- Effect: You may move an additional number of spaces equal to half the amount you moved with your last action, also gain stacks of [[Energized Condition|Energized]] equal to that amount. Take a [[Actions#^ffdf5f|Flourish Action]] for free.
 	- [[Traits]] 
 - **Drift Burst**, 1 AP
 	- *Description*
 	- Condition: Your last action was a move action.
-	- Effect: Gain stacks of [[Conditions#^868aeb|Energized]] equal to half the amount of spaces you moved with your last action then take a Move action.
+	- Effect: Gain stacks of [[Energized Condition|Energized]] equal to half the amount of spaces you moved with your last action then take a Move action.
 	- [[Traits]]
 
 
@@ -375,7 +375,43 @@ Reactions:
 - **I was parked here first**, R
 	- *Description*
 	- Condition: You would incur Forced Movement.
-	- Effect:  Gain [[Conditions#^868aeb|Energized]] equal to the amount of Forced Movement and you don't move.
+	- Effect:  Gain [[Energized Condition|Energized]] equal to the amount of Forced Movement and you don't move.
+	- [[Traits]]
+## Thaumalogian
+*Description*
+
+Actions:
+- **This better be the final draft**, 1 AP
+	- *Description*
+	- Effect: Gain
+	- [[Traits]]
+- **This is going in my dissertation**, 1 AP
+	- *Description*
+	- Effect:
+	- [[Traits]]
+
+Combo Actions: 
+- **Hypothesis**, 1 AP
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+- **Scrap Draft**, 1 AP
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+- **Mental breakdown**, 1 AP
+	- *Description*
+	- Condition:
+	- Effect:
+	- [[Traits]]
+
+Reactions: 
+- **Antithesis**, R
+	- *Description*
+	- Condition:
+	- Effect:
 	- [[Traits]]
 ## Template
 ## Name

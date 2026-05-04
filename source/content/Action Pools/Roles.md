@@ -33,7 +33,7 @@ What Role does your character play in a team? Roles give you ways to contribute 
 		- "I'll hold them back!" Combo 1 AP, Your last action made you gain [[Health and Stamina|Stamina]], you lose that stamina you would have gained but your allies gain it instead
 		- "Eyes on me" Combo 1 AP, Your previous action had the [[Attack Trait]], any foe you previously this turn hit will be forced to target you with their next action that has the [[Attack Trait]]
 	- Passive:
-		At the beginning of your turn get a stack of [[Conditions#^685a66|Adrenaline]] for every 2 missing [[Health and Stamina|Health]]
+		At the beginning of your turn get a stack of [[Adrenaline Condition|Adrenaline]] for every 2 missing [[Health and Stamina|Health]]
 - The Tactician
 	- You find the weak spot in the enemy's stratagem, you devise the attack plan, but you already knew this because you have prepared for everything. ​The Tactician increases the damage output of the team 
 	- Reactions:
@@ -92,15 +92,15 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 -  Remember the plan! , Reaction
 	Condition: An ally's roll was [[Terminology#^9e500c|Underwhelming]]
 	You encourage your ally to stick to the plan
-	Effect: The ally gains [[Conditions#^685a66|Adrenaline(1)]]
+	Effect: The ally gains [[Adrenaline Condition|Adrenaline(1)]]
 - I've got you! , Reaction
 	Condition: An ally was [[Movement#^82257e|Flung]] 
 	You step in and grab the ally before they hit the ground
-	Effect: Take a [[Actions#^642a2c|Move Action]] to move toward the ally, if you reach an adjacent square to them they end the forced movement without taking the [[Conditions#^471f1e|Impacted Condition]]
+	Effect: Take a [[Actions#^642a2c|Move Action]] to move toward the ally, if you reach an adjacent square to them they end the forced movement without taking the [[Impacted Condition]]
 - Good job! , Reaction
 	Condition: An ally dealt damage to [[Health and Stamina|Health]]
 	You compliment an Ally's skills
-	Effect: The ally gets one stack of [[Conditions#^685a66|Adrenaline]] for each point of damage they dealt to  [[Health and Stamina|Health]] this turn
+	Effect: The ally gets one stack of [[Adrenaline Condition|Adrenaline]] for each point of damage they dealt to  [[Health and Stamina|Health]] this turn
 - Hands off of my friend! , Reaction
 	Condition: An ally's [[Health and Stamina|Stamina]] is [[Health and Stamina|Exhausted]] by a Foe
 	You avenge your ally by quickly hitting the enemy.
@@ -147,21 +147,21 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 		- Reactions: 
 			- **Get Up!**, R
 				- *You spur your ally to get back up* 
-				- Condition: An Ally that you can see takes damage to Health. gains the [[Conditions#^471f1e|Impacted Condition]] or the [[Conditions#^7a7e20|Stunned Condition]]
-				- Effect: The ally may take a Move action despite the [[Conditions#^471f1e|Impacted Condition]], the next time they would gain Stamina, they instead automatically gain Stamina equal to their Maximum Stamina
+				- Condition: An Ally that you can see takes damage to Health. gains the [[Impacted Condition]] or the [[Stunned Condition]]
+				- Effect: The ally may take a Move action despite the [[Impacted Condition]], the next time they would gain Stamina, they instead automatically gain Stamina equal to their Maximum Stamina
 				- [[Role Trait|Role]] [[Aid Trait|Aid]]
 	- Tactician
 		- Combo Actions:
 			- **Fighting Stratagem**, 1 AP
 				- *A*
 				- Condition: You targeted an Ally with an action with the [[Aid Trait]]
-				- Effect: Target a foe, they gain the [[Conditions#^abf227|Hunted Condition]]
+				- Effect: Target a foe, they gain the [[Hunted Condition]]
 				- [[Role Trait|Role]] [[Aid Trait|Aid]]
 		- Reactions: 
 			- **Remember the plan!**, R
 				- *A* 
-				- Condition: An Ally consumes all stacks of [[Conditions#^1d4c54|Empowered]]
-				- Effect: That Ally gains stacks of [[Conditions#^1d4c54|Empowered]] equal to the amount of [[Conditions#^1d4c54|Empowered]] you have.
+				- Condition: An Ally consumes all stacks of [[Empowered Condition|Empowered]]
+				- Effect: That Ally gains stacks of [[Empowered Condition|Empowered]] equal to the amount of [[Empowered Condition|Empowered]] you have.
 				- [[Role Trait|Role]] [[Aid Trait|Aid]]
 - Offense
 	Make your foes suffer by your hand or help your allies do so.
@@ -182,12 +182,12 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 		- Combo Actions:
 			- **Won't you Fight back?**, 1 AP
 				- *You taunt your Foe*
-				- Condition: Your last action caused at least one Foe to become [[Conditions#^471f1e|Impacted]] or [[Conditions#^7a7e20|Stunned]].
-				- Effect: The triggering Foes that were [[Conditions#^471f1e|Impacted]] gain the [[Conditions#^7a7e20|Stunned Condition]]. Triggering Foes that were [[Conditions#^7a7e20|Stunned]] become exhausted.
+				- Condition: Your last action caused at least one Foe to become [[Impacted Condition|Impacted]] or [[Stunned Condition|Stunned]] .
+				- Effect: The triggering Foes that were [[Impacted Condition|Impacted]] gain the [[Stunned Condition]]. Triggering Foes that were [[Stunned Condition|Stunned]] become exhausted.
 				- [[Role Trait|Role]]
 		- Reactions: 
 			- **Nah!**, R
 				- *Just as a Foe is about to regain their footing you smack them back down* 
-				- Condition: An enemy adjacent to you is about to lose the [[Conditions#^471f1e|Impacted Condition]] or the [[Conditions#^7a7e20|Stunned Condition]].
-				- Effect: The foe gains the [[Conditions#^471f1e|Impacted Condition]].
+				- Condition: An enemy adjacent to you is about to lose the [[Impacted Condition]] or the [[Stunned Condition]].
+				- Effect: The foe gains the [[Impacted Condition]].
 				- [[Role Trait|Role]] [[Mobile Trait|Mobile]]

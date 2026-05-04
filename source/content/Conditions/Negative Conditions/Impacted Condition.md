@@ -1,0 +1,1 @@
+You have been crushed into a surface, made to fall or in some way incapacitated. You can't take your [[Actions#^5b10a9|Rising Action]] or [[Actions#^45d755|Reactions]] and you must spend an interact action to remove this condition.

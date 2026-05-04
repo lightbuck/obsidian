@@ -1,3 +1,1 @@
-This action **forces** the target move N spaces in a horizontal direction of your choice or straight up.
-
-![[N]]
+This action **forces** the target move [[N]] spaces in a horizontal direction of your choice or straight up.

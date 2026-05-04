@@ -5,8 +5,30 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Traits/Action Traits\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16744650
+      }
+    },
+    {
+      "query": "path:\"Action Pools\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
+    },
+    {
+      "query": "path:\"Tests\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2304048
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000013,
+  "scale": 0.5087618855792614,
   "close": false
 }

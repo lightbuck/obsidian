@@ -1,0 +1,1 @@
+Whenever you would incur forced movement or take damage from a non AOE attack, you are unaffected and instead gain a point of meter for each point of damage you would have taken and for each space you would have moved. After this condition takes effect remove it.

@@ -1,0 +1,1 @@
+When you are dealt damage to health, the character who dealt it gains one stack of Adrenaline multiplied by the round number and you lose this Condition.

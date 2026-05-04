@@ -10,7 +10,7 @@
 - Bull Charge Approach
 	On your first turn of combat you may move twice at no AP cost
 - Empowering Approach
-	On your first turn of combat you gain +1d6 [[Conditions#^1d4c54|Empowered]]
+	On your first turn of combat you gain +1d6 [[Empowered Condition|Empowered]]
 - Shadowy Approach
 	-6 to initiative rolls
-	Begin combat with the [[Conditions#^47fe37|Hidden Condition]]
+	Begin combat with the [[Hidden Condition]]

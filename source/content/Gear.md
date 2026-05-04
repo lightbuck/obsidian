@@ -102,11 +102,11 @@ These traits add effects to maximum and minimum critical rolls that invoke this 
 - Unstable
 	Min Crits deal +1 damage to the wielder, Max Crits Deal +3 damage
 - Impacting
-	Max Crits inflict the [[Conditions#^471f1e|Impacted Condition]] ^1106e9
+	Max Crits inflict the [[Impacted Condition]] ^1106e9
 - Cool
-	Max Crits make you gain 1 stack of [[Conditions#^685a66|Adrenaline]] ^045bf7
+	Max Crits make you gain 1 stack of [[Adrenaline Condition|Adrenaline]] ^045bf7
 - Fast
-	Max Crits make you gain 5 stacks of [[Conditions#^868aeb|Quickened]] ^356c77
+	Max Crits make you gain 5 stacks of [[Energized Condition|Energized]] ^356c77
 ## Armor
 Armor Archetypes
 - Sleek Armor(1)

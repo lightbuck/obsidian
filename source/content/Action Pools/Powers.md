@@ -9,7 +9,7 @@ Powers are the other side of the coin from [[Styles]], but they also grant free 
 - "Work with the dead"
 
 [[Power Features]]:
-- From Spirits: At the end of your turn gain 2 stacks of [[Conditions#^1d4c54|Empowered]] for every point of [[Meter]] you gained this turn 
+- From Spirits: At the end of your turn gain 2 stacks of [[Empowered Condition|Empowered]] for every point of [[Meter]] you gained this turn 
 
 Actions:
 - **Gather Spirit**, 1 AP
@@ -29,19 +29,19 @@ Actions:
 	- [[Spend Trait|Spend(4)]] [[Traits#^2d7726|Create]]
 - ###### Death, 6 AP
 	- *You use your magic to catalyze all nearby Spirit Energy and you channel it into a devastating blow*
-	- Effect: Target a radius of 1, for every point of [[Meter]] spent by this action deal 2d6 damage to all characters within the radius. Until the end of the Scene any time a character is knocked out you gain 1 stack of [[Conditions#^685a66|Adrenaline]] 
+	- Effect: Target a radius of 1, for every point of [[Meter]] spent by this action deal 2d6 damage to all characters within the radius. Until the end of the Scene any time a character is knocked out you gain 1 stack of [[Adrenaline Condition|Adrenaline]] 
 	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Spend Trait|Spend(All)]] [[Final Trait|Final]]
 
 Combo Actions:
 - **Ain't afraid of no Spirits**, 2 AP
 	- *After attacking a foe with Spirit Energy you force said energy into your Foe's body*
 	- Condition: The Previous action had the [[Spend Trait]] and the [[Attack Trait]]
-	- Effect: Target a Foe you targeted with your previous action, they **get** 1 stack of the [[Conditions#^7a7e20|Stunned Condition]] ^a5d02f
+	- Effect: Target a Foe you targeted with your previous action, they **get** 1 stack of the [[Stunned Condition]] ^a5d02f
 	- [[Attack Trait|Attack]]
 - **Possessed and Obsessed**, 1 AP
 	- *You infuse yourself with the Spirit Energy you collected, temporarily empowering yourself*
 	- Condition: The Previous action had the [[Gain Trait]] 
-	- Effect: gain 1 stack of [[Conditions#^685a66|Adrenaline]] and Gain 3 point of stamina for each point of [[Meter]] Spent by this action
+	- Effect: gain 1 stack of [[Adrenaline Condition|Adrenaline]] and Gain 3 point of stamina for each point of [[Meter]] Spent by this action
 	- [[Traits#^d885e1|Self]] [[Spend Trait|Spend(ALL)]]| ^50bd9f
 - **Spirit Armor**, 2 AP
 	- *You recycle some of the Spirit Energy you used to defend yourself*
@@ -59,7 +59,7 @@ Combo Actions:
 - Ain't afraid of no spirits, 2 AP
 	*After attacking a foe with Spirit Energy you force said energy into your Foe's body*
 	Condition: The Previous action had the [[Spend Trait]] and the [[Attack Trait]]
-	Effect: All targets of your previous action take 1d4 damage and if their stamina is exhausted they also **get** 1 stack of the [[Conditions#^7a7e20|Stunned Condition]]
+	Effect: All targets of your previous action take 1d4 damage and if their stamina is exhausted they also **get** 1 stack of the [[Stunned Condition]]
 *The Spirit Energy you collected was unstable and you have to attempt to quell it.*
 	Condition: The Previous action had the [[Gain Trait]] 
 	Effect: Roll 1d12 and [[Meter|Spend]] that amount. If the result is [[Terminology#^9e500c|Underwhelming]] you gain the result as stamina. If the result is [[Terminology#^08cbdf|Overwhelming]] you deal the result as damage in a radius 1 circle, centered on you, #PH to all characters, including yourself. 
@@ -78,12 +78,12 @@ Reactions:
 - Flex
 
 [[Power Features]]: 
-- From Excess: Any time you deal damage equal or greater to thrice the stamina pool of your target you gain 4d6 stacks of [[Conditions#^1d4c54|Empowered]]
+- From Excess: Any time you deal damage equal or greater to thrice the stamina pool of your target you gain 4d6 stacks of [[Empowered Condition|Empowered]]
 
 Actions:
 - **Siege Engine**, 2 AP
 	- *You charge forward, destroying anything in your path*
-	- Effect: Move in a line for double your speed (you can add [[Conditions#^868aeb|Quickened]]). Destroy any piece of terrain in the path you would move through and deal 2d6 damage to any enemy in the path (you can damage any enemy once with this action)
+	- Effect: Move in a line for double your speed (you can add [[Energized Condition|Energized]]). Destroy any piece of terrain in the path you would move through and deal 2d6 damage to any enemy in the path (you can damage any enemy once with this action)
 	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Crushing Trait|Crushing]]
 - **Burst Dash**, 2 AP
 	- *You suddenly move at incredible speed, suddenly appearing next to a foe*
@@ -91,7 +91,7 @@ Actions:
 	- [[Traits#^d885e1|Self]] [[Move Trait|Move]] ^4eb5b4
 - ###### Limit Break, 7 AP
 	- *You've pushed past the limits of your body, now it's time to push past the limits of Exceed itself.*
-	- Effect: Consume all stacks of [[Conditions#^1d4c54|Empowered]], gain one stack of [[Conditions#^685a66|Adrenaline]] for each stack. Until the end of the Scene any damage you deal is increased by 1d6 for every 3 stacks of [[Conditions#^685a66|Adrenaline]] you have.
+	- Effect: Consume all stacks of [[Empowered Condition|Empowered]], gain one stack of [[Adrenaline Condition|Adrenaline]] for each stack. Until the end of the Scene any damage you deal is increased by 1d6 for every 3 stacks of [[Adrenaline Condition|Adrenaline]] you have.
 	- [[Traits#^d885e1|Self]] [[Final Trait|Final]]
 
 Combo Actions:
@@ -108,7 +108,7 @@ Combo Actions:
 - **Battle Meditation**, 1 AP
 	- *You focus on the battle*
 	- Condition: Your last action did not have the [[Attack Trait]]
-	- Gain stacks of [[Conditions#^685a66|Adrenaline]] equal to the Round number. 
+	- Gain stacks of [[Adrenaline Condition|Adrenaline]] equal to the Round number. 
 	- [[Traits#^d885e1|Self]] 
 
 Reactions:
@@ -119,7 +119,7 @@ Reactions:
 - Immovable Object
 	- *You resist others' attempts to push you around*
 	- Condition: you would incur forced movement
-	- Effect: You are not moved by the forced movement. If your speed is greater than the speed of the moving action you gain [[Conditions#^685a66|Adrenaline]]
+	- Effect: You are not moved by the forced movement. If your speed is greater than the speed of the moving action you gain [[Adrenaline Condition]]
 ## Phoenix Talon ^22318f
 %% Deal Aoe Damage, Buff Allies %%
 *The Phoenix Talon is the most recent Aspect of Magic, it originated 16 years ago during the Sunnaut Revolution and those who wield it carry forward the legacy of that war. In fact the bursts of fire that characterize this Magic grow in power if the cause they are being used for is just and righteous.*
@@ -128,7 +128,7 @@ Reactions:
 - "Work with fire"
 
 [[Power Features]]:
-- From Fires: Any time you take an action with the [[Aid Trait]], you gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]. Any time an action with the [[Attack Trait]]targets more than one foe, you gain 3d4 stacks of [[Conditions#^1d4c54|Empowered]]
+- From Fires: Any time you take an action with the [[Aid Trait]], you gain 3d4 stacks of [[Empowered Condition|Empowered]]. Any time an action with the [[Attack Trait]]targets more than one foe, you gain 3d4 stacks of [[Empowered Condition|Empowered]]
 
 Actions:
 - Heart Afire, 2 AP
@@ -141,7 +141,7 @@ Actions:
 	- [[Aid Trait|Aid]]
 - On Parade, 1 AP
 	- *You shoot up a flare of fire, inspiring your allies and blinding your foes*
-	- Effect: All Allies Gain 1d6 stacks of [[Conditions#^1d4c54|Empowered]], any Foes that you can see and that are below half Stamina become [[Conditions#^471f1e|Impacted]].
+	- Effect: All Allies Gain 1d6 stacks of [[Empowered Condition|Empowered]], any Foes that you can see and that are below half Stamina become [[Impacted Condition|Impacted]].
 	- [[Aid Trait|Aid]] [[Attack Trait|Attack]]  ^091b70
 - Protected with Fire, 3 AP
 	- *You cover an ally in fire, which will hurt any Foe that gets too close*
@@ -166,7 +166,7 @@ Combo Actions:
 - Work Forces, 2 AP
 	- *You follow up blast with a fistful of fire*
 	- Condition: Your previous action had the [[Burning Trait]]
-	- Effect: Target one Foe, deal 2d6 damage to them and make them [[Conditions#^471f1e|Impacted]]
+	- Effect: Target one Foe, deal 2d6 damage to them and make them [[Impacted Condition|Impacted]]
 	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Burning Trait|Burning(7)]] ^9a79c8
 
 Reactions:
@@ -194,7 +194,7 @@ Actions:
 	- [[Traits#^5d64a2|Foes]] | [[Step Trait|Step(4)]] ^6985b8
 - **You're gonna go far**, 2 AP
 	- *You lend some of your lifeforce to an ally, bolstering them*
-	- Effect: Target one Ally adjacent to you, both you and that ally gain [[Conditions#^685a66|Adrenaline(2)]]
+	- Effect: Target one Ally adjacent to you, both you and that ally gain [[Adrenaline Condition|Adrenaline(2)]]
 	- [[Traits#^412513|Allies]] [[Aid Trait|Aid]] | [[Step Trait|Step(2)]] ^e183a4
 - **Hand in Hand**, 2 AP
 	- *You link two of your allies' Life Forces together.*
@@ -202,14 +202,14 @@ Actions:
 	- [[Traits#^412513|Allies]] [[Aid Trait|Aid]] | [[Step Trait|Step(2)]] ^4c7c29
 - ###### Life, 6 AP
 	- *You weave together a web of all your allies, the connection forms an loop that exponentially empowers all of you.*
-	- Effect: Sum together yours and all your allies stacks of [[Conditions#^1d4c54|Empowered]], this number is the new amount of [[Conditions#^1d4c54|Empowered]] you and your allies have.
+	- Effect: Sum together yours and all your allies stacks of [[Empowered Condition|Empowered]], this number is the new amount of [[Empowered Condition|Empowered]] you and your allies have.
 	- [[Aid Trait|Aid]] 
 
 Combo Actions:
 - **Got him where I want him now**, 2 AP
 	- *You grab an opponent by the life force and paralyze them* 
 	- Condition: Your previous action had the [[Attack Trait]]and your target's stamina is exhausted.
-	- Effect: Target the Foe described by the condition and is adjacent to you, the foe gains [[Conditions#^7a7e20|Stunned(2)]]
+	- Effect: Target the Foe described by the condition and is adjacent to you, the foe gains [[Stunned Condition|Stunned]] 2)]]
 	- [[Attack Trait|Attack]] [[Traits#^5d64a2|Foes]] | [[Step Trait|Step(2)]] ^f51106
 - **What you get**, 1 AP
 	- *After injuring a foe you transfer a negative condition from yourself to them*
@@ -266,7 +266,7 @@ Reactions:
 - Flex
 
 [[Power Features]]:
-- From Storms: When you lose  the [[Conditions#^f57404|Charged Condition]], gain 2 empowered for every for every [[Actions#^2c1bb5|Effective AP]] spent since you last gained the [[Conditions#^f57404|Charged Condition]].
+- From Storms: When you lose  the [[Charged Condition]], gain 2 empowered for every for every [[Actions#^2c1bb5|Effective AP]] spent since you last gained the [[Charged Condition]].
 
 Actions:
 - **Of Ice And Snow**, 2 AP
@@ -299,7 +299,7 @@ Combo Actions:
 - **Feel The Thunder**, 1 AP
 	- *You concentrate the lightning within you, increasing its power*
 	- Condition: Your last action had the [[Charging Trait]]
-	- Effect: you gain 1 stack of [[Conditions#^685a66|Adrenaline]]
+	- Effect: you gain 1 stack of [[Adrenaline Condition|Adrenaline]]
 	- [[Mobile Trait|Mobile]] [[Charging Trait|Charging]] 
 - **Recharge ElectroHeart**, 1 AP
 	- *You absorb your lightning to reinvigorate yourself*
@@ -308,7 +308,7 @@ Combo Actions:
 	- [[Traits#^d885e1|Self]] 
 - **You've Been Thunderstruck**, 4 AP
 	- *You force the lightning you just discharged to return to you in a massive blast*
-	- Condition: Your last action caused you to lose the [[Conditions#^f57404|Charged Condition]]
+	- Condition: Your last action caused you to lose the [[Charged Condition]]
 	- Effect: Target a radius of 3 centered on you, deal 3d6 damage to all Characters.
 	- [[Attack Trait|Attack]] [[Charging Trait|Charging]] 
 - **Don't Be a Stranger**, 1 AP
@@ -320,13 +320,13 @@ Combo Actions:
 Reactions: 
 - **Garden in the Rain**, R
 	- *You release your lightning to someone who was foolish enough to strike you*
-	- Condition: You have the  [[Conditions#^f57404|Charged Condition]] and a Foe targeted you with a melee attack
+	- Condition: You have the  [[Charged Condition]] and a Foe targeted you with a melee attack
 	- Effect: Deal 1d6 damage to the triggering foe, if their stamina is exhausted by this action their action is cancelled.
 	- [[Attack Trait|Attack]]
 - **Tempest's Overture**, R
 	- *You got hit, but this only made you more determined to strike down your foes.*
 	- Condition: You take damage from an attack
-	- Effect: You gain the [[Conditions#^f57404|Charged Condition]] 
+	- Effect: You gain the [[Charged Condition]] 
 	- [[Traits#^d885e1|Self]]
 
 ## Daemonic Possession
@@ -358,36 +358,36 @@ Actions:
 	- [[Sacrifice Trait|Sacrifice]] [[Attack Trait|Attack]]
 - **Pull**, 1 AP
 	- *You allow your Daemon to take over your body*
-	- Effect: You gain the [[Conditions#^9d723e|Daemonized Condition]], replace your current stamina by an amount equal to every point of [[Meter]] Spent by this action. 
+	- Effect: You gain the [[Daemonized Condition]], replace your current stamina by an amount equal to every point of [[Meter]] Spent by this action. 
 	- [[Spend Trait|Spend(ALL)]]
 - ###### Deliverance, 6 AP
 	- *Your Daemon is unleashed, but instead of stealing your life force it fights by your side completely autonomously.*
-	- Effect: If you had it, you lose the [[Conditions#^9d723e|Daemonized Condition]]. Place a token on the field representing your Daemon as a [[Companions|Companion]], which has the [[Conditions#^9d723e|Daemonized Condition]] with stamina equal to every point spent by this action. The Daemon can take actions only from [[Powers#^06da48|Daemonic Possession]] and [[Styles|Style Actions]]. If either you or Daemon become exhausted, the other character can transfer their current stamina to the former. If the Daemon becomes Exhausted it is removed from the field. While the Daemon is on the field you cannot gain the [[Conditions#^9d723e|Daemonized Condition]]. 
+	- Effect: If you had it, you lose the [[Daemonized Condition]]. Place a token on the field representing your Daemon as a [[Companions|Companion]], which has the [[Daemonized Condition]] with stamina equal to every point spent by this action. The Daemon can take actions only from [[Powers#^06da48|Daemonic Possession]] and [[Styles|Style Actions]]. If either you or Daemon become exhausted, the other character can transfer their current stamina to the former. If the Daemon becomes Exhausted it is removed from the field. While the Daemon is on the field you cannot gain the [[Daemonized Condition]]. 
 	- [[Spend Trait|Spend(ALL)]] [[Final Trait|Final]]
 Combo Actions: 
 - **Asynchronous Carnage**, 2 AP
 	- *Description*
-	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
+	- Condition: You have the [[Daemonized Condition]]
 	- Effect: The next time you lose [[Health and Stamina|Stamina]] you may roll your [[Health and Stamina#^7170e3|Recovery Die]] (before you become exhausted).
 	- [[Traits#^d885e1|Self]] 
 - **Back End Imp**, 1 AP
 	- *Description*
-	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
+	- Condition: You have the [[Daemonized Condition]]
 	- Effect: Target one Character within line of sight, if the target is unwilling deal 2d6 damage, the next time that Character would gain stamina they instead gain half and you may roll your [[Health and Stamina#^7170e3|Recovery Die]]to gain Stamina.
 	- [[Traits#^d885e1|Self]] 
 - **Front End Gargoyle**, 2 AP
 	- *Description*
-	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
+	- Condition: You have the [[Daemonized Condition]]
 	- Effect: Target the nearest Character, the next time they deal damage you may roll your [[Health and Stamina#^7170e3|Recovery Die]] (if that damage would have caused you to become exhausted you gain the stamina before that damage.)
 	-  [[Traits#^d885e1|Self]] 
 - **The Human Factor**, 2 AP
 	- *Your Daemon is clearly digging into your soul, but you resist its influence.*
-	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
+	- Condition: You have the [[Daemonized Condition]]
 	- Effect: The next time you roll your [[Health and Stamina#^7170e3|Recovery Die]] you may choose to double or halve its results.
 	- [[Traits#^d885e1|Self]]
 - **Push**, 1 AP
 	- *Description*
-	- Condition: You have the [[Conditions#^9d723e|Daemonized Condition]]
+	- Condition: You have the [[Daemonized Condition]]
 	- Effect: You exhaust your [[Health and Stamina|Stamina]].
 	-  [[Traits#^d885e1|Self]] 
 
@@ -418,47 +418,47 @@ Reactions:
 Actions:
 - **Barre**, 2 AP ^3a1b9e
 	- *You slowly and carefully dance move and vanish into the shadow beneath your feet*
-	- Effect: Gain the [[Conditions#^47fe37|Hidden Condition]] and one stack of [[Conditions#^685a66|Adrenaline]]
+	- Effect: Gain the [[Hidden Condition]] and one stack of [[Adrenaline Condition|Adrenaline]]
 	- [[Traits#^d885e1|Self]]
 - **Arrière**, 2 AP
 	- *You take advantage of a Foe's vulnerable state to sink them in the shadows.*
-	- Effect: Target a foe with the [[Conditions#^471f1e|Impacted Condition]] or an ally, they gain the [[Conditions#^47fe37|Hidden Condition]]. If the Target was a foe, they become [[Conditions#^7a7e20|Stunned]] the next time you gain the [[Conditions#^47fe37|Hidden Condition]]. If this action targets a foe then it gains the [[Attack Trait]].
+	- Effect: Target a foe with the [[Impacted Condition]] or an ally, they gain the [[Hidden Condition]]. If the Target was a foe, they become [[Stunned Condition|Stunned]] the next time you gain the [[Hidden Condition]]. If this action targets a foe then it gains the [[Attack Trait]].
 	- [[Traits#^d885e1|Self]]
 - **Tourant**, 1 AP
 	- *You dance, commanding nearby shadows to imprison your foes*
-	- Effect: Target up to three exhausted Foes, they become [[Conditions#^471f1e|Impacted]]
+	- Effect: Target up to three exhausted Foes, they become [[Impacted Condition|Impacted]]
 	- [[Attack Trait|Attack]]
 - **Avant**, 1 AP
 	- *You transport your allies with you as you dance.*
-	- Effect: Take a [[Actions#^642a2c|Move Action]], any allies you move through with this action may choose to move to a space that you passed through. Gain the [[Conditions#^47fe37|Hidden Condition]]
+	- Effect: Take a [[Actions#^642a2c|Move Action]], any allies you move through with this action may choose to move to a space that you passed through. Gain the [[Hidden Condition]]
 	- [[Move Trait|Move]][[Aid Trait|Aid]]
 
 Combo Actions: 
 - **Fan Kick**, 2 AP
 	- *You emerge from the shadows for a brief moment before continuing to dance*
-	- Condition: You have the [[Conditions#^47fe37|Hidden Condition]]
-	- Effect: Select a radius of 3, all foes within that radius gain the [[Conditions#^471f1e|Impacted Condition]]. You gain the[[Conditions#^47fe37|Hidden Condition]].
+	- Condition: You have the [[Hidden Condition]]
+	- Effect: Select a radius of 3, all foes within that radius gain the [[Impacted Condition]]. You gain the[[Hidden Condition]].
 	- [[Attack Trait|Attack]]
 - **Heel Drop**, 2 AP
 	- *You emerge from the shadows and deliver a devastating yet graceful blow*
-	- Condition: You have the [[Conditions#^47fe37|Hidden Condition]]
+	- Condition: You have the [[Hidden Condition]]
 	- Effect: Target one foe within melee range, deal 3d6 damage.
 	- [[Melee Trait|Melee]] [[Attack Trait|Attack]] 
 - **Nerve Tap**, 3 AP
 	- *You tap the floor, turning nearby shadows against their owners.*
-	- Condition: Your last action made you lose the [[Conditions#^47fe37|Hidden Condition]]
+	- Condition: Your last action made you lose the [[Hidden Condition]]
 	- Effect: Target up to three Foes that you can see and that are currently impacted, deal 3d4 damage. 
 	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]]
 - **Changement**, 1 AP
 	- *Even if you aren't outright dancing, your movements are so graceful you might as well still be dancing.*
 	- Condition: Your last action did not have the [[Attack Trait]]
-	- Effect: Gain the [[Conditions#^47fe37|Hidden Condition]]
+	- Effect: Gain the [[Hidden Condition]]
 	- [[Traits#^d885e1|Self]]
 
 Reactions: 
 - **Tanglefoot**, R
 	- *You emerge from a Foe's shadow, stopping them in their tracks*
-	- Condition: you have the [[Conditions#^47fe37|Hidden Condition]] and a Foe just took an action with the [[Move Trait]]
+	- Condition: you have the [[Hidden Condition]] and a Foe just took an action with the [[Move Trait]]
 	- Effect: Cancel the triggering action and appear in a space adjacent to the triggering Foe.
 	- [[Move Trait|Move]] [[Traits#^d885e1|Self]]
 ## Astracentrism
@@ -475,7 +475,7 @@ Reactions:
 Actions:
 - **Let's Rock!**, 1 AP
 	- *You enter your Astracentric stance*
-	- Effect: you gain the [[Conditions#^503ca4|Centered Condition]]
+	- Effect: you gain the [[Centered Condition]]
 	- [[Traits#^Self|Self]]|
 - **Half Circle Heavy Strike**, 1 AP
 	- *You release a large amount of kinetic energy into a single devastating blow*
@@ -483,13 +483,13 @@ Actions:
 	- [[Attack Trait|Attack]] [[Spend Trait|Spend(All)]]
 - **Commanding Grab**, 2 AP
 	- *You grab a hold of an enemy and hold them still by absorbing their kinetic energy*
-	- Effect: Target one foe within melee range, that foe gains an amount of [[Conditions#^8081d3|Slowed]] equal to their movement speed and you gain an equal amount of [[Meter]]. Additionally you gain the [[Conditions#^503ca4|Centered Condition]]. 
+	- Effect: Target one foe within melee range, that foe gains an amount of [[Conditions#^8081d3|Slowed]] equal to their movement speed and you gain an equal amount of [[Meter]]. Additionally you gain the [[Centered Condition]]. 
 - 	[[Traits]]
 
 Combo Actions: 
 - **Heaven**, 2 AP
 	- *After taking your stance you simply remain still.*
-	- Condition: Your last action made you gain the [[Conditions#^503ca4|Centered Condition]]
+	- Condition: Your last action made you gain the [[Centered Condition]]
 	- Effect: Until your next turn you may use an extra Reaction
 	- [[Traits]]
 - **Hell**, 2 AP
