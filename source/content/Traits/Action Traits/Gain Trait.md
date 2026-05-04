@@ -1,1 +1,1 @@
-This action adds [[N]] [[Meter]] after resolving its rolls.
+This action adds [[Meter]] after resolving its rolls, the amount gained is either specified in the Effect or in the Trait Notation

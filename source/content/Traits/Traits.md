@@ -29,7 +29,7 @@ Traits are used to described basic functions of an Action along side the Action 
 ![[Sacrifice Trait]]
 ![[Spend Trait]]
 ![[Step Trait]]
-
+![[Defend Trait]]
 ## Magic Traits 
 List:
 - Ancestral : Someone in your family line also possesses this Origin. You cannot pick other Ancestral Magics

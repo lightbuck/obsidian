@@ -67,15 +67,15 @@ Actions: ^eb8eb1
 - Trick Shot , 2 AP
 	- *You skillfully fire a shot that has extra effects*
 	- Effect: Target 1 Foe with your weapon, deal 1d4 damage. This action gains a [[Traits|Trait]] of your choice from the following list: [[Fling Trait|Fling(4)]], [[Conditions#^9ed920|Stressing(2)]], [[Mobile Trait|Mobile]], [[Traits#^c65353|Loaded(2)]], [[Brutal Trait|Brutal]] or [[Piercing Trait|Piercing]].
-	- [[Traits#^d885e1|Self]] |  ^9e667a
+	- |  ^9e667a
 - Reload , 1 AP
 	- *Load ammunition into your weapon*
 	- Effect: Your next Attack with the [[Ranged Trait]] deals +1d6 extra damage
-	- [[Traits#^d885e1|Self]] |  ^aac58d
+	- |  ^aac58d
 - Draw! , 1 AP
 	- *You draw your weapon*
 	- Effect: Your next Attack gains the [[Surprising Trait]].
-	- [[Traits#^d885e1|Self]] | 
+	- | 
 - Aim for the Knee , 2 AP
 	- *You aim to cripple a Foe, prematurely ending their adventuring career.*
 	- Effect: Target 1 Foe with your weapon, deal 1d8 damage. If this action deals damage to the target's Health, you remove any positive [[Conditions|Condition]] they may be benefitting from.
@@ -120,11 +120,11 @@ Actions:
 - Armored Gallop, 1 AP
 	- *You move with your mount, taking a defensive stance*
 	- Effect: Move your speed and roll your [[Health and Stamina#^7170e3|Recovery Die]]
-	- [[Traits#^d885e1|Self]] [[Aid Trait|Aid]]
+	- [[Aid Trait|Aid]]
 - **Paw The Ground**, 1 AP
 	- *You prepare to rush down a Foe*
 	- Effect: You gain an amount of stacks of [[Energized Condition|Energized]] equal to your speed. Target one foe, if you exhaust your target's stamina this turn you gain the same amount of [[Energized Condition|Energized]] again.
-	- [[Traits#^d885e1|Self]] [[Aid Trait|Aid]]
+	- [[Aid Trait|Aid]]
 
 Combo Actions:
 - **Crash**, 1 AP
@@ -300,7 +300,7 @@ Reactions:
 	- *You beg your enemies to stop, possibly distracting them at the very least*
 	- Condition: An ally that you can see is targeted with an Attack
 	- Effect: The triggering Ally may take a Move Action after resolving the triggering action. If the triggering Ally becomes exhausted you regain your reaction once this round.
-	- [[Traits]]
+	- [[Defend Trait|Defend]]
 ## Sniper
 %% Comment The Aspects of the Magic %%
 *Description*
@@ -331,12 +331,12 @@ Reactions:
 	- *Description*
 	- Condition: you are targeted with a [[Melee Trait|Melee]] or [[Area Trait|Area]] Attack
 	- Effect: You may move 1 to 3 spaces before being attacked.
-	- [[Traits]]
+	- [[Defend Trait|Defend]]
 - **Shoot the Bullet**, R
 	- *Description*
 	- Condition: you are targeted with a [[Ranged Trait|Ranged]] Attack
 	- Effect: You cancel the triggering attack.
-	- [[Traits]]
+	- [[Defend Trait|Defend]]
 ## Rider
 *Description*
 
@@ -376,43 +376,47 @@ Reactions:
 	- *Description*
 	- Condition: You would incur Forced Movement.
 	- Effect:  Gain [[Energized Condition|Energized]] equal to the amount of Forced Movement and you don't move.
-	- [[Traits]]
+	- [[Defend Trait|Defend]]
 ## Thaumalogian
 *Description*
 
 Actions:
-- **This better be the final draft**, 1 AP
+- **This better be the final draft**, 2 AP
 	- *Description*
-	- Effect: Gain
-	- [[Traits]]
-- **This is going in my dissertation**, 1 AP
+	- Effect: Gain stacks of the[[Adrenaline Condition]] equal to the round number.
+	- [[Consumed Trait|Consumed]] [[Mobile Trait]]
+- **Mightier than the sword**, 2 AP
 	- *Description*
-	- Effect:
-	- [[Traits]]
+	- Effect: The next time you gain a positive condition you gain an extra stack of it.
+	- [[Aid Trait|Aid]] [[Mobile Trait]]
+- **Lack of Funding**, 2 AP
+	- *Description*
+	- Effect: You roll your recovery die but instead you lose the Stamina you would have gained. Gain one stack of [[Adrenaline Condition|Adrenaline]]
+	- [[Aid Trait|Aid]] [[Mobile Trait]]
 
 Combo Actions: 
-- **Hypothesis**, 1 AP
+- **The Scientific Method**, 2 AP
 	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
-- **Scrap Draft**, 1 AP
+	- Condition: Your previous action had the [[Attack Trait]] and you have the [[Adrenaline Condition]]
+	- Effect: Remove one stack of [[Adrenaline Condition|Adrenaline]], if you Exhaust a Foe's Stamina this turn you gain 2 stacks of [[Adrenaline Condition|Adrenaline]]
+	- [[Mobile Trait]]
+- **Scrap Draft**, 2 AP
 	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
-- **Mental breakdown**, 1 AP
+	- Condition: Your previous action made you gain the [[Adrenaline Condition]]
+	- Effect: Remove all stacks of the [[Adrenaline Condition]]. The next time you gain [[Adrenaline Condition|Adrenaline]] you gain 3 extra stacks.
+	- [[Consumed Trait|Consumed]] [[Mobile Trait]]
+- **Academically Induced Mental Breakdown**, 1 AP
 	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
+	- Condition: You consumed your last stack of the [[Adrenaline Condition]] with your last action
+	- Effect: You exhaust your Stamina, gain the [[Stunned Condition]] and gain 2d4 stacks of [[Adrenaline Condition|Adrenaline]].
+	- [[Consumed Trait|Consumed]]
 
 Reactions: 
 - **Antithesis**, R
 	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
+	- Condition: Your Stamina was Exhausted by an attack
+	- Effect: You may consume a stack of [[Adrenaline Condition|Adrenaline]] and remain at 1 point of Stamina instead.
+	- [[Defend Trait|Defend ]]
 ## Template
 ## Name
 *Description*

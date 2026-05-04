@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "573121f7cf9d4fb1",
+        "id": "86e0a9db5f039979",
         "type": "tabs",
         "children": [
           {
-            "id": "215b97b6b8d09fbf",
+            "id": "c5387c81b81b66e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conditions/Conditions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Conditions"
+              "title": "New tab"
             }
           }
         ]
@@ -168,36 +164,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "215b97b6b8d09fbf",
+  "active": "c5387c81b81b66e3",
   "lastOpenFiles": [
-    "Conditions/Negative Conditions/Hunted Condition.md",
+    "Action Pools/Powers.md",
+    "Traits/Action Traits/Gain Trait.md",
+    "Action Pools/Roles.md",
+    "Action Pools/Styles.md",
+    "Traits/Traits.md",
+    "Traits/N.md",
+    "Traits/Action Traits/Defend Trait.md",
+    "Traits/Action Traits/Area Trait.md",
+    "Traits/Action Traits/Attack Trait.md",
+    "Traits/Action Traits/Consumed Trait.md",
+    "Traits/Action Traits/Final Trait.md",
     "Conditions/Conditions.md",
+    "Conditions/Negative Conditions/Hunted Condition.md",
     "Conditions/Negative Conditions/Stunned Condition.md",
     "Conditions/Power Conditions/Empowered.md",
     "Conditions/Action Conditions/Centered Conditions.md",
-    "Action Pools/Powers.md",
     "Conditions/Power Conditions/Adrenaline Condition.md",
-    "Action Pools/Roles.md",
-    "Action Pools/Styles.md",
     "Features/Martial Features.md",
     "Features/Power Features.md",
     "Outer Modules/Witching Hour.md",
     "Actions.md",
     "Gear.md",
     "Traits/Action Traits/Expend Trait.md",
-    "Traits/Traits.md",
     "Movement.md",
     "Traits/Action Traits/Aid Trait.md",
     "Traits/Action Traits/Step Trait.md",
-    "Traits/Action Traits/Sacrifice Trait.md",
-    "Traits/Action Traits/Charging Trait.md",
-    "Conditions/Action Conditions/Energized Condition.md",
     "Conditions/Power Conditions",
-    "Conditions/Negative Conditions/Impacted Condition.md",
-    "Conditions/Negative Conditions/Silenced Condition.md",
-    "Conditions/Action Conditions/Hidden Conditions.md",
     "Conditions/Negative Conditions",
-    "Conditions/Action Conditions/Daemonized Condition.md",
     "Conditions/Action Conditions",
     "Conditions",
     "Traits/Action Traits",

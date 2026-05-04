@@ -1,6 +1,6 @@
 #PhotonTTRPG 
 Conditions are applied depending on the result of a [[Health and Stamina#^77a09d|Tank or Flank Roll]]
-## Conditions lists
+## Old Conditions lists
 - Slowed (N): You have a speed Tax of N ^8081d3
 - Stressed (N): any effect that would give you stamina incurs a tax of N ^9ed920
 - Off Balance: Your [[Health and Stamina|Maximum Stamina]] is halved ^497e12

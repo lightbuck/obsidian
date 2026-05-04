@@ -84,7 +84,7 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 	Condition: An ally moves in a space adjacent to you
 	You follow your ally into battle
 	Effect: You copy the remaining movement that your ally takes in this turn. 
-	[[Role Trait|Role]] [[Traits#^d885e1|Self]] |
+	[[Role Trait|Role]] |
 - You'll have to get through me first! , Reaction
 	Condition: A [[Terminology#^2669e6|Foe]] uses a move action to pass in a square adjacent to you
 	You stop a Foe from moving past you.

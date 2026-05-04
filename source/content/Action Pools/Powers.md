@@ -14,11 +14,11 @@ Powers are the other side of the coin from [[Styles]], but they also grant free 
 Actions:
 - **Gather Spirit**, 1 AP
 	- *You reach out and absorb nearby Spirit Energy*
-	- +[[Gain Trait|Gain(+2)]] [[Immobile Trait|Immobile]] ^6989f2
+	- [[Gain Trait|Gain(+2)]] [[Immobile Trait|Immobile]] ^6989f2
 - **Combat Communion**, 3 AP
 	- You focus completely on absorbing nearby spirit energy from the battlefield.*
 	- Effect: Gain an extra point of [[Meter]] per round number.
-	- [[Immobile Trait|Immobile]]  +[[Gain Trait|Gain(+3)]] 
+	- [[Immobile Trait|Immobile]] [[Gain Trait|Gain(+3)]] 
 - **From the Spirits with Love**, 3 AP
 	- *You spend Spirit Energy you have accumulated to summon a massive bone blade that thrusts forward.*
 	- Effect: Target a 10 length line originating from you, or every point of [[Meter]] spent you deal +d4 to all [[Foes]] in that line.
@@ -26,7 +26,7 @@ Actions:
 - **Spirit Barrier**, 1 AP
 	- *You use Spirit Energy to create a barrier between you and your Foes*
 	- Effect: Create within a radius of 5 a piece of [[The Battlefield#^4eb84d|Full Cover]] for every 2 points of [[Meter]] spent by this action
-	- [[Spend Trait|Spend(4)]] [[Traits#^2d7726|Create]]
+	- [[Spend Trait|Spend(4)]] [[Traits#^2d7726|Create]] [[Defend Trait|Defend]]
 - ###### Death, 6 AP
 	- *You use your magic to catalyze all nearby Spirit Energy and you channel it into a devastating blow*
 	- Effect: Target a radius of 1, for every point of [[Meter]] spent by this action deal 2d6 damage to all characters within the radius. Until the end of the Scene any time a character is knocked out you gain 1 stack of [[Adrenaline Condition|Adrenaline]] 
@@ -42,33 +42,22 @@ Combo Actions:
 	- *You infuse yourself with the Spirit Energy you collected, temporarily empowering yourself*
 	- Condition: The Previous action had the [[Gain Trait]] 
 	- Effect: gain 1 stack of [[Adrenaline Condition|Adrenaline]] and Gain 3 point of stamina for each point of [[Meter]] Spent by this action
-	- [[Traits#^d885e1|Self]] [[Spend Trait|Spend(ALL)]]| ^50bd9f
+	- [[Spend Trait|Spend(ALL)]]| ^50bd9f
 - **Spirit Armor**, 2 AP
 	- *You recycle some of the Spirit Energy you used to defend yourself*
 	- Condition: The Previous action had the [[Spend Trait]] 
 	- Effect: You gain 1 point of [[Health and Stamina|Stamina]] for each point of [[Meter]] spent by the previous action
-	- [[Traits#^d885e1|Self]] [[Immobile Trait|Immobile]] |
+	- [[Immobile Trait|Immobile]] [[Defend Trait|Defend]]
 - **Death Begets Death**, 1 AP
 	- *You collect the Spirit Energy of a foe you just defeated.*
 	- Condition: You knocked out a Foe with your last action
 	- Effect: Gain 1d4 of [[Meter]] for every rank of the Foe you defeated.
-	- [[Traits]]
-
-%%
-
-- Ain't afraid of no spirits, 2 AP
-	*After attacking a foe with Spirit Energy you force said energy into your Foe's body*
-	Condition: The Previous action had the [[Spend Trait]] and the [[Attack Trait]]
-	Effect: All targets of your previous action take 1d4 damage and if their stamina is exhausted they also **get** 1 stack of the [[Stunned Condition]]
-*The Spirit Energy you collected was unstable and you have to attempt to quell it.*
-	Condition: The Previous action had the [[Gain Trait]] 
-	Effect: Roll 1d12 and [[Meter|Spend]] that amount. If the result is [[Terminology#^9e500c|Underwhelming]] you gain the result as stamina. If the result is [[Terminology#^08cbdf|Overwhelming]] you deal the result as damage in a radius 1 circle, centered on you, #PH to all characters, including yourself. 
-	[[Immobile Trait|Immobile]] %%
+	- [[Gain Trait|Gain]]
 Reactions:
 - Bones from Blood, R
-	*You collect your sprit energy from a strike that you managed to avoid* 
-	Condition: You took damage to your stamina
-	+[[Gain Trait|Gain(+2)]] ^909a48
+- *You collect your sprit energy from a strike that you managed to avoid* 
+- Condition: You took damage to your stamina
+- [[Gain Trait|Gain(+2)]] ^909a48
 ## Active Exceed
 %%Movement, Self Buffs%%
 *All humans have the ability to exceed the natural limitations of their body. Most fighters do so subconsciously in moments of high stress, but some have learned to do so intentionally, allowing them to accomplish awe inspiring feats worthy of legend.*
@@ -88,11 +77,11 @@ Actions:
 - **Burst Dash**, 2 AP
 	- *You suddenly move at incredible speed, suddenly appearing next to a foe*
 	- Effect: Move to a space adjacent to a Foe that you can see. Your next action gains the [[Crushing Trait]]
-	- [[Traits#^d885e1|Self]] [[Move Trait|Move]] ^4eb5b4
+	- [[Move Trait|Move]] ^4eb5b4
 - ###### Limit Break, 7 AP
 	- *You've pushed past the limits of your body, now it's time to push past the limits of Exceed itself.*
 	- Effect: Consume all stacks of [[Empowered Condition|Empowered]], gain one stack of [[Adrenaline Condition|Adrenaline]] for each stack. Until the end of the Scene any damage you deal is increased by 1d6 for every 3 stacks of [[Adrenaline Condition|Adrenaline]] you have.
-	- [[Traits#^d885e1|Self]] [[Final Trait|Final]]
+	- [[Final Trait|Final]]
 
 Combo Actions:
 - **Tail Wind**, 1 AP
@@ -109,13 +98,13 @@ Combo Actions:
 	- *You focus on the battle*
 	- Condition: Your last action did not have the [[Attack Trait]]
 	- Gain stacks of [[Adrenaline Condition|Adrenaline]] equal to the Round number. 
-	- [[Traits#^d885e1|Self]] 
+	- [[Aid Trait|Aid]]
 
 Reactions:
 - Iron Skin
 	- *Just as a foe is about to strike you, you channel your power making your skin impenetrable*
 	- Condition: you would take damage
-	- [[Traits#^d885e1|Self]] [[Conditions#^9f2db4|Protected(2d6)]] ^aae77e
+	- [[Conditions#^9f2db4|Protected(2d6)]] ^aae77e
 - Immovable Object
 	- *You resist others' attempts to push you around*
 	- Condition: you would incur forced movement
@@ -146,7 +135,7 @@ Actions:
 - Protected with Fire, 3 AP
 	- *You cover an ally in fire, which will hurt any Foe that gets too close*
 	- Effect: Target an Ally, any Foe within radius 2 of them takes 1d8 damage.
-	- [[Aid Trait|Aid]] [[Attack Trait|Attack]] [[Crushing Trait|Crushing]]
+	- [[Aid Trait|Aid]] [[Attack Trait|Attack]] [[Crushing Trait|Crushing]] [[Defend Trait|Defend]]
 - ###### Justice, 6 AP
 	- *You channel an immense amount of power, burning away the evil of this world and empowering your allies.*
 	- Effect: Restore all allied Characters to maximum Stamina. Deal damage to all Foes for an amount equal to the total Stamina restored, additionally this action gains [[Burning Trait|Burning]] with a value equal to total the stamina restored.
@@ -225,7 +214,7 @@ Combo Actions:
 Reactions:
 - **Before I come Undone**, R
 	- *After you take damage you physically pull on your connection with an ally to move closer to them*
-	- [[Traits#^d885e1|Self]] ^48007f
+	- ^48007f
 ## Mana Scripting
 %%Change environment, AOE, Trade stamina for damage%%
 *Mana Scripting is likely the most accessible Aspect of Magic, Technically speaking all it requires is for the caster to be conscious. This is due to the fact that Mana Scripting is not an embodied form of magic. But instead it consists in writing spells, using expensive liquid mana, much like one would write high level computer code. These spells often consist of simple matter and energy generation.* 
@@ -305,7 +294,7 @@ Combo Actions:
 	- *You absorb your lightning to reinvigorate yourself*
 	- Condition: Your last action had the [[Charging Trait]]
 	- Effect: gain 1d6 [[Health and Stamina|Stamina]]
-	- [[Traits#^d885e1|Self]] 
+	- 
 - **You've Been Thunderstruck**, 4 AP
 	- *You force the lightning you just discharged to return to you in a massive blast*
 	- Condition: Your last action caused you to lose the [[Charged Condition]]
@@ -369,17 +358,17 @@ Combo Actions:
 	- *Description*
 	- Condition: You have the [[Daemonized Condition]]
 	- Effect: The next time you lose [[Health and Stamina|Stamina]] you may roll your [[Health and Stamina#^7170e3|Recovery Die]] (before you become exhausted).
-	- [[Traits#^d885e1|Self]] 
+	- 
 - **Back End Imp**, 1 AP
 	- *Description*
 	- Condition: You have the [[Daemonized Condition]]
 	- Effect: Target one Character within line of sight, if the target is unwilling deal 2d6 damage, the next time that Character would gain stamina they instead gain half and you may roll your [[Health and Stamina#^7170e3|Recovery Die]]to gain Stamina.
-	- [[Traits#^d885e1|Self]] 
+	- 
 - **Front End Gargoyle**, 2 AP
 	- *Description*
 	- Condition: You have the [[Daemonized Condition]]
 	- Effect: Target the nearest Character, the next time they deal damage you may roll your [[Health and Stamina#^7170e3|Recovery Die]] (if that damage would have caused you to become exhausted you gain the stamina before that damage.)
-	-  [[Traits#^d885e1|Self]] 
+	-  
 - **The Human Factor**, 2 AP
 	- *Your Daemon is clearly digging into your soul, but you resist its influence.*
 	- Condition: You have the [[Daemonized Condition]]
@@ -389,7 +378,7 @@ Combo Actions:
 	- *Description*
 	- Condition: You have the [[Daemonized Condition]]
 	- Effect: You exhaust your [[Health and Stamina|Stamina]].
-	-  [[Traits#^d885e1|Self]] 
+	-  
 
 Reactions: 
 - **Daemon Out Of Bounds**, R
