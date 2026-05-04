@@ -66,7 +66,7 @@ Actions: ^eb8eb1
 	- [[Attack Trait|Attack]] [[Ranged Trait]] | ^ba66aa
 - Trick Shot , 2 AP
 	- *You skillfully fire a shot that has extra effects*
-	- Effect: Target 1 Foe with your weapon, deal 1d4 damage. This action gains a [[Traits|Trait]] of your choice from the following list: [[Fling Trait|Fling(4)]], [[Conditions#^9ed920|Stressing(2)]], [[Traits#^9e3f4f|Mobile]], [[Traits#^c65353|Loaded(2)]], [[Traits#^21477e|Brutal]] or [[Traits#^cb440a|Piercing]].
+	- Effect: Target 1 Foe with your weapon, deal 1d4 damage. This action gains a [[Traits|Trait]] of your choice from the following list: [[Fling Trait|Fling(4)]], [[Conditions#^9ed920|Stressing(2)]], [[Mobile Trait|Mobile]], [[Traits#^c65353|Loaded(2)]], [[Brutal Trait|Brutal]] or [[Piercing Trait|Piercing]].
 	- [[Traits#^d885e1|Self]] |  ^9e667a
 - Reload , 1 AP
 	- *Load ammunition into your weapon*
@@ -100,7 +100,7 @@ Combo Actions:
 	- *You quickly fire a shot.*
 	- Condition: You previous action did not have the [[Attack Trait]]
 	- Effect: Target one Foe with your weapon, deal 1d8. If this action exhausts the target's stamina you gain [[Conditions|Adrenaline]]
-	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Traits#^9e3f4f|Mobile]]| ^e11950
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Mobile Trait|Mobile]]| ^e11950
 
 Reaction:
 - Shoot the Bullet
@@ -116,7 +116,7 @@ Actions:
 - **Push Through** , 2 AP
 	- *You rush past your foes, attacking as you move* 
 	- Effect: Move your speed. You may pass through spaces occupied by enemies with this action but not end in such a space. Target two foes (that were adjacent to you at some point during this action) with your Melee weapon, dealing 1d6 damage to both
-	- [[Attack Trait|Attack]] [[Traits#^c90f08|Move]] [[Melee Trait|Melee]] | ^931d0f
+	- [[Attack Trait|Attack]] [[Move Trait|Move]] [[Melee Trait|Melee]] | ^931d0f
 - Armored Gallop, 1 AP
 	- *You move with your mount, taking a defensive stance*
 	- Effect: Move your speed and roll your [[Health and Stamina#^7170e3|Recovery Die]]
@@ -131,12 +131,12 @@ Combo Actions:
 	- *You use your momentum to deliver a devastating attack*
 	- Condition: you moved with your previous action
 	- Effect: Take a move action, after finishing this movement target one foe adjacent to you. Deal a point of damage for every space you moved this round, in a move action that was a line.
-	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^c90f08|Move]] [[Traits#^21477e|Brutal]] |  ^35a702
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Move Trait|Move]] [[Brutal Trait|Brutal]] |  ^35a702
 - **Blast Off**, 1 AP
 	- *You use the momentum of your attack to quickly depart*
 	- Condition: Your last action was an attack
 	- Effect: Move twice your speed
-	- [[Traits#^c90f08|Move]]
+	- [[Move Trait|Move]]
 	
 Reactions: 
 - **Panic at the stable**, R
@@ -292,7 +292,7 @@ Combo Actions:
 - **You forced me to do this!**, 1 AP
 	- *You lose your patience and set your power loose*
 	- Condition: Your last action did not have the [[Attack Trait]]  
-	- Effect: Your next action gains the [[Traits#^21477e|Brutal Trait]]
+	- Effect: Your next action gains the [[Brutal Trait]]
 	- [[Traits]]
 
 Reactions: 
@@ -311,7 +311,7 @@ Reactions:
 Actions:
 - **One Shot**, 3 AP ^9ce859
 	- *Description*
-	- Effect: Target a Foe, your next Attack with the [[Ranged Trait]] gains the [[Traits#^21477e|Brutal Trait]]
+	- Effect: Target a Foe, your next Attack with the [[Ranged Trait]] gains the [[Brutal Trait]]
 	- [[Traits]]
 
 Combo Actions: 
@@ -324,7 +324,7 @@ Combo Actions:
 	- *Description*
 	- Condition: Your last action was a [[Ranged Trait|Ranged]] Attack
 	- Effect: Take two Move Actions, your next Attack gains the [[Surprising Trait]]
-	- [[Traits#^c90f08|Move]]
+	- [[Move Trait|Move]]
 
 Reactions: 
 - **Tactical Roll**, R

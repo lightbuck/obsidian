@@ -9,7 +9,7 @@ Traits are used to described basic functions of an Action along side the Action 
 ![[Brutal Trait]]
 ![[Burning Trait]]
 ![[Charging Trait]]
-![[Companion]]
+![[Companion Trait]]
 ![[Consumed Trait]]
 ![[Crossover Trait]]
 ![[Crushing Trait]]
@@ -30,21 +30,6 @@ Traits are used to described basic functions of an Action along side the Action 
 ![[Spend Trait]]
 ![[Step Trait]]
 
-- Mobile: Before taking this Action you can take a 0 AP [[Actions#^642a2c|Move Action]] ^9e3f4f
-- Move: This action makes you move in some way determined by the effect, you must take this movement. ^c90f08
-- Protected: After this action resolves roll your recovery die. ^7b905e
-- Role: This action is a Role Action. ^c39ead
-- Spend(N): This action spends N [[Meter]] after resolving its rolls. However if the action did not specify an effect for the spent [[Meter]], you may add the amount spent to its results ^69bd9b
-- Gain(N): This action adds N [[Meter]] after resolving its rolls ^d02161
-- Expend(N): This action drains N stamina from you and gain one stack of [[Conditions#^685a66|Adrenaline]]. If you have no stamina you instead gain N stacks of the [[Conditions#^9ed920|Stressed Condition]]. ^deed79
-- Charging: You gain or sustain the [[Conditions#^f57404|Charged Condition]] ^d2dbb4
-- Sacrifice: At the end of this action your current stamina is reduced by the size of your [[Health and Stamina|Recovery Die]]. Gain [[Meter]] equal to the amount lost. However you currently have the [[Conditions#^9d723e|Daemonized Condition]] you instead gain [[Meter]] equal to the amount of damage you deal, up to twice the size of your [[Health and Stamina|Recovery Die]]. ^195914
-- Crossover: Any ally with a bond with you may expend their AP to use this action. If this action has the [[Attack Trait]]it must target a Foe within line of sight of the ally. Any effects of the action happen as if you used it, but for the purposes of conditions for the ally's following actions it will count as if they had taken this action. When used this way, you may also take a move action for free before taking this action. ^0609c3
-- Companion: This action may only be taken by your Companion(s). ^c2aac5
-- Crushing: If this action exhausts its target's stamina, they also become impacted. ^7782f4
-- Final: You can only use this action once per Scene. This Action cannot have the [[Traits#^0609c3|Crossover Trait]]. You can only Know one of this actions. ^ace9f7
-- Piercing: If this action [[Health and Stamina|Exhausts the target's Stamina]] it also deal damage to the target's [[Health and Stamina|Health]] as if they had no Stamina ^cb440a
-- Brutal: This action deals an extra point of damage if it deals damage to health. ^21477e
 ## Magic Traits 
 List:
 - Ancestral : Someone in your family line also possesses this Origin. You cannot pick other Ancestral Magics

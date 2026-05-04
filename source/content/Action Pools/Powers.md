@@ -14,38 +14,38 @@ Powers are the other side of the coin from [[Styles]], but they also grant free 
 Actions:
 - **Gather Spirit**, 1 AP
 	- *You reach out and absorb nearby Spirit Energy*
-	- [[Traits#^d02161|Gain(+2)]] [[Immobile Trait|Immobile]] ^6989f2
+	- +[[Gain Trait|Gain(+2)]] [[Immobile Trait|Immobile]] ^6989f2
 - **Combat Communion**, 3 AP
 	- You focus completely on absorbing nearby spirit energy from the battlefield.*
 	- Effect: Gain an extra point of [[Meter]] per round number.
-	- [[Immobile Trait|Immobile]]  [[Traits#^d02161|Gain(+3)]] 
+	- [[Immobile Trait|Immobile]]  +[[Gain Trait|Gain(+3)]] 
 - **From the Spirits with Love**, 3 AP
 	- *You spend Spirit Energy you have accumulated to summon a massive bone blade that thrusts forward.*
 	- Effect: Target a 10 length line originating from you, or every point of [[Meter]] spent you deal +d4 to all [[Foes]] in that line.
-	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Traits#^69bd9b|Spend(10)]] ^d1cd4e
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Spend Trait|Spend(10)]] ^d1cd4e
 - **Spirit Barrier**, 1 AP
 	- *You use Spirit Energy to create a barrier between you and your Foes*
 	- Effect: Create within a radius of 5 a piece of [[The Battlefield#^4eb84d|Full Cover]] for every 2 points of [[Meter]] spent by this action
-	- [[Traits#^69bd9b|Spend(4)]] [[Traits#^2d7726|Create]]
+	- [[Spend Trait|Spend(4)]] [[Traits#^2d7726|Create]]
 - ###### Death, 6 AP
 	- *You use your magic to catalyze all nearby Spirit Energy and you channel it into a devastating blow*
 	- Effect: Target a radius of 1, for every point of [[Meter]] spent by this action deal 2d6 damage to all characters within the radius. Until the end of the Scene any time a character is knocked out you gain 1 stack of [[Conditions#^685a66|Adrenaline]] 
-	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Traits#^69bd9b|Spend(All)]] [[Traits#^ace9f7|Final]]
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Spend Trait|Spend(All)]] [[Final Trait|Final]]
 
 Combo Actions:
 - **Ain't afraid of no Spirits**, 2 AP
 	- *After attacking a foe with Spirit Energy you force said energy into your Foe's body*
-	- Condition: The Previous action had the [[Traits#^69bd9b|Spend Trait]] and the [[Attack Trait]]
+	- Condition: The Previous action had the [[Spend Trait]] and the [[Attack Trait]]
 	- Effect: Target a Foe you targeted with your previous action, they **get** 1 stack of the [[Conditions#^7a7e20|Stunned Condition]] ^a5d02f
 	- [[Attack Trait|Attack]]
 - **Possessed and Obsessed**, 1 AP
 	- *You infuse yourself with the Spirit Energy you collected, temporarily empowering yourself*
-	- Condition: The Previous action had the [[Traits#^d02161|Gain Trait]] 
+	- Condition: The Previous action had the [[Gain Trait]] 
 	- Effect: gain 1 stack of [[Conditions#^685a66|Adrenaline]] and Gain 3 point of stamina for each point of [[Meter]] Spent by this action
-	- [[Traits#^d885e1|Self]] [[Traits#^69bd9b|Spend(ALL)]]| ^50bd9f
+	- [[Traits#^d885e1|Self]] [[Spend Trait|Spend(ALL)]]| ^50bd9f
 - **Spirit Armor**, 2 AP
 	- *You recycle some of the Spirit Energy you used to defend yourself*
-	- Condition: The Previous action had the [[Traits#^69bd9b|Spend Trait]] 
+	- Condition: The Previous action had the [[Spend Trait]] 
 	- Effect: You gain 1 point of [[Health and Stamina|Stamina]] for each point of [[Meter]] spent by the previous action
 	- [[Traits#^d885e1|Self]] [[Immobile Trait|Immobile]] |
 - **Death Begets Death**, 1 AP
@@ -58,17 +58,17 @@ Combo Actions:
 
 - Ain't afraid of no spirits, 2 AP
 	*After attacking a foe with Spirit Energy you force said energy into your Foe's body*
-	Condition: The Previous action had the [[Traits#^69bd9b|Spend Trait]] and the [[Attack Trait]]
+	Condition: The Previous action had the [[Spend Trait]] and the [[Attack Trait]]
 	Effect: All targets of your previous action take 1d4 damage and if their stamina is exhausted they also **get** 1 stack of the [[Conditions#^7a7e20|Stunned Condition]]
 *The Spirit Energy you collected was unstable and you have to attempt to quell it.*
-	Condition: The Previous action had the [[Traits#^d02161|Gain Trait]] 
+	Condition: The Previous action had the [[Gain Trait]] 
 	Effect: Roll 1d12 and [[Meter|Spend]] that amount. If the result is [[Terminology#^9e500c|Underwhelming]] you gain the result as stamina. If the result is [[Terminology#^08cbdf|Overwhelming]] you deal the result as damage in a radius 1 circle, centered on you, #PH to all characters, including yourself. 
 	[[Immobile Trait|Immobile]] %%
 Reactions:
 - Bones from Blood, R
 	*You collect your sprit energy from a strike that you managed to avoid* 
 	Condition: You took damage to your stamina
-	[[Traits#^d02161|Gain(+2)]] ^909a48
+	+[[Gain Trait|Gain(+2)]] ^909a48
 ## Active Exceed
 %%Movement, Self Buffs%%
 *All humans have the ability to exceed the natural limitations of their body. Most fighters do so subconsciously in moments of high stress, but some have learned to do so intentionally, allowing them to accomplish awe inspiring feats worthy of legend.*
@@ -84,15 +84,15 @@ Actions:
 - **Siege Engine**, 2 AP
 	- *You charge forward, destroying anything in your path*
 	- Effect: Move in a line for double your speed (you can add [[Conditions#^868aeb|Quickened]]). Destroy any piece of terrain in the path you would move through and deal 2d6 damage to any enemy in the path (you can damage any enemy once with this action)
-	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Traits#^7782f4|Crushing]]
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Crushing Trait|Crushing]]
 - **Burst Dash**, 2 AP
 	- *You suddenly move at incredible speed, suddenly appearing next to a foe*
-	- Effect: Move to a space adjacent to a Foe that you can see. Your next action gains the [[Traits#^7782f4|Crushing Trait]]
-	- [[Traits#^d885e1|Self]] [[Traits#^c90f08|Move]] ^4eb5b4
+	- Effect: Move to a space adjacent to a Foe that you can see. Your next action gains the [[Crushing Trait]]
+	- [[Traits#^d885e1|Self]] [[Move Trait|Move]] ^4eb5b4
 - ###### Limit Break, 7 AP
 	- *You've pushed past the limits of your body, now it's time to push past the limits of Exceed itself.*
 	- Effect: Consume all stacks of [[Conditions#^1d4c54|Empowered]], gain one stack of [[Conditions#^685a66|Adrenaline]] for each stack. Until the end of the Scene any damage you deal is increased by 1d6 for every 3 stacks of [[Conditions#^685a66|Adrenaline]] you have.
-	- [[Traits#^d885e1|Self]] [[Traits#^ace9f7|Final]]
+	- [[Traits#^d885e1|Self]] [[Final Trait|Final]]
 
 Combo Actions:
 - **Tail Wind**, 1 AP
@@ -104,7 +104,7 @@ Combo Actions:
 	- *After throwing away the enemy you follow after the to deliver a follow up attack.*
 	- Condition: Your last action had the [[Fling Trait]]
 	- Effect: You may move to adjacent space to a Foe you moved with your previous action.
-	- [[Attack Trait|Attack]] [[Traits#^7782f4|Crushing]] ^dca3e5
+	- [[Attack Trait|Attack]] [[Crushing Trait|Crushing]] ^dca3e5
 - **Battle Meditation**, 1 AP
 	- *You focus on the battle*
 	- Condition: Your last action did not have the [[Attack Trait]]
@@ -146,11 +146,11 @@ Actions:
 - Protected with Fire, 3 AP
 	- *You cover an ally in fire, which will hurt any Foe that gets too close*
 	- Effect: Target an Ally, any Foe within radius 2 of them takes 1d8 damage.
-	- [[Aid Trait|Aid]] [[Attack Trait|Attack]] [[Traits#^7782f4|Crushing]]
+	- [[Aid Trait|Aid]] [[Attack Trait|Attack]] [[Crushing Trait|Crushing]]
 - ###### Justice, 6 AP
 	- *You channel an immense amount of power, burning away the evil of this world and empowering your allies.*
 	- Effect: Restore all allied Characters to maximum Stamina. Deal damage to all Foes for an amount equal to the total Stamina restored, additionally this action gains [[Burning Trait|Burning]] with a value equal to total the stamina restored.
-	- [[Attack Trait|Attack]] [[Traits#^ace9f7|Final ]] [[Traits#^c65353|Burning]]
+	- [[Attack Trait|Attack]] [[Final Trait|Final ]] [[Traits#^c65353|Burning]]
 
 Combo Actions:
 - Everything Burns, 3 AP
@@ -233,7 +233,7 @@ Actions:
 - **createWall()**, 1 AP
 	- *You summon a barrier of a solid material and send it forward*
 	- Effect: Target a 5 length line in beginning or ending in an adjacent space to you. Push enemies to the end of the line. Place a [[The Battlefield#^6e6320|Wall]] in the last space in the targeted line before the Foe you hit. 
-- 	[[Traits#^2d7726|Create]] [[Attack Trait|Attack]] [[Traits]] [[Traits#^deed79|Expend(3)]]
+- 	[[Traits#^2d7726|Create]] [[Attack Trait|Attack]] [[Traits]] [[Expend Trait|Expend(3)]]
 - **makeBlast()**, 2 AP
 	- You 
 - spikeThrow(), 2 AP
@@ -242,7 +242,7 @@ Actions:
 Combo Actions:
 - **Debug**, 2 AP
 	- *You take a moment to reassess your code after noticing a bug*
-	- Condition: Your previous action had the [[Traits#^deed79|Expend Trait]]
+	- Condition: Your previous action had the [[Expend Trait]]
 	- Effect: Gain
 	- [[Traits#^412513|Allies]] [[Aid Trait|Aid]] | 
 - **On and Off Again**, 1 AP
@@ -272,7 +272,7 @@ Actions:
 - **Of Ice And Snow**, 2 AP
 	- *You summon the storm, emitting lightning around you*
 	- Effect: Target one foe within 3 spaces of you, deal 2d6.
-	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Traits#^d2dbb4|Charging]] 
+	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Charging Trait|Charging]] 
 - **The Hammer Of The Gods**, 3 AP
 	- *You channel lightning through your conduit and into a foe as you strike them*
 	- Effect: Target one foe with your Melee weapon, dealing 2d8 damage
@@ -284,38 +284,38 @@ Actions:
 - **Threshing Oar**, 2 AP
 	- *You lift yourself with lightning, leaping a great distance*
 	- Effect: Move your speed twice. You may choose to land in a space occupied by a Foe, forcing them to move to an adjacent space.
-	- [[Traits#^d2dbb4|Charging]] [[Traits#^c90f08|Move]]
+	- [[Charging Trait|Charging]] [[Move Trait|Move]]
 - ###### The Storm, 4 AP
 	- *For an instant as brief as a lightning strike you become one with the storm, releasing its power through your Conduit*
 	- Effect: DIE
-	- [[Attack Trait|Attack]] [[Traits#^d2dbb4|Charging]] [[Traits#^ace9f7|Final]]
+	- [[Attack Trait|Attack]] [[Charging Trait|Charging]] [[Final Trait|Final]]
 
 Combo Actions: 
 - **Danger, High Voltage**, 2 AP
 	- *The lightning from one of your strikes jumps to another foe*
-	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]] and the [[Attack Trait]]
+	- Condition: Your last action had the [[Charging Trait]] and the [[Attack Trait]]
 	- Effect: target a second foe within a radius of 3 of your original target, they take the same damage you dealt with your previous action. If this attack exhausts a target's stamina you may repeat this effect once.
-	- [[Traits#^d2dbb4|Charging]] 
+	- [[Charging Trait|Charging]] 
 - **Feel The Thunder**, 1 AP
 	- *You concentrate the lightning within you, increasing its power*
-	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]]
+	- Condition: Your last action had the [[Charging Trait]]
 	- Effect: you gain 1 stack of [[Conditions#^685a66|Adrenaline]]
-	- [[Traits#^9e3f4f|Mobile]] [[Traits#^d2dbb4|Charging]] 
+	- [[Mobile Trait|Mobile]] [[Charging Trait|Charging]] 
 - **Recharge ElectroHeart**, 1 AP
 	- *You absorb your lightning to reinvigorate yourself*
-	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]]
+	- Condition: Your last action had the [[Charging Trait]]
 	- Effect: gain 1d6 [[Health and Stamina|Stamina]]
 	- [[Traits#^d885e1|Self]] 
 - **You've Been Thunderstruck**, 4 AP
 	- *You force the lightning you just discharged to return to you in a massive blast*
 	- Condition: Your last action caused you to lose the [[Conditions#^f57404|Charged Condition]]
 	- Effect: Target a radius of 3 centered on you, deal 3d6 damage to all Characters.
-	- [[Attack Trait|Attack]] [[Traits#^d2dbb4|Charging]] 
+	- [[Attack Trait|Attack]] [[Charging Trait|Charging]] 
 - **Don't Be a Stranger**, 1 AP
 	- *You use the electricity of your strikes to magnetically move your foes*
-	- Condition: Your last action had the [[Traits#^d2dbb4|Charging Trait]] and the [[Attack Trait]]
+	- Condition: Your last action had the [[Charging Trait]] and the [[Attack Trait]]
 	- Effect: Target any foe affected by your last action, cause them to move to an adjacent space to you, or you may instead move yourself to a space adjacent to a foe you just affected.
-	- [[Attack Trait|Attack]] [[Traits#^c90f08|Move]] [[Traits#^d2dbb4|Charging]] 
+	- [[Attack Trait|Attack]] [[Move Trait|Move]] [[Charging Trait|Charging]] 
 
 Reactions: 
 - **Garden in the Rain**, R
@@ -347,23 +347,23 @@ Actions:
 - **Procedurally Generated Ritual**, 1 AP
 	- *You feed the Daemon with your own Life Force.*
 	- Effect: Roll your [[Health and Stamina#^7170e3|Recovery Die]] twice and choose a result.
-	- [[Traits#^195914|Sacrifice]] [[Traits#^d885e1|Self]]
+	- [[Sacrifice Trait|Sacrifice]] [[Traits#^d885e1|Self]]
 - **Open Source Bloodshed**, 2 AP
 	- *You absorb Spirit Energy around you to feed your Daemon.*
 	- Effect: Target a radius of 3, all Characters other than you take 2d6 damage, if this action exhausts a Character's Stamina you may roll your [[Health and Stamina#^7170e3|Recovery Die]]. 
-	- [[Traits#^195914|Sacrifice]] [[Traits#^d885e1|Self]]
+	- [[Sacrifice Trait|Sacrifice]] [[Traits#^d885e1|Self]]
 - **Mono-Threaded Skewering**, 2 AP
 	- *You use your Daemon to deliver a devastating Blow and then you let it feed on the spoils*
 	- Effect: Target one Foe within Weapon Range, deal 4d6 damage.
-	- [[Traits#^195914|Sacrifice]] [[Attack Trait|Attack]]
+	- [[Sacrifice Trait|Sacrifice]] [[Attack Trait|Attack]]
 - **Pull**, 1 AP
 	- *You allow your Daemon to take over your body*
 	- Effect: You gain the [[Conditions#^9d723e|Daemonized Condition]], replace your current stamina by an amount equal to every point of [[Meter]] Spent by this action. 
-	- [[Traits#^69bd9b|Spend(ALL)]]
+	- [[Spend Trait|Spend(ALL)]]
 - ###### Deliverance, 6 AP
 	- *Your Daemon is unleashed, but instead of stealing your life force it fights by your side completely autonomously.*
 	- Effect: If you had it, you lose the [[Conditions#^9d723e|Daemonized Condition]]. Place a token on the field representing your Daemon as a [[Companions|Companion]], which has the [[Conditions#^9d723e|Daemonized Condition]] with stamina equal to every point spent by this action. The Daemon can take actions only from [[Powers#^06da48|Daemonic Possession]] and [[Styles|Style Actions]]. If either you or Daemon become exhausted, the other character can transfer their current stamina to the former. If the Daemon becomes Exhausted it is removed from the field. While the Daemon is on the field you cannot gain the [[Conditions#^9d723e|Daemonized Condition]]. 
-	- [[Traits#^69bd9b|Spend(ALL)]] [[Traits#^ace9f7|Final]]
+	- [[Spend Trait|Spend(ALL)]] [[Final Trait|Final]]
 Combo Actions: 
 - **Asynchronous Carnage**, 2 AP
 	- *Description*
@@ -431,7 +431,7 @@ Actions:
 - **Avant**, 1 AP
 	- *You transport your allies with you as you dance.*
 	- Effect: Take a [[Actions#^642a2c|Move Action]], any allies you move through with this action may choose to move to a space that you passed through. Gain the [[Conditions#^47fe37|Hidden Condition]]
-	- [[Traits#^c90f08|Move]][[Aid Trait|Aid]]
+	- [[Move Trait|Move]][[Aid Trait|Aid]]
 
 Combo Actions: 
 - **Fan Kick**, 2 AP
@@ -458,9 +458,9 @@ Combo Actions:
 Reactions: 
 - **Tanglefoot**, R
 	- *You emerge from a Foe's shadow, stopping them in their tracks*
-	- Condition: you have the [[Conditions#^47fe37|Hidden Condition]] and a Foe just took an action with the [[Traits#^c90f08|Move Trait]]
+	- Condition: you have the [[Conditions#^47fe37|Hidden Condition]] and a Foe just took an action with the [[Move Trait]]
 	- Effect: Cancel the triggering action and appear in a space adjacent to the triggering Foe.
-	- [[Traits#^c90f08|Move]] [[Traits#^d885e1|Self]]
+	- [[Move Trait|Move]] [[Traits#^d885e1|Self]]
 ## Astracentrism
 %% Stance, meter, reaction heavy, melee %%
 *Astracentrism is a martial art, learned specifically within environments in which the only source of gravity is a local Sun. This Aspect of Magic allows the wielder to redirect incoming kinetic energy in contact with their body.*
@@ -480,7 +480,7 @@ Actions:
 - **Half Circle Heavy Strike**, 1 AP
 	- *You release a large amount of kinetic energy into a single devastating blow*
 	- Effect: Target one foe within Melee Range, deal 2d6 damage
-	- [[Attack Trait|Attack]] [[Traits#^69bd9b|Spend(All)]]
+	- [[Attack Trait|Attack]] [[Spend Trait|Spend(All)]]
 - **Commanding Grab**, 2 AP
 	- *You grab a hold of an enemy and hold them still by absorbing their kinetic energy*
 	- Effect: Target one foe within melee range, that foe gains an amount of [[Conditions#^8081d3|Slowed]] equal to their movement speed and you gain an equal amount of [[Meter]]. Additionally you gain the [[Conditions#^503ca4|Centered Condition]]. 

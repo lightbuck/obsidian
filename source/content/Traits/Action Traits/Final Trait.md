@@ -1,1 +1,1 @@
-You can only use this action once per Scene. This Action cannot have the [[Traits#^0609c3|Crossover Trait]]. You can only Know one of this actions.
+You can only use this action once per Scene. This Action cannot have the [[Crossover Trait]]. You can only Know one of this actions.

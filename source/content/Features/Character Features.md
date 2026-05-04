@@ -5,7 +5,7 @@
 - Fast (-1)
 	+2 Speed
 - Companion (-1)
-	Add a token for a companion to the field. Receive x3 [[Traits#^c2aac5|Companion Traits]] to add
+	Add a token for a companion to the field. Receive x3 [[Companion Trait]] to add
 - Resistant (-2)
 	+1 Health
 - Dexterous (-3)

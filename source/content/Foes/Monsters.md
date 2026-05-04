@@ -8,4 +8,4 @@ Usually a single [[Foes#^4cc935|Heavy]] Foe, some may summon 'Minions', which ar
 ### Maws
 Usually a single [[Foes#^dbb12a|Captains]] Foe
 ### Leviathans
-Foes that technically count as a [[Foes#^dbb12a|Captains]] Foe, but who cannot be damaged until they enter a weakened state. After entering their Weakened state Leviathans have different [[Game Phases#^5bb2cb|Declarations]] from before they entered the state. Before a Leviathan is weakened these [[Game Phases#^5bb2cb|Declarations]] often have the [[Traits#^cb440a|Piercing]] and [[Traits#^21477e|Brutal Traits]].
+Foes that technically count as a [[Foes#^dbb12a|Captains]] Foe, but who cannot be damaged until they enter a weakened state. After entering their Weakened state Leviathans have different [[Game Phases#^5bb2cb|Declarations]] from before they entered the state. Before a Leviathan is weakened these [[Game Phases#^5bb2cb|Declarations]] often have the [[Piercing Trait|Piercing]] and [[Brutal Trait|Brutal Traits]]..
