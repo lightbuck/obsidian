@@ -14,7 +14,7 @@ Powers are the other side of the coin from [[Styles]], but they also grant free 
 Actions:
 - **Gather Spirit**, 1 AP
 	- *You reach out and absorb nearby Spirit Energy*
-	- [[Gain Trait|Gain(+2)]] [[Immobile Trait|Immobile]] ^6989f2
+	- [[Gain Trait|Gain(+2)]] ^6989f2
 - **Combat Communion**, 3 AP
 	- You focus completely on absorbing nearby spirit energy from the battlefield.*
 	- Effect: Gain an extra point of [[Meter]] per round number.

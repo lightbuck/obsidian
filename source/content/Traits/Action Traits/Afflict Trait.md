@@ -1,0 +1,1 @@
+This Action makes its targets gain [[Conditions]]

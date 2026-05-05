@@ -204,19 +204,19 @@ Actions:
 - **Hey, do your job!**, 1 AP
 	- *You make a flourish as you flash a smile to your foes.*
 	- Effect: Gain the [[Hunted Condition]], take a [[Actions#^ffdf5f|Flourish Action]] for free. If by your next turn you still have the Hunted Condition you lose it and gain Stamina equal to the number of rounds that have passed.
-	- [[Immobile Trait]]
+	- [[Immobile Trait|Immobile]]
 
 Combo Actions: 
 - **You're wasting my time!**, 1 AP
 	- *You cease fighting a Foe who's definitely not worth your time, which hurts your Foes on an emotional level*
 	- Condition: Your last action had the [[Attack Trait]] and did not have the [[Area Trait|Area]] and your target did not take damage nor was exhausted by that action
 	- Effect: Take a [[Actions#^ffdf5f|Flourish Action]] for free. If your next action targets another For from the Triggering Foe and Exhausts their Stamina, the Stamina of the Triggering Foe is also exhausted. 
-	- [[Mobile Trait]]
+	- [[Mobile Trait|Mobile]]
 - **Now I'm motivated!**, 1 AP
 	- *You are ready for the fight*
 	- Condition: You took a [[Actions#^ffdf5f|Flourish Action]] with your last action, or your last action was a[[Actions#^ffdf5f|Flourish Action]]
 	- Effect: Your next action gains the [[Piercing Trait]].
-	- [[Defend Trait]]
+	- [[Defend Trait|Defend]]
 
 Reactions: 
 - **Where's your motivation?**, R
@@ -241,34 +241,34 @@ Actions:
 - **Howdy Partner**, 1 AP ^8c3935
 	- *You greet your Foe*
 	- Effect: Target a Foe.
-	- [[Traits]]
+	- -
 - **Let's make this a fair fight**, 1 AP
 	- *Description*
 	- Effect: Target a Foe that has taken damage during this Combat Encounter. They regain stamina equal to their Stamina Pool. If They take damage to health this round they become [[Stunned Condition|Stunned]] .
-	- [[Traits]]
+	- [[Afflict Trait|Afflict]]
 
 Combo Actions: 
 - **Isn't there a bounty on your head?**, 2 AP
 	- *Description*
 	- Condition: Your last action targeted a Foe and did not have the [[Attack Trait]]
 	- Effect: The foe gains the [[Hunted Condition]]
-	- [[Traits]]
+	- [[Afflict Trait|Afflict]]
 - **Stow Weapon**, 1 AP
 	- *Description*
 	- Condition: You Exhausted a Foe's stamina or dealt damage to their health with your last action
 	- Effect: The Foe becomes [[Stunned Condition|Stunned]] .
-	- [[Consumed Trait|Consumed]]
+	- [[Consumed Trait|Consumed]] [[Afflict Trait|Afflict]]
 Reactions: 
 - **Are you afraid partner?**, R
 	- *Description*
 	- Condition: The turn after yours begins and the Foe you targeted with the action [[Styles#^8c3935|Howdy Partner]] took damage to their Health
 	- Effect: the Foe you targeted with your action [[Styles#^8c3935|Howdy Partner]] becomes [[Stunned Condition|Stunned]] 
-	- [[Traits]]
+	- [[Afflict Trait|Afflict]]
 - **Dead or alive**, R
 	- *Description*
 	- Condition: A foe you can see loses a condition inflicted by you or an Ally.
 	- Effect: The Foe either gains [[Hunted Condition|Hunted]] or regains the condition they just lost.
-	- [[Traits]]
+	- [[Afflict Trait|Afflict]]
 
 ## Remorseful
 %% Comment The Aspects of the Magic %%
@@ -281,19 +281,19 @@ Actions:
 - **Leave me alone!**, 1 AP
 	- *Description*
 	- Effect: Target all nearby characters, force them to move 3d4 spaces away from you. Then take a Move Action.
-	- [[Traits]]
+	- [[Push Trait]]
 
 Combo Actions: 
 - **You're going to make me angry!**, 1 AP
 	- *You threaten your Foe with the promise of showing what you're truly capable of*
 	- Condition: Your last action had the [[Attack Trait]] 
 	- Effect: Your Foe gains the [[Impacted Condition]]
-	- [[Traits]]
+	- [[Afflict Trait|Afflict]]
 - **You forced me to do this!**, 1 AP
 	- *You lose your patience and set your power loose*
 	- Condition: Your last action did not have the [[Attack Trait]]  
 	- Effect: Your next action gains the [[Brutal Trait]]
-	- [[Traits]]
+	- -
 
 Reactions: 
 - **Stop it please!**, R
@@ -312,7 +312,7 @@ Actions:
 - **One Shot**, 3 AP ^9ce859
 	- *Description*
 	- Effect: Target a Foe, your next Attack with the [[Ranged Trait]] gains the [[Brutal Trait]]
-	- [[Traits]]
+	- -
 
 Combo Actions: 
 - **One Kill**, 1 AP
@@ -344,31 +344,31 @@ Actions:
 - **Full Throttle**, 1 AP
 	- *Description*
 	- Effect: Gain a d6 of stacks of [[Energized Condition|Energized]] per Round Number and then take a move action.
-	- [[Traits]]
+	- -
 - **Crash**, 3 AP
 	- *Description*
 	- Effect: Move in a line, target all foes within the line and deal a d6 of damage for every 3 Spaces you moved through at the point where the Foe is. Any previous movement that could be considered part of this line that you took with your previous action is also included.
-	- [[Traits]]
+	- [[Move Trait|Move]] [[Attack Trait|Attack]]
 - **Get in loser**, 1 AP
 	- *Description*
-	- Effect: Target an Ally adjacent to you, take a move action, the Ally mantains their relative position to you as you move.
-	- [[Traits]]
+	- Effect: Target an Ally adjacent to you, take a move action, the Ally maintains their relative position to you as you move.
+	- [[Move Trait|Move]] [[Aid Trait|Aid]]
 - **Jousting will never go out of fashion**, 2 AP
 	- *Description*
 	- Effect: Take a move action, deal 2d4 damage up to two foes along your path. Gain [[Energized Condition|Energized]] equal to the damage you dealt.
-	- [[Traits]]
+	- [[Attack Trait|Attack]] [[Move Trait|Move]]
 
 Combo Actions: 
 - **Slide to a stop**, 1 AP
 	- *Description*
 	- Condition: Your last action was a move action.
 	- Effect: You may move an additional number of spaces equal to half the amount you moved with your last action, also gain stacks of [[Energized Condition|Energized]] equal to that amount. Take a [[Actions#^ffdf5f|Flourish Action]] for free.
-	- [[Traits]] 
+	- [[Move Trait|Move]]
 - **Drift Burst**, 1 AP
 	- *Description*
 	- Condition: Your last action was a move action.
 	- Effect: Gain stacks of [[Energized Condition|Energized]] equal to half the amount of spaces you moved with your last action then take a Move action.
-	- [[Traits]]
+	- [[Move Trait|Move]]
 
 
 Reactions: 
@@ -384,27 +384,27 @@ Actions:
 - **This better be the final draft**, 2 AP
 	- *Description*
 	- Effect: Gain stacks of the[[Adrenaline Condition]] equal to the round number.
-	- [[Consumed Trait|Consumed]] [[Mobile Trait]]
+	- [[Consumed Trait|Consumed]] [[Mobile Trait|Mobile]]
 - **Mightier than the sword**, 2 AP
 	- *Description*
 	- Effect: The next time you gain a positive condition you gain an extra stack of it.
-	- [[Aid Trait|Aid]] [[Mobile Trait]]
+	- [[Aid Trait|Aid]] [[Mobile Trait|Mobile]]
 - **Lack of Funding**, 2 AP
 	- *Description*
 	- Effect: You roll your recovery die but instead you lose the Stamina you would have gained. Gain one stack of [[Adrenaline Condition|Adrenaline]]
-	- [[Aid Trait|Aid]] [[Mobile Trait]]
+	- [[Aid Trait|Aid]] [[Mobile Trait|Mobile]]
 
 Combo Actions: 
 - **The Scientific Method**, 2 AP
 	- *Description*
 	- Condition: Your previous action had the [[Attack Trait]] and you have the [[Adrenaline Condition]]
 	- Effect: Remove one stack of [[Adrenaline Condition|Adrenaline]], if you Exhaust a Foe's Stamina this turn you gain 2 stacks of [[Adrenaline Condition|Adrenaline]]
-	- [[Mobile Trait]]
+	- [[Mobile Trait|Mobile]]
 - **Scrap Draft**, 2 AP
 	- *Description*
 	- Condition: Your previous action made you gain the [[Adrenaline Condition]]
 	- Effect: Remove all stacks of the [[Adrenaline Condition]]. The next time you gain [[Adrenaline Condition|Adrenaline]] you gain 3 extra stacks.
-	- [[Consumed Trait|Consumed]] [[Mobile Trait]]
+	- [[Consumed Trait|Consumed]] [[Mobile Trait|Mobile]]
 - **Academically Induced Mental Breakdown**, 1 AP
 	- *Description*
 	- Condition: You consumed your last stack of the [[Adrenaline Condition]] with your last action
