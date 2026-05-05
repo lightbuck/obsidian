@@ -1,1 +1,1 @@
-If this action [[Health and Stamina|Exhausts the target's Stamina]] it also deal damage to the target's [[Health and Stamina|Health]] as if they had no Stamina.
+If this action [[Health and Stamina|Exhausts the target's Stamina]], overflowing damage will be calculated as if the Foe had a Stamina Pool of 0.

@@ -19,5 +19,5 @@ Conditions are applied depending on the result of a [[Health and Stamina#^77a09d
 ![[Impacted Condition]]
 ![[Silenced Condition]]
 ### Power Conditions
-![[Empowered]]
+![[Empowered Condition]]
 ![[Adrenaline Condition]]
