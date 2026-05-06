@@ -31,10 +31,10 @@ Combat Style: **
 ![[Health and Stamina#^591097]]
 ## Gear
 ### Armor
-![[Gear#^773a2c]]
+![[Gear (Deprecated)#^773a2c]]
 ### Rapid Summons
 *You summon various small animals and monsters to attack for you*
-Archetype: [[Gear#^c2d71c]]
+Archetype: [[Gear (Deprecated)#^c2d71c]]
 Level 2
-Critical Trait: ![[Gear#^43881e]]
-Traits: ![[Gear#^2e8c83]]Ride 2![[Gear#^885fe3|Ride(2)]] 
+Critical Trait: ![[Gear (Deprecated)#^43881e]]
+Traits: ![[Gear (Deprecated)#^2e8c83]]Ride 2![[Gear (Deprecated)#^885fe3|Ride(2)]] 

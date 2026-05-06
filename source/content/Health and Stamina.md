@@ -38,7 +38,7 @@ That is to say that your pool of Stamina is equal to your Recovery Die's size. Y
 ^0823c9
 
 Whenever a character's stamina is exhausted, the damage they are taking is "gated". This means that any left over damage will not be carried over to the health.
-Depending on a character's [[Power Features]] characters might have other gates, which limit damage in the same way.
+Depending on a character's [[Power Features (Deprecated)]] characters might have other gates, which limit damage in the same way.
 Additionally "Triggering a Gate" might be also be the requirement for reactions or combo actions.  ^1911da
 
 # Tank Or Flank?

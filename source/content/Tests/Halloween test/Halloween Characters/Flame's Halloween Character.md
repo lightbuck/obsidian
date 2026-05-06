@@ -32,11 +32,11 @@ Combat Style: **
 ![[Health and Stamina#^591097]]
 ## Gear
 ### Armor
-![[Gear#^05cbc7]]
+![[Gear (Deprecated)#^05cbc7]]
 ### Burning Palms
 *Your fists are filled with fire*
-Archetype: [[Gear#^c2d71c|Ranged Weapon]]
+Archetype: [[Gear (Deprecated)#^c2d71c|Ranged Weapon]]
 Level 3
-Critical Trait: ![[Gear#^045bf7]]
-Traits: ![[Gear#^2e8c83]]
-![[Gear#^7c9600]]
+Critical Trait: ![[Gear (Deprecated)#^045bf7]]
+Traits: ![[Gear (Deprecated)#^2e8c83]]
+![[Gear (Deprecated)#^7c9600]]

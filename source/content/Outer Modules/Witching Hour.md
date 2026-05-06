@@ -6,7 +6,7 @@ These are the rules for the implementation of Dark Magic for player characters, 
 - "Name Knowledge"
 - "Work with Name"
 
-[[Power Features]]:
+[[Power Features (Deprecated)]]:
 - From Souls: Gain stacks of [[Empowered Condition|Empowered]] when a Foe takes an action by your suggestion.
 
 Actions:

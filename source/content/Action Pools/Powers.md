@@ -1,5 +1,5 @@
 #PhotonTTRPG 
-Powers are the other side of the coin from [[Styles]], but they also grant free points in certain [[Skills]] and [[Power Features]]
+Powers are the other side of the coin from [[Styles]], but they also grant free points in certain [[Skills]] and [[Power Features (Deprecated)]]
 # List of Powers
 ## Alkean Magic
 %%Gain n Spend Meter, Summon Things%%
@@ -8,7 +8,7 @@ Powers are the other side of the coin from [[Styles]], but they also grant free 
 - "Alkean Magic"
 - "Work with the dead"
 
-[[Power Features]]:
+[[Power Features (Deprecated)]]:
 - From Spirits: At the end of your turn gain 2 stacks of [[Empowered Condition|Empowered]] for every point of [[Meter]] you gained this turn 
 
 Actions:
@@ -66,7 +66,7 @@ Reactions:
 - Fleet
 - Flex
 
-[[Power Features]]: 
+[[Power Features (Deprecated)]]: 
 - From Excess: Any time you deal damage equal or greater to thrice the stamina pool of your target you gain 4d6 stacks of [[Empowered Condition|Empowered]]
 
 Actions:
@@ -116,7 +116,7 @@ Reactions:
 - "Phoenix Talon Knowledge"
 - "Work with fire"
 
-[[Power Features]]:
+[[Power Features (Deprecated)]]:
 - From Fires: Any time you take an action with the [[Aid Trait]], you gain 3d4 stacks of [[Empowered Condition|Empowered]]. Any time an action with the [[Attack Trait]]targets more than one foe, you gain 3d4 stacks of [[Empowered Condition|Empowered]]
 
 Actions:
@@ -173,7 +173,7 @@ Reactions:
 - "Work with Magic"
 - Fleet
 
-[[Power Features]]:
+[[Power Features (Deprecated)]]:
 - From Strings: At the end of your turn gain 2d4 empowered for every AP spent on actions with the [[Aid Trait]]
 
 Actions:
@@ -254,7 +254,7 @@ Reactions:
 - "Work with lightning"
 - Flex
 
-[[Power Features]]:
+[[Power Features (Deprecated)]]:
 - From Storms: When you lose  the [[Charged Condition]], gain 2 empowered for every for every [[Actions#^2c1bb5|Effective AP]] spent since you last gained the [[Charged Condition]].
 
 Actions:
@@ -329,7 +329,7 @@ Reactions:
 - "Work with Daemons"
 - "Work with Magic"
 
-[[Power Features]]:
+[[Power Features (Deprecated)]]:
 - From Name:
 
 Actions:
@@ -401,7 +401,7 @@ Reactions:
 - "Name Knowledge"
 - "Work with Name"
 
-[[Power Features]]:
+[[Power Features (Deprecated)]]:
 - From Name: 
 
 Actions:
@@ -458,7 +458,7 @@ Reactions:
 - Flex
 - Fleet
 
-[[Power Features]]:
+[[Power Features (Deprecated)]]:
 - From Name:
 
 Actions:
@@ -527,7 +527,7 @@ Powers are meant to be a layer of extra flavor that adds mechanical complexity t
 - "Name Knowledge"
 - "Work with Name"
 
-[[Power Features]]:
+[[Power Features (Deprecated)]]:
 - From Name: 
 
 Actions:

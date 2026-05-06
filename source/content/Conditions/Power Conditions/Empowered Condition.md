@@ -1,1 +1,1 @@
-This condition is used by your [[Power Features]]
+This condition is used by your [[Power Features (Deprecated)]]

@@ -33,9 +33,9 @@ Combat Style: *Salvius surfs his spear into battle, using it to quickly move acr
 ![[Health and Stamina#^b58495]]
 ## Gear
 ### Armor
-![[Gear#^773a2c]]
+![[Gear (Deprecated)#^773a2c]]
 ### Arm of Nova
 *An oversized spear with a starship thruster attached to its blunt end, allowing the wielder to ride the weapon into battle.*
-Archetype : [[Gear#^b81917|Close Quarters Weapon]]
+Archetype : [[Gear (Deprecated)#^b81917|Close Quarters Weapon]]
 Level: 2
-Critical Trait: ![[Gear#^356c77]]Traits: Ride 3 ![[Gear#^885fe3|Ride(4)]]
+Critical Trait: ![[Gear (Deprecated)#^356c77]]Traits: Ride 3 ![[Gear (Deprecated)#^885fe3|Ride(4)]]

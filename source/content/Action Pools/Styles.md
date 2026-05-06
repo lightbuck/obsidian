@@ -395,17 +395,17 @@ Actions:
 	- [[Aid Trait|Aid]] [[Mobile Trait|Mobile]]
 
 Combo Actions: 
-- **The Scientific Method**, 2 AP
+- **The Scientific Method**, 3 AP
 	- *Description*
 	- Condition: Your previous action had the [[Attack Trait]] and you have the [[Adrenaline Condition]]
 	- Effect: Remove one stack of [[Adrenaline Condition|Adrenaline]], if you Exhaust a Foe's Stamina this turn you gain 2 stacks of [[Adrenaline Condition|Adrenaline]]
 	- [[Mobile Trait|Mobile]]
-- **Scrap Draft**, 2 AP
+- **Scrap Draft**, 3 AP
 	- *Description*
 	- Condition: Your previous action made you gain the [[Adrenaline Condition]]
 	- Effect: Remove all stacks of the [[Adrenaline Condition]]. The next time you gain [[Adrenaline Condition|Adrenaline]] you gain 3 extra stacks.
 	- [[Consumed Trait|Consumed]] [[Mobile Trait|Mobile]]
-- **Academically Induced Mental Breakdown**, 1 AP
+- **Academically Induced Mental Breakdown**, 2 AP
 	- *Description*
 	- Condition: You consumed your last stack of the [[Adrenaline Condition]] with your last action
 	- Effect: You exhaust your Stamina, gain the [[Stunned Condition]] and gain 2d4 stacks of [[Adrenaline Condition|Adrenaline]].

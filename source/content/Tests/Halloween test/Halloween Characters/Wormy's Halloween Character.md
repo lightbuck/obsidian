@@ -31,11 +31,11 @@ Combat Style: **
 ![[Health and Stamina#^cf2cc4]]
 ## Gear
 ### Armor
-![[Gear#^8c39ce]]
+![[Gear (Deprecated)#^8c39ce]]
 ### Your Fists
 *Your goddamn fists*
-Archetype: [[Gear#^]]
+Archetype: [[Gear (Deprecated)#^]]
 Level 2
-Critical Trait: ![[Gear#^09d0cb]]
-Traits: ![[Gear#^2e8c83]]
-![[Gear#^7c9600]]
+Critical Trait: ![[Gear (Deprecated)#^09d0cb]]
+Traits: ![[Gear (Deprecated)#^2e8c83]]
+![[Gear (Deprecated)#^7c9600]]
