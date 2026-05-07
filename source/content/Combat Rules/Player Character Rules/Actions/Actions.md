@@ -10,7 +10,7 @@ There are 4 types of actions:
 - Interact (1 to 4 AP): Interact with the environment in a manner dictated by the GM.
 ### Action Pools
 The main actions most Player Characters will be taking are usually from Action Pools such as:
-- [[Styles]]
+- [[Styles (Deprecated)]]
 - [[Powers]]
 ### Rising Action ^5b10a9
 At the beginning of a PC's turn they also have a special **Rising Action**, which they can take to either:

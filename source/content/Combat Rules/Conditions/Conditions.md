@@ -12,7 +12,7 @@ Conditions are applied depending on the result of a [[Health and Stamina#^77a09d
 ![[Charged Condition]]
 ![[Daemonized Condition]]
 ![[Energized Condition]]
-![[Hidden Conditions]]
+![[Hidden Condition]]
 ### Negative Conditions
 ![[Stunned Condition]]
 ![[Hunted Condition]]

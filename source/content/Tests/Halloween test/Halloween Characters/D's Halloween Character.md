@@ -14,19 +14,19 @@ Combat Style: *Salvius surfs his spear into battle, using it to quickly move acr
 **Speed**: 9
 ## Actions: 
 ### Core Actions
-![[Styles#^3b39fa]]+[[Step Trait|Step(1)]]
-![[Styles#^931d0f]]+[[Step Trait|Step(1)]]
+![[Styles (Deprecated)#^3b39fa]]+[[Step Trait|Step(1)]]
+![[Styles (Deprecated)#^931d0f]]+[[Step Trait|Step(1)]]
 
 ![[Powers#^e183a4]]
 ![[Powers#^4c7c29]]
 ### Combo Actions
-![[Styles#^2433da]]+[[Step Trait|Step(1)]]
-![[Styles#^35a702]]+[[Step Trait|Step(1)]]
+![[Styles (Deprecated)#^2433da]]+[[Step Trait|Step(1)]]
+![[Styles (Deprecated)#^35a702]]+[[Step Trait|Step(1)]]
 
 ![[Powers#^f51106]]
 ![[Powers#^b29e10]]
 ### Reactions
-![[Styles#^09e508]]
+![[Styles (Deprecated)#^09e508]]
 ![[Powers#^48007f]]
 
 ## Body Build

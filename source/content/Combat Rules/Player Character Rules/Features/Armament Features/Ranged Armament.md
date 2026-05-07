@@ -1,4 +1,5 @@
 You may take actions with the [[Ranged Trait]].
+**Capacity Modifier:** -1
 
 ---
 # Critical Ranged Armament

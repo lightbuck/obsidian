@@ -12,19 +12,19 @@ Combat Style: **
 **Max Stamina**: 15
 **Speed**: 7
 ### Core Actions
-![[Styles#^ba66aa]]++[[Gain Trait|Gain(1)]]
-![[Styles#^9e667a]]++[[Gain Trait|Gain(1)]]
+![[Styles (Deprecated)#^ba66aa]]++[[Gain Trait|Gain(1)]]
+![[Styles (Deprecated)#^9e667a]]++[[Gain Trait|Gain(1)]]
 
 ![[Powers#^6989f2]]
 ![[Powers#^d1cd4e]]
 ### Combo Actions
-![[Styles#^eb7c85]]++[[Gain Trait|Gain(1)]]
-![[Styles#^523773]]++[[Gain Trait|Gain(1)]]
+![[Styles (Deprecated)#^eb7c85]]++[[Gain Trait|Gain(1)]]
+![[Styles (Deprecated)#^523773]]++[[Gain Trait|Gain(1)]]
 
 ![[Powers#^a5d02f]]
 ![[Powers#^50bd9f]]
 ### Reactions
-![[Styles#^c8b15b]]
+![[Styles (Deprecated)#^c8b15b]]
 
 ![[Powers#^909a48]]
 ## Body Build

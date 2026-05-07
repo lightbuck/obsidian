@@ -12,19 +12,19 @@ Combat Style: **
 **Max Stamina**: 11
 **Speed**: 3
 ### Core Actions
-![[Styles#^3b39fa]]+[[Fling Trait|Fling(1)]]
-![[Styles#^adead5]]
+![[Styles (Deprecated)#^3b39fa]]+[[Fling Trait|Fling(1)]]
+![[Styles (Deprecated)#^adead5]]
 
 ![[Powers#^4eb5b4]]
 ![[Powers#^d39321]]
 ### Combo Actions
-![[Styles#^486153]]+[[Fling Trait|Fling(1)]]
-![[Styles#^6e75b3]]+[[Fling Trait|Fling(1)]]
+![[Styles (Deprecated)#^486153]]+[[Fling Trait|Fling(1)]]
+![[Styles (Deprecated)#^6e75b3]]+[[Fling Trait|Fling(1)]]
 
 ![[Powers#^22deee]]
 ![[Powers#^dca3e5]]
 ### Reactions
-![[Styles#^09e508]]
+![[Styles (Deprecated)#^09e508]]
 
 ![[Powers#^aae77e]]
 ## Body Build

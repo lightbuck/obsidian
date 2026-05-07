@@ -27,7 +27,7 @@ Actions:
 	- [[Spend Trait|Spend(ALL)]]
 - ###### Deliverance, 6 AP
 	- *Your Daemon is unleashed, but instead of stealing your life force it fights by your side completely autonomously.*
-	- Effect: If you had it, you lose the [[Daemonized Condition]]. Place a token on the field representing your Daemon as a [[Companions|Companion]], which has the [[Daemonized Condition]] with stamina equal to every point spent by this action. The Daemon can take actions only from [[Powers#^06da48|Daemonic Possession]] and [[Styles|Style Actions]]. If either you or Daemon become exhausted, the other character can transfer their current stamina to the former. If the Daemon becomes Exhausted it is removed from the field. While the Daemon is on the field you cannot gain the [[Daemonized Condition]]. 
+	- Effect: If you had it, you lose the [[Daemonized Condition]]. Place a token on the field representing your Daemon as a [[Companions|Companion]], which has the [[Daemonized Condition]] with stamina equal to every point spent by this action. The Daemon can take actions only from [[Powers#^06da48|Daemonic Possession]] and [[Styles (Deprecated)|Style Actions]]. If either you or Daemon become exhausted, the other character can transfer their current stamina to the former. If the Daemon becomes Exhausted it is removed from the field. While the Daemon is on the field you cannot gain the [[Daemonized Condition]]. 
 	- [[Spend Trait|Spend(ALL)]] [[Final Trait|Final]]
 Combo Actions: 
 - **Asynchronous Carnage**, 2 AP

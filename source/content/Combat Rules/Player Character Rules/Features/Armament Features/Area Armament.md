@@ -1,4 +1,5 @@
 You may take actions with the [[Area Trait]].
+**Capacity Modifier:** -1
 
 ---
 # Critical Area Armament

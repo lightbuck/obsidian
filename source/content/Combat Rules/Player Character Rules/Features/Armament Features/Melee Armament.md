@@ -1,4 +1,5 @@
 You may take actions with the [[Melee Trait]].
+**Capacity Modifier:** -1
 
 ---
 # Critical Melee Armament
