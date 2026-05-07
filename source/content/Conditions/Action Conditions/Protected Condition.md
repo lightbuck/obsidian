@@ -1,0 +1,1 @@
+The next time you take damage decrease it by [[N]] and then remove all stacks of this condition.
