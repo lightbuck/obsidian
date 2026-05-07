@@ -1,0 +1,1 @@
+*A simple Aspect of Magic which replaces a wielder's limb with a metal that the user can morph into any shape they desire.*

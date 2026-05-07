@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "86e0a9db5f039979",
+        "id": "b6bb1984562421e7",
         "type": "tabs",
         "children": [
           {
-            "id": "c5387c81b81b66e3",
+            "id": "8d849868134185be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roleplay Rules/Types of Campaigns.md",
+                "file": "Combat Rules/Player Character Rules/Powers/Active Exceed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of Campaigns"
+              "title": "Active Exceed"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PH",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
   "right": {
     "id": "f91876d9e667db79",
@@ -168,45 +168,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5387c81b81b66e3",
+  "active": "8d849868134185be",
   "lastOpenFiles": [
-    "Roleplay Rules/Bonds.md",
-    "Roleplay Rules/Skills.md",
+    "Combat Rules/Player Character Rules/Powers/Storm Hook.md",
+    "Combat Rules/Player Character Rules/Powers/Static.md",
+    "Combat Rules/Player Character Rules/Powers/Rouge Bud.md",
+    "Combat Rules/Player Character Rules/Powers/Resono Magic.md",
+    "Combat Rules/Player Character Rules/Powers/Phoenix Talon.md",
+    "Combat Rules/Player Character Rules/Powers/Mana Scripting.md",
+    "Combat Rules/Player Character Rules/Powers/Lycanthropy.md",
+    "Combat Rules/Player Character Rules/Powers/Bloodsten.md",
+    "Combat Rules/Player Character Rules/Powers/Daemonic Possession.md",
+    "Combat Rules/Player Character Rules/Powers/Alkean Magic.md",
+    "Combat Rules/Player Character Rules/Powers/Active Exceed.md",
+    "Combat Rules/Player Character Rules/Powers/Powers.md",
+    "Combat Rules/Player Character Rules/Powers/Shadow Dance.md",
+    "Combat Rules/Player Character Rules/Powers/Astracentrism.md",
+    "Combat Rules/Player Character Rules/Powers",
+    "Combat Rules/Conditions/Conditions.md",
+    "Combat Rules/Conditions/Negative Conditions/Thorned Condition.md",
+    "Combat Rules/Player Character Rules/Actions/Actions.md",
     "Roleplay Rules/Types of Campaigns.md",
+    "Roleplay Rules/Skills.md",
+    "Roleplay Rules/Bonds.md",
     "Combat Rules/Foes/Monsters.md",
     "index.md",
     "Terminology.md",
-    "Player Character Rules/Actions/Roles.md",
-    "Player Character Rules/Actions/Actions.md",
+    "Combat Rules/Player Character Rules/Actions/Roles.md",
     "Combat Rules/Game Phases.md",
     "Cheat Sheet.md",
-    "Combat Rules/NPCS.md",
-    "Player Character Rules",
+    "Combat Rules/Player Character Rules",
     "Combat Rules",
-    "Progression.md",
-    "Player Character Rules/Features/Power Features/To Power Features/To Rush.md",
     "Miscellaneous Rules",
-    "Player Character Rules/Features/Power Features/To Power Features/To Rescue.md",
-    "Player Character Rules/Features/Power Features/To Power Features/To Speed.md",
-    "Player Character Rules/Features/Power Features/To Power Features/To Thorns.md",
-    "Player Character Rules/Features/Power Features/To Power Features/To Protected.md",
-    "Player Character Rules/Features/Power Features/To Power Features/To Life.md",
-    "Player Character Rules/Features/Power Features/To Power Features/To Devastation.md",
-    "Player Character Rules/Features/Power Features/To Power Features/To Breath.md",
-    "Player Character Rules/Features/Power Features/From Power Features",
-    "Player Character Rules/Features/Vulnerabilities/Winded Vulnerability.md",
-    "Player Character Rules/Features/Power Features/To Power Features",
-    "Player Character Rules/Features/Vulnerabilities/Breathless Vulnerability.md",
-    "Player Character Rules/Features/Vulnerabilities/Lonely Vulnerability.md",
-    "Player Character Rules/Features/Vulnerabilities/Lightweight Vulnerability.md",
-    "Player Character Rules/Features/Vulnerabilities/Inattentive Vulnerability.md",
-    "Player Character Rules/Features/Vulnerabilities/Flat Footed Vulnerability.md",
-    "Player Character Rules/Features/Power Features",
-    "Player Character Rules/Features/Vulnerabilities",
-    "Player Character Rules/Features/Armament Features",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features",
+    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features",
+    "Combat Rules/Player Character Rules/Features/Power Features",
+    "Combat Rules/Player Character Rules/Features/Vulnerabilities",
+    "Combat Rules/Player Character Rules/Features/Armament Features",
     "Images/Armaments Sheet.png",
     "Images",
-    "Combat Rules/Conditions/Power Conditions",
     "Untitled.canvas",
     "Pasted image 20260225202001.png"
   ]

@@ -7,12 +7,7 @@ There are 4 types of actions:
 - Flourish Actions: Flourish Actions are 1 AP actions that can be taken once during your turn for free. When taking a Flourish Action you must declare a [[Power Features (Deprecated)#^acac8c|Feat of Power]] you choose to activate. ^ffdf5f
 ### List of Universal Actions
 - Move (1 AP): [[Movement|Move]] a number of spaces equal to your speed ^642a2c
-- Catch(1 AP): You take your weapon back, removing its lost condition, if you last action involved making a ranged attack with the weapon.  ^bb3ce4
-- Swap (1 AP): You swap your equipped weapon for a weapon in your inventory ^644f38
-- Apply Skill (1 AP): Make a [[Skills|Skill Check]] to either Gain stack of the [[Empowered Condition]] (or set it to an ally)
 - Interact (1 to 4 AP): Interact with the environment in a manner dictated by the GM.
-- Brace (2 AP #PH): Roll your [[Health and Stamina#^7170e3|Recovery Dice]] thrice and take the better result 
-- Combat Repair (3 AP): You return a [[Gear (Deprecated)|Scrapped]] piece of gear to its original form and choose if to equip it or return it to your inventory. ^19f82e
 ### Action Pools
 The main actions most Player Characters will be taking are usually from Action Pools such as:
 - [[Styles]]
