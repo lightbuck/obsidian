@@ -38,7 +38,7 @@ What Role does your character play in a team? Roles give you ways to contribute 
 	- You find the weak spot in the enemy's stratagem, you devise the attack plan, but you already knew this because you have prepared for everything. ​The Tactician increases the damage output of the team 
 	- Reactions:
 		- "Remember the plan!" R,  
-			Condition: Whenever an ally's roll is [[Terminology#^9e500c|Underwhelming]]
+			Condition: Whenever an ally's roll is Underwhelming
 			That Ally's next attack applies the [[Conditions#^07224d|Targeted Condition]] to their targets
 			-|
 		- "Look Behind You" R, 
@@ -90,7 +90,7 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 	You stop a Foe from moving past you.
 	Effect: You make the enemy end their movement action.
 -  Remember the plan! , Reaction
-	Condition: An ally's roll was [[Terminology#^9e500c|Underwhelming]]
+	Condition: An ally's roll was Underwhelming
 	You encourage your ally to stick to the plan
 	Effect: The ally gains [[Adrenaline Condition|Adrenaline(1)]]
 - I've got you! , Reaction

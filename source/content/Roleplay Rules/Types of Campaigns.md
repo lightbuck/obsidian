@@ -1,7 +1,8 @@
 ## Tale Hunters
-As long as there have been fairy tales of big bad wolves in the woods, there have been those who hunt them. But unlike the common mercenaries or bounty hunters that roam the wilds 
-### Monsters
+As long as there have been fairy tales of big bad wolves in the woods, there have been those who hunt them. But unlike the common mercenaries or bounty hunters that roam the wilds. 
 
+> [!NOTE] Read More
+> Check out what you may hunt in the [[Monsters]] section!
 ## Rangers
 Founded by the Intergalactic Federation to work outside of it. Autonomous teams of combatants are sent out on missions throughout the galaxy to help those who can't help themselves, but making sure to wave the Federation flag all the while.
 ### Handlers
