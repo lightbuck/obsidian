@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "f82e2f117c38c5a9",
+        "id": "d708fd35f5914d56",
         "type": "tabs",
         "children": [
           {
-            "id": "dd4e1b97cdae7df7",
+            "id": "273924c892ea83f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat Rules/Player Character Rules/Features/Somatic Features/Somatic Features.md",
+                "file": "Take Over.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Somatic Features"
+              "title": "Take Over"
+            }
+          },
+          {
+            "id": "5de50871133ebda3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat Rules/Player Character Rules/Actions/Roles/Tank Role.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tank Role"
+            }
+          },
+          {
+            "id": "e05e527b36724c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat Rules/Player Character Rules/Actions/Roles/Offense Role.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Offense Role"
             }
           }
         ]
@@ -40,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PH",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,35 +196,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd4e1b97cdae7df7",
+  "active": "273924c892ea83f7",
   "lastOpenFiles": [
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Winded Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Vulnerabilities.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Sluggish Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Flat Footed Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Lonely Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am Skilled.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am Ready.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am not Alone.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am Fragile.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am Big.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am Fast.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am Quick.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am Slow.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am Tired.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am Tough.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/Somatic Features.md",
-    "Miscellaneous Rules/Changing Dice Size.md",
-    "Combat Rules/Player Character Rules/Features/Character Features (Deprecated).md",
-    "Combat Rules/Traits/Action Traits/Companion Trait.md",
+    "Combat Rules/Conditions/Negative Conditions/Vulnerable Condition.md",
+    "Take Over.md",
+    "Combat Rules/Conditions/Negative Conditions/Impacted Condition.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From My Kindness.md",
+    "Combat Rules/Player Character Rules/Actions/Roles/Support Role.md",
+    "Combat Rules/Player Character Rules/Actions/Roles/Tank Role.md",
+    "Combat Rules/Player Character Rules/Actions/Roles/Offense Role.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From My Strength.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From the Annihilation of My Enemies.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From The Devastation Left in My Wake.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From My Responsibility.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From Standing Amidst the Storm.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From Standing Proudly.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From My Sacrifice.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From the Tears of My Haters.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From Being our Anchor.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From Our Teamwork.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From Our Unity.md",
     "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Breath.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Protected.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features",
     "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Devastation.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Thorns.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Terminal Velocity.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Teamwork.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Strength.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Life.md",
+    "Deprecated/Power Features (Deprecated).md",
+    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From Power.md",
+    "Combat Rules/Health and Stamina.md",
+    "Combat Rules/Player Character Rules/Actions/Roles/Roles.md",
+    "Deprecated/Roles (Deprecated).md",
+    "Combat Rules/Player Character Rules/Actions/Roles",
+    "Deprecated",
+    "Combat Rules/Player Character Rules/Features/Somatic Features",
     "Combat Rules/Player Character Rules/Actions/Styles",
     "Combat Rules/Player Character Rules/Actions/Powers",
     "Combat Rules/Player Character Rules",
@@ -204,8 +234,6 @@
     "Miscellaneous Rules",
     "Combat Rules/Player Character Rules/Features/Power Features/From Power Features",
     "Combat Rules/Player Character Rules/Features/Power Features/To Power Features",
-    "Combat Rules/Player Character Rules/Features/Power Features",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities",
     "Images/Armaments Sheet.png",
     "Untitled.canvas",
     "Pasted image 20260225202001.png"

@@ -1,0 +1,1 @@
+Any time you become exhausted as a result of a Foe's Action you gain 2 stacks of [[Empowered Condition|Empowered]]

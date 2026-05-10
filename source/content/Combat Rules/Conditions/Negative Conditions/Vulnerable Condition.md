@@ -1,0 +1,1 @@
+You cannot take your turn until you lose all stacks of [[Impacted Condition]] or when you are targeted with a [[Take Over]]

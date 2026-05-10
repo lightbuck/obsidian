@@ -1,0 +1,1 @@
+At the end of your turn gain 1 stack of [[Empowered Condition|Empowered]] from each Unit you Knocked Out. 

@@ -1,0 +1,1 @@
+Once on your turn, when you would reach your [[Health and Stamina#^1141c0|Maximum Stamina]] you gain 2 stacks of [[Empowered Condition|Empowered]].

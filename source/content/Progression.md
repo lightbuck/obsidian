@@ -3,7 +3,7 @@
 1. Choose a Power, Learn 3 Main Actions 3 Combo Actions and 1 Reaction from it.
 2. Learn 2 more Main Actions, 2 more Combo Actions and 1 Reaction from either a second power or from Styles.
 3. Learn 1 [[Martial Features (Deprecated)#^020f15|Combat Approach]] Feat
-4. Choose a [[Roles|Role]]
+4. Choose a [[Roles (Deprecated)|Role]]
 5. Learn two [[Power Features (Deprecated)#^40632d|To Power]] Feats
 6. Gain 2 points to spend in [[Character Features (Deprecated)#^33ae95|Boasts]], optionally you may choose one [[Character Features (Deprecated)#^fa936f|Physical Bane]] and one [[Character Features (Deprecated)#^fa936f|Mental Bane]]
 ## Level 2

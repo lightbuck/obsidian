@@ -1,0 +1,1 @@
+Once per turn when you make a foe Exhausted or they become Exhausted due to a Condition you inflicted them with, you gain 1 stack of [[Empowered Condition|Empowered]]. 

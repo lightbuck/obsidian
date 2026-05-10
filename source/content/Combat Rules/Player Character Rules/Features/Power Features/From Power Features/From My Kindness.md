@@ -1,0 +1,1 @@
+Once per turn when you fully remove the [[Impacted Condition]] from an Ally you gain stacks of [[Empowered Condition|Empowered]] equal to the amount of Stacks of [[Impacted Condition|Impacted]] you removed.

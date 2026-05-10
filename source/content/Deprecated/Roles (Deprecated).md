@@ -76,7 +76,7 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 	Effect: Take a [[Actions#^642a2c|Move Action]] to move toward the ally, if you reach an adjacent square to them you take the damage instead of your ally, directly to your health.
 	[[Role Trait|Role]] [[Aid Trait|Aid]] |
 - Get it together! , Reaction
-	Condition:An ally fails a [[Health and Stamina#^77a09d|Tank or Flank Check]]
+	Condition: An ally fails a [[Health and Stamina#^77a09d|Tank or Flank Check]]
 	You encourage your ally to recompose themselves
 	Effect: The ally may remove one stack of a condition they are afflicted by
 	[[Role Trait|Role]] [[Aid Trait|Aid]] |
@@ -106,88 +106,3 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 	You avenge your ally by quickly hitting the enemy.
 	Effect: You may take a 1 AP action with the [[Attack Trait]], targeting only the Foe that exhausted your teammate's [[Health and Stamina|Stamina]].
 ## VERSION 4 this time im sure I know what im doing
-
-- Tank
-	Redirect damage to yourself, force foes to deal with you.
-	- Wall
-		- Combo Actions:
-			- **Fight me!**, 1 AP
-				- *You move while keeping your guard up*
-				- Condition: Your previous action caused you to gain stamina.
-				- Effect: Gain protected equal to the stamina you actually gained, the next Foe that takes their turn must target you for their first attack.
-				- [[Mobile Trait|Mobile]] [[Aid Trait|Aid]] [[Role Trait|Role]]
-		- Reactions: 
-			- **Stand Behind Me!**, R
-				- *You act as a wall* 
-				- Condition: One ore more allies you can see are targeted by an attack.
-				- Effect: The allies are no longer targeted by the triggering attack. And you become the sole target. If the attack had the [[Area Trait|Area Trait]], your allies may move to a free space next to you, if it didn't you instead move to a free space next to them.
-				- [[Aid Trait|Aid]] [[Role Trait|Role]]
-	- Wasp
-		- Combo Actions:
-			- **Doomed to Fight**, 1 AP
-				- *You expose yourself to become more of a threat*
-				- Condition: You dealt damage with your last action
-				- Effect: Gain a damage bonus equal to the previous action's damage, this bonus remains until you become exhausted. 
-				- [[Mobile Trait|Mobile]] [[Aid Trait|Aid]] [[Role Trait|Role]] [[Consumed Trait|Consumed]]
-		- Reactions: 
-			- **Eyes on me**, R
-				- *You see a foe try to pull some shit and you politely make them stop* 
-				- Condition: a Foe adjacent to you targets someone other than you with an action.
-				- Effect: Deal 2d4 Damage to that Foe. Additionally if you are not Exhausted, you may deal 2d8 Damage to that Foe if their next attack does not target you.
-				- [[Attack Trait|Attack]] [[Role Trait|Role]] 
-- Support
-	Help others to stay alive or make them more powerful
-	- Medic
-		- Combo Actions:
-			- **Keep Fighting!**, 1 AP
-				- *A*
-				- Condition: Your last action had the [[Aid Trait]]
-				- Effect: Roll your Recovery Die a number of times equal to how many AP you spent on actions with the [[Aid Trait]] , additionally all your allies also gain that stamina. 
-				- [[Role Trait|Role]] [[Aid Trait|Aid]]
-		- Reactions: 
-			- **Get Up!**, R
-				- *You spur your ally to get back up* 
-				- Condition: An Ally that you can see takes damage to Health. gains the [[Impacted Condition]] or the [[Stunned Condition]]
-				- Effect: The ally may take a Move action despite the [[Impacted Condition]], the next time they would gain Stamina, they instead automatically gain Stamina equal to their Maximum Stamina
-				- [[Role Trait|Role]] [[Aid Trait|Aid]]
-	- Tactician
-		- Combo Actions:
-			- **Fighting Stratagem**, 1 AP
-				- *A*
-				- Condition: You targeted an Ally with an action with the [[Aid Trait]]
-				- Effect: Target a foe, they gain the [[Hunted Condition]]
-				- [[Role Trait|Role]] [[Aid Trait|Aid]]
-		- Reactions: 
-			- **Remember the plan!**, R
-				- *A* 
-				- Condition: An Ally consumes all stacks of [[Empowered Condition|Empowered]]
-				- Effect: That Ally gains stacks of [[Empowered Condition|Empowered]] equal to the amount of [[Empowered Condition|Empowered]] you have.
-				- [[Role Trait|Role]] [[Aid Trait|Aid]]
-- Offense
-	Make your foes suffer by your hand or help your allies do so.
-	- Destroyer
-		- Combo Actions:
-			- **Fighting instinct**, 1 AP
-				- *You revel in the violence you brought upon your enemy*
-				- Condition: You Knocked Out a Unit with your last action
-				- Effect: Take an applicable 1 AP Main Action that has the [[Attack Trait]], even actions you already took this round.
-				- [[Role Trait|Role]]
-		- Reactions: 
-			- **You thought I was done?**, R
-				- *You surprise your foe by continuing your turn.* 
-				- Condition: A Foe that you attacked last begins their turn.
-				- Effect: Take an applicable 1 AP Main Action that has the [[Attack Trait]], targeting that Foe.
-				- [[Role Trait|Role]]
-	- Irritator
-		- Combo Actions:
-			- **Won't you Fight back?**, 1 AP
-				- *You taunt your Foe*
-				- Condition: Your last action caused at least one Foe to become [[Impacted Condition|Impacted]] or [[Stunned Condition|Stunned]] .
-				- Effect: The triggering Foes that were [[Impacted Condition|Impacted]] gain the [[Stunned Condition]]. Triggering Foes that were [[Stunned Condition|Stunned]] become exhausted.
-				- [[Role Trait|Role]]
-		- Reactions: 
-			- **Nah!**, R
-				- *Just as a Foe is about to regain their footing you smack them back down* 
-				- Condition: An enemy adjacent to you is about to lose the [[Impacted Condition]] or the [[Stunned Condition]].
-				- Effect: The foe gains the [[Impacted Condition]].
-				- [[Role Trait|Role]] [[Mobile Trait|Mobile]]

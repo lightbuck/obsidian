@@ -1,0 +1,1 @@
+Once per Round when you knock out a Foe gain 2 stacks of [[Empowered Condition|Empowered]]. 
