@@ -13,7 +13,7 @@ Actions:
 	- *You summon the storm, emitting lightning around you*
 	- Effect: Target one foe within 3 spaces of you, deal 2d6.
 	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Charging Trait|Charging]] 
-- **The Hammer Of The Gods**, 3 AP
+- **The Hammer Of The Gods**, 3 AP ^b6640f
 	- *You channel lightning through your conduit and into a foe as you strike them*
 	- Effect: Target one foe with your Melee weapon, dealing 2d8 damage
 	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] 
@@ -21,22 +21,22 @@ Actions:
 	- *You channel lightning through your Conduit to unleash a lightning bolt*
 	- Effect: Target one foe within Line of Sight, dealing 2d6 damage
 	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] 
-- **Threshing Oar**, 2 AP
+- **Threshing Oar**, 2 AP ^a5d1a5
 	- *You lift yourself with lightning, leaping a great distance*
 	- Effect: Move your speed twice. You may choose to land in a space occupied by a Foe, forcing them to move to an adjacent space.
 	- [[Charging Trait|Charging]] [[Move Trait|Move]]
-- ###### The Storm, 4 AP
-	- *For an instant as brief as a lightning strike you become one with the storm, releasing its power through your Conduit*
-	- Effect: DIE
-	- [[Attack Trait|Attack]] [[Charging Trait|Charging]] [[Final Trait|Final]]
+- ###### The Storm, 4 AP ^13a4b0
+	- *You become one with the storm, appearing and disappearing like a lightning strike.*
+	- Effect: Reposition up to three times anywhere in the battlefield. After each time you repositioned deal 4d8 damage to all Foes within Range 2 of you. You may reposition in to the same place. For any Foe you make Exhausted you gain one stack of[[Adrenaline Condition|Adrenaline]]. Finally you reappear either at your starting position or at any position you repositioned to. 
+	- [[Attack Trait|Attack]] [[Final Trait|Final]]
 
 Combo Actions: 
-- **Danger, High Voltage**, 2 AP
+- **Danger, High Voltage**, 2 AP ^1cf9b7
 	- *The lightning from one of your strikes jumps to another foe*
 	- Condition: Your last action had the [[Charging Trait]] and the [[Attack Trait]]
 	- Effect: target a second foe within a radius of 3 of your original target, they take the same damage you dealt with your previous action. If this attack exhausts a target's stamina you may repeat this effect once.
 	- [[Charging Trait|Charging]] 
-- **Feel The Thunder**, 1 AP
+- **Feel The Thunder**, 1 AP ^7ec5b2
 	- *You concentrate the lightning within you, increasing its power*
 	- Condition: Your last action had the [[Charging Trait]]
 	- Effect: you gain 1 stack of [[Adrenaline Condition|Adrenaline]]
@@ -58,7 +58,7 @@ Combo Actions:
 	- [[Attack Trait|Attack]] [[Move Trait|Move]] [[Charging Trait|Charging]] 
 
 Reactions: 
-- **Garden in the Rain**, R
+- **Garden in the Rain**, R ^974ee5
 	- *You release your lightning to someone who was foolish enough to strike you*
 	- Condition: You have the  [[Charged Condition]] and a Foe targeted you with a melee attack
 	- Effect: Deal 1d6 damage to the triggering foe, if their stamina is exhausted by this action their action is cancelled.
