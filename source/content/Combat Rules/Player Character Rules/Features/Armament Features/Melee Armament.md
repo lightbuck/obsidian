@@ -1,6 +1,8 @@
 You may take actions with the [[Melee Trait]].
 **Capacity Modifier:** -1
 
+You also Know all [[Melee Armament Actions]]
+
 ---
 # Critical Melee Armament
 Gained when you pick this armament twice.

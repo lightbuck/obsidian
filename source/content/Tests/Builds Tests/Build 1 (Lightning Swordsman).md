@@ -5,7 +5,7 @@ Starting with 3 Health
 7 Features Slots
 7 Features Capacity
 Slots are universal
-Roles Give you 2 Features For Free
+Roles Give you access to From Power Features
 
 1 Power
 1 Style/Power
