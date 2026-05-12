@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e0413d4b26204194",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "add697ffe2630a9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat Rules/Player Character Rules/Actions/Armaments Actions/Melee Armament Actions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Melee Armament Actions"
-            }
-          }
-        ]
-      },
-      {
         "id": "d708fd35f5914d56",
         "type": "tabs",
         "children": [
@@ -33,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat Rules/Player Character Rules/Features/Armament Features/Melee Armament.md",
+                "file": "Combat Rules/Player Character Rules/Actions/Armaments Actions/Ranged Armament Actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Melee Armament"
+              "title": "Ranged Armament Actions"
             }
           }
         ]
@@ -188,11 +168,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "add697ffe2630a9c",
+  "active": "e852c8c2d6b5207a",
   "lastOpenFiles": [
-    "Combat Rules/Traits/Action Traits/Fling Trait.md",
+    "Combat Rules/Traits/Action Traits/Mobile Trait.md",
+    "Combat Rules/Player Character Rules/Actions/Armaments Actions/Ranged Armament Actions.md",
+    "Combat Rules/Player Character Rules/Features/Armament Features/Ranged Armament.md",
+    "Combat Rules/Player Character Rules/Actions/Armaments Actions/Area Armament Actions.md",
     "Combat Rules/Player Character Rules/Actions/Armaments Actions/Melee Armament Actions.md",
+    "Ranges.md",
+    "Combat Rules/Traits/Action Traits/Immobile Trait.md",
+    "Combat Rules/Traits/Action Traits/Charge Trait.md",
+    "Combat Rules/Traits/Action Traits/Burning Trait.md",
+    "Combat Rules/Player Character Rules/Features/Armament Features/Area Armament.md",
     "Combat Rules/Player Character Rules/Features/Armament Features/Melee Armament.md",
+    "index.md",
+    "Combat Rules/Traits/Action Traits/Fling Trait.md",
     "Combat Rules/Traits/Action Traits/Crushing Trait.md",
     "Combat Rules/Player Character Rules/Actions/Powers/Alkean Magic.md",
     "Combat Rules/Player Character Rules/Actions/Powers/Powers.md",
@@ -207,16 +197,6 @@
     "Combat Rules/Player Character Rules/Features/Power Features/Power Features.md",
     "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From The Devastation Left in My Wake.md",
     "Combat Rules/Traits/Action Traits/Charging Trait.md",
-    "Combat Rules/Conditions/Action Conditions/Charged Condition.md",
-    "Combat Rules/Traits/Action Traits/Attack Trait.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Strength.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am Ready.md",
-    "Combat Rules/Player Character Rules/Actions/Styles/Hunter Style.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Terminal Velocity.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Devastation.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am Quick.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am not Alone.md",
-    "Combat Rules/Player Character Rules/Features/Somatic Features/I am Fragile.md",
     "Tests/Builds Tests",
     "Combat Rules/Player Character Rules/Actions/Roles",
     "Deprecated",

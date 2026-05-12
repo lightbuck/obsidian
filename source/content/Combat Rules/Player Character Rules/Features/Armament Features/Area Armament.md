@@ -1,6 +1,8 @@
 You may take actions with the [[Area Trait]].
 **Capacity Modifier:** -1
 
+You also Know all [[Area Armament Actions]]
+
 ---
 # Critical Area Armament
 Gained when you pick this armament twice.

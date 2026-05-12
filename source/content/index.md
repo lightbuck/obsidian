@@ -8,7 +8,6 @@ This is a list of guidelines I strive to adhere to when designing this system:
 - Build crafting is **flavorful** and **modestly deep**
 - Enemies should never interrupt Players
 - Players should interrupt enemies regularly
-- _Players can do only what they can describe._
 #### Inspirations
 Photon is inspired by a lot of different things: Spectacle Fighters, Fighting Games, Super Hero Comic Books and other TTRPGS!
 

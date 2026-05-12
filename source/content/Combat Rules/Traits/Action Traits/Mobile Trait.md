@@ -1,1 +1,1 @@
-Before taking this Action you can take a 0 AP [[Actions#^642a2c|Move Action]]
+Before taking this Action you can take a 0 AP [[Actions#^642a2c|Move Action]]. If by taking this movement you would be able to do something required to take this action in the first place, you count as if you're able to take this action.
