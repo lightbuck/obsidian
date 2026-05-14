@@ -1,0 +1,1 @@
+This action improves the next action in some way described by the effect. Only one effect from an action with Charge may effect the same action.

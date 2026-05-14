@@ -15,7 +15,7 @@ Actions:
 	- [[Afflict Trait|Afflict]]
 
 Combo Actions: 
-- **Isn't there a bounty on your head?**, 2 AP
+- **Isn't there a bounty on your head?**, 2 AP ^77f6e7
 	- *Description*
 	- Condition: Your last action targeted a Foe and did not have the [[Attack Trait]]
 	- Effect: The foe gains the [[Hunted Condition]]
@@ -31,7 +31,7 @@ Reactions:
 	- Condition: The turn after yours begins and the Foe you targeted with the action [[Styles (Deprecated)#^8c3935|Howdy Partner]] took damage to their Health
 	- Effect: the Foe you targeted with your action [[Styles (Deprecated)#^8c3935|Howdy Partner]] becomes [[Stunned Condition|Stunned]] 
 	- [[Afflict Trait|Afflict]]
-- **Dead or alive**, R
+- **Dead or alive**, R ^131f8b
 	- *Description*
 	- Condition: A foe you can see loses a condition inflicted by you or an Ally.
 	- Effect: The Foe either gains [[Hunted Condition|Hunted]] or regains the condition they just lost.

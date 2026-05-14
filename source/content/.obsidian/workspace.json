@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "273924c892ea83f7",
+            "id": "e852c8c2d6b5207a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Take Over.md",
+                "file": "Combat Rules/Player Character Rules/Actions/Armaments Actions/Ranged Armament Actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Take Over"
-            }
-          },
-          {
-            "id": "5de50871133ebda3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat Rules/Player Character Rules/Actions/Roles/Tank Role.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tank Role"
-            }
-          },
-          {
-            "id": "e05e527b36724c29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat Rules/Player Character Rules/Actions/Roles/Offense Role.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Offense Role"
+              "title": "Ranged Armament Actions"
             }
           }
         ]
@@ -196,34 +168,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "273924c892ea83f7",
+  "active": "e852c8c2d6b5207a",
   "lastOpenFiles": [
-    "Combat Rules/Conditions/Negative Conditions/Vulnerable Condition.md",
-    "Take Over.md",
-    "Combat Rules/Conditions/Negative Conditions/Impacted Condition.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From My Kindness.md",
-    "Combat Rules/Player Character Rules/Actions/Roles/Support Role.md",
-    "Combat Rules/Player Character Rules/Actions/Roles/Tank Role.md",
-    "Combat Rules/Player Character Rules/Actions/Roles/Offense Role.md",
+    "Combat Rules/Traits/Action Traits/Mobile Trait.md",
+    "Combat Rules/Player Character Rules/Actions/Armaments Actions/Ranged Armament Actions.md",
+    "Combat Rules/Player Character Rules/Features/Armament Features/Ranged Armament.md",
+    "Combat Rules/Player Character Rules/Actions/Armaments Actions/Area Armament Actions.md",
+    "Combat Rules/Player Character Rules/Actions/Armaments Actions/Melee Armament Actions.md",
+    "Ranges.md",
+    "Combat Rules/Traits/Action Traits/Immobile Trait.md",
+    "Combat Rules/Traits/Action Traits/Charge Trait.md",
+    "Combat Rules/Traits/Action Traits/Burning Trait.md",
+    "Combat Rules/Player Character Rules/Features/Armament Features/Area Armament.md",
+    "Combat Rules/Player Character Rules/Features/Armament Features/Melee Armament.md",
+    "index.md",
+    "Combat Rules/Traits/Action Traits/Fling Trait.md",
+    "Combat Rules/Traits/Action Traits/Crushing Trait.md",
+    "Combat Rules/Player Character Rules/Actions/Powers/Alkean Magic.md",
+    "Combat Rules/Player Character Rules/Actions/Powers/Powers.md",
+    "Tests/Builds Tests/Build 1 (Lightning Swordsman).md",
+    "Combat Rules/Player Character Rules/Actions/Armaments Actions",
+    "Combat Rules/Player Character Rules/Actions/Untitled.md",
+    "Combat Rules/Player Character Rules/Actions/Powers/The Storm Hook.md",
     "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From My Strength.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From the Annihilation of My Enemies.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Rush.md",
+    "Combat Rules/Player Character Rules/Features/Somatic Features/I am Tough.md",
+    "Combat Rules/Player Character Rules/Actions/Roles/Offense Role.md",
+    "Combat Rules/Player Character Rules/Features/Power Features/Power Features.md",
     "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From The Devastation Left in My Wake.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From My Responsibility.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From Standing Amidst the Storm.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From Standing Proudly.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From My Sacrifice.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From the Tears of My Haters.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From Being our Anchor.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From Our Teamwork.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From Our Unity.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Breath.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Devastation.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Life.md",
-    "Deprecated/Power Features (Deprecated).md",
-    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From Power.md",
-    "Combat Rules/Health and Stamina.md",
-    "Combat Rules/Player Character Rules/Actions/Roles/Roles.md",
-    "Deprecated/Roles (Deprecated).md",
+    "Combat Rules/Traits/Action Traits/Charging Trait.md",
+    "Tests/Builds Tests",
     "Combat Rules/Player Character Rules/Actions/Roles",
     "Deprecated",
     "Combat Rules/Player Character Rules/Features/Somatic Features",
@@ -232,8 +206,6 @@
     "Combat Rules/Player Character Rules",
     "Combat Rules",
     "Miscellaneous Rules",
-    "Combat Rules/Player Character Rules/Features/Power Features/From Power Features",
-    "Combat Rules/Player Character Rules/Features/Power Features/To Power Features",
     "Images/Armaments Sheet.png",
     "Untitled.canvas",
     "Pasted image 20260225202001.png"

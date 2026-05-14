@@ -1,6 +1,8 @@
 You may take actions with the [[Ranged Trait]].
 **Capacity Modifier:** -1
 
+You also Know all [[Ranged Armament Actions]]
+
 ---
 # Critical Ranged Armament
 Gained when you pick this armament twice.

@@ -1,13 +1,13 @@
 Make your foes suffer by your hand or help your allies do so.
 - Destroyer
 	- Combo Actions:
-		- **Fighting instinct**, 1 AP
+		- **Fighting instinct**, 1 AP ^897773
 			- *You revel in the violence you brought upon your enemy*
 			- Condition: You Knocked Out a Unit with your last action
 			- Effect: Take an applicable 1 AP Main Action that has the [[Attack Trait]], even actions you already took this round.
 			- [[Role Trait|Role]]
 	- Reactions: 
-		- **You thought I was done?**, R
+		- **You thought I was done?**, R ^c48026
 			- *You surprise your foe by continuing your turn.* 
 			- Condition: A Foe that you attacked last begins their turn.
 			- Effect: Take an applicable 1 AP Main Action that has the [[Attack Trait]], targeting that Foe.

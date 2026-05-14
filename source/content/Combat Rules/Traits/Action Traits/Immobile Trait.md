@@ -1,1 +1,1 @@
-After taking this action you may no longer take a move action or move with an action that has the [[Mobile Trait]]
+After taking this action you may no longer take a move action or move with an action that has the [[Mobile Trait]] for the rest of this turn.
