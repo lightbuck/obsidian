@@ -14,7 +14,7 @@ Redirect damage to yourself, force foes to deal with you.
 			- [[Aid Trait|Aid]] [[Role Trait|Role]]
 - Wasp
 	- Combo Actions:
-		- **Doomed to Fight**, 1 AP
+		- **Doomed to Fight**, 1 AP ^64845e
 			- *You expose yourself to become more of a threat*
 			- Condition: You dealt damage with your last action
 			- Effect: Gain a damage bonus equal to the previous action's damage, this bonus remains until you become exhausted. 

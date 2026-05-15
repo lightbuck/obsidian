@@ -15,7 +15,7 @@ Main Actions:
 	- *You shoot a Foe*
 	- Effect: Target two Foes that you can see, deal 1d4 damage to both.
 	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Mobile Trait|Mobile]]
-- **Disengaging Shot**, 1 AP
+- **Disengaging Shot**, 1 AP ^cc40b7
 	- *You shoot a Foe*
 	- Effect: Target a Foe that's adjacent to you, deal 1d6 damage to them and take a move action in a line, in the opposite direction of them. 
 	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Move Trait|Move]]
@@ -28,7 +28,7 @@ Combo Actions:
 	-  [[Charge Trait|Charge]]
 
 Reactions: 
-- **Shoot the Bullet**, R
+- **Shoot the Bullet**, R ^4c126c
 	- *You stop a ranged attack with one of your own*
 	- Condition: You are targeted with a [[Ranged Trait|Ranged]] Attack
 	- Effect: You do not take any damage from this Attack.
