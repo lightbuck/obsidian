@@ -32,7 +32,7 @@ Zodiac Magics are Magics which are obtained under specific external conditions.
 *Description*
 
 --- 
-%% Comment The Aspects of the Magic %%
+ Comment The Aspects of the Magic
 [[Skills]]:
 - "Name Knowledge"
 - "Work with Name"
@@ -56,3 +56,4 @@ Reactions:
 	- Condition:
 	- Effect:
 	- [[Traits]]
+%%
