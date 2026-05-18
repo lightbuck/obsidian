@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat Rules/Actions/Powers/Practiced Arts/The Sol Blades.md",
-                "mode": "source",
+                "file": "Combat Rules/Actions/Powers/Powers.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Sol Blades"
+              "title": "Powers"
             }
           }
         ]
@@ -170,12 +170,13 @@
   },
   "active": "6780da8bbbd3a8fb",
   "lastOpenFiles": [
-    "Combat Rules/Actions/Powers/Powers.md",
-    "Combat Rules/Actions/Powers/Practiced Arts/The Sol Blades.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/The Comet Chain.md",
-    "Combat Rules/Actions/Powers/Practiced Arts/Active Exceed.md",
     "Combat Rules/Actions/Powers/Zodiac Magics/Bloodsten.md",
     "Combat Rules/Actions/Powers/Practiced Arts/The Shadow Dance.md",
+    "Combat Rules/Actions/Powers/Practiced Arts/The Bright Blades.md",
+    "Combat Rules/Actions/Powers/Practiced Arts/Active Exceed.md",
+    "Combat Rules/Actions/Powers/Practiced Arts/Astracentrism.md",
+    "Combat Rules/Actions/Powers/Powers.md",
+    "Combat Rules/Actions/Powers/Zodiac Magics/The Comet Chain.md",
     "Combat Rules/Actions/Powers/Hereditary Magics/Alkean Magic.md",
     "Combat Rules/Actions/Powers/Hereditary Magics/Starfolk Magic.md",
     "Combat Rules/Actions/Powers/Practiced Arts",
@@ -183,7 +184,6 @@
     "Combat Rules/Actions/Powers/Zodiac Magics",
     "Combat Rules/Actions/Powers/Hereditary Magics",
     "Combat Rules/Actions/Powers/Hereditary Magics/Ravenki Magic.md",
-    "Combat Rules/Actions/Powers/Practiced Arts/Astracentrism.md",
     "Combat Rules/Actions/Powers/Practiced Arts/Mana Scripting.md",
     "Combat Rules/Actions/Powers/Hereditary Magics/Resono Magic.md",
     "Combat Rules/Actions/Powers/Zodiac Magics/Rouge Bud.md",

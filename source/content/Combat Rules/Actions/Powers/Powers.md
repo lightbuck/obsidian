@@ -13,6 +13,7 @@ Practiced Arts are magics of special techniques anyone could make use of
 [[Active Exceed]]
 [[Astracentrism]]
 [[Mana Scripting]]
+[[The Bright Blades]]
 ## Zodiac Magics
 Zodiac Magics are Magics which are obtained under specific external conditions.
 [[Vampirism]]
@@ -24,7 +25,10 @@ Zodiac Magics are Magics which are obtained under specific external conditions.
 [[The Comet Chain]]
 [[The Phoenix Talon]]
 [[The Storm Hook]]
-# Template
+
+
+
+%%%# Template
 
 *Description*
 
