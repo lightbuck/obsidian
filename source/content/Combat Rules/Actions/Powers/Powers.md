@@ -26,7 +26,8 @@ Zodiac Magics are Magics which are obtained under specific external conditions.
 
 
 
-%%%# Template
+%%
+# Template
 
 *Description*
 

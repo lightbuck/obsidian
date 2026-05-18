@@ -8,7 +8,7 @@ List of styles:
 - [[Rider Style]]
 - [[Sniper Style]]
 
-%%%
+%%
 *Description*
 
 Actions:
