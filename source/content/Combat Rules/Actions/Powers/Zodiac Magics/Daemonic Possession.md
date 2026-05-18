@@ -1,12 +1,11 @@
+*To be possessed by a Daemon is to surrender yourself to the allure of power, at the cost of those around you. This is no simple Aspect of Magic. It consists in creating a bond with a Daemon, a Dark Magic Entity, which will nest within the wielder's life force. The purpose of the Daemon is to feed on Spirit Energy, so it will only bond to hosts it deems capable of procuring such energy.*
+
+---
 %%Transform, Leech, Tank%%
-*To be possessed by a Daemon is to surrender yourself to the allure of power, at the cost of those around you. At first blush it might appear that this is an Aspect of Magic, but it is not. It consists in creating a bond with a Daemon, a Dark Magic Entity, which will nest within the wielder's life force. The purpose of the Daemon is to feed on Spirit Energy, so it will only bond to hosts it deems capable of finding it*
 [[Skills]]:
 - "Daemonic Knowledge"
 - "Work with Daemons"
 - "Work with Magic"
-
-[[Power Features (Deprecated)]]:
-- From Name:
 
 Actions:
 - **Procedurally Generated Ritual**, 1 AP ^a2efc2

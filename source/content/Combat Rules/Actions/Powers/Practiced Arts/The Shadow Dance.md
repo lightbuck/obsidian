@@ -1,12 +1,11 @@
-%% Teleport, avoid, impact%%
 *The Shadow Dance is both an art and an Aspect of Magic, to make use of the latter a performer must demonstrate mastery over the former to a judge of The Court. The Aspect of Magic itself allows the dancer to transform shadows into portals that they alone may use.*
+
+---
+%%Movement, debuffer%%
 
 [[Skills]]:
 - "Name Knowledge"
 - "Work with Name"
-
-[[Power Features (Deprecated)]]:
-- From Name: 
 
 Actions:
 - **Barre**, 2 AP ^3a1b9e

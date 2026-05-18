@@ -1,11 +1,10 @@
-%% Deal Aoe Damage, Buff Allies %%
 *The Phoenix Talon is the most recent Aspect of Magic, it originated 16 years ago during the Sunnaut Revolution and those who wield it carry forward the legacy of that war. In fact the bursts of fire that characterize this Magic grow in power if the cause they are being used for is just and righteous.*
+
+---
+%% Aoe, Buff Allies %%
 [[Skills]]:
 - "Phoenix Talon Knowledge"
 - "Work with fire"
-
-[[Power Features (Deprecated)]]:
-- From Fires: Any time you take an action with the [[Aid Trait]], you gain 3d4 stacks of [[Empowered Condition|Empowered]]. Any time an action with the [[Attack Trait]]targets more than one foe, you gain 3d4 stacks of [[Empowered Condition|Empowered]]
 
 Actions:
 - Heart Afire, 2 AP

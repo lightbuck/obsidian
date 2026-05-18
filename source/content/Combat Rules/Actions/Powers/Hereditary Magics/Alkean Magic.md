@@ -1,11 +1,10 @@
+*Alkeans have the inborn ability to manipulate Spirit Energy, which is the energy left behind by the death of living things, excluding Humans. They can bind this energy to themselves to summon constructs or even temporarily bring back to life the perished beings.* 
+
+---
 %%Gain n Spend Meter, Summon Things%%
-*Alkeans have the inborn ability to manipulate Spirit Energy, which is Life Force that has been separated from a living host. They can bind this energy to themselves to summon constructs or even temporarily bring back to life the perished being.* 
 [[Skills]]:
 - "Alkean Magic"
 - "Work with the dead"
-
-[[Power Features (Deprecated)]]:
-- From Spirits: At the end of your turn gain 2 stacks of [[Empowered Condition|Empowered]] for every point of [[Meter]] you gained this turn 
 
 Actions:
 - **Gather Spirit**, 1 AP

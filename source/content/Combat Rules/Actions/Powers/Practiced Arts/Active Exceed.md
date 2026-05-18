@@ -1,12 +1,11 @@
-%%Movement, Self Buffs%%
-*All humans have the ability to exceed the natural limitations of their body. Most fighters do so subconsciously in moments of high stress, but some have learned to do so intentionally, allowing them to accomplish awe inspiring feats worthy of legend.*
+*All Humans have the ability to exceed the natural limitations of their body. Most fighters do so subconsciously in moments of high stress, but some have learned to use this magic intentionally, allowing them to accomplish awe inspiring feats worthy of legend on a regular basis.*
+
+---
+%%Movement Melee%%
 [[Skills]]:
 - "Exceed Knowledge"
 - Fleet
 - Flex
-
-[[Power Features (Deprecated)]]: 
-- From Excess: Any time you deal damage equal or greater to thrice the stamina pool of your target you gain 4d6 stacks of [[Empowered Condition|Empowered]]
 
 Actions:
 - **Siege Engine**, 2 AP

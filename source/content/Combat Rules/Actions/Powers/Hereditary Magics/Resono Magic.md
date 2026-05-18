@@ -1,13 +1,12 @@
-%%Spread Results, Support Allies and move stay on the move%%
-*All Resono inherit the ability to interact with Life Force, which is the silk that empowers living beings. They can share life force, steal it, suppress it and so on. But to do so a Resono must be able to physically reach with their hands into their target.*
+*All Resono inherit the ability to interact with Life Force, which is the silk that empowers living beings. They can share life force, steal it, suppress it and so on. This direct access to Lifeforce makes Resono extremely lethal when they desire to be, but it also allows them to greatly empower their allies.*
+
+---
+%%Aid Multiple, High damage melee%%
 [[Skills]]:
 - "Resono Magic Knowledge"
 - "Magical Knowledge"
 - "Work with Magic"
 - Fleet
-
-[[Power Features (Deprecated)]]:
-- From Strings: At the end of your turn gain 2d4 empowered for every AP spent on actions with the [[Aid Trait]]
 
 Actions:
 - **Everybody in the world**, 3 AP

@@ -1,12 +1,11 @@
-%% Upkeep State, High AP, Adrenaline NEEDER %%
-*The Storm Hook is a powerful and raw Aspect of Magic. To obtain it one must get struck by lightning and survive the experience. Afterward the wielder will be able to summon electrical discharges at will, but to properly make use of the lightning the wielder must make use of a metal conduit of some sort.*
+*The Storm Hook is a powerful and raw Aspect of Magic. To obtain it one must get struck by lightning and survive the experience. Afterward the wielder will be able to summon electrical discharges at will. This power is hard to control and therefore exhausting to use, so most users make use of a metal conduit to channel the storm.*
+
+---
+%% Condition, Melee-Aoe, One Big Strike %%
 [[Skills]]:
 - "Storm Hook Knowledge"
 - "Work with lightning"
 - Flex
-
-[[Power Features (Deprecated)]]:
-- From Storms: When you lose  the [[Charged Condition]], gain 2 empowered for every for every [[Actions#^2c1bb5|Effective AP]] spent since you last gained the [[Charged Condition]].
 
 Actions:
 - **Of Ice And Snow**, 2 AP

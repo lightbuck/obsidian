@@ -1,13 +1,11 @@
+*Astracentrism is a martial art, learned specifically within environments in which the only source of gravity is a local Sun. This Aspect of Magic allows the wielder to redirect incoming kinetic energy, which in the right hands make for fighters who are nearly undefeatable in one on one combat.*
+
+---
 %% Stance, meter, reaction heavy, melee %%
-*Astracentrism is a martial art, learned specifically within environments in which the only source of gravity is a local Sun. This Aspect of Magic allows the wielder to redirect incoming kinetic energy in contact with their body.*
 [[Skills]]:
 - "Astracentrism Knowledge" 
 - Flex
 - Fleet
-
-[[Power Features (Deprecated)]]:
-- From Name:
-
 Actions:
 - **Let's Rock!**, 1 AP
 	- *You enter your Astracentric stance*

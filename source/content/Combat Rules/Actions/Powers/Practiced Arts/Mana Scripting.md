@@ -1,5 +1,7 @@
-%%Change environment, AOE, Trade stamina for damage%%
-*Mana Scripting is likely the most accessible Aspect of Magic, Technically speaking all it requires is for the caster to be conscious. This is due to the fact that Mana Scripting is not an embodied form of magic. But instead it consists in writing spells, using expensive liquid mana, much like one would write high level computer code. These spells often consist of simple matter and energy generation.* 
+*Mana Scripting is likely the most accessible Aspect of Magic, technically speaking all it requires is for the caster to be conscious. This is due to the fact that Mana Scripting is not an embodied form of magic. But instead it consists in writing spells with liquid Mana, much like one would write high level computer code. These spells often consist of simple matter and energy generation, but in combat * 
+
+---
+%%Area, environment manipulation, self debuffing%%
 Actions:
 - **createWall()**, 1 AP
 	- *You summon a barrier of a solid material and send it forward*
@@ -8,7 +10,7 @@ Actions:
 - **makeBlast()**, 2 AP
 	- You 
 - spikeThrow(), 2 AP
-	- You summon a storm of pointy constructs, 
+	- You summon a storm of sharp pointed constructs, 
 
 Combo Actions:
 - **Debug**, 2 AP
