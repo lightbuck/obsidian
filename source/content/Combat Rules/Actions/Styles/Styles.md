@@ -1,5 +1,14 @@
-## Template
-## Name
+Styles are an extra layer of personality to add on top of a [[Powers|Power]], afterward you should fill any gaps with [[Armament Features|Armaments Actions]] or [[Roles|Role Actions]].
+
+List of styles:
+- [[Thaumalogian Style]]
+- [[Daredevil Style]]
+- [[Hunter Style]]
+- [[Remorseful Style]]
+- [[Rider Style]]
+- [[Sniper Style]]
+
+%%%
 *Description*
 
 Actions:

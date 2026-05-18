@@ -1,30 +1,28 @@
-#PhotonTTRPG 
-Powers are the other side of the coin from [[Styles (Deprecated)]], but they also grant free points in certain [[Skills]] and [[Power Features (Deprecated)]]
-# List of Powers
+Powers are the main defining part of a Player Character and should be your first choice. Next you likely would want to look at what [[Roles|Role]] and [[Styles|Style]] to pick.
 ## Hereditary Magics
 These magics are available to Humans based on their parents.
-[[Starfolk Magic]]
-[[Alkean Magic]]
-[[Ravenki Magic]]
-[[Resono Magic]]
+- [[Starfolk Magic]]
+- [[Alkean Magic]]
+- [[Ravenki Magic]]
+- [[Resono Magic]]
 ## Practiced Arts
-Practiced Arts are magics of special techniques anyone could make use of
-[[The Shadow Dance]]
-[[Active Exceed]]
-[[Astracentrism]]
-[[Mana Scripting]]
-[[The Bright Blades]]
+Practiced Arts are magics of special techniques anyone could make use of.
+- [[The Shadow Dance]]
+- [[Active Exceed]]
+- [[Astracentrism]]
+- [[Mana Scripting]]
+- [[The Bright Blades]]
 ## Zodiac Magics
 Zodiac Magics are Magics which are obtained under specific external conditions.
-[[Vampirism]]
-[[Bloodsten]]
-[[Daemonic Possession]]
-[[Lycanthropy]]
-[[Rouge Bud]]
-[[Static]]
-[[The Comet Chain]]
-[[The Phoenix Talon]]
-[[The Storm Hook]]
+- [[Vampirism]]
+- [[Bloodsten]]
+- [[Daemonic Possession]]
+- [[Lycanthropy]]
+- [[Rouge Bud]]
+- [[Static]]
+- [[The Comet Chain]]
+- [[The Phoenix Talon]]
+- [[The Storm Hook]]
 
 
 
