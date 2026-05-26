@@ -11,14 +11,17 @@
             "id": "b24d607c47496648",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Combat Rules/Actions/Armaments Actions/Defensive Armament Actions.md",
-                "mode": "source",
-                "source": false
+                "file": "Combat Rules/Features/Features.canvas",
+                "viewState": {
+                  "x": -871.6592375696468,
+                  "y": 544.094130804535,
+                  "zoom": -0.7480337149471574
+                }
               },
-              "icon": "lucide-file",
-              "title": "Defensive Armament Actions"
+              "icon": "lucide-layout-dashboard",
+              "title": "Features"
             }
           }
         ]
@@ -170,8 +173,8 @@
   },
   "active": "b24d607c47496648",
   "lastOpenFiles": [
-    "Combat Rules/Actions/Armaments Actions/Melee Armament Actions.md",
     "Combat Rules/Actions/Armaments Actions/Defensive Armament Actions.md",
+    "Combat Rules/Actions/Armaments Actions/Melee Armament Actions.md",
     "Combat Rules/Features/Armaments/Defensive Armament.md",
     "Combat Rules/Actions/Armaments Actions/Ranged Armament Actions.md",
     "Combat Rules/Traits/Action Traits/Defend Trait.md",
