@@ -11,17 +11,14 @@
             "id": "b24d607c47496648",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Combat Rules/Features/Features.canvas",
-                "viewState": {
-                  "x": -717.4738849116102,
-                  "y": -423.76621624929646,
-                  "zoom": -1.6666666666666665
-                }
+                "file": "Combat Rules/Actions/Armaments Actions/Defensive Armament Actions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Features"
+              "icon": "lucide-file",
+              "title": "Defensive Armament Actions"
             }
           }
         ]
@@ -173,11 +170,17 @@
   },
   "active": "b24d607c47496648",
   "lastOpenFiles": [
+    "Combat Rules/Actions/Armaments Actions/Melee Armament Actions.md",
+    "Combat Rules/Actions/Armaments Actions/Defensive Armament Actions.md",
+    "Combat Rules/Features/Armaments/Defensive Armament.md",
+    "Combat Rules/Actions/Armaments Actions/Ranged Armament Actions.md",
+    "Combat Rules/Traits/Action Traits/Defend Trait.md",
+    "Combat Rules/Features/Armaments/Area Armament.md",
+    "Combat Rules/Features/Armaments/Armaments.md",
+    "Combat Rules/Features/Features.canvas",
     "Combat Rules/Traits/Action Traits/Vehicle Trait.md",
     "Combat Rules/Features/Armaments/Vehicle Armament.md",
-    "Combat Rules/Features/Features.canvas",
     "Combat Rules/Features/Armaments/Companion Armament.md",
-    "Combat Rules/Features/Armaments/Area Armament.md",
     "Combat Rules/Features/Virtues/I am not Alone.md",
     "Combat Rules/Actions/Actions.md",
     "Combat Rules/Features/Techniques/To Power Technique/To Crash.md",
@@ -194,11 +197,6 @@
     "Combat Rules/Features/Techniques/From Power Techniques/From Our Unity.md",
     "Combat Rules/Features/Techniques/From Power Techniques/From Power.md",
     "Combat Rules/Features/Techniques/From Power Techniques/From Standing Amidst the Storm.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From Standing Proudly.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From the Annihilation of My Enemies.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From The Devastation Left in My Wake.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From the Tears of My Haters.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From Being our Anchor.md",
     "Combat Rules/Actions/Powers/Practiced Arts",
     "Combat Rules/Actions/Powers/Zodiac Magics",
     "Combat Rules/Actions/Powers/Hereditary Magics",

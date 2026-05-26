@@ -1,2 +1,2 @@
-#PH MORE SKILLZ
-**Capacity Modifier:** -IDK
+#PH Gain more skills.
+**Capacity Modifier:** -1
