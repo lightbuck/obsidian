@@ -11,17 +11,14 @@
             "id": "b24d607c47496648",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Combat Rules/Features/Features.canvas",
-                "viewState": {
-                  "x": -871.6592375696468,
-                  "y": 544.094130804535,
-                  "zoom": -0.7480337149471574
-                }
+                "file": "Roleplay Rules/Skills.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Features"
+              "icon": "lucide-file",
+              "title": "Skills"
             }
           }
         ]
@@ -173,6 +170,7 @@
   },
   "active": "b24d607c47496648",
   "lastOpenFiles": [
+    "Combat Rules/Features/Features.canvas",
     "Combat Rules/Actions/Armaments Actions/Defensive Armament Actions.md",
     "Combat Rules/Actions/Armaments Actions/Melee Armament Actions.md",
     "Combat Rules/Features/Armaments/Defensive Armament.md",
@@ -180,7 +178,6 @@
     "Combat Rules/Traits/Action Traits/Defend Trait.md",
     "Combat Rules/Features/Armaments/Area Armament.md",
     "Combat Rules/Features/Armaments/Armaments.md",
-    "Combat Rules/Features/Features.canvas",
     "Combat Rules/Traits/Action Traits/Vehicle Trait.md",
     "Combat Rules/Features/Armaments/Vehicle Armament.md",
     "Combat Rules/Features/Armaments/Companion Armament.md",
@@ -199,7 +196,6 @@
     "Combat Rules/Features/Techniques/From Power Techniques/From Our Teamwork.md",
     "Combat Rules/Features/Techniques/From Power Techniques/From Our Unity.md",
     "Combat Rules/Features/Techniques/From Power Techniques/From Power.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From Standing Amidst the Storm.md",
     "Combat Rules/Actions/Powers/Practiced Arts",
     "Combat Rules/Actions/Powers/Zodiac Magics",
     "Combat Rules/Actions/Powers/Hereditary Magics",

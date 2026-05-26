@@ -1,59 +1,63 @@
-#PhotonTTRPG 
-To make a Skill Check you first announce your intention, ask the GM which skills you can make use of, the GM then declares a target for your action to be a complete success. Finally you roll a d20 adding your chosen skills
+Skills are used to determine the result of non combat challenges. When a player is asked to roll they are asked to roll 2d4 against a stated dc, the result is based on the degree of success and the skill tier of the player.
+Since you likely won't be rolling for skills as often, 2d4 has been chosen as a dice for their higher capability to roll a critical result (which means rolling a 2 "Rolling Snake Eyes" or an 8 "Rolling Infinity" #PH ).
+# Skill Tiers
 
-Generic skills contribute +1 per point assigned and Specific skills contribute +2 per point assigned
+| Tier            | Beginner | Competent | Expert | Adept | Legendary |
+| --------------- | -------- | --------- | ------ | ----- | --------- |
+| Points Required | 1        | 2         | 3      | 5     | 7         |
+When succeeding at rolling a skill check you obtain the result of your skill's tier, when failing you get the result of the tier below. When critically succeeding you get the result of tier above yours and when critically failing you get the result of two tiers below yours.
 
-For every 2 points assigned in a specific skill, add a point in a generic skill in the same category for free
+> [!note] Example 1: Picking a simple lock
+> A character wants to pick a simple lock, so the DC should be something like 4.
+> The Result list is as follows: 
+> Beginner: You fail to pick the lock
+> Competent: You pick the lock, but it takes a while
+> Expert-Legendary: You pick the lock with no issue
 
-You can chose a specific skill from the list or make up your own with the GM
+> [!note] Example 2: Hacking an orbital laser
+> A character wants to connect to an orbital laser through a nearby terminal and hack it, unlike the previous example this should be extremely difficult, so the DC should be something like 6 and the result list should look like this:
+> Beginner: You not only fail to hack the orbital laser but trip the alarms
+> Competent: You know you are unable to hack the orbital laser without tripping alarms.
+> Expert: You can hack this in a few hours, or you can move faster while also tripping the alarms.
+> Adept: You are able to hack the orbital laser temporarily
+> Legendary: You are able to take full control of the orbital laser
 
-### Physical Skills
+In essence the highest degree of success should be a success without consequences, or with an extra benefit. Degrees of success below that should be success that however impose some kind of danger, the lower the degree should determine wether the succes
+# Skill List
+## Magic Skills
+Attune
+- Crescent Eye
+- The eye of the Phoenix
+- Recognize Kin
 
-^7454e9
+Manifest
+- Channel Power
+- Lift
+- Endure the Vacuum
 
-- Generic:
-	- Flex
-	- Fleet
-- Specifics:
-	- Dash
-	- Push
-	- Restrain
-	- Escape
-	- ...
+## Somatic Skills
+Finesse
+- Pickpocket
+- Hotwire
 
-### Social Skills: ^b6d6c5
-- Generic:
-	- Manipulate
-	- Empathize
-- Specific:
-	- Lie to someone
-	- Spite someone
-	- Charm someone
-	- Read someone
-	- ...
+Flex
+- Push
+- Dash
 
-### Manual Labor skills: ^5254e4
-- Generic:
-	- Invent
-	- Fix
-	- Operate
-- Specific:
-	- Work with materials
-	- Work with mechanisms
-	- Work with electronics
-	- Work with Magic
-	- Work with Vehicles
-	- Work with wounds/ailments #PH
-	- ...
+## Social Skills
+Read
+- Empathize
 
-### Knowledge Skills: ^b86bbf
-- Generic:
-	- Research
-	- Observe
-- Specific:
-	- Natural knowledge
-	- Magical knowledge
-	- Societal knowledge
-	- Scientific knowledge
-	- ...
-# Training Skills
+Convince
+- Charm
+
+## Intellect Skills
+Study
+- Astrophysics
+- Computer Science
+- Engineering
+
+Operate
+- Astronomy
+- Hack
+- Hotwire
