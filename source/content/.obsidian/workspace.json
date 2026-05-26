@@ -15,9 +15,9 @@
               "state": {
                 "file": "Combat Rules/Features/Features.canvas",
                 "viewState": {
-                  "x": -1308.8884199214901,
-                  "y": -841.2568428095506,
-                  "zoom": -1
+                  "x": -717.4738849116102,
+                  "y": -423.76621624929646,
+                  "zoom": -1.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -173,13 +173,17 @@
   },
   "active": "b24d607c47496648",
   "lastOpenFiles": [
-    "Combat Rules/Actions/Actions.md",
+    "Combat Rules/Traits/Action Traits/Vehicle Trait.md",
+    "Combat Rules/Features/Armaments/Vehicle Armament.md",
     "Combat Rules/Features/Features.canvas",
+    "Combat Rules/Features/Armaments/Companion Armament.md",
+    "Combat Rules/Features/Armaments/Area Armament.md",
+    "Combat Rules/Features/Virtues/I am not Alone.md",
+    "Combat Rules/Actions/Actions.md",
     "Combat Rules/Features/Techniques/To Power Technique/To Crash.md",
     "Combat Rules/Features/Banes/Banes.md",
     "Combat Rules/Features/Techniques/Techniques.md",
     "Combat Rules/Features/Virtues/I am Big.md",
-    "Combat Rules/Features/Armaments/Area Armament.md",
     "Combat Rules/Features/Techniques/To Power Technique/To Steady Myself.md",
     "Combat Rules/Game Phases.md",
     "Combat Rules/Features/Techniques/From Power Techniques/From My Strength.md",
@@ -195,11 +199,6 @@
     "Combat Rules/Features/Techniques/From Power Techniques/From The Devastation Left in My Wake.md",
     "Combat Rules/Features/Techniques/From Power Techniques/From the Tears of My Haters.md",
     "Combat Rules/Features/Techniques/From Power Techniques/From Being our Anchor.md",
-    "Combat Rules/Features/Banes/Vengeful Bane.md",
-    "Combat Rules/Features/Quirks/From Power Features/Untitled.md",
-    "Combat Rules/Features/Power Features/Untitled.md",
-    "Combat Rules/Features/Banes/Sworn Bane.md",
-    "Combat Rules/Features/Banes/Self Doubting Bane.md",
     "Combat Rules/Actions/Powers/Practiced Arts",
     "Combat Rules/Actions/Powers/Zodiac Magics",
     "Combat Rules/Actions/Powers/Hereditary Magics",
