@@ -5,6 +5,7 @@ Since you likely won't be rolling for skills as often, 2d4 has been chosen as a 
 | Tier            | Beginner | Competent | Expert | Adept | Legendary |
 | --------------- | -------- | --------- | ------ | ----- | --------- |
 | Points Required | 1        | 2         | 3      | 5     | 7         |
+
 When succeeding at rolling a skill check you obtain the result of your skill's tier, when failing you get the result of the tier below. When critically succeeding you get the result of tier above yours and when critically failing you get the result of two tiers below yours.
 
 > [!note] Example 1: Picking a simple lock
