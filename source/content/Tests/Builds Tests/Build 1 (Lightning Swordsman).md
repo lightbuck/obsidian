@@ -18,13 +18,13 @@ Roles Give you access to From Power Features
 ## Concept
 A samurai inspired samurai ronin type person with a lightning aesthetic
 ## Features
-Slot 1: [[Self Destructive Vulnerability]] 10 Remaining Capacity 
+Slot 1: [[Self Destructive Bane]] 10 Remaining Capacity 
 Slot 2: 2x[[Melee Armament]]  8 Remaining Capacity
 Slot 3: [[From My Strength]] 7 Remaining Capacity
 Slot 4: 1x [[I am Tough]] 5 Remaining Capacity
 Slot 5: 1x [[I am Ready]] 4 Remaining Capacity
-Slot 6: [[To Rush]] 2 Remaining Capacity
-Slot 7: [[To Strength]] 0 Remaining Capacity
+Slot 6: [[To Rush Ahead]] 2 Remaining Capacity
+Slot 7: [[To Destroy]] 0 Remaining Capacity
 ## Stats
 4 Speed
 D8 Stamina

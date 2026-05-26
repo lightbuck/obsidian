@@ -1,4 +1,7 @@
 {
   "cssTheme": "Faded",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "columns"
+  ]
 }

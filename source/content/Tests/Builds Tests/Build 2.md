@@ -27,10 +27,10 @@ Free Armament Feat:
 [[From the Annihilation of My Enemies]]
 [[From My Strength]]
 1 Free To Power Feat
-[[To Rush]]
+[[To Rush Ahead]]
 
 'Slotted' Feats:
-- [[Introvert Vulnerability]] | 6 Remaining Capacity
+- [[Introvert Bane]] | 6 Remaining Capacity
 - [[I am Quick]] x 1 | 3 RC
 - [[I am Ready]] x 3 | 0 RC
 ## Stats

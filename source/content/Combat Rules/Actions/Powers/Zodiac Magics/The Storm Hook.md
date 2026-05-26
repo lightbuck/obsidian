@@ -14,7 +14,7 @@ Actions:
 	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Charging Trait|Charging]] 
 - **The Hammer Of The Gods**, 3 AP ^b6640f
 	- *You channel lightning through your conduit and into a foe as you strike them*
-	- Effect: Target one foe with your Melee weapon, dealing 2d8 damage.
+	- Effect: Target one foe with your Melee weapon, dealing 3d8 damage.
 	- [[Attack Trait|Attack]] [[Melee Trait|Melee]]  [[Charging Trait|Charging]] 
 - **To Fight The Horde**, 3 AP
 	- *You channel lightning through your Conduit to unleash a lightning bolt*

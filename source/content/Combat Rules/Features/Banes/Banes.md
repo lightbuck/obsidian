@@ -1,0 +1,1 @@
+Banes are vulnerabilities, they are the flaws your character, that Foes may exploit.

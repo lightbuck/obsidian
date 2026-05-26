@@ -1,1 +1,1 @@
-Take Overs are special Effects that take make
+Take Overs are special Effects that 

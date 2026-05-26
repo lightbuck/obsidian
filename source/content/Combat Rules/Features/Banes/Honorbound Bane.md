@@ -1,0 +1,3 @@
+*You cannot leave a fight behind.*
+You cannot voluntarily Move in any way that would increase the distance between you and a Foe that you Attacked this combat.
+**Capacity Modifier:** +3

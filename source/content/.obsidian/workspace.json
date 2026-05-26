@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b8f1145f9933d610",
+        "id": "7b2d3c075f409840",
         "type": "tabs",
         "children": [
           {
-            "id": "6780da8bbbd3a8fb",
+            "id": "b24d607c47496648",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Combat Rules/Actions/Styles/Styles.md",
-                "mode": "source",
-                "source": false
+                "file": "Combat Rules/Features/Features.canvas",
+                "viewState": {
+                  "x": -1308.8884199214901,
+                  "y": -841.2568428095506,
+                  "zoom": -1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Styles"
+              "icon": "lucide-layout-dashboard",
+              "title": "Features"
             }
           }
         ]
@@ -168,47 +171,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6780da8bbbd3a8fb",
+  "active": "b24d607c47496648",
   "lastOpenFiles": [
-    "Combat Rules/Actions/Powers/Powers.md",
-    "Combat Rules/Actions/Styles/Styles.md",
-    "Combat Rules/Actions/Roles/Offense Role.md",
-    "Combat Rules/Actions/Powers/Practiced Arts/Astracentrism.md",
-    "Combat Rules/Actions/Roles/Roles.md",
-    "Combat Rules/Actions/Powers/Hereditary Magics/Ravenki Magic.md",
-    "Combat Rules/Actions/Styles/Thaumalogian Style.md",
-    "Combat Rules/Actions/Styles/Daredevil Style.md",
-    "index.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/Bloodsten.md",
-    "Combat Rules/Actions/Powers/Practiced Arts/The Shadow Dance.md",
-    "Combat Rules/Actions/Powers/Practiced Arts/The Bright Blades.md",
-    "Combat Rules/Actions/Powers/Practiced Arts/Active Exceed.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/The Comet Chain.md",
-    "Combat Rules/Actions/Powers/Hereditary Magics/Alkean Magic.md",
-    "Combat Rules/Actions/Powers/Hereditary Magics/Starfolk Magic.md",
+    "Combat Rules/Actions/Actions.md",
+    "Combat Rules/Features/Features.canvas",
+    "Combat Rules/Features/Techniques/To Power Technique/To Crash.md",
+    "Combat Rules/Features/Banes/Banes.md",
+    "Combat Rules/Features/Techniques/Techniques.md",
+    "Combat Rules/Features/Virtues/I am Big.md",
+    "Combat Rules/Features/Armaments/Area Armament.md",
+    "Combat Rules/Features/Techniques/To Power Technique/To Steady Myself.md",
+    "Combat Rules/Game Phases.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Strength.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Responsibility.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Kindness.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Sacrifice.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Our Teamwork.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Our Unity.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Power.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Standing Amidst the Storm.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Standing Proudly.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From the Annihilation of My Enemies.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From The Devastation Left in My Wake.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From the Tears of My Haters.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Being our Anchor.md",
+    "Combat Rules/Features/Banes/Vengeful Bane.md",
+    "Combat Rules/Features/Quirks/From Power Features/Untitled.md",
+    "Combat Rules/Features/Power Features/Untitled.md",
+    "Combat Rules/Features/Banes/Sworn Bane.md",
+    "Combat Rules/Features/Banes/Self Doubting Bane.md",
     "Combat Rules/Actions/Powers/Practiced Arts",
-    "Combat Rules/Player Character Rules/Actions/Powers/Untitled.md",
     "Combat Rules/Actions/Powers/Zodiac Magics",
     "Combat Rules/Actions/Powers/Hereditary Magics",
-    "Combat Rules/Actions/Powers/Practiced Arts/Mana Scripting.md",
-    "Combat Rules/Actions/Powers/Hereditary Magics/Resono Magic.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/Rouge Bud.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/Static.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/The Phoenix Talon.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/The Storm Hook.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/Vampirism.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/Daemonic Possession.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/Lycanthropy.md",
     "Pasted image 20260518002241.png",
     "Combat Rules/Actions/Armaments Actions",
     "Tests/Builds Tests",
     "Combat Rules/Actions/Roles",
     "Deprecated",
-    "Combat Rules/Features/Somatic Features",
+    "Combat Rules/Features/Virtues",
     "Combat Rules/Actions/Styles",
     "Combat Rules/Actions/Powers",
     "Images/Armaments Sheet.png",
-    "Untitled.canvas",
     "Pasted image 20260225202001.png"
   ]
 }

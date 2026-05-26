@@ -1,0 +1,1 @@
+Armaments allow you to take actions with the [[Melee Trait]], [[Ranged Trait]] or the [[Area Trait]].
