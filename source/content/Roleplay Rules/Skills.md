@@ -1,6 +1,6 @@
 Skills are used to determine the result of non combat challenges.
 
-When rolling a skill check you roll 2d8 against a Difficulty Class (DC), if you meet the DC the result is a Success, if you roll below the DC the result is a Failure. The average results of 2d8 is a 9.
+When rolling a skill check you roll 2d8 against a Difficulty Class (DC), if you roll equal or above the DC the result is a Success, if you roll below the DC the result is a Failure. The average results of 2d8 is a 9.
 
 When you succeed if either of the dice rolled are an 8 the result is a Critical Success. When you fail if either of the dice rolled are a 1 the result is a Critical Failure.
 # Skill Tiers
