@@ -31,33 +31,33 @@ Skills can be invented quite easily, but they must fit in these categories, each
 
 Skills may also appear in more than one category, but the points are not shared between them.
 ## Somatic Skills
-Finesse
+Finesse (Skills which revolve around making precise motions)
 - Pickpocket
 - Hotwire
 - ...
 
-Flex
+Flex (Skills which revolve around exerting yourself)
 - Push
 - Dash
 - ...
 
 ## Social Skills
-Read
+Read (Skills which help you understand others)
 - Empathize
 - ...
 
-Convince
+Convince (Skills which help you manipulate others)
 - Charm
 - ...
 
 ## Intellect Skills
-Study
+Study (Skills revolving around the acquisition of knowledge)
 - Astrophysics
 - Computer Science
 - Engineering
 - ...
 
-Operate
+Operate (Skills which require application of knowledge)
 - Astronomy
 - Hack
 - Hotwire
@@ -66,14 +66,12 @@ Operate
 ## Magic Skills
 Magic skills, unlike other skills, are harder to invent on the fly and often originate from a Character's nature. Often Powers will let you know if you can make use of these skills, the skills listed below are skills that don't appear in Powers.
 
-Attune:
-Skills which happen passively
+Attune (Magical effects which usually happen passively)
 - Crescent Eye
-	- 
 - Recognize Kin
 	- Sometimes you may be able to sense people of your own Kin or those wielding the same magic as you. 
 
-Manifest
+Manifest (Magical effects which happen actively)
 - Channel Power
 	- Channeling your power in a non harmful and controlled way may sometimes be more difficult than just letting it rip.
 - Coyote Time
