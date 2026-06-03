@@ -31,7 +31,7 @@ In essence the highest degree of success should be a success without consequence
 Skills can be invented quite easily, but they must fit in these categories, each category has two "Generic Skills" which further divide skills. These Generic skills cannot gain points normally and instead gain a point every time a skill in their category is increased to a new Tier.
 
 Skills may also appear in more than one category, but the points are not shared between them.
-## Somatic Skills
+## Physical Skills
 Finesse (Skills which revolve around making precise motions)
 - Pickpocket
 - Hotwire
@@ -43,12 +43,14 @@ Flex (Skills which revolve around exerting yourself)
 - ...
 
 ## Social Skills
-Read (Skills which help you understand others)
+Instinct (Skills which help you with dealing with emotions)
 - Empathize
+- Annoy
 - ...
 
-Convince (Skills which help you manipulate others)
-- Charm
+Civil (Skills which help you deal with humans contrivances)
+- Lie
+- Justify
 - ...
 
 ## Intellect Skills
