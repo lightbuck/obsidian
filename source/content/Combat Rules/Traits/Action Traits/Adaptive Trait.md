@@ -1,0 +1,1 @@
+This action can count as having [[Melee Trait]], the [[Ranged Trait]] or the [[Area Trait]]. If the action targeted one or more characters, choosing the [[Area Trait]] makes it so that the action targets the an area equal to the exact Space(s) occupied by the targets.

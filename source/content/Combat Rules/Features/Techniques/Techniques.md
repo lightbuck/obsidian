@@ -1,0 +1,1 @@
+Techniques define what your character aims to do in a fight and how they go about it in a broad tactical sense. They either grant you power ("I gain power from") or let you use power ("I use my power to") 

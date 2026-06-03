@@ -1,0 +1,1 @@
+This action may only be used if it causes you to Move. When this action makes you move you may increase that movement by the AP cost of this action.

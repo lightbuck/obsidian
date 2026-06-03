@@ -1,0 +1,1 @@
+Once per Round when you knock out a unit gain 2 stacks of [[Empowered Condition|Empowered]]. 

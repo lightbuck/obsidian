@@ -1,59 +1,85 @@
-#PhotonTTRPG 
-To make a Skill Check you first announce your intention, ask the GM which skills you can make use of, the GM then declares a target for your action to be a complete success. Finally you roll a d20 adding your chosen skills
+Skills are used to determine the result of non combat challenges.
 
-Generic skills contribute +1 per point assigned and Specific skills contribute +2 per point assigned
+When rolling a skill check you roll 2d8 against a Difficulty Class (DC), if you roll equal or above the DC the result is a Success, if you roll below the DC the result is a Failure. The average results of 2d8 is a 9.
 
-For every 2 points assigned in a specific skill, add a point in a generic skill in the same category for free
+When you succeed if either of the dice rolled are an 8 the result is a Critical Success. When you fail if either of the dice rolled are a 1 the result is a Critical Failure.
+# Skill Tiers
 
-You can chose a specific skill from the list or make up your own with the GM
+| Tier            | Beginner | Competent | Expert | Master | Legendary |
+| --------------- | -------- | --------- | ------ | ------ | --------- |
+| Points Required | 1        | 2         | 3      | 5      | 7         |
 
-### Physical Skills
+When succeeding a skill check you obtain the result of your skill's tier, when failing you get the result of the tier below. When critically succeeding you get the result of tier above yours and when critically failing you get the result of two tiers below yours.
 
-^7454e9
+> [!note] Example 1: Picking a simple lock
+> A character wants to pick a simple lock, so the DC should be something low like 6.
+> The Result list is as follows: 
+> - Beginner: You fail to pick the lock
+> - Competent: You pick the lock, but it takes a while
+> - Expert-Legendary: You pick the lock with no issue
 
-- Generic:
-	- Flex
-	- Fleet
-- Specifics:
-	- Dash
-	- Push
-	- Restrain
-	- Escape
-	- ...
+> [!note] Example 2: Hacking an orbital laser
+> A character wants to connect to an orbital laser through a nearby terminal and hack it, unlike the previous example this should be extremely difficult, so the DC should be something like 12 and the result list should look like this:
+> - Beginner: You not only fail to hack the orbital laser but trip the alarms
+> - Competent: You are unable to hack the orbital laser.
+> - Expert: You can hack this in a few hours, or you can move faster while also tripping the alarms.
+> - Master: You are able to hack the orbital laser temporarily
+> - Legendary: You are able to take full control of the orbital laser
 
-### Social Skills: ^b6d6c5
-- Generic:
-	- Manipulate
-	- Empathize
-- Specific:
-	- Lie to someone
-	- Spite someone
-	- Charm someone
-	- Read someone
-	- ...
+In essence the highest degree of success should be a success without consequences, or even a success with an extra benefit. Degrees of success below that should still be successes that impose some kind of complication, the lower the degree the worse the complications get.
+# Skill List
+Skills can be invented quite easily, but they must fit in these categories, each category has two "Generic Skills" which further divide skills. These Generic skills cannot gain points normally and instead gain a point every time a skill in their category is increased to a new Tier.
 
-### Manual Labor skills: ^5254e4
-- Generic:
-	- Invent
-	- Fix
-	- Operate
-- Specific:
-	- Work with materials
-	- Work with mechanisms
-	- Work with electronics
-	- Work with Magic
-	- Work with Vehicles
-	- Work with wounds/ailments #PH
-	- ...
+Skills may also appear in more than one category, but the points are not shared between them.
+## Physical Skills
+Finesse (Skills which revolve around making precise motions)
+- Pickpocket
+- Hotwire
+- ...
 
-### Knowledge Skills: ^b86bbf
-- Generic:
-	- Research
-	- Observe
-- Specific:
-	- Natural knowledge
-	- Magical knowledge
-	- Societal knowledge
-	- Scientific knowledge
-	- ...
-# Training Skills
+Flex (Skills which revolve around exerting yourself)
+- Push
+- Dash
+- ...
+
+## Social Skills
+Instinct (Skills which help you with dealing with emotions)
+- Empathize
+- Annoy
+- ...
+
+Civil (Skills which help you deal with humans contrivances)
+- Lie
+- Justify
+- ...
+
+## Intellect Skills
+Study (Skills revolving around the acquisition of knowledge)
+- Astrophysics
+- Computer Science
+- Engineering
+- ...
+
+Operate (Skills which require application of knowledge)
+- Astronomy
+- Hack
+- Hotwire
+- ...
+
+## Magic Skills
+Magic skills, unlike other skills, are harder to invent on the fly and often originate from a Character's nature. Often Powers will let you know if you can make use of these skills, the skills listed below are skills that don't appear in Powers.
+
+Attune (Magical effects which usually happen passively)
+- Crescent Eye
+- Recognize Kin
+	- Sometimes you may be able to sense people of your own Kin or those wielding the same magic as you. 
+
+Manifest (Magical effects which happen actively)
+- Channel Power
+	- Channeling your power in a non harmful and controlled way may sometimes be more difficult than just letting it rip.
+- Coyote Time
+	- When using magic in the air you may experience a decrease in gravity, allowing you to perform complex maneuvers before beginning to fall.
+- Endure the Vacuum
+	- When focusing on your power it is possible to ignore the lack of air in the vacuum of space for a few moments.
+- Magical Transformation
+	- Using your magic sometimes results in physical changes to your person, which includes both your body and what you may wear.
