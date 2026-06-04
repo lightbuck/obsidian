@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roleplay Rules/Skills.md",
+                "file": "Combat Rules/Actions/Powers/Practiced Arts/Mana Scripting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skills"
+              "title": "Mana Scripting"
             }
           }
         ]
@@ -148,8 +148,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "7b80f85986d8cbb6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -170,33 +181,33 @@
   },
   "active": "b24d607c47496648",
   "lastOpenFiles": [
-    "Combat Rules/Features/Virtues/I am Big.md",
+    "Combat Rules/Conditions/Negative Conditions/Hunted Condition.md",
+    "Combat Rules/Conditions/Negative Conditions/Immobilized Condition.md",
+    "Combat Rules/Actions/Powers/Practiced Arts/Mana Scripting.md",
+    "Combat Rules/The Battlefield.md",
+    "Combat Rules/Traits/Action Traits/Poly Trait.md",
+    "Combat Rules/Traits/Action Traits/Brutal Trait.md",
+    "Combat Rules/Traits/Action Traits/Piercing Trait.md",
+    "Combat Rules/Traits/Action Traits/Surprising Trait.md",
+    "Combat Rules/Traits/Action Traits/Final Trait.md",
+    "Combat Rules/Actions/Powers/Practiced Arts/Active Exceed.md",
+    "Combat Rules/Actions/Powers/Practiced Arts/Astracentrism.md",
+    "Combat Rules/Traits/Action Traits/Immobile Trait.md",
+    "Combat Rules/Actions/Armaments Actions/Area Armament Actions.md",
+    "Combat Rules/Traits/Action Traits/Attack Trait.md",
+    "Combat Rules/Traits/Action Traits/Adaptive Trait.md",
+    "Combat Rules/Conditions/Action Conditions/Charged Condition.md",
+    "Combat Rules/Actions/Actions.md",
+    "Combat Rules/Traits/Action Traits/Charging Trait.md",
+    "Combat Rules/Actions/Powers/Zodiac Magics/The Storm Hook.md",
+    "Combat Rules/Traits/Action Traits/Crossover Trait.md",
+    "Combat Rules/Traits/Action Traits/Area Trait.md",
+    "Combat Rules/Actions/Powers/Powers.md",
     "Roleplay Rules/Skills.md",
+    "Combat Rules/Features/Virtues/I am Big.md",
     "Combat Rules/Features/Virtues/I am Fast.md",
     "Combat Rules/Features/Virtues/I am Ready.md",
-    "Combat Rules/Features/Banes/Control Freak Bane.md",
-    "Combat Rules/Features/Banes/Naive Bane.md",
-    "Combat Rules/Features/Banes/Introvert Bane.md",
-    "Combat Rules/Features/Banes/Lonely Bane.md",
-    "Combat Rules/Features/Banes/Boastful Bane.md",
-    "Combat Rules/Features/Banes/Defeatist Bane.md",
-    "Combat Rules/Features/Banes/Honorbound Bane.md",
-    "Combat Rules/Features/Virtues/I am Skilled.md",
-    "Combat Rules/Features/Virtues/I am Tough.md",
-    "Combat Rules/Features/Virtues/Virtues.md",
-    "Combat Rules/Features/Virtues/I am Quick.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From Being our Anchor.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From Power.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From Our Unity.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From Standing Amidst the Storm.md",
-    "Combat Rules/Features/Techniques/To Power Technique/To Crash.md",
-    "Combat Rules/Features/Techniques/To Power Technique/To Destroy.md",
-    "Combat Rules/Features/Techniques/To Power Technique/To Rush Ahead.md",
-    "Combat Rules/Features/Techniques/To Power Technique/To Stand Tall.md",
-    "Combat Rules/Features/Techniques/Techniques.md",
-    "Combat Rules/Actions/Powers/Hereditary Magics/Alkean Magic.md",
     "Combat Rules/Features/Features.canvas",
-    "Combat Rules/Actions/Armaments Actions/Defensive Armament Actions.md",
     "Combat Rules/Actions/Powers/Practiced Arts",
     "Combat Rules/Actions/Powers/Zodiac Magics",
     "Combat Rules/Actions/Powers/Hereditary Magics",
