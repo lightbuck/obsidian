@@ -1,0 +1,1 @@
+This action consumes the [[Empowered Condition]] and allows you to use a [[Techniques|To Power Technique]]. This action has no AP cost and is ignored by the conditions of combo actions. The following action after this cannot be a Combo Action.

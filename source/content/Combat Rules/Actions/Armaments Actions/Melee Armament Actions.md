@@ -11,6 +11,10 @@ Main Actions:
 	- *You move forward unleashing a series of attacks to anyone in your path*
 	- Effect: Target one Foe that you can see, move in a line toward them, additionally target any Foe that was adjacent to you during this movement. All Foes take 1d4 damage.
 	- [[Attack Trait|Attack]] [[Melee Trait|Melee]]
+- **Crash**, 1 AP
+	- *You move and use your momentum to strike down a foe.*
+	- Effect: Move in a line, target all foes within the line and deal a d6 of damage for every 3 Spaces you moved through at the point where the Foe is. Any previous movement that could be considered part of this line that you took with your previous action is also included.
+	- [[Move Trait|Move]] [[Attack Trait|Attack]] [[Melee Trait|Melee]]
 
 Combo Actions: 
 - **One-Two**, 1 AP

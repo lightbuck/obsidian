@@ -1,4 +1,4 @@
-Powers are the main defining part of a Player Character and should be your first choice. Next you likely would want to look at what [[Roles|Role]] and [[Styles|Style]] to pick.
+Powers are the main defining part of a Player Character and should be your first choice. Next you likely would want to look at what [[Roles|Role]] and [[Styles 2  (Deprecated)|Style]] to pick.
 ## Hereditary Magics
 These magics are available to Humans based on their parents.
 - [[Starfolk Magic]]

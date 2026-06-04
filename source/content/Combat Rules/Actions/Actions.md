@@ -4,7 +4,6 @@ There are 4 types of actions:
 - Core Actions: Can cost 1 to 4 AP. Each Core Action can be used once per turn. ^8c5a75
 - Combo Actions: Cost 1 AP. Can only be used after you or an allied character used a specific action or an action with a specific trait. ^22357c
 - Reactions: Cost no AP and can only be used under specific circumstances even if it's not your turn. Can be used only once per round. ^45d755
-- Flourishes: Flourish are 1 AP actions that can be taken once during your turn for free. When taking a Flourish Action you must declare a [[Power Features (Deprecated)#^acac8c|Feat of Power]] you choose to activate. ^ffdf5f
 ### List of Universal Actions
 - Move (1 AP): [[Movement|Move]] a number of spaces equal to your speed ^642a2c
 - Interact (1 to 4 AP): Interact with the environment in a manner dictated by the GM.
