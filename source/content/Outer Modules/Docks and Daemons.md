@@ -1,25 +1,27 @@
-# Stats
-#### Structural Integrity
+This module adds rules to create crew spaceships and to navigate Limbo and the Void.
+# Ships
+## Stats
+### Structural Integrity
 This value determines how much damage your ship can take, most hazards and attacks from Foes will deal one damage.
 
-#### Agility
+### Agility
 The Agility of a ship adds a bonus to any skill check which requires the ship to execute maneuvers. 
 
-#### Power Generation
+### Power Generation
 Power is the main resource to manage when commandeering a ship. Each turn passed the ship generates the amount listed
 
-# Design
-## Size
+## Design
+### Size
 Your crew's spaceship is likely going to be a medium size ship, with enough room for 4 people to both hang out together and have time for themselves. However there is still some consideration to do for how big the ship is.
 
 - Cramped
 - Spacious
 - Luxurious
-## Shape
+### Shape
 - Sleek
 - Chunky
 - Thick
-## Plating
+### Plating
 - Light Plating
 	+3 Agility
 	+1 Structural Integrity
@@ -39,4 +41,4 @@ Stylings offer situational bonuses depending on the environment you find yoursel
 - Stainless Steel
 - Spirit Sheathe
 
-# Special Maneuvers
+## Special Maneuvers

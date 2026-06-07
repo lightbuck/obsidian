@@ -1,0 +1,1 @@
+This module adds rules to create personal vehicles and to fight with them.

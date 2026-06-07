@@ -1,0 +1,1 @@
+This module adds rules for players to be able to fight Leviathans.
