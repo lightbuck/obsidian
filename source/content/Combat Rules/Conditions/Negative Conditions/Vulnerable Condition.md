@@ -1,1 +1,1 @@
-You cannot take your turn until you lose all stacks of [[Impacted Condition]] or when you are targeted with a [[Take Over]]
+You cannot take your turn nor use reactions until you lose all stacks of [[Impacted Condition]] or when you are targeted with a [[Take Over]]. Remove this condition if an entire round passes without your being able to act.
