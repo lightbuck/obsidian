@@ -1,6 +1,8 @@
 Stylish Actions allow you to consume the [[Empowered Condition]], they all have the [[Stylish Trait]]:
 ![[Stylish Trait]]
 
+Players may work with the GM to create their own Stylish Actions, (with the understanding that these actions cannot have the [[Attack Trait]]) or they may chose to use actions from the following list.
+
 Main Actions:
 - **Taunt**
 	- *You taunt your Foe*
