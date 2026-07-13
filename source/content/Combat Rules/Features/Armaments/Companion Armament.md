@@ -1,2 +1,0 @@
-Gain a Companion and choose a name for them. Add a [[Companion Trait|Companion "Name"]] to any Actions you Know. The companion gains an Armament of your choice, which cannot be the [[Companion Armament]].
-**Capacity Modifier:** -1

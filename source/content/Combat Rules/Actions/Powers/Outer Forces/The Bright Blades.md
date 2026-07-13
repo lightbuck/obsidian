@@ -2,10 +2,6 @@
 
 --- 
 %% High melee DPS, self Damage %%
-[[Skills]]:
-- "Name Knowledge"
-- "Work with Name"
-
 Actions:
 - **Name**, 1 AP
 	- *Description*

@@ -18,7 +18,7 @@ Actions:
 	- *You shape your Bloodsten prosthetic, in a large and cutting form, such as a claymore or an axe.*
 	- Effect: Gain the [[Forging Condition|Forging(Drum) Condition]], 
 	- [[Charge Trait|Charge]]
-- **Solo**, 2 AP
+- **Rim Shatter**, 2 AP
 	- *You reshape Bloodsten prosthetic returning it to the form of its body part and fixing it.*
 	- Effect: Roll your recovery die thrice and pick two results to gain. If you have it lose the [[Forging Condition]] and instead gain all three results.
 	- [[Charge Trait|Charge]]

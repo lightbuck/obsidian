@@ -1,0 +1,1 @@
+Gain a Companion and choose a name for them. Add a [[Companion Trait|Companion "Name"]] to any Actions you Know.
