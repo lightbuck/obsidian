@@ -1,0 +1,1 @@
+This Action's effect makes its targets gain a negative [[Conditions|Condition]].

@@ -1,11 +1,11 @@
 Main Actions:
 - **Cut**, 1 AP
 	- *You slash a Foe*
-	- Effect: Target one Foe adjacent to you, deal 1d10 damage.
+	- Effect: Target one Foe, deal 1d8 damage.
 	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Mobile Trait|Mobile]]
 - **Slam**, 1 AP
 	- *You slam a Foe*
-	- Effect: Target one Foe adjacent to you, deal 1d10 damage.
+	- Effect: Target one Foe, deal 1d8 damage.
 	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Crushing Trait|Crushing]]
 - **Cutting Advance**, 1 AP ^dddb31
 	- *You move forward unleashing a series of attacks to anyone in your path*

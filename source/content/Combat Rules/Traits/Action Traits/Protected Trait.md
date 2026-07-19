@@ -1,1 +1,1 @@
-After this action resolves roll your recovery die.
+After this action rolls your recovery die.

@@ -1,15 +1,21 @@
 Skills are used to determine the result of non combat challenges.
 
-When rolling a skill check you roll 2d8 against a Difficulty Class (DC), if you roll equal or above the DC the result is a Success, if you roll below the DC the result is a Failure. The average results of 2d8 is a 9.
+When asked to 'make a skill check' you pick, or are asked to pick by the GM, two skills. Then roll 2d8.
+
+
 
 When you succeed if either of the dice rolled are an 8 the result is a Critical Success. When you fail if either of the dice rolled are a 1 the result is a Critical Failure.
+
+When succeeding a skill check you obtain the result of your skill's [[Skills#^b37052|Skill Tier]], when failing you get the result of the tier below. When critically succeeding you get the result of tier above yours and when critically failing you get the result of a tier below yours.
+
 # Skill Tiers
+
+^b37052
 
 | Tier            | Beginner | Competent | Expert | Master | Legendary |
 | --------------- | -------- | --------- | ------ | ------ | --------- |
 | Points Required | 1        | 2         | 3      | 5      | 7         |
 
-When succeeding a skill check you obtain the result of your skill's tier, when failing you get the result of the tier below. When critically succeeding you get the result of tier above yours and when critically failing you get the result of two tiers below yours.
 
 > [!note] Example 1: Picking a simple lock
 > A character wants to pick a simple lock, so the DC should be something low like 6.

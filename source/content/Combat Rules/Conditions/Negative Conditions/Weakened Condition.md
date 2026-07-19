@@ -1,0 +1,1 @@
+The next time you deal damage or recover Stamina for yourself or other characters, reduce the amount by N.
