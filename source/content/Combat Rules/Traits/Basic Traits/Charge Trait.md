@@ -1,1 +1,1 @@
-This action makes you gain a condition or improves the next action in some way described by the effect.
+This action makes you gain a condition or improves an upcoming action in some way described by the effect.

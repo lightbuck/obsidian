@@ -1,1 +1,1 @@
-This action aids someone in some way. Allies characters affected by this action lose the [[Impacted Condition]].
+This action aids someone in some way. Allied characters affected by this action lose the [[Impacted Condition]].

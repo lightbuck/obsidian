@@ -14,7 +14,7 @@ Actions:
 - **Once nuked twice reborn**, 1 AP
 	- *You shrug off the pain and rise once again*
 	- Effect: Remove one stack of the [[Impacted Condition]] from yourself, gain 3 stacks of the [[Magmania Condition]].
-	- [[Protected Trait|Protected]]
+	- [[Defend Trait|Defend]] [[Protected Trait|Protected]]
 - **Scorching knuckles**, 2 AP
 	- *You hit your foe, leaving them with a scorched mark.*
 	- Effect: Target one Foe, deal 1d6 damage. The foe gains a stack of the [[Weakened Condition]] for every stack of the [[Magmania Condition]] you had when you took this action.
@@ -35,16 +35,16 @@ Combo Actions:
 	- Condition: Your last action had the [[Melee Trait]] and caused a Foe to gain the [[Impacted Condition]]
 	- Effect: Target the same Foe you targeted with your last action, deal 3d6 damage	
 	- [[Melee Trait|Melee]] [[Attack Trait|Attack]] [[Surprising Trait|Surprising]] [[Fling Trait|Fling(4)]] 
-- **Burning Trail**, 2 AP
+- **Burning trail**, 2 AP
 	- *You leave a trail of scorched ground as you move.*
 	- Condition: Your last action caused you to move in some way OR forced a character to move.
 	- Effect: Target the spaces you moved through with the triggering action (and any further spaces you may move through with this action) OR the spaces you forced a character to move through. Any Character (excluding Characters wielding [[Xefor Magic]] or [[The Phoenix Talon]]) that starts their turn in this Area gains the [[Impacted Condition]]. Remove this Area the next time you begin your turn.
 	- [[Mobile Trait|Mobile]] [[Area Trait|Area]] [[Afflict Trait|Afflict]]
-- **Home is where the heat is**, 1 AP
+- **Untouchable**, 2 AP
 	- *You reinvigorate yourself*
 	- Condition: Your last action caused you to lose all stacks of the [[Magmania Condition]]
-	- Effect:
-	- [[Traits]]
+	- Effect: Gain 1d6 stacks of the [[Magmania Condition]]. The next time you deal or take damage, your target or the Foe who Targeted you gains the [[Impacted Condition]].
+	- [[Defend Trait|Defend]] [[Charge Trait|Charge]]
 
 Reactions: 
 - **Wading Through Magma**, R

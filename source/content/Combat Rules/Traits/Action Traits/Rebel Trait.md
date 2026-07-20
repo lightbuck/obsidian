@@ -1,0 +1,2 @@
+Allies that would take damage from the Resolution of this action, recover an equal amount of stamina instead. 
+Alternatively Allies that would take damage from the Resolution of this action, gain a damage bonus on their next attack equal to the half the damage they would have taken.

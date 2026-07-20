@@ -7,7 +7,7 @@ Traits are used to described basic functions of an Action along side the Action 
 ![[Area Trait]]
 ![[Attack Trait]]
 ![[Brutal Trait]]
-![[Burning Trait]]
+![[Exposed Trait]]
 ![[Charging Trait]]
 ![[Companion Trait]]
 ![[Consumed Trait]]
