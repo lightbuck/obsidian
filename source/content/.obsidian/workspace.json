@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat Rules/Actions/Powers/Zodiac Magics/The Phoenix Talon.md",
+                "file": "Combat Rules/Actions/Powers/Practiced Arts/Active Exceed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Phoenix Talon"
+              "title": "Active Exceed"
             }
           },
           {
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat Rules/Actions/Armaments Actions/Area Armament Actions.md",
+                "file": "Combat Rules/Actions/Armaments Actions/Melee Armament Actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Area Armament Actions"
+              "title": "Melee Armament Actions"
             }
           }
         ]
@@ -210,17 +210,23 @@
   },
   "active": "e939443694d0181f",
   "lastOpenFiles": [
-    "Combat Rules/Actions/Armaments Actions/Area Armament Actions.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/The Phoenix Talon.md",
+    "Combat Rules/Conditions/Action Conditions/Energized Condition.md",
+    "Combat Rules/Actions/Powers/Practiced Arts/Active Exceed.md",
+    "Combat Rules/Traits/Basic Traits/Piercing Trait.md",
+    "Combat Rules/Traits/Basic Traits/Surprising Trait.md",
+    "Combat Rules/Ranges.md",
     "Combat Rules/Traits/Action Traits/Crushing Trait.md",
+    "Combat Rules/Actions/Armaments Actions/Melee Armament Actions.md",
+    "Combat Rules/Features/Armaments/Main Armaments/Melee Armament.md",
+    "Combat Rules/Actions/Armaments Actions/Area Armament Actions.md",
+    "Combat Rules/Conditions/Action Conditions/Protected Condition.md",
+    "Combat Rules/Actions/Powers/Zodiac Magics/The Phoenix Talon.md",
     "Combat Rules/Traits/Action Traits/Rebel Trait.md",
     "Combat Rules/Traits/Basic Traits/Exposed Trait.md",
     "Combat Rules/Traits/Basic Traits/Charge Trait.md",
     "Combat Rules/Traits/Basic Traits/Aid Trait.md",
     "Combat Rules/Actions/Powers/Hereditary Magics/Xefor Magic.md",
-    "Combat Rules/Actions/Armaments Actions/Melee Armament Actions.md",
     "Combat Rules/Traits/Action Traits/Protected Trait.md",
-    "Combat Rules/Conditions/Action Conditions/Energized Condition.md",
     "Combat Rules/Traits/Basic Traits/Area Trait.md",
     "Combat Rules/Traits/Basic Traits/Move Trait.md",
     "Combat Rules/Traits/Action Traits/Adaptive Trait.md",
@@ -228,15 +234,9 @@
     "Combat Rules/Traits/Basic Traits/Defend Trait.md",
     "Combat Rules/Traits/Basic Traits/Afflict Trait.md",
     "Combat Rules/Traits/Action Traits/Fling Trait.md",
-    "Combat Rules/Traits/Basic Traits/Surprising Trait.md",
     "Combat Rules/Conditions/Negative Conditions/Weakened Condition.md",
     "Combat Rules/Conditions/Action Conditions/Magmania Condition.md",
     "Combat Rules/Conditions/Negative Conditions/Thorned Condition.md",
-    "Combat Rules/Conditions/Action Conditions/Protected Condition.md",
-    "Combat Rules/Conditions/Conditions.md",
-    "Combat Rules/Conditions/Action Conditions/Charged Condition.md",
-    "Combat Rules/Actions/Powers/Hereditary Magics/Ravenki Magic.md",
-    "Combat Rules/Actions/Powers/Powers.md",
     "Combat Rules/Features/Armaments/Sub Armaments",
     "Combat Rules/Features/Armaments/Main Armaments",
     "Combat Rules/Actions/Powers/Outer Forces",
