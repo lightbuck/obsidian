@@ -1,7 +1,7 @@
 Main Actions:
 - **Burst**, 2 AP
 	- *You unleash a wide attack in front of you.*
-	- Effect: Target a Cone angled from you of 3 spaces, deal 1d6 damage to all Foes within it.
+	- Effect: Target a Cone angled from you of 4 spaces, deal 1d6 damage to all Foes within it.
 	- [[Attack Trait|Attack]] [[Area Trait|Area]] 
 - **Blast**, 2 AP
 	- *You explode an area of the battlefield.*
