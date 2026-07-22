@@ -1,5 +1,5 @@
 Main Actions:
-- **Raise Defenses**, 1 AP
+- **Raise Defenses**, 2 AP
 	- *You prepare yourself for incoming attacks*
 	- Effect: Roll your recovery Die twice, gain any overflowing stamina as stacks of the [[Protected Condition]].
 	- [[Defend Trait|Defend]]

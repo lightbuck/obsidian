@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat Rules/Actions/Armaments Actions/Defensive Armament Actions.md",
+                "file": "Combat Rules/Features/Armaments/Sub Armaments/Defensive Armament.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,50 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Defensive Armament Actions"
-            }
-          },
-          {
-            "id": "c81cbc0edd2a6e88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat Rules/Actions/Powers/Hereditary Magics/Xefor Magic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Xefor Magic"
-            }
-          },
-          {
-            "id": "b03fca6fb31abe4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat Rules/Actions/Armaments Actions/Melee Armament Actions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Melee Armament Actions"
-            }
-          },
-          {
-            "id": "ce9d164f1a7b0815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat Rules/Actions/Armaments Actions/Area Armament Actions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Area Armament Actions"
+              "title": "Defensive Armament"
             }
           }
         ]
@@ -234,32 +191,32 @@
   },
   "active": "e939443694d0181f",
   "lastOpenFiles": [
-    "Combat Rules/Traits/Basic Traits/Defend Trait.md",
+    "Combat Rules/Features/Armaments/Sub Armaments/Vehicle Armament.md",
+    "Combat Rules/Features/Armaments/Sub Armaments/Defensive Armament.md",
+    "Combat Rules/Features/Armaments/Sub Armaments/Reaching Armament.md",
+    "Combat Rules/Features/Armaments/Sub Armaments/Companion Armament.md",
+    "Combat Rules/Features/Armaments/Main Armaments/Melee Armament.md",
+    "Combat Rules/Features/Armaments/Main Armaments/Ranged Armament.md",
+    "Combat Rules/Features/Armaments/Main Armaments/Area Armament.md",
+    "Combat Rules/Actions/Armaments Actions/Area Armament Actions.md",
     "Combat Rules/Actions/Armaments Actions/Defensive Armament Actions.md",
+    "Combat Rules/Actions/Powers/Zodiac Magics/The Storm Hook.md",
     "Combat Rules/Traits/Basic Traits/Aid Trait.md",
+    "Combat Rules/Traits/Basic Traits/Immobile Trait.md",
+    "Combat Rules/Conditions/Action Conditions/Charged Condition.md",
+    "Combat Rules/Actions/Armaments Actions/Melee Armament Actions.md",
+    "Combat Rules/Actions/Powers/Outer Forces/Daemonic Possession.md",
+    "Combat Rules/Traits/Action Traits/Vehicle Trait.md",
+    "Combat Rules/Traits/Basic Traits/Defend Trait.md",
     "Combat Rules/Actions/Powers/Outer Forces/The Bright Blades.md",
     "Combat Rules/Conditions/Action Conditions/Protected Condition.md",
-    "Combat Rules/Actions/Armaments Actions/Area Armament Actions.md",
-    "Combat Rules/Actions/Armaments Actions/Melee Armament Actions.md",
     "Combat Rules/Traits/Action Traits/Consumed Trait.md",
     "Combat Rules/Traits/Action Traits/Sacrifice Trait.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/The Storm Hook.md",
     "Combat Rules/Actions/Powers/Practiced Arts/Active Exceed.md",
     "Combat Rules/Conditions/Action Conditions/Energized Condition.md",
     "Combat Rules/Traits/Basic Traits/Piercing Trait.md",
     "Combat Rules/Traits/Basic Traits/Surprising Trait.md",
     "Combat Rules/Ranges.md",
-    "Combat Rules/Traits/Action Traits/Crushing Trait.md",
-    "Combat Rules/Features/Armaments/Main Armaments/Melee Armament.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/The Phoenix Talon.md",
-    "Combat Rules/Traits/Action Traits/Rebel Trait.md",
-    "Combat Rules/Traits/Basic Traits/Exposed Trait.md",
-    "Combat Rules/Traits/Basic Traits/Charge Trait.md",
-    "Combat Rules/Actions/Powers/Hereditary Magics/Xefor Magic.md",
-    "Combat Rules/Traits/Action Traits/Protected Trait.md",
-    "Combat Rules/Traits/Basic Traits/Area Trait.md",
-    "Combat Rules/Traits/Basic Traits/Move Trait.md",
-    "Combat Rules/Traits/Action Traits/Adaptive Trait.md",
     "Combat Rules/Traits/Basic Traits",
     "Combat Rules/Features/Armaments/Sub Armaments",
     "Combat Rules/Features/Armaments/Main Armaments",

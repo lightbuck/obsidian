@@ -16,7 +16,7 @@
 		{"id":"a52e52fc075edbe1","type":"file","file":"Combat Rules/Features/Armaments/Armaments.md","x":-2067,"y":40,"width":645,"height":180},
 		{"id":"c8acb821a3febae3","type":"file","file":"Combat Rules/Features/Armaments/Main Armaments/Area Armament.md","x":-2067,"y":280,"width":400,"height":400},
 		{"id":"308cbe0e0aa936a3","type":"file","file":"Combat Rules/Features/Armaments/Main Armaments/Melee Armament.md","x":-1622,"y":280,"width":400,"height":400},
-		{"id":"a6a9ad369c2140c9","type":"file","file":"Combat Rules/Features/Armaments/Main Armaments/Defensive Armament.md","x":158,"y":280,"width":400,"height":400},
+		{"id":"a6a9ad369c2140c9","type":"file","file":"Combat Rules/Features/Armaments/Sub Armaments/Defensive Armament.md","x":158,"y":280,"width":400,"height":400},
 		{"id":"e74c538df5330329","type":"file","file":"Combat Rules/Features/Banes/Banes.md","x":-2067,"y":-560,"width":645,"height":140},
 		{"id":"01c519e215e99e5a","type":"file","file":"Combat Rules/Features/Banes/Introvert Bane.md","x":603,"y":-400,"width":400,"height":300},
 		{"id":"88b142f329a2566b","type":"file","file":"Combat Rules/Features/Techniques/From Power Techniques/From My Strength.md","x":-287,"y":-840,"width":400,"height":180},

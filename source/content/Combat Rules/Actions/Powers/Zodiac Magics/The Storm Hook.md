@@ -9,17 +9,17 @@
 
 Actions:
 - **Of Ice And Snow**, 2 AP
-	- *You summon the storm, emitting lightning around you*
-	- Effect: Target one foe within 3 spaces of you, deal 2d6.
-	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Charging Trait|Charging]] 
+	- *You strike a foe with a lightning bolt*
+	- Effect: Target one foe within 3 spaces of you, deal 2d6 damage.
+	- [[Attack Trait|Attack]] [[Adaptive Trait|Adaptive]] [[Charging Trait|Charging]] 
 - **The Hammer Of The Gods**, 3 AP ^b6640f
 	- *You channel lightning through your conduit and into a foe as you strike them*
-	- Effect: Target one foe with your Melee weapon, dealing 3d8 damage.
+	- Effect: Target one Foe, deal 3d8 damage.
 	- [[Attack Trait|Attack]] [[Melee Trait|Melee]]  [[Charging Trait|Charging]] 
-- **To Fight The Horde**, 3 AP
-	- *You channel lightning through your Conduit to unleash a lightning bolt*
-	- Effect: Target one foe within Line of Sight, dealing 2d6 damage
-	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] 
+- **To Fight The Horde**, 2 AP
+	- *You charge yourself with lightning*
+	- Effect: Target a Radius of 2 spaces, deal 1d6 damage to all Foes within it.
+	- [[Attack Trait|Attack]] [[Area Trait|Area]] 
 - **Threshing Oar**, 2 AP ^a5d1a5
 	- *You lift yourself with lightning, leaping a great distance*
 	- Effect: Move your speed twice. You may choose to land in a space occupied by a Foe, forcing them to move to an adjacent space.
@@ -34,22 +34,22 @@ Combo Actions:
 	- *The lightning from one of your strikes jumps to another foe*
 	- Condition: Your last action had the [[Charging Trait]] and the [[Attack Trait]]
 	- Effect: target a second foe within a radius of 3 of your original target, they take the same damage you dealt with your previous action. If this attack exhausts a target's stamina you may repeat this effect once.
-	- [[Charging Trait|Charging]] 
+	- [[Charging Trait|Charging]] [[Attack Trait|Attack]]
 - **Feel The Thunder**, 1 AP ^7ec5b2
 	- *You concentrate the lightning within you, increasing its power*
 	- Condition: Your last action had the [[Charging Trait]]
 	- Effect: you gain 1 stack of [[Adrenaline Condition|Adrenaline]]
-	- [[Mobile Trait|Mobile]] [[Charging Trait|Charging]] 
+	- [[Charging Trait|Charging]] [[Charge Trait|Charge]] [[Consumed Trait|Consumed]]
 - **Recharge ElectroHeart**, 1 AP
 	- *You absorb your lightning to reinvigorate yourself*
 	- Condition: Your last action had the [[Charging Trait]]
-	- Effect: gain 1d6 [[Health and Stamina|Stamina]]
-	- 
+	- Effect: Roll your recovery die twice.
+	- [[Aid Trait|Aid]] [[Mobile Trait|Mobile]]
 - **You've Been Thunderstruck**, 4 AP
 	- *You force the lightning you just discharged to return to you in a massive blast*
 	- Condition: Your last action caused you to lose the [[Charged Condition]]
 	- Effect: Target a radius of 3 centered on you, deal 3d6 damage to all Characters.
-	- [[Attack Trait|Attack]] [[Charging Trait|Charging]] 
+	- [[Attack Trait|Attack]] [[Charging Trait|Charging]] [[Area Trait|Area]]
 - **Don't Be a Stranger**, 1 AP
 	- *You use the electricity of your strikes to magnetically move your foes*
 	- Condition: Your last action had the [[Charging Trait]] and the [[Attack Trait]]
@@ -61,9 +61,9 @@ Reactions:
 	- *You release your lightning to someone who was foolish enough to strike you*
 	- Condition: You have the  [[Charged Condition]] and a Foe targeted you with a melee attack
 	- Effect: Deal 1d6 damage to the triggering foe, if their stamina is exhausted by this action their action is cancelled.
-	- [[Attack Trait|Attack]]
+	- [[Attack Trait|Attack]] [[Defend Trait|Defend]]
 - **Tempest's Overture**, R
 	- *You got hit, but this only made you more determined to strike down your foes.*
 	- Condition: You take damage from an attack
-	- Effect: You gain the [[Charged Condition]] 
-	- [[Traits#^d885e1|Self]]
+	- Effect: You gain the [[Charged Condition]] as if you had gained it with a 1 AP action.
+	- [[Charge Trait|Charge]]
