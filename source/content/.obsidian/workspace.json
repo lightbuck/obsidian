@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat Rules/Movement.md",
+                "file": "Combat Rules/Features/Techniques/From Power Techniques/From the Tears of My Haters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movement"
+              "title": "From the Tears of My Haters"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 302.07622146606445
   },
   "right": {
     "id": "f91876d9e667db79",
@@ -183,33 +183,34 @@
   },
   "active": "e939443694d0181f",
   "lastOpenFiles": [
-    "Combat Rules/Features/Boons/I am Big.md",
-    "Combat Rules/Features/Boons/Boons.md",
-    "Combat Rules/Features/Boons/I am Vigorous.md",
-    "Combat Rules/Actions/Armaments Actions/Melee Armament Actions.md",
-    "Combat Rules/Features/Boons/I am Steadfast.md",
-    "Combat Rules/Features/Boons/I am Tough.md",
-    "Combat Rules/Features/Boons/I am Quick.md",
-    "Combat Rules/Features/Boons/I am Resilient.md",
-    "Combat Rules/Features/Boons/I am Flexible.md",
-    "Combat Rules/Features/Boons/I am Healthy.md",
-    "Combat Rules/Features/Boons/I am Nimble.md",
-    "Combat Rules/Traits/Basic Traits/Step Trait.md",
-    "Combat Rules/Features/Boons/I am Light.md",
-    "Combat Rules/Features/Boons/I am Fast.md",
-    "Combat Rules/Features/Boons/I am Bulky.md",
-    "Combat Rules/Character Sizes.md",
-    "Combat Rules/The Battlefield.md",
-    "Combat Rules/Movement.md",
-    "Combat Rules/Traits/Basic Traits/Push Trait.md",
-    "Combat Rules/Traits/Action Traits/Fling Trait.md",
-    "Combat Rules/Actions/Powers/Hereditary Magics/Alkean Magic.md",
-    "Combat Rules/Health and Stamina.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From The Devastation Left in My Wake.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From the Annihilation of My Enemies.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Standing Proudly.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Standing Amidst the Storm.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Power.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Our Unity.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Our Teamwork.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Strength.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Responsibility.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Sacrifice.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Kindness.md",
     "Combat Rules/Features/Techniques/From Power Techniques/From Being our Anchor.md",
-    "Combat Rules/Features/Techniques/To Power Technique/To Bring Devastation.md",
-    "Combat Rules/Features/Boons/I am Skilled.md",
+    "Combat Rules/Actions/Stylish Actions.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Rescue.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Bring Devastation.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Crash.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Destruction.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Empower My Friends.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Power Techniques.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Protect Myself.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Stand Tall.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Twist The Knife.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Steady Myself.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Rush Ahead.md",
+    "Combat Rules/Conditions/Negative Conditions/Stunned Condition.md",
+    "Combat Rules/Actions/Actions.md",
     "Combat Rules/Features/Features.canvas",
-    "Combat Rules/Features/Armaments/Sub Armaments/Companion Armament.md",
+    "Combat Rules/Features/Techniques/To Prowess Techniques",
     "Combat Rules/Traits/Basic Traits",
     "Combat Rules/Features/Armaments/Sub Armaments",
     "Combat Rules/Features/Armaments/Main Armaments",
@@ -222,7 +223,6 @@
     "Combat Rules/Actions/Powers/Hereditary Magics",
     "Pasted image 20260518002241.png",
     "Combat Rules/Actions/Armaments Actions",
-    "Tests/Builds Tests",
     "Pasted image 20260225202001.png"
   ]
 }
