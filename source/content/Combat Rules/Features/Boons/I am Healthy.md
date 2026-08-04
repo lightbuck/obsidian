@@ -1,0 +1,1 @@
+You ignore the first time you would take a [[Conditions|Condition]] in a Scene.

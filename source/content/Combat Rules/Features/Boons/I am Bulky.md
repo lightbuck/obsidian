@@ -1,0 +1,1 @@
+You grant [[The Battlefield#^909037|Partial Cover]] to Characters of the same size as you or smaller, who are adjacent to you.

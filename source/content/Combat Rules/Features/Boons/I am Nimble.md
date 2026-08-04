@@ -1,0 +1,1 @@
+Increase the Speed of the movement you take with actions with the [[Step Trait]] by three.

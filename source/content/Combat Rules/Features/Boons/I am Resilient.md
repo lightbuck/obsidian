@@ -1,0 +1,1 @@
+You do not become impacted from [[Movement#^82257e|Forced Movement]].

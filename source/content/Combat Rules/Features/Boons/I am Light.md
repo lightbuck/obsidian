@@ -1,0 +1,1 @@
+When you would take damage from [[Movement#^3e2baa|Falling]], you decease the spaces counted for the Damage by 5.

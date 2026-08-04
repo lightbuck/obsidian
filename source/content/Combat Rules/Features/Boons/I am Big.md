@@ -1,0 +1,1 @@
+Your [[Character Sizes|Character Size]] increases by one step.

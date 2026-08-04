@@ -1,1 +1,0 @@
-Virtues are passive positive aspects of your character

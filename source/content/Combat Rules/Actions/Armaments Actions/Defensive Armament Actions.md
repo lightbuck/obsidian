@@ -13,7 +13,7 @@ Main Actions:
 	- [[Defend Trait|Defend]]
 
 Combo Actions: 
-- **Share Defenses**, 1 AP
+- **Share defenses**, 1 AP
 	- *You inspire a nearby ally to prepare themselves*
 	- Condition: your last action made you gain the [[Protected Condition]]
 	- Effect: Target an adjacent Ally, they gain half the amount of stacks of the [[Protected Condition]] that you gained.

@@ -1,0 +1,1 @@
+Whenever you lose a [[Conditions|Condition]] due to an Action with the [[Aid Trait]] you lose two stacks of that condition.

@@ -1,1 +1,1 @@
-At any point during this action you can move one space [[N]] times. [[Energized Condition|Energized]] can be consumed to increase the space moved.
+At any point during this action you can move one space [[N]] times. [[Energized Condition|Energized]] can not be consumed to increase the space moved.

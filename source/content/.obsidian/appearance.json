@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Faded",
-  "theme": "obsidian",
+  "cssTheme": "Catppuccin",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "columns"
   ]
