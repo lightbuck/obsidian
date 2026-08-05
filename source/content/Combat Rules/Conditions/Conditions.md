@@ -1,4 +1,3 @@
-#PhotonTTRPG 
 Conditions are applied depending on the result of a [[Health and Stamina#^77a09d|Tank or Flank Roll]]
 ## Old Conditions lists
 - Slowed (N): You have a speed Tax of N ^8081d3

@@ -1,5 +1,3 @@
-#PhotonTTRPG 
-
 
 - Characters
 - Players: Fickle creatures incapable of coherent thought

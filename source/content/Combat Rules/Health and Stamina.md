@@ -1,5 +1,3 @@
-#PhotonTTRPG 
-
 Characters have two hit point pools, stamina and health. Health instead represents their physical wellness.
 # Stamina ^3236bc
 Stamina represents an active defense from the character, their ability to avoid, deflect or stop attacks. ^059ed3

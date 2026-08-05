@@ -1,5 +1,3 @@
-#PhotonTTRPG 
-
 ## VERSION 1 #PH
 What Role does your character play in a team? Roles determine your health and stamina as well as granting you [[Actions|Reactions]] and a unique trait
 - The Big One

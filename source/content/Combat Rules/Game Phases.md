@@ -1,7 +1,6 @@
-#PhotonTTRPG 
-Photon's gameplay is divided in three different phases which should altnernate each other
+SFF's gameplay is divided in three different phases which should altnernate each other
 # Combat Encounters
-This is the bread an butter of Photon, most of the rules revolve around combat encounters.
+This is the bread an butter of SFF, most of the rules revolve around combat encounters.
 Combat Encounters are divided in Rounds which are further divided in turns.
 Types of Turns:
 - Setup Turn: The turn in which the GM makes a [[NPCS|Declaration]], happens first in every round, not counted for effects.

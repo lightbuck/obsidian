@@ -1,4 +1,3 @@
-#PhotonTTRPG 
 Styles define in broad strokes the ways a character fights.
 ## Close Quarters ^5381b9
 

@@ -1,4 +1,3 @@
-#PhotonTTRPG 
 Movement can happen in many different ways, a character can choose to move, they might have to move because of the effects of their actions, they could be flung by an action or they could fall.
 # Falling ^3e2baa
 When in the air, Characters fall at the end of your turn. They take a points of damage for every space they fell.

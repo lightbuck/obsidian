@@ -1,4 +1,3 @@
-#PhotonTTRPG 
 # Walls and Cover ^c3f85b
 ## Walls ^6e6320
 A wall is something that exists within the environment that stops both movement and line of sight,

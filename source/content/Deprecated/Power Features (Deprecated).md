@@ -1,5 +1,3 @@
-#PhotonTTRPG 
-
 # V1
 Gates
 - Halfway There

@@ -1,4 +1,3 @@
-#PhotonTTRPG
 Player Characters have 4 Action Points (AP) which they spend to take Actions
 There are 4 types of actions: 
 - Core Actions: Can cost 1 to 4 AP. Each Core Action can be used once per turn. ^8c5a75

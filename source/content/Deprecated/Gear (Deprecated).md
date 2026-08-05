@@ -1,4 +1,3 @@
-#PhotonTTRPG 
 Player gear is used to determine the base attributes of your attacks, to aid with skill actions, to recover health, to increase [[Health and Stamina]] 
 ### Prepared Gear List
 Some actions might require you to bring up specific gear pieces even if you don't have them on you, in this list you report pieces of gear you might use. You can't change this list during combat. If an action calls for prepared gear but you don't have any you may ask your party members but you can't make any new. This list exists to prevent the deceleration of combat from actions with the [[Traits#^2d7726|Create Trait]]
