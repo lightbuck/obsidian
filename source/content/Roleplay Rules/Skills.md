@@ -1,4 +1,4 @@
-During roleplay you may be asked to perform Skill Checks, this is done by rolling 2D8 choosing two skills from the categories and comparing the result of the Roll against a DC. 
+During roleplay you may be asked to perform Skill Checks, this is done by rolling 2D8 choosing **two skills** from the categories and comparing the result of the Roll against a DC. 
 
 The result of a Skill Check should not be a simple 'you succeed' or 'you don't succeed' at performing a specific task. As a player you will almost always know if you succeed or not before rolling, but your Roll will determine the consequences or unexpected benefits you may gain. 
 # Skill Categories
@@ -67,26 +67,14 @@ Skills have tiers that exist from 1 to 7. Each odd number of points equals to a 
 | Tier        | Beginner | Competent | Expert | Master | Legendary |
 | ----------- | -------- | --------- | ------ | ------ | --------- |
 | Point Value | 1        | 2         | 3      | 5      | 7         |
+
 Game Masters and Players use Tiers to evaluate what will be the Effect of the Skill Check, for example a Character trying to pick a lock is ensured to succeed if they have a Skill such as: "Lockpicking (5)" because the lock would likely be a "Competent" Tier Challenge, meaning someone would have to be Competent to unlock it with little issue.
 
 Since you choose two skills when rolling, your Tier is the average between the two skill's numeric value. For example if you are attempting to make a Skill Check with the skills Pickpocket (5) and Operate (2), the average of points is 4, meaning your tier is Expert (the average is rounded up).
 
 The level of challenge of any Skill Check informs how easily someone succeeds as thus:
-- If the Player's Skill is the **same Tier** as the Challenge: 
-	- A successful Roll has no consequences **and** the check is passed
-	- An unsuccessful Roll has a consequence **but** the check is passed
-- If the Player's Skill is **one Tier above** the Challenge's Tier: 
-	- A successful Roll passes the check **and** has an additional positive consequence
-	- An unsuccessful Roll has no consequence **and** the check is passed
-- If the Player's Skill is **one Tier below** the Challenge's Tier: 
-	- A successful Roll has a consequence **but** the check is passed
-	- An unsuccessful Roll has a consequence **and** the check is not passed
-- If the Player's Skill is **two Tiers above** the Challenge's Tier: 
-	- Even an unsuccessful Roll has no consequences **and** the check is passed
-- If the Player's Skill is **two Tiers below** the Challenge's Tier: 
-	- Even a successful Roll has a consequence **but** the check is passed
-- If the Player's Skill is three Tiers **above** or **below** the Challenge's Tier:
-	- The check is automatically passed or failed with a positive or negative consequence respectively. The Game Master should not ask for a Roll.
+![[Skill Tier Table.png]]
+(Below meaning the character's Tier is lower than the challenge's Tier)
 
 Rolling Snake Eyes ( a result of 2) is a critical fail, rolling at least one 8 is a critical success.  When critically succeeding or failing you check the result as if you were a tier higher or lower respectively.
 # Skill Risk
@@ -95,4 +83,4 @@ The last part of a Skill Check is the Skill Risk, this is the value you roll aga
 It can be any number from 2 to 16, and the result of your dice must be at least equal to the value to result in a  success.
 
 The Risk value is determined by the GM, depending on the context of the Skill Check. 
-A high octane spaceship chase through an asteroid field will have a Driving-Finesse Roll with likely have a high risk, such as 12.
+A high octane spaceship chase through an asteroid field will have a Driving-Finesse Roll will likely have a high risk, such as 12.
