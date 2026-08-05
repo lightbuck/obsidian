@@ -2,7 +2,7 @@
 When a PC's [[Health and Stamina|Health]] reaches 0 they may choose one of the following options:
 ## Fainting
 The player character passes out from exhaustion, they are no longer in combat. They will not be killed but the gm should work with the player and choose one or more consequences, here are some suggestions:
-- The fainted character suppresses a [[Bonds|Bond]] with another PC due to resentment, guilt, shame, etc..
+- The fainted character suppresses a [[Bonds (Deprecated)|Bond]] with another PC due to resentment, guilt, shame, etc..
 - The character is captured and separated from the other PCs.
 - An important Item or NPC associated the character is stolen, destroyed or killed..
 - The character now fears the Foe (or a group associated with the Foe) that was responsible for their Knock Out, they always play last in the turn order when fighting this Foe.

@@ -3,7 +3,7 @@ Stylish Actions are actions that don't cost AP and they all have the [[Stylish T
 
 You can do three things with a Stylish Action:
 - Use a [[To Power Techniques|To Power Technique]]
-- Use a [[To Prowess Techniques|To Prowess Technique]]
+- Use a [[Prowess Techniques|To Prowess Technique]]
 - [[Trait Transfer#^dad8d7|Flex a Trait]].
 
 Every time you take a Stylish Action, write down how many Stacks of the [[Empowered Condition]] you used. After the end of your turn you gain a Stack of the [[Adrenaline Condition]] every time you reach 2 Stacks of [[Empowered Condition]] spent in combat. 

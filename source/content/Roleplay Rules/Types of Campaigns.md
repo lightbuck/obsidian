@@ -1,3 +1,6 @@
+> [!WARNING] Warning
+>This page is for Game Masters!
+
 ## Tale Hunters
 As long as there have been fairy tales of big bad wolves in the woods, there have been those who hunt them. But unlike the common mercenaries or bounty hunters that roam the wilds. 
 

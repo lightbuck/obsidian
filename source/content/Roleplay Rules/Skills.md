@@ -1,37 +1,10 @@
-Skills are used to determine the result of non combat challenges.
+During roleplay you may be asked to perform Skill Checks, this is done by rolling 2D8 choosing two skills from the categories and comparing the result of the Roll against a DC. 
 
-When asked to 'make a skill check' you pick, or are asked to pick by the GM, two skills. Then roll 2d8.
+The result of a Skill Check should not be a simple 'you succeed' or 'you don't succeed' at performing a specific task. As a player you will almost always know if you succeed or not before rolling, but your Roll will determine the consequences or unexpected benefits you may gain. 
+# Skill Categories
+Skills can be invented quite easily, but they must fit in these categories, each category has two "Generic Skills" which further divide skills. These Generic skills cannot gain points normally and instead gain a point every time a skill in their category is increased to a new Tier. 
 
-When you succeed if either of the dice rolled are an 8 the result is a Critical Success. When you fail if either of the dice rolled are a 1 the result is a Critical Failure.
-
-When succeeding a skill check you obtain the result of your skill's [[Skills#^b37052|Skill Tier]], when failing you get the result of the tier below. When critically succeeding you get the result of tier above yours and when critically failing you get the result of a tier below yours.
-
-# Skill Tiers ^b37052
-
-| Tier            | Beginner | Competent | Expert | Master | Legendary |
-| --------------- | -------- | --------- | ------ | ------ | --------- |
-| Points Required | 1        | 2         | 3      | 5      | 7         |
-
-> [!note] Example 1: Picking a simple lock
-> A character wants to pick a simple lock, so the DC should be something low like 6.
-> The Result list is as follows: 
-> - Beginner: You fail to pick the lock
-> - Competent: You pick the lock, but it takes a while
-> - Expert-Legendary: You pick the lock with no issue
-
-> [!note] Example 2: Hacking an orbital laser
-> A character wants to connect to an orbital laser through a nearby terminal and hack it, unlike the previous example this should be extremely difficult, so the DC should be something like 12 and the result list should look like this:
-> - Beginner: You not only fail to hack the orbital laser but trip the alarms
-> - Competent: You are unable to hack the orbital laser.
-> - Expert: You can hack this in a few hours, or you can move faster while also tripping the alarms.
-> - Master: You are able to hack the orbital laser temporarily
-> - Legendary: You are able to take full control of the orbital laser
-
-In essence the highest degree of success should be a success without consequences, or even a success with an extra benefit. Degrees of success below that should still be successes that impose some kind of complication, the lower the degree the worse the complications get.
-# Skill List
-Skills can be invented quite easily, but they must fit in these categories, each category has two "Generic Skills" which further divide skills. These Generic skills cannot gain points normally and instead gain a point every time a skill in their category is increased to a new Tier.
-
-Skills may also appear in more than one category, but the points are not shared between them.
+Any one Skill could be argued to exist in more than one category, but as a player Character you will have access to only one instance of any Skill.
 ## Physical Skills
 Finesse (Skills which revolve around making precise motions)
 - Pickpocket
@@ -70,17 +43,56 @@ Operate (Skills which require application of knowledge)
 ## Magic Skills
 Magic skills, unlike other skills, are harder to invent on the fly and often originate from a Character's nature. Often Powers will let you know if you can make use of these skills, the skills listed below are skills that don't appear in Powers.
 
-Attune (Magical effects which usually happen passively)
-- Crescent Eye
-- Recognize Kin
-	- Sometimes you may be able to sense people of your own Kin or those wielding the same magic as you. 
+### Attune
+Attune skills are Magical effects which usually happen passively
+- Attune
+	- Haunted
+	- Crescent Eye
+	- Recognize Kin
+		- Sometimes you may be able to sense people of your own Kin or those wielding the same magic as you. 
+	- ...
 
-Manifest (Magical effects which happen actively)
-- Channel Power
-	- Channeling your power in a non harmful and controlled way may sometimes be more difficult than just letting it rip.
-- Coyote Time
-	- When using magic in the air you may experience a decrease in gravity, allowing you to perform complex maneuvers before beginning to fall.
-- Endure the Vacuum
-	- When focusing on your power it is possible to ignore the lack of air in the vacuum of space for a few moments.
-- Magical Transformation
-	- Using your magic sometimes results in physical changes to your person, which includes both your body and what you may wear.
+### Manifest
+Manifest skills are  Magical effects which happen actively
+- Manifest
+	- Channel Power
+		- Channeling your power in a non harmful and controlled way may sometimes be more difficult than just letting it rip.
+	- Endure the Vacuum
+		- When focusing on your power it is possible to ignore the lack of air in the vacuum of space for a few moments.
+	- Magical Transformation
+		- Using your magic sometimes results in physical changes to your person, which includes both your body and what you may wear.
+# Skill Tiers
+Skills have tiers that exist from 1 to 7. Each odd number of points equals to a different named Skill Tier.
+
+| Tier        | Beginner | Competent | Expert | Master | Legendary |
+| ----------- | -------- | --------- | ------ | ------ | --------- |
+| Point Value | 1        | 2         | 3      | 5      | 7         |
+Game Masters and Players use Tiers to evaluate what will be the Effect of the Skill Check, for example a Character trying to pick a lock is ensured to succeed if they have a Skill such as: "Lockpicking (5)" because the lock would likely be a "Competent" Tier Challenge, meaning someone would have to be Competent to unlock it with little issue.
+
+Since you choose two skills when rolling, your Tier is the average between the two skill's numeric value. For example if you are attempting to make a Skill Check with the skills Pickpocket (5) and Operate (2), the average of points is 4, meaning your tier is Expert (the average is rounded up).
+
+The level of challenge of any Skill Check informs how easily someone succeeds as thus:
+- If the Player's Skill is the **same Tier** as the Challenge: 
+	- A successful Roll has no consequences **and** the check is passed
+	- An unsuccessful Roll has a consequence **but** the check is passed
+- If the Player's Skill is **one Tier above** the Challenge's Tier: 
+	- A successful Roll passes the check **and** has an additional positive consequence
+	- An unsuccessful Roll has no consequence **and** the check is passed
+- If the Player's Skill is **one Tier below** the Challenge's Tier: 
+	- A successful Roll has a consequence **but** the check is passed
+	- An unsuccessful Roll has a consequence **and** the check is not passed
+- If the Player's Skill is **two Tiers above** the Challenge's Tier: 
+	- Even an unsuccessful Roll has no consequences **and** the check is passed
+- If the Player's Skill is **two Tiers below** the Challenge's Tier: 
+	- Even a successful Roll has a consequence **but** the check is passed
+- If the Player's Skill is three Tiers **above** or **below** the Challenge's Tier:
+	- The check is automatically passed or failed with a positive or negative consequence respectively. The Game Master should not ask for a Roll.
+
+Rolling Snake Eyes ( a result of 2) is a critical fail, rolling at least one 8 is a critical success.  When critically succeeding or failing you check the result as if you were a tier higher or lower respectively.
+# Skill Risk
+The last part of a Skill Check is the Skill Risk, this is the value you roll against and it determines if the roll is successful or not. 
+
+It can be any number from 2 to 16, and the result of your dice must be at least equal to the value to result in a  success.
+
+The Risk value is determined by the GM, depending on the context of the Skill Check. 
+A high octane spaceship chase through an asteroid field will have a Driving-Finesse Roll with likely have a high risk, such as 12.
