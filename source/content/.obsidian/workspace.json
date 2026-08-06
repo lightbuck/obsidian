@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roleplay Rules/Skills.md",
+                "file": "Combat Rules/Actions/Powers/Hereditary Magics/Alkean Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skills"
+              "title": "Alkean Magic"
             }
           }
         ]
@@ -178,13 +178,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "66452d616f34330a",
+  "active": "4edc659e8ceed285",
   "lastOpenFiles": [
-    "Images/Skill Tier Table.png",
+    "Deprecated/Bonds (Deprecated).md",
+    "Deprecated/Character Features (Deprecated).md",
+    "Roleplay Rules/Types of Campaigns.md",
     "Roleplay Rules/Skills.md",
+    "Images/Skill Tier Table.png",
     "index.md",
     "Combat Rules/The Battlefield.md",
     "Terminology.md",
@@ -202,8 +206,6 @@
     "Combat Rules/Actions/Actions.md",
     "Untitled.md",
     "Deprecated/Skills (Deprecated).md",
-    "Roleplay Rules/Types of Campaigns.md",
-    "Deprecated/Bonds (Deprecated).md",
     "Combat Rules/Features/Techniques/To Power Techniques/To Crash.md",
     "Combat Rules/Features/Techniques/Techniques.md",
     "Combat Rules/Features/Techniques/Prowess Techniques/Prowess Techniques.md",

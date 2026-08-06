@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "global-search-and-replace"
+  "global-search-and-replace",
+  "obsidian-discordrpc",
+  "obsidian-style-settings",
+  "templater-obsidian"
 ]
