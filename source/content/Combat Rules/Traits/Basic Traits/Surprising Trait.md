@@ -1,1 +1,1 @@
-This action's target becomes impacted
+This action's target gains a stack of the [[Impacted Condition]]

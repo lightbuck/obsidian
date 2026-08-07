@@ -1,1 +1,1 @@
-You do not become impacted from [[Movement#^82257e|Forced Movement]].
+[[Movement#^82257e|Forced Movement]] does not make you gain the [[Impacted Condition]].

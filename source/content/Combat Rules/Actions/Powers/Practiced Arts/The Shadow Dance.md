@@ -39,7 +39,7 @@ Combo Actions:
 - **Nerve Tap**, 3 AP
 	- *You tap the floor, turning nearby shadows against their owners.*
 	- Condition: Your last action made you lose the [[Hidden Condition]]
-	- Effect: Target up to three Foes that you can see and that are currently impacted, deal 3d4 damage. 
+	- Effect: Target up to three Foes that you can see and that currently have the [[Impacted Condition]], deal 3d4 damage. 
 	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]]
 - **Changement**, 1 AP
 	- *Even if you aren't outright dancing, your movements are so graceful you might as well still be dancing.*

@@ -61,6 +61,13 @@ Manifest skills are  Magical effects which happen actively
 		- When focusing on your power it is possible to ignore the lack of air in the vacuum of space for a few moments.
 	- Magical Transformation
 		- Using your magic sometimes results in physical changes to your person, which includes both your body and what you may wear.
+# Skill Risk
+The last part of a Skill Check is the Skill Risk, this is the value you roll against and it determines if the roll is successful or not. 
+
+It can be any number from 2 to 16, and the result of your dice must be at least equal to the value to result in a  success.
+
+The Risk value is determined by the GM, depending on the context of the Skill Check. 
+A high octane spaceship chase through an asteroid field will have a Driving-Finesse Roll will likely have a high risk, such as 12.
 # Skill Tiers
 Skills have tiers that exist from 1 to 7. Each odd number of points equals to a different named Skill Tier.
 
@@ -72,15 +79,8 @@ Game Masters and Players use Tiers to evaluate what will be the Effect of the Sk
 
 Since you choose two skills when rolling, your Tier is the average between the two skill's numeric value. For example if you are attempting to make a Skill Check with the skills Pickpocket (5) and Operate (2), the average of points is 4, meaning your tier is Expert (the average is rounded up).
 
-The level of challenge of any Skill Check informs how easily someone succeeds as thus:
+When succeeding or failing against the risk value you consult this table to see if you pass or fail the skill check, and if there are any consequences or benefits: 
 ![[Skill Tier Table.png]]
 (Below meaning the character's Tier is lower than the challenge's Tier)
 
 Rolling Snake Eyes ( a result of 2) is a critical fail, rolling at least one 8 is a critical success.  When critically succeeding or failing you check the result as if you were a tier higher or lower respectively.
-# Skill Risk
-The last part of a Skill Check is the Skill Risk, this is the value you roll against and it determines if the roll is successful or not. 
-
-It can be any number from 2 to 16, and the result of your dice must be at least equal to the value to result in a  success.
-
-The Risk value is determined by the GM, depending on the context of the Skill Check. 
-A high octane spaceship chase through an asteroid field will have a Driving-Finesse Roll will likely have a high risk, such as 12.

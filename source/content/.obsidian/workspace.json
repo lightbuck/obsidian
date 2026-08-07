@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roleplay Rules/Skills.md",
+                "file": "Tests/Gwuhb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skills"
+              "title": "Gwuhb"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Photon",
+                "query": "impacted",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,11 +181,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66452d616f34330a",
+  "active": "4edc659e8ceed285",
   "lastOpenFiles": [
-    "Images/Skill Tier Table.png",
-    "Roleplay Rules/Skills.md",
+    "Tests/testino.md",
+    "Tests/Gwuhb.md",
+    "Tests/test.md",
     "index.md",
+    "Tests",
+    "Roleplay Rules/Types of Campaigns.md",
+    "Roleplay Rules/Skills.md",
+    "Combat Rules/Actions/Powers/Practiced Arts/The Shadow Dance.md",
+    "Combat Rules/Traits/Basic Traits/Surprising Trait.md",
+    "Combat Rules/Features/Boons/I am Resilient.md",
+    "Combat Rules/Conditions/Action Conditions/Forging Condition.md",
+    "Combat Rules/Traits/Action Traits/Crushing Trait.md",
+    "Images/Skill Tier Table.png",
     "Combat Rules/The Battlefield.md",
     "Terminology.md",
     "Deprecated/Styles (Deprecated).md",
@@ -201,14 +211,6 @@
     "Combat Rules/Changing Dice Size.md",
     "Combat Rules/Actions/Actions.md",
     "Untitled.md",
-    "Deprecated/Skills (Deprecated).md",
-    "Roleplay Rules/Types of Campaigns.md",
-    "Deprecated/Bonds (Deprecated).md",
-    "Combat Rules/Features/Techniques/To Power Techniques/To Crash.md",
-    "Combat Rules/Features/Techniques/Techniques.md",
-    "Combat Rules/Features/Techniques/Prowess Techniques/Prowess Techniques.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From My Sacrifice.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From My Responsibility.md",
     "Combat Rules/Features/Features.canvas",
     "Combat Rules/Features/Techniques/Prowess Techniques",
     "Combat Rules/Traits/Basic Traits",
@@ -216,7 +218,6 @@
     "Combat Rules/Features/Armaments/Main Armaments",
     "Combat Rules/Actions/Powers/Outer Forces",
     "Pasted image 20260605002041.png",
-    "Untitled",
     "Images/Armaments Sheet.png",
     "Combat Rules/Actions/Powers/Practiced Arts",
     "Combat Rules/Actions/Powers/Zodiac Magics",

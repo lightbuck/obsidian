@@ -1,1 +1,1 @@
-If this action exhausts its target's stamina, they also become impacted.
+If this action exhausts its target's stamina, they also gain a stack of the [[Impacted Condition]].
