@@ -8,3 +8,5 @@ Health is a measure of how many wounds a character can accumulate before they ar
 A Player Character's Health is recovered 1 point at a time, for each scene in which they are not in danger. Alternatively they may have a scene dedicated to resting, in which they will recover all missing Health points.
 # Object Health ^227d2d
 Physical Objects have health, which usually behaves differently from Character Health. Objects recover Health when they are fixed and they take damage equal to the damage like a character's Stamina.
+
+# Wounds

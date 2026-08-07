@@ -5,7 +5,7 @@ The result of a Skill Check should not be a simple 'you succeed' or 'you don't s
 Skills can be invented quite easily, but they must fit in these categories, each category has two "Generic Skills" which further divide skills. These Generic skills cannot gain points normally and instead gain a point every time a skill in their category is increased to a new Tier. 
 
 Any one Skill could be argued to exist in more than one category, but as a player Character you will have access to only one instance of any Skill.
-## Physical Skills
+## Physical Skills ^f3b7f8
 Finesse (Skills which revolve around making precise motions)
 - Pickpocket
 - Hotwire
@@ -69,7 +69,7 @@ It can be any number from 2 to 16, and the result of your dice must be at least 
 The Risk value is determined by the GM, depending on the context of the Skill Check. 
 A high octane spaceship chase through an asteroid field will have a Driving-Finesse Roll will likely have a high risk, such as 12.
 # Skill Tiers
-Skills have tiers that exist from 1 to 7. Each odd number of points equals to a different named Skill Tier.
+Skills have tiers that exist from 1 to 7. A different value of points equals to a different named Skill Tier.
 
 | Tier        | Beginner | Competent | Expert | Master | Legendary |
 | ----------- | -------- | --------- | ------ | ------ | --------- |

@@ -1,0 +1,1 @@
+This action [[Movement#^82257e|Forces]] the target move [[N]] spaces in the direction opposite to you.

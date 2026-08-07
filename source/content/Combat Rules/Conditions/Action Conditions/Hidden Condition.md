@@ -1,1 +1,1 @@
-Remove your token from the board. You can't be targeted directly nor from AOE attacks. At the beginning of your next **action** place yourself back on the board. That action gains the [[Surprising Trait]].
+Remove your token from the board. You can't be targeted directly nor from AOE attacks. At the beginning of your next action, which must be a Movement, place yourself back on the board. That action gains the [[Surprising Trait]]. 
