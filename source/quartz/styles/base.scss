@@ -24,19 +24,16 @@ section {
   border-radius: 5px;
 }
 ::selection {
-  background: color-mix(in srgb, var(--tertiary) 60%, rgba(255, 255, 255, 0));
-  color: var(--darkgray);
+  background: var(--tertiary);
+  color: var(--light);
 }
 
 p,
-ul,
 text,
 a,
 tr,
 td,
-li,
 ol,
-ul,
 .katex,
 .math {
   color: var(--darkgray);
@@ -44,8 +41,14 @@ ul,
   hyphens: auto;
 }
 
-p,
 ul,
+li {
+  color: var(--darkgray);
+  fill: var(--darkgray);
+  hyphens: auto;
+}
+
+p,
 text,
 a,
 li,
@@ -65,6 +68,7 @@ ul,
 
 strong {
   font-weight: $semiBoldWeight;
+  color: var(--tertiary);
 }
 
 a {
@@ -74,7 +78,7 @@ a {
   color: var(--secondary);
 
   &:hover {
-    color: var(--tertiary) !important;
+    color: var(--dark) !important;
   }
 
   &.internal {
@@ -328,6 +332,7 @@ thead {
     background-color: transparent;
   }
 }
+
 
 h1,
 h2,
@@ -585,4 +590,9 @@ iframe.pdf {
   height: 100%;
   width: 100%;
   border-radius: 5px;
+}
+
+h2>a {
+  color: linear-gradient(var(--dark), var(--secondary));
+  font-size: 4rem;
 }
