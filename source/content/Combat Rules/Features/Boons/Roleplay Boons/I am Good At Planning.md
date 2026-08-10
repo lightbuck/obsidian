@@ -1,0 +1,1 @@
+Once per Session you may choose to retroactively do something, as long as the GM agrees that you would have been able to do so.

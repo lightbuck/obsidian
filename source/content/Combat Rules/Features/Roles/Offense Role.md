@@ -1,4 +1,11 @@
 Make your foes suffer by your hand or help your allies do so.
+# Power Features 
+[[From My Strength]]:![[From My Strength]]
+[[From The Devastation Left in My Wake]]:![[From The Devastation Left in My Wake]]
+[[From the Tears of My Haters]]:![[From the Tears of My Haters]]
+[[From the Annihilation of My Enemies]]:![[From the Annihilation of My Enemies]]
+%%
+# Actions
 - Destroyer
 	- Combo Actions:
 		- **A Killer's Instinct**, 1 AP ^897773
@@ -25,8 +32,3 @@ Make your foes suffer by your hand or help your allies do so.
 			- Condition: An enemy adjacent to you is about to lose the [[Impacted Condition]].
 			- Effect: The foe gains the [[Impacted Condition]].
 			- [[Role Trait|Role]] [[Mobile Trait|Mobile]]
-# Power Features 
-[[From My Strength]]:![[From My Strength]]
-[[From The Devastation Left in My Wake]]:![[From The Devastation Left in My Wake]]
-[[From the Tears of My Haters]]:![[From the Tears of My Haters]]
-[[From the Annihilation of My Enemies]]:![[From the Annihilation of My Enemies]]

@@ -1,0 +1,1 @@
+Once per Scene you may ask the GM to know where you are, where something is, or how to reach a location.

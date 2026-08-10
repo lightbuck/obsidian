@@ -1,4 +1,11 @@
 Help others to stay alive or make them more powerful
+# Power Features
+[[From My Kindness]]:![[From My Kindness]]
+[[From Our Unity]]:![[From Our Unity]]
+[[From Our Teamwork]]:![[From Our Teamwork]]
+[[From Being our Anchor]]:![[From Being our Anchor]]
+%%
+# Acitons
 - Medic
 	- Combo Actions:
 		- **Keep Fighting!**, 1 AP
@@ -25,8 +32,3 @@ Help others to stay alive or make them more powerful
 			- Condition: An Ally consumes all stacks of [[Empowered Condition|Empowered]]
 			- Effect: That Ally gains stacks of [[Empowered Condition|Empowered]] equal to the amount of [[Empowered Condition|Empowered]] you have.
 			- [[Role Trait|Role]] [[Aid Trait|Aid]]
-# Power Features
-[[From My Kindness]]:![[From My Kindness]]
-[[From Our Unity]]:![[From Our Unity]]
-[[From Our Teamwork]]:![[From Our Teamwork]]
-[[From Being our Anchor]]:![[From Being our Anchor]]

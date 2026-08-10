@@ -1,0 +1,1 @@
+Once per Session you may choose to know someone who lives in the current area. The GM decides who and if it is applicable.

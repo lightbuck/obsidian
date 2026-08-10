@@ -3,9 +3,9 @@ SFF's gameplay is divided in three different phases which should altnernate each
 This is the bread an butter of SFF, most of the rules revolve around combat encounters.
 Combat Encounters are divided in Rounds which are further divided in turns.
 Types of Turns:
-- Setup Turn: The turn in which the GM makes a [[NPCS|Declaration]], happens first in every round, not counted for effects.
+- Setup Turn: The turn in which the GM makes a [[Combat Rules/NPCS|Declaration]], happens first in every round, not counted for effects.
 - Side Turn: A turn in which a Unit of one of the Sides present in combat acts. A Unit may take only one turn per round. Each Side alternates taking turns, meaning the same Side can't take a turn twice in a row, unless every other Unit from every other Side has already acted.
-- Payoff Turn: A turn in which the [[NPCS|Declaration]] takes effect if possible, happens last in every round, not counted for effects.
+- Payoff Turn: A turn in which the [[Combat Rules/NPCS|Declaration]] takes effect if possible, happens last in every round, not counted for effects.
  ^5bb2cb
 - Round 1
 	- Setup Turn

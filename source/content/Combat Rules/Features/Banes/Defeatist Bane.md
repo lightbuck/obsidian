@@ -1,3 +1,3 @@
 *You're quick to give up.*
-When you gain the [[Impacted Condition]] you gain an extra stack of it.
-**Capacity Modifier:** +3
+Bane Condition: When you become exhausted.
+**Boons:** +3

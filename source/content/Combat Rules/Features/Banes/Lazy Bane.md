@@ -1,3 +1,3 @@
 *You really would rather not move.*
-If you start your turn Exhausted you cannot take a move action, or an action with the [[Move Trait|Move]] or [[Mobile Trait|Mobile Traits]].
-**Capacity Modifier:** +3
+Bane Condition: When you take a Move Action (not another action with the [[Move Trait]], [[Step Trait]] or [[Mobile Trait]] )
+**Boons:** +2

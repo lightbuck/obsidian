@@ -1,0 +1,1 @@
+Once per Session you may choose for any [[Skills|Skill Check]] you make (after seeing the result) to become a success but have an extra consequence.

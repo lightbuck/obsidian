@@ -1,0 +1,1 @@
+You may spend stacks of this condition to increase the result of a Damage Roll or a Roll that Recovers Stamina for yourself. The increase is equal to the amount of stacks spent.

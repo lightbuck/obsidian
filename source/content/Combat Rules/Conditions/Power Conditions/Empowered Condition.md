@@ -1,1 +1,1 @@
-This condition is used by your [[Power Features (Deprecated)]]
+This condition is gained with [[Techniques]], it is also used by them and by [[Stylish Actions]]

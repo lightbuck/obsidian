@@ -28,13 +28,13 @@ Civil (Skills which help you deal with humans contrivances)
 - ...
 
 ## Intellect Skills
-Study (Skills revolving around the acquisition of knowledge)
+Study (Skills revolving around the acquisition of knowledge) ^0edae8
 - Astrophysics
 - Computer Science
 - Engineering
 - ...
 
-Operate (Skills which require application of knowledge)
+Operate (Skills which require application of knowledge) ^dc9d03
 - Astronomy
 - Hack
 - Hotwire

@@ -1,0 +1,1 @@
+Once per Session when you encounter a  [[Skills#^0edae8|Study Skill]]  you don't have, you may gain it with one point in it.

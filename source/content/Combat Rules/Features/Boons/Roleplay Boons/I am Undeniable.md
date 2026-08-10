@@ -1,0 +1,1 @@
+Once per Session you may choose to force a character to hear your words or know something you wish to communicate to them in the present moment.

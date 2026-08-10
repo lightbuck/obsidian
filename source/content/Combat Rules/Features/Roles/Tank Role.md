@@ -1,4 +1,11 @@
 Redirect damage to yourself, force foes to deal with you.
+# Power Features
+ [[From My Responsibility]]: ![[From My Responsibility]]
+ [[From Standing Proudly]]: ![[From Standing Proudly]]
+ [[From My Sacrifice]]:![[From My Sacrifice]]
+ [[From Standing Amidst the Storm]]:![[From Standing Amidst the Storm]]
+%%
+#  Actions
 - Wall
 	- Combo Actions:
 		- **Fight me!**, 1 AP
@@ -25,8 +32,3 @@ Redirect damage to yourself, force foes to deal with you.
 			- Condition: a Foe adjacent to you targets someone other than you with an action.
 			- Effect: Deal 2d4 Damage to that Foe. Additionally if you are not Exhausted, you may deal 2d8 Damage to that Foe if their next attack does not target you.
 			- [[Attack Trait|Attack]] [[Role Trait|Role]] 
-# Power Features
- [[From My Responsibility]]: ![[From My Responsibility]]
- [[From Standing Proudly]]: ![[From Standing Proudly]]
- [[From My Sacrifice]]:![[From My Sacrifice]]
- [[From Standing Amidst the Storm]]:![[From Standing Amidst the Storm]]

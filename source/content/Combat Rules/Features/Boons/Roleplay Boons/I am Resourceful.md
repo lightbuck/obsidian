@@ -1,0 +1,1 @@
+Once per Scene you may re-roll a Skill Check and pick a result.

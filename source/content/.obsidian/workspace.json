@@ -4,49 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "20339d900f6c1fff",
+        "id": "3251a45d174aaef5",
         "type": "tabs",
         "children": [
           {
-            "id": "4edc659e8ceed285",
+            "id": "11b7d1e89086cea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tests/The Unvowed Procession.md",
+                "file": "Combat Rules/Actions/Powers/Zodiac Magics/The Phoenix Talon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Unvowed Procession"
+              "title": "The Phoenix Talon"
             }
           },
           {
-            "id": "9643a6a646c4a711",
+            "id": "2ba72a15c1a522b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roleplay Rules/Skills.md",
+                "file": "Combat Rules/Features/Techniques/To Power Techniques/To Destruction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skills"
-            }
-          },
-          {
-            "id": "63932df8e94aa347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat Rules/Actions/Powers/Outer Forces/Daemon In Machina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daemon In Machina"
+              "title": "To Destruction"
             }
           }
         ]
@@ -125,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Combat Rules/Features/Boons/Roleplay Boons/I am a Quick Learner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Combat Rules/Features/Boons/Roleplay Boons/I am a Quick Learner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Combat Rules/Features/Boons/Roleplay Boons/I am a Quick Learner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -209,34 +198,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4edc659e8ceed285",
+  "active": "11b7d1e89086cea0",
   "lastOpenFiles": [
-    "Combat Rules/Conditions/Negative Conditions/Disarmed Condition.md",
-    "Tests/The Unvowed Procession.md",
-    "Combat Rules/Conditions/Action Conditions/Hidden Condition.md",
-    "Combat Rules/Traits/Powerful Traits/Fling Trait.md",
-    "Combat Rules/Movement.md",
-    "Combat Rules/Traits/Basic Traits/Push Trait.md",
-    "Combat Rules/Actions/Powers/Outer Forces/Daemon In Machina.md",
-    "Roleplay Rules/Skills.md",
-    "Combat Rules/Traits/Basic Traits/Crushing Trait.md",
-    "Combat Rules/Traits/Basic Traits/Surprising Trait.md",
-    "Combat Rules/Traits/Basic Traits/Brutal Trait.md",
-    "Combat Rules/Traits/Basic Traits/Piercing Trait.md",
-    "Combat Rules/Traits/Powerful Traits/Expend Trait.md",
-    "Combat Rules/Traits/Basic Traits/Adaptive Trait.md",
-    "Combat Rules/Traits/Powerful Traits/Charging Trait.md",
-    "Combat Rules/Traits/Powerful Traits/Companion Trait.md",
-    "Combat Rules/Traits/Powerful Traits/Consumed Trait.md",
-    "Combat Rules/Traits/Powerful Traits/Crossover Trait.md",
-    "Combat Rules/Traits/Powerful Traits/Final Trait.md",
-    "Combat Rules/Traits/Traits.md",
-    "Combat Rules/Health and Stamina.md",
-    "Combat Rules/Traits/Basic Traits/Attack Trait.md",
-    "Combat Rules/Conditions/Negative Conditions/Thorned Condition.md",
-    "Combat Rules/Actions/Powers/Outer Forces/Bloodsten.md",
-    "Combat Rules/Actions/Powers/Practiced Arts/Astracentrism.md",
-    "Combat Rules/Actions/Powers/Outer Forces/Daemonic Possession.md",
+    "Tests/Test PCs/PC TEST BUILD 'Burning Angel'.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Destruction.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Bring Devastation.md",
+    "Combat Rules/Features/Techniques/Prowess Techniques.md",
+    "Combat Rules/Actions/Armaments Actions/Area Armament Actions.md",
+    "Combat Rules/Traits/Basic Traits/Area Trait.md",
+    "Combat Rules/Actions/Powers/Zodiac Magics/The Phoenix Talon.md",
+    "Combat Rules/Features/Roles/Offense Role.md",
+    "Combat Rules/Features/Banes/Vengeful Bane.md",
+    "Combat Rules/Conditions/Action Conditions/Boosted Condition.md",
+    "Combat Rules/Conditions/Negative Conditions/Hunted Condition.md",
+    "Combat Rules/Traits/Powerful Traits/Stylish Trait.md",
+    "Combat Rules/Actions/Stylish Actions.md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Power Techniques.md",
+    "Combat Rules/Conditions/Power Conditions/Empowered Condition.md",
+    "Combat Rules/Features/Techniques/Techniques.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Strength.md",
+    "Combat Rules/Features/Roles/Support Role.md",
+    "Combat Rules/Features/Roles/Tank Role.md",
+    "Combat Rules/Traits/Powerful Traits/Rebel Trait.md",
+    "Deprecated/Roles (Deprecated).md",
+    "Combat Rules/Player Character Rules",
+    "Combat Rules/Features/Banes/Sworn Bane.md",
+    "Combat Rules/Features/Banes/Self Destructive Bane.md",
+    "Combat Rules/Features/Banes/Naive Bane.md",
+    "Combat Rules/Features/Banes/Lonely Bane.md",
+    "Combat Rules/Features/Banes/Lazy Bane.md",
+    "Combat Rules/Features/Boons/Roleplay Boons",
+    "Combat Rules/Features/Boons/Combat Boons",
+    "Tests/Test PCs",
     "Hidden",
     "Tests",
     "Images/Skill Tier Table.png",
@@ -245,12 +238,8 @@
     "Combat Rules/Traits/Basic Traits",
     "Combat Rules/Features/Armaments/Sub Armaments",
     "Combat Rules/Features/Armaments/Main Armaments",
-    "Combat Rules/Actions/Powers/Outer Forces",
     "Pasted image 20260605002041.png",
     "Images/Armaments Sheet.png",
-    "Combat Rules/Actions/Powers/Practiced Arts",
-    "Combat Rules/Actions/Powers/Zodiac Magics",
-    "Combat Rules/Actions/Powers/Hereditary Magics",
     "Pasted image 20260518002241.png",
     "Pasted image 20260225202001.png"
   ]

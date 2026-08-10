@@ -1,0 +1,1 @@
+Once per Session you may remove your character from a Scene in some way that the GM agrees with.

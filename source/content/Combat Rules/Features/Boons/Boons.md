@@ -5,7 +5,7 @@ Boons are passive positive aspects of your character.
 [[I am Bulky]]![[I am Bulky]]
 [[I am Fast]]![[I am Fast]]
 [[I am Flexible]]![[I am Flexible]]
-[[I am Healthy]]![[I am Healthy]]
+[[I am Slippery]]![[I am Slippery]]
 [[I am Light]]![[I am Light]]
 [[I am Nimble]]![[I am Nimble]]
 [[I am Quick]]![[I am Quick]]

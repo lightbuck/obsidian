@@ -1,0 +1,1 @@
+Once per Session you may ask the GM to describe a scene that has happened before and allow you to ask a question that would normally warrant a [[Skills|Skill Check]] to know more information about that scene. Alternatively you may use this on a present scene.

@@ -1,0 +1,1 @@
+Once per scene you may choose to avoid a [[Conditions|Condition]].

@@ -16,7 +16,7 @@ Actions:
 	- [[Immobile Trait|Immobile]] [[Gain Trait|Gain(+3)]] 
 - **From the Spirits with Love**, 3 AP
 	- *You spend Spirit Energy you have accumulated to summon a massive bone blade that thrusts forward.*
-	- Effect: Target a 10 length line originating from you, or every point of [[Meter]] spent you deal +d4 to all [[Foes]] in that line.
+	- Effect: Target a 10 length line originating from you, or every point of [[Meter]] spent you deal +d4 to all [[Combat Rules/Foes/NPCs]] in that line.
 	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Spend Trait|Spend(10)]] ^d1cd4e
 - **Spirit Barrier**, 1 AP
 	- *You use Spirit Energy to create a barrier between you and your Foes*
