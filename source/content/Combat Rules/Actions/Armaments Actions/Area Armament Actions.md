@@ -23,9 +23,13 @@
 - *You study the battlefield to better focus your attacks.*
 - Effect: The next action that has the [[Area Trait]] has decreased size by one, it also deals an extra point of damage for each space it no longer targets.
 - [[Charge Trait|Charge]] 
-##### Propelling Jets, 1 AP
-- *You blast off!*
+##### Propelling Flare , 1 AP
+- *You push past your foes with a beam.*
 - Effect: Take a move action in a line and target a line of width 3 from the start of your movement to where it ended. Deal 1d4 damage to all Foes.
+- [[Attack Trait|Attack]] [[Area Trait|Area]] [[Move Trait|Move]]
+##### Blasting Leap, 1 AP
+- *You leap away with a blast*
+- Effect: Target a Radius of 2 spaces. Deal 1d4 damage to all Foes and then take a Move Action.
 - [[Attack Trait|Attack]] [[Area Trait|Area]] [[Move Trait|Move]]
 
 #### Combo Actions: 

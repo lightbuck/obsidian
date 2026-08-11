@@ -1,1 +1,1 @@
-This action may only be used if it causes you to Move. When this action makes you move you may increase that movement by the AP cost of this action.
+This action allows you to move as if it had the [[Mobile Trait]], if it already has such Trait then it allows you to move twice.

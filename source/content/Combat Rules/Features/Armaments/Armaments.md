@@ -1,1 +1,5 @@
-Certain Armaments allow you to take actions with the [[Melee Trait]], [[Ranged Trait]] or the [[Area Trait]]. But others merely allow you access to certain Traits. Each Armament should be something your character uses to fight, such as: swords, revolvers, martial arts, animal companions, summoned spirits, grenades, motorbikes, shields ...
+Certain Armaments allow you to take actions with the [[Melee Trait]], [[Ranged Trait]] or the [[Area Trait]]. When you pick one you write a name for it and the way your character would describe it. Armaments can be anything from sword to guns, your fists, an animal companion or a manifestation of your power.
+
+There are also 'Sub Armaments', these add extra mechanical complexity to your Armaments with the intention to better reflect what they are. 
+
+For example, you may have a [[Melee Armament]] which represents a Wolf companion that follows your character around, when you take an action with the [[Melee Trait]] you could describe that animal companion doing the action. But what if you wanted that companion to be an actual Character on the Board? Then you could add onto it the [[Companion Armament]].
