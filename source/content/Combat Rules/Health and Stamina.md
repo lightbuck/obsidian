@@ -1,5 +1,5 @@
 Characters have two hit point pools, stamina and health. Health instead represents their physical wellness.
-# Stamina ^3236bc
+# Stamina
 Stamina represents an active defense from the character, their ability to avoid, deflect or stop attacks. ^059ed3
 Stamina is associated with a **Recovery Die**, which certain actions can invoke. ^7170e3
 That is to say that your pool of Stamina is equal to your Recovery Die's size. You can gain **Extra Stamina** equal to the size of your Stamina Pool. Meaning your Maximum stamina is equal to twice the value of your Stamina Pool   ^1141c0

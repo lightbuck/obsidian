@@ -74,6 +74,8 @@ Skills have tiers that exist from 1 to 7. A different value of points equals to 
 | Tier        | Beginner | Competent | Expert | Master | Legendary |
 | ----------- | -------- | --------- | ------ | ------ | --------- |
 | Point Value | 1        | 2         | 3      | 5      | 7         |
+|             |          |           |        |        |           |
+|             |          |           |        |        |           |
 
 Game Masters and Players use Tiers to evaluate what will be the Effect of the Skill Check, for example a Character trying to pick a lock is ensured to succeed if they have a Skill such as: "Lockpicking (5)" because the lock would likely be a "Competent" Tier Challenge, meaning someone would have to be Competent to unlock it with little issue.
 
