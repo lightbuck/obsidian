@@ -6,7 +6,7 @@
 - "Astracentrism Knowledge" 
 - Flex
 - Fleet
-Actions:
+#### Actions:
 - **Let's Rock!**, 1 AP
 	- *You enter your Astracentric stance*
 	- Effect: you gain the [[Centered Condition]]
@@ -20,7 +20,7 @@ Actions:
 	- Effect: Target one foe within melee range, that foe gains an amount of [[Conditions#^8081d3|Slowed]] equal to their movement speed and you gain an equal amount of [[Meter]]. Additionally you gain the [[Centered Condition]]. 
 - 	[[Traits]]
 
-Combo Actions: 
+#### Combo Actions: 
 - **Heaven**, 2 AP
 	- *After taking your stance you simply remain still.*
 	- Condition: Your last action made you gain the [[Centered Condition]]
@@ -37,7 +37,7 @@ Combo Actions:
 	- Effect: Target one foe within line of sight, they must take a 1 AP action with the attack trait, targeting you.
 	- [[Traits]]
 
-Reactions: 
+#### Reactions: 
 - **6P**, R
 	- *Description*
 	- Condition:

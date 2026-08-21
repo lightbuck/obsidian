@@ -2,7 +2,7 @@
 
 ---
 %%Area, environment manipulation, self debuffing%%
-Actions:
+#### Actions:
 - **if()**, 1 AP
 	- *You begin casting a spell, but hold off until the right moment.*
 	- Effect: The next time you would take a Combo Action from [[Mana Scripting]], you instead do not immediately use the action, until your next turn you may use your reaction to finishing using the action.
@@ -16,7 +16,7 @@ Actions:
 	- Effect: The next time you take a Combo Action from [[Mana Scripting]], it loses the [[Consumed Trait]] and the [[Immobile Trait]]. Additionally Gain one stack of [[Adrenaline Condition|Adrenaline]].
 	- [[Charge Trait|Charge]] [[Mobile Trait|Mobile]]
 
-Combo Actions:
+#### Combo Actions:
 - **Fire**, 1 AP
 	- *You cast a simple yet reliable spell: a ball of fire*
 	- Condition: Your previous action had the [[Charge Trait]]
@@ -63,5 +63,5 @@ Combo Actions:
 	- Effect: Target a Radius of 4 spaces, Foes within the targeted spaces gain the [[Immobilized Condition]]. Afterward, the targeted area remains until its area is overlapped by another [[Area Trait|Area]] Action. Characters taking a move action within the Area gain the [[Impacted Condition]].
 	- [[Area Trait|Area]] [[Immobile Trait|Immobile]]
 
-Reactions: 
+#### Reactions: 
 -

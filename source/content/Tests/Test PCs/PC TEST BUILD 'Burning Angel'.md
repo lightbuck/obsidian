@@ -66,7 +66,7 @@ Reactions:
 
 ![[Area Armament Actions#Beam-O-War, R]]+[[Vehicle Trait]]
 
-Prowess Techniques:
+Style Techniques:
 ##### I won't give up!
 - *You lose your patience and set your power loose*
 - Effect: Remove 2 stacks of the [[Impacted Condition]] if you have any.

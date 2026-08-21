@@ -6,7 +6,7 @@
 - "Name Knowledge"
 - "Work with Name"
 
-Actions:
+#### Actions:
 - **Born below**, 2 AP
 	- *You invigorate yourself*
 	- Effect: Gain 1d6 stacks of the [[Magmania Condition]]
@@ -24,7 +24,7 @@ Actions:
 	- Effect: Target a Foe, deal 1d6 damage. The foe gains a stack of the [[Impacted Condition]], or two stacks if you had at least 3 stacks of the [[Magmania Condition]] when you took this action.
 	- [[Melee Trait|Melee]] [[Attack Trait|Attack]] [[Afflict Trait|Afflict]]
 
-Combo Actions: 
+#### Combo Actions: 
 - **Nuclear inoculation**, 1 AP
 	- *Description*
 	- Condition: Your last action caused you to gain the [[Magmania Condition]] or the [[Protected Condition]]
@@ -46,7 +46,7 @@ Combo Actions:
 	- Effect: Gain 1d6 stacks of the [[Magmania Condition]]. The next time you deal or take damage, your target or the Foe who Targeted you gains the [[Impacted Condition]].
 	- [[Defend Trait|Defend]] [[Charge Trait|Charge]]
 
-Reactions: 
+#### Reactions: 
 - **Wading Through Magma**, R
 	- *You hold a Foe down after they dared to strike you*
 	- Condition: A Foe's attacks caused you to lose all stacks of the [[Magmania Condition]]

@@ -7,7 +7,7 @@
 - Fleet
 - Flex
 
-Actions:
+#### Actions:
 - **Siege Engine**, 2 AP
 	- *You charge forward, destroying anything in your path*
 	- Effect: Move in a line for double your speed. Destroy any piece of terrain in the path you would move through and deal 1d4 damage to any enemy in the path.
@@ -25,7 +25,7 @@ Actions:
 	- Effect: Consume all stacks of [[Empowered Condition|Empowered]], gain one stack of [[Adrenaline Condition|Adrenaline]] for each stack. Until the end of the Scene any damage you deal is increased by 1d6 for every 3 stacks of [[Adrenaline Condition|Adrenaline]] you have.
 	- [[Final Trait|Final]]
 
-Combo Actions:
+#### Combo Actions:
 - **Tail Wind**, 1 AP
 	- *You are so powerful that your attacks unleash powerful winds*
 	- Condition: Your last action had the [[Attack Trait]].
@@ -52,7 +52,7 @@ Combo Actions:
 	- Effect: Gain stacks of the [[Energized Condition]] equal to the Overflowing damage. If the Overflowing damage is greater than 10 you additionally gain a stack of the [[Adrenaline Condition]]
 	- [[Charge Trait|Charge]]
 
-Reactions:
+#### Reactions:
 - Iron Skin
 	- *Just as a foe is about to strike you, you channel your power to fortify yourself.*
 	- Condition: a Foe targets you with an attack.
