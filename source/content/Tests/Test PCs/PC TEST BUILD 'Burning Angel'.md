@@ -14,7 +14,7 @@ Type:[[Area Armament]]
 Sub Armaments:[[Vehicle Aspect]]
 
 ## Role:
-[[Offense Role]]
+[[Assailant Role]]
 ## Techniques:
 ![[From My Strength]]
 
