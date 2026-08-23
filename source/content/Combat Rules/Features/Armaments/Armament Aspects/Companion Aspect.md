@@ -1,1 +1,2 @@
+*This Armament is an entity the operates separately of you, such as an animal or a drone.*
 Gain a Companion and choose a name for them. Add a [[Companion Trait|Companion "Name"]] Trait to any Actions you Know.

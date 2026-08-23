@@ -2,4 +2,4 @@ Certain Armaments allow you to take actions with the [[Melee Trait]], [[Ranged T
 
 There are also 'Sub Armaments', these add extra mechanical complexity to your Armaments with the intention to better reflect what they are. 
 
-For example, you may have a [[Melee Armament]] which represents a Wolf companion that follows your character around, when you take an action with the [[Melee Trait]] you could describe that animal companion doing the action. But what if you wanted that companion to be an actual Character on the Board? Then you could add onto it the [[Companion Armament]].
+For example, you may have a [[Melee Armament]] which represents a Wolf companion that follows your character around, when you take an action with the [[Melee Trait]] you could describe that animal companion doing the action. But what if you wanted that companion to be an actual Character on the Board? Then you could add onto it the [[Companion Aspect]].

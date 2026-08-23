@@ -1,4 +1,6 @@
-*Alkeans have the inborn ability to manipulate Spirit Energy, which is the energy left behind by the death of living things, excluding Humans. They can bind this energy to themselves to summon constructs or even temporarily bring back to life the perished beings.* 
+*Alkeans have the inborn ability to manipulate Spirit Energy, which is the energy left behind by the death of living things, excluding Humans. They can bind this energy to themselves to summon constructs of bone or even temporarily bring back to life the original creatures from which the Spirit Energy originated.* 
+
+*Alkeans usually specialize in creating a constructs to fight both in close quarters and at range. For example they could summon a blade to slash at their foes, or a bear to do the same in their stead, or they could summon a bow and arrows or send out a hawk to strike at their foes.*
 
 ---
 %%Gain n Spend Meter, Summon Things%%

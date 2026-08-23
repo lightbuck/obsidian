@@ -1,1 +1,0 @@
-Actions that use this armament may be taken from within one [[Ranges#^21f354|Move Range]] of you

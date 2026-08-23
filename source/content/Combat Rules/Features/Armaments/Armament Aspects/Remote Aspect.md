@@ -1,0 +1,2 @@
+*This Armament acts from outside the battlefield, it could be a mounted turret on a nearby space ship which you control with a remote, or it could be a wyvern you have trained to swoop in a strike at your command.*
+Choose a point on the edge of the battlefield, the line of sight of your attacks is from there. When you would voluntarily Move in some way, you can opt to remain still and reposition your point of view.

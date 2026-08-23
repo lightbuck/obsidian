@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1548d32a4bc3227d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tests/Test PCs/PC TEST BUILD 'Burning Angel'.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PC TEST BUILD 'Burning Angel'"
-            }
-          },
-          {
             "id": "6d469a1d51b91e88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat Rules/Features/Roles/Offense Role.md",
+                "file": "How to fight forever.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Offense Role"
+              "title": "How to fight forever"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,6 +186,18 @@
   },
   "active": "6d469a1d51b91e88",
   "lastOpenFiles": [
+    "Combat Rules/Actions/Powers/Hereditary Magics/Alkean Magic.md",
+    "Combat Rules/Actions/Powers/Hereditary Magics/Ravenki Magic.md",
+    "How to fight forever.md",
+    "Combat Rules/Features/Armaments/Armament Aspects/Defensive Aspect.md",
+    "Combat Rules/Features/Armaments/Armament Aspects/Reaching Aspect.md",
+    "Combat Rules/Features/Armaments/Armament Aspects/Companion Aspect.md",
+    "Combat Rules/Features/Armaments/Armament Aspects/Vehicle Aspect.md",
+    "Combat Rules/Features/Armaments/Armament Aspects/Inherent Aspect.md",
+    "Combat Rules/Features/Armaments/Armament Aspects/Remote Aspect.md",
+    "Combat Rules/Conditions/Negative Conditions/Disarmed Condition.md",
+    "Combat Rules/Features/Armaments/Armament Aspects/Returning Aspect.md",
+    "Combat Rules/Features/Roles/Offense Role.md",
     "Tests/Test PCs/PC TEST BUILD 'Burning Angel'.md",
     "Combat Rules/Actions/Stylish Actions.md",
     "Combat Rules/Features/Techniques/Style Techniques.md",
@@ -208,25 +206,13 @@
     "Combat Rules/Actions/Armaments Actions/Area Armament Actions.md",
     "Combat Rules/Traits/Powerful Traits/Rebel Trait.md",
     "Combat Rules/Actions/Powers/Zodiac Magics/The Phoenix Talon.md",
-    "Combat Rules/Features/Armaments/Sub Armaments/Vehicle Armament.md",
     "Combat Rules/Traits/Powerful Traits/Vehicle Trait.md",
     "Tests/Test PCs/PC TEST BUILD template.md",
-    "Combat Rules/Actions/Powers/Hereditary Magics/Alkean Magic.md",
     "Pasted image 20260821123806.png",
-    "Combat Rules/Actions/Powers/Hereditary Magics/Ravenki Magic.md",
     "Combat Rules/Actions/Powers/Hereditary Magics/Resono Magic.md",
     "Combat Rules/Actions/Powers/Hereditary Magics/Starfolk Magic.md",
     "Combat Rules/Actions/Powers/Hereditary Magics/Xefor Magic.md",
     "Combat Rules/Actions/Powers/Outer Forces/Bloodsten.md",
-    "Combat Rules/Actions/Powers/Outer Forces/Daemon In Machina.md",
-    "Combat Rules/Actions/Powers/Outer Forces/Daemonic Possession.md",
-    "Combat Rules/Actions/Powers/Practiced Arts/Active Exceed.md",
-    "Combat Rules/Actions/Powers/Practiced Arts/Astracentrism.md",
-    "Combat Rules/Actions/Powers/Practiced Arts/Mana Scripting.md",
-    "Combat Rules/Actions/Powers/Practiced Arts/The Shadow Dance.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/Lycanthropy.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/The Storm Hook.md",
-    "Roleplay Rules/Skills/Skills.md",
     "Roleplay Rules/Skills/Skill Bundles",
     "Roleplay Rules/Skills",
     "Images/Skill Tier Table.png",

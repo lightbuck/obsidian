@@ -11,7 +11,7 @@ d4 Stamina
 ### "The Burn"
 *I fight by expelling waves of fire from my palms. I  also often concentrate these waves to propel myself around the battleground.*
 Type:[[Area Armament]]
-Sub Armaments:[[Vehicle Armament]]
+Sub Armaments:[[Vehicle Aspect]]
 
 ## Role:
 [[Offense Role]]
