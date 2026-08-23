@@ -13,4 +13,5 @@ Choosing to wield a single power means you will likely want to look at [[Armamen
 - A hired swordsman who fights for you: a [[Melee Armament]] with the [[Companion Aspect]] and the [[Independent Aspect]]
 - An orbital laser: an [[Area Armament]] with the [[Remote Aspect]]
 - A mechanical exo-suit that shoots beams of plasma: a [[Ranged Armament]] with the [[Defensive Aspect]]
+
 Something should have became obvious by the end there, some of these Armaments could fully define a character regardless of what power you chose. This is also an option in SFF ! This is the secret third way to make a character! The expectation is that you would pick between [[Active Exceed]], [[Trajectory Divination]] or [[Flare Herald]] as your power, each of these corresponds to Melee, Ranged or Area Armaments as flavor neutral options for you to spotlight your armament rather than your Power.
