@@ -1,9 +1,9 @@
-## VERSION 1 #PH
+## VERSION 1
 What Role does your character play in a team? Roles determine your health and stamina as well as granting you [[Actions|Reactions]] and a unique trait
 - The Big One
 	- You hold up the collapsing building, you take the hit that would have knocked out one of your teammates, you make the enemy wish they brought an army. The Big One has reactions to take the brunt instead of their teammates and combo actions to bolster their defenses
 		- "Get behind me" R, Whenever an [[Terminology|Ally]] is about to take damage to their [[Health and Stamina|Health]], you can step in front of them to take the hit instead.
-		- "Stand tall my friends!" 1 AP, Whenever you gain [[Health and Stamina|Stamina]] all your allies gain #PH stamina
+		- "Stand tall my friends!" 1 AP, Whenever you gain [[Health and Stamina|Stamina]] all your allies gain stamina
 	- Trait: [[Traits#^0c3ae0|BIG]]
 - The Tactician
 	- You find the weak spot in the enemy's stratagem, you devise the attack plan, but you already knew this because you have prepared for everything. ​The Tactician has reactions they can use to gather information on the enemy and interced in their plans. 
@@ -20,7 +20,7 @@ What Role does your character play in a team? Roles determine your health and st
 		- "You thought I was done?" 2 AP Whenever you roll less than half on an attack action that costed 2 ap or less, you can roll all its damage again, adding the [[Surprising Trait]] and the [[Traits#^b15948|ACE trait]] in a new aspect
 	- Trait: [[Traits#^b15948|ACE]]
 
-## VERSION 2 #PH
+## VERSION 2
 What Role does your character play in a team? Roles give you ways to contribute to your team with reactions and give you escalating benefits throughout a fight
 - The Big One
 	- You hold up the collapsing building, you take the hit that would have knocked out one of your teammates, you make the enemy wish they brought an army. The Big One has reactions to prevent allies from being harmed
@@ -65,7 +65,7 @@ What Role does your character play in a team? Roles give you ways to contribute 
 		- "Keeping Count" 1 AP Whenever you exhaust a character's [[Health and Stamina|Stamina]] you add a +1 to your [[Meter]], if you down an enemy you add a +2 #ph
 		- "You thought I was done?" 2 AP Whenever you roll less than half on an attack action that costed 2 ap or less, you can roll all its damage again, adding the [[Surprising Trait]] and the [[Traits#^b15948|ACE trait]] in a new aspect
 	- Trait: [[Traits#^b15948|ACE]]
-## VERSION 3 #PH 
+## VERSION 3
 Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions]] and special [[Actions#^5b10a9|Rising/Falling Actions]] that inform your purpose in the team, they usually benefit your team more than you and cannot be taken by more than one character in a team.
 
 - Get behind me! , Reaction

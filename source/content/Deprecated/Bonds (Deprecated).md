@@ -1,4 +1,3 @@
-#PH 
 A bond is the connection between two Player Characters, it signifies a dynamic that the characters can have and it leads to advantages in combat and with skill checks.
 ## Bond Types and Sides
 Each Bond has two sides, and these two sides can be of different types. For example character A thinks of character B as a rival, but character B sees character A as a close friend. Each bond type dictates how characters can aid each other during skill checks, and they should inform how to flavor [[Crossover Trait|Crossover Actions]]

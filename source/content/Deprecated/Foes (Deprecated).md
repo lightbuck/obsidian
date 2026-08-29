@@ -8,9 +8,9 @@ These Foes move away from characters and strike them from afar
 ### Snipers
 These Foes strike characters at range, they cannot move but they deal high damage.
 ### Protector
-These Foes remain close to a chosen Foe and protect them #PH
+These Foes remain close to a chosen Foe and protect them
 ### Controllers
-These Foes can issue orders to other Foes to make them act on the Controllers turn or they can aid their allies. #PH
+These Foes can issue orders to other Foes to make them act on the Controllers turn or they can aid their allies.
 ## Ranks
 Foe Ranks determine their APs pool, their [[Health and Stamina]] and what kind of Roles they have access to
 ### 1. Grunts

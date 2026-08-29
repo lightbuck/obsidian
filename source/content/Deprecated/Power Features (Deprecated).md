@@ -7,7 +7,7 @@ Gates
 - Early Bird
 	Add a gate at your first point of [[Health and Stamina#^1141c0|Extra Stamina]]
 
-Rising Bonuses #PH 
+Rising Bonuses
 - Just Enough
 	Each round gain [[Energized Condition|Energized(1)]]
 - Faster than you thought

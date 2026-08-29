@@ -59,7 +59,7 @@ Armor is subdivided by how heavy it is:
 
 
 # v2
-From the start you have 7 #PH gear points, these points determine the amount of gear you can bring into battle. A single piece of gear costs 1 #PH points per archetype it possesses but any gear can be given additional traits which increase its cost. The amount of gear points increases with character level #PH 
+From the start you have 7 gear points, these points determine the amount of gear you can bring into battle. A single piece of gear costs 1 points per archetype it possesses but any gear can be given additional traits which increase its cost. The amount of gear points increases with character level
 
 ## Weapons
 Weapon archetypes:

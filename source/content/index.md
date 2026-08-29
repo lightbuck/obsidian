@@ -9,6 +9,6 @@ This is a list of guidelines I strive to adhere to when designing this system:
 - Enemies should never interrupt Players
 - Players should interrupt enemies regularly
 #### Inspirations
-Starsilk: Fight Forever is inspired by a lot of different things: Spectacle Fighters, Fighting Games, Super Hero Comic Books and other TTRPGS!
+S:FF is inspired by a lot of different things: Spectacle Fighters, Fighting Games, Super Hero Comic Books and other TTRPGS!
 
 A proper introduction isn't ready yet, but you can start reading from [[Actions|The Actions Section]]

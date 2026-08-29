@@ -7,7 +7,8 @@
 - "Work with Daemons"
 - "Work with Magic"
 
-#### Actions:##### Procedurally Generated Ritual, 1 AP ^a2efc2
+#### Actions:
+##### Procedurally Generated Ritual, 1 AP ^a2efc2
 - *You feed the Daemon with your own Life Force.*
 - Effect: Roll your [[Health and Stamina#^7170e3|Recovery Die]] twice and choose a result.
 - [[Sacrifice Trait|Sacrifice]] [[Defend Trait|Defend]]
@@ -27,7 +28,7 @@
 - *You allow your Daemon to take over your body*
 - Effect: You gain the [[Daemonized Condition]], replace your current stamina by an amount equal to every point of [[Meter]] Spent by this action. 
 - [[Spend Trait|Spend(ALL)]]
-- ###### Deliverance, 6 AP ^d96675
+###### Deliverance, 6 AP ^d96675
 - *Your Daemon is unleashed, but instead of stealing your life force it fights by your side completely autonomously.*
 - Effect: If you had it, you lose the [[Daemonized Condition]]. Place a token on the field representing your Daemon as a [[Companions|Companion]], which has the [[Daemonized Condition]] with stamina equal to every point of meter spent by this action. The Daemon can take actions only from [[Daemonic Possession]] and. Whenever you or your Daemon gain Stamina you can split it between you and your Daemon. If the Daemon becomes Exhausted it is removed from the field. While the Daemon is on the field you cannot gain the [[Daemonized Condition]]. 
 - [[Spend Trait|Spend(ALL)]] [[Final Trait|Final]]
