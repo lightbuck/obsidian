@@ -26,7 +26,7 @@ Reactions:
 - **Where's your motivation?**, R ^64b866
 	- *You taunt an enemy that hasn't even managed to scratch you*
 	- Condition: A foe has targeted you with an attack, but it has not managed to exhausted your stamina nor caused you to gain any [[Conditions]]
-	- Effect: Gain one stack of [[Empowered Condition|Empowered]], gain an extra stack for every attack the Triggering Foe makes this turn until you become exhausted. If you don't become exhausted this Turn you regain your reaction once this Round.
+	- Effect: Gain one stack of [[Empowered|Empowered]], gain an extra stack for every attack the Triggering Foe makes this turn until you become exhausted. If you don't become exhausted this Turn you regain your reaction once this Round.
 	- -
 - **This could be fun!**, R ^f7da0b
 	- *You look at the battlefield and you flash a grin to your enemies*

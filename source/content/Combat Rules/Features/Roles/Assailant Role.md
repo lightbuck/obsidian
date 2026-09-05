@@ -1,9 +1,9 @@
 Make your foes suffer by your hand or help your allies do so.
 # Power Features 
+[[From My Pressure]]:![[From My Pressure]]
 [[From My Strength]]:![[From My Strength]]
-[[From The Devastation Left in My Wake]]:![[From The Devastation Left in My Wake]]
 [[From the Tears of My Haters]]:![[From the Tears of My Haters]]
-[[From the Annihilation of My Enemies]]:![[From the Annihilation of My Enemies]]
+[[From My Destruction]]:![[From My Destruction]]
 %%
 # Actions
 - Destroyer

@@ -1,1 +1,1 @@
-This action drains [[N]] stamina from you and gain one stack of [[Adrenaline Condition|Adrenaline]]. If you have no stamina you instead gain [[N]] stacks of the [[Conditions#^9ed920|Stressed Condition]].
+This action drains [[N]] stamina from you and gain one stack of [[Adrenaline|Adrenaline]]. If you have no stamina you instead gain [[N]] stacks of the [[Conditions#^9ed920|Stressed Condition]].

@@ -1,1 +1,0 @@
-Once per turn when you make an Ally reach their [[Health and Stamina#^1141c0|Maximum Stamina]] you gain 1 stack of [[Empowered Condition|Empowered]]. 

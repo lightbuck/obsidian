@@ -1,1 +1,1 @@
-You cannot take your turn nor use reactions until you lose all stacks of [[Impacted Condition]] or when you are targeted with a [[Take Over]]. Remove this condition if an entire round passes without your being able to act.
+You can't take your turn nor take Reactions. While you have this condition you count as if you had 1 Stamina. Remove this condition if an entire round passes without you being able to act, of if you take two points of damage to your Health.

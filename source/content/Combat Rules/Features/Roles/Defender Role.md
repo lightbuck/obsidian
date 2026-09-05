@@ -1,9 +1,9 @@
 Redirect damage to yourself, force foes to deal with you.
 # Power Features
- [[From My Responsibility]]: ![[From My Responsibility]]
- [[From Standing Proudly]]: ![[From Standing Proudly]]
+ [[From My Resilience]]: ![[From My Resilience]]
+ [[From My Resolve]]: ![[From My Resolve]]
  [[From My Sacrifice]]:![[From My Sacrifice]]
- [[From Standing Amidst the Storm]]:![[From Standing Amidst the Storm]]
+ [[From Being In The Way]]:![[From Being In The Way]]
 %%
 #  Actions
 - Wall

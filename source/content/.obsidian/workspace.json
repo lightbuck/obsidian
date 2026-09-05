@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7b69278ac2d277d6",
+        "id": "fdbbcbeab1232163",
         "type": "tabs",
         "children": [
           {
-            "id": "6d469a1d51b91e88",
+            "id": "b6ce17b276d35322",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat Rules/Actions/Powers/Outer Forces/Daemonic Possession.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Daemonic Possession"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sl",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +52,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -77,7 +75,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -183,34 +182,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "908cb621307f1606",
+  "active": "b6ce17b276d35322",
   "lastOpenFiles": [
-    "Combat Rules/Traits/Powerful Traits/Sacrifice Trait.md",
-    "Combat Rules/Actions/Powers/Outer Forces/Daemonic Possession.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/The Storm Hook.md",
-    "How to fight forever.md",
-    "index.md",
+    "Combat Rules/Actions/Adrenaline.md",
+    "Combat Rules/Features/Roles/Aide Role.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Support.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Our Teamwork.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Our Unity.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Kindness.md",
+    "Combat Rules/Features/Roles/Assailant Role.md",
+    "Combat Rules/Features/Roles/Defender Role.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From Being In The Way.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Sacrifice.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Resolve.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Resilience.md",
+    "Combat Rules/Actions/Powers/Hereditary Magics/Xefor Magic.md",
+    "Combat Rules/Conditions/Action Conditions/Magmania Condition.md",
+    "Combat Rules/Conditions/Action Conditions/Protected Condition.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Destruction.md",
+    "Combat Rules/Traits/Basic Traits/Defend Trait.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Strength.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From the Tears of My Haters.md",
+    "Combat Rules/Features/Techniques/From Power Techniques/From My Pressure.md",
+    "Combat Rules/Actions/Empowered.md",
+    "Combat Rules/Actions/Untitled.md",
+    "Combat Rules/Actions/Actions.md",
+    "Combat Rules/Actions/Universal Actions.md",
     "Combat Rules/Actions/Stylish Actions.md",
-    "Combat Rules/Features/Techniques/Techniques.md",
-    "Deprecated/Style Techniques (Deprecated).md",
-    "Roleplay Rules/Skills/Skill Bundles.md",
-    "Roleplay Rules/Skills/Skill Bundles/Vampire's Donor.md",
-    "Roleplay Rules/Skills/Skill Bundles/Megaflora Dweller.md",
-    "Roleplay Rules/Skills/Skill Bundles/Subspace Navigator.md",
-    "Roleplay Rules/Skills/Skill Bundles/Federal Convict.md",
-    "Roleplay Rules/Skills/Skill Bundles/Maw Betrayer.md",
-    "Roleplay Rules/Skills/Skill Bundles/Professional Spaceship Pilot.md",
-    "Roleplay Rules/Skills/Skill Bundles/Starhold Keeper.md",
-    "Roleplay Rules/Skills/Skill Bundles/Thaumasmith.md",
-    "Deprecated/Roles (Deprecated).md",
-    "Deprecated/Power Features (Deprecated).md",
-    "Deprecated/Gear (Deprecated).md",
-    "Deprecated/Bonds (Deprecated).md",
-    "Deprecated/Foes (Deprecated).md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From My Responsibility.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From Standing Amidst the Storm.md",
-    "Roleplay Rules/Skills/Skill Bundles/Orbit Habitant.md",
-    "Roleplay Rules/Skills/Skills.md",
+    "Combat Rules/Features/Armaments/Armaments.md",
     "Pasted image 20260821123806.png",
     "Roleplay Rules/Skills/Skill Bundles",
     "Roleplay Rules/Skills",

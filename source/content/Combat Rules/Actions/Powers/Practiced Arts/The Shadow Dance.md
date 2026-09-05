@@ -10,7 +10,7 @@
 #### Actions:
 ##### Barre, 2 AP ^3a1b9e
 - *You slowly and carefully dance move and vanish into the shadow beneath your feet*
-- Effect: Gain the [[Hidden Condition]] and one stack of [[Adrenaline Condition|Adrenaline]]
+- Effect: Gain the [[Hidden Condition]] and one stack of [[Adrenaline|Adrenaline]]
 - [[Traits#^d885e1|Self]]
 ##### Arrière, 2 AP
 - *You take advantage of a Foe's vulnerable state to sink them in the shadows.*

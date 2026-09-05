@@ -1,1 +1,1 @@
-Once per turn when you inflict the [[Impacted Condition]] you gain 1 stack of [[Empowered Condition|Empowered]]. 
+When you inflict 2 stacks of the [[Impacted Condition]] you gain 1 stack of [[Empowered|Empowered]]. 

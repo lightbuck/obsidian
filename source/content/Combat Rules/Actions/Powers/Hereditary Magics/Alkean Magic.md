@@ -26,7 +26,7 @@
 - [[Spend Trait|Spend(4)]] [[Traits#^2d7726|Create]] [[Defend Trait|Defend]]
 - ###### Death, 6 AP
 - *You use your magic to catalyze all nearby Spirit Energy and you channel it into a devastating blow*
-- Effect: Target a radius of 1, for every point of [[Meter]] spent by this action deal 2d6 damage to all characters within the radius. Until the end of the Scene any time a character is knocked out you gain 1 stack of [[Adrenaline Condition|Adrenaline]] 
+- Effect: Target a radius of 1, for every point of [[Meter]] spent by this action deal 2d6 damage to all characters within the radius. Until the end of the Scene any time a character is knocked out you gain 1 stack of [[Adrenaline|Adrenaline]] 
 - [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Spend Trait|Spend(All)]] [[Final Trait|Final]]
 
 #### Combo Actions:
@@ -38,7 +38,7 @@
 ##### Possessed and Obsessed, 1 AP
 - *You infuse yourself with the Spirit Energy you collected, temporarily empowering yourself*
 - Condition: The Previous action had the [[Gain Trait]] 
-- Effect: gain 1 stack of [[Adrenaline Condition|Adrenaline]] and Gain 3 point of stamina for each point of [[Meter]] Spent by this action
+- Effect: gain 1 stack of [[Adrenaline|Adrenaline]] and Gain 3 point of stamina for each point of [[Meter]] Spent by this action
 - [[Spend Trait|Spend(ALL)]]| ^50bd9f
 ##### Spirit Armor, 2 AP
 - *You recycle some of the Spirit Energy you used to defend yourself*

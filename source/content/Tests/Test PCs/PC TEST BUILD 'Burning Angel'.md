@@ -16,7 +16,7 @@ Sub Armaments:[[Vehicle Aspect]]
 ## Role:
 [[Assailant Role]]
 ## Techniques:
-![[From My Strength]]
+![[From My Pressure]]
 
 ![[To Destruction]]
 ## Bane:

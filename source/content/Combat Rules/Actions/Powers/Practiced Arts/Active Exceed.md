@@ -22,7 +22,7 @@
 	- [[Move Trait|Move]] [[Charge Trait|Charge]]
 - ###### Limit Break, 7 AP
 	- *You've pushed past the limits of your body, now it's time to push past the limits of Exceed itself.*
-	- Effect: Consume all stacks of [[Empowered Condition|Empowered]], gain one stack of [[Adrenaline Condition|Adrenaline]] for each stack. Until the end of the Scene any damage you deal is increased by 1d6 for every 3 stacks of [[Adrenaline Condition|Adrenaline]] you have.
+	- Effect: Consume all stacks of [[Empowered|Empowered]], gain one stack of [[Adrenaline|Adrenaline]] for each stack. Until the end of the Scene any damage you deal is increased by 1d6 for every 3 stacks of [[Adrenaline|Adrenaline]] you have.
 	- [[Final Trait|Final]]
 
 #### Combo Actions:
@@ -39,7 +39,7 @@
 - **Battle Meditation**, 1 AP
 	- *You focus on the battle*
 	- Condition: Your last action did not have the [[Attack Trait]]
-	- Effect: Gain stacks of [[Adrenaline Condition|Adrenaline]] equal to half the Round number rounded down. 
+	- Effect: Gain stacks of [[Adrenaline|Adrenaline]] equal to half the Round number rounded down. 
 	- [[Aid Trait|Aid]] [[Charge Trait]]
 - **Epochal return**, 1 AP
 	- *After taking a small pause you return to crush your enemies*
@@ -49,7 +49,7 @@
 - **Revel in your power**, 2 AP
 	- *You revel in the power you possess*
 	- Condition: Your last action dealt Overflowing damage.
-	- Effect: Gain stacks of the [[Energized Condition]] equal to the Overflowing damage. If the Overflowing damage is greater than 10 you additionally gain a stack of the [[Adrenaline Condition]]
+	- Effect: Gain stacks of the [[Energized Condition]] equal to the Overflowing damage. If the Overflowing damage is greater than 10 you additionally gain a stack of the [[Adrenaline]]
 	- [[Charge Trait|Charge]]
 
 #### Reactions:
@@ -61,5 +61,5 @@
 - Immovable Object
 	- *You resist others' attempts to push you around*
 	- Condition: you would incur forced movement
-	- Effect: You are not moved by the forced movement. If your speed is greater than the speed of the moving action you gain [[Adrenaline Condition]]
+	- Effect: You are not moved by the forced movement. If your speed is greater than the speed of the moving action you gain [[Adrenaline]]
 	- [[Defend Trait|Defend]]

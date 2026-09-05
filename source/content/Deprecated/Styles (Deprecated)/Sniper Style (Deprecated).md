@@ -14,7 +14,7 @@ Combo Actions:
 - **One Kill**, 1 AP
 	- *Description*
 	- Condition: You used the [[Styles (Deprecated)#^9ce859|One Shot]] action this turn and your previous action exhausted the Stamina or dealt damage to the Health of a single Foe.
-	- Effect: Gain two stacks of [[Adrenaline Condition|Adrenaline]]
+	- Effect: Gain two stacks of [[Adrenaline|Adrenaline]]
 	- [[Consumed Trait|Consumed]]
 - **Tactical Reposition**, 1 AP
 	- *Description*

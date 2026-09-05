@@ -13,7 +13,7 @@
 	- [[Charge Trait|Charge]] [[Poly Trait|Poly]] [[Mobile Trait|Mobile]]
 - **catch()**, 1 AP
 	- *You cast a spell carefully, making sure you did not make any mistakes in the code.*
-	- Effect: The next time you take a Combo Action from [[Mana Scripting]], it loses the [[Consumed Trait]] and the [[Immobile Trait]]. Additionally Gain one stack of [[Adrenaline Condition|Adrenaline]].
+	- Effect: The next time you take a Combo Action from [[Mana Scripting]], it loses the [[Consumed Trait]] and the [[Immobile Trait]]. Additionally Gain one stack of [[Adrenaline|Adrenaline]].
 	- [[Charge Trait|Charge]] [[Mobile Trait|Mobile]]
 
 #### Combo Actions:

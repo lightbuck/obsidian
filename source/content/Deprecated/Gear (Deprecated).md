@@ -103,7 +103,7 @@ These traits add effects to maximum and minimum critical rolls that invoke this 
 - Impacting
 	Max Crits inflict the [[Impacted Condition]] ^1106e9
 - Cool
-	Max Crits make you gain 1 stack of [[Adrenaline Condition|Adrenaline]] ^045bf7
+	Max Crits make you gain 1 stack of [[Adrenaline|Adrenaline]] ^045bf7
 - Fast
 	Max Crits make you gain 5 stacks of [[Energized Condition|Energized]] ^356c77
 ## Armor

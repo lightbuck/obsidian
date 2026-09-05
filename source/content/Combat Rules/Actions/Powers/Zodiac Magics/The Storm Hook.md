@@ -26,7 +26,7 @@
 - [[Charging Trait|Charging]] [[Move Trait|Move]]
 - ###### The Storm, 4 AP ^13a4b0
 - *You become one with the storm, appearing and disappearing like a lightning strike.*
-- Effect: Reposition up to three times anywhere in the battlefield. After each time you repositioned deal 4d8 damage to all Foes within Range 2 of you. You may reposition in to the same place. For any Foe you make Exhausted you gain one stack of[[Adrenaline Condition|Adrenaline]]. Finally you reappear either at your starting position or at any position you repositioned to. 
+- Effect: Reposition up to three times anywhere in the battlefield. After each time you repositioned deal 4d8 damage to all Foes within Range 2 of you. You may reposition in to the same place. For any Foe you make Exhausted you gain one stack of[[Adrenaline|Adrenaline]]. Finally you reappear either at your starting position or at any position you repositioned to. 
 - [[Attack Trait|Attack]] [[Final Trait|Final]]
 
 #### Combo Actions: 
@@ -38,7 +38,7 @@
 ##### Feel The Thunder, 1 AP ^7ec5b2
 - *You concentrate the lightning within you, increasing its power*
 - Condition: Your last action had the [[Charging Trait]]
-- Effect: you gain 1 stack of [[Adrenaline Condition|Adrenaline]]
+- Effect: you gain 1 stack of [[Adrenaline|Adrenaline]]
 - [[Charging Trait|Charging]] [[Charge Trait|Charge]] [[Consumed Trait|Consumed]]
 ##### Recharge ElectroHeart, 1 AP
 - *You absorb your lightning to reinvigorate yourself*

@@ -1,1 +1,0 @@
-You can reduce an action's AP cost by 1 to a minimum of 1, consuming 1 stack out of your total stacks of Adrenaline.

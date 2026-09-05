@@ -1,1 +1,1 @@
-Once per turn when an Ally consumes a Condition you made them gain, you gain 1 stack of [[Empowered Condition|Empowered]]. 
+Once per turn when an Ally consumes a Condition you made them gain, you gain 1 stack of [[Empowered|Empowered]]. 

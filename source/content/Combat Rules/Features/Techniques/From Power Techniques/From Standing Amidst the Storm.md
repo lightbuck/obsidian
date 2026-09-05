@@ -1,1 +1,0 @@
-Once per Round when you are Targeted by a Foe with an Attack with the [[Area Trait]] you gain 1 stack of [[Empowered Condition|Empowered]]. #PH

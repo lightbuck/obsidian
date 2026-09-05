@@ -43,7 +43,7 @@ List:
 - Crumbling: at the end of the round all characters in this area take 2 damage. They can attempt a [[Saves|Reflex Save]] to avoid the damage if they succeed or take 3 damage if they fail.
 - Royale(N): At the end of every turn all characters who aren't in this area take N damage
 - Trudging(N): All characters in this area have a N movement tax
-- Showdown:  At the beginning of the first round all Characters gain [[Adrenaline Condition]]
+- Showdown:  At the beginning of the first round all Characters gain [[Adrenaline]]
 - Mosh Pit: All characters in this area take 1 stamina damage once per turn in which they take an action without the [[Attack Trait]]#PH ^1bef78
 - Library: All characters in this area take 1 stamina damage once per turn in which they take an action with the [[Attack Trait]]#PH
 

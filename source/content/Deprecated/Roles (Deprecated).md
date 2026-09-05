@@ -31,7 +31,7 @@ What Role does your character play in a team? Roles give you ways to contribute 
 		- "I'll hold them back!" Combo 1 AP, Your last action made you gain [[Health and Stamina|Stamina]], you lose that stamina you would have gained but your allies gain it instead
 		- "Eyes on me" Combo 1 AP, Your previous action had the [[Attack Trait]], any foe you previously this turn hit will be forced to target you with their next action that has the [[Attack Trait]]
 	- Passive:
-		At the beginning of your turn get a stack of [[Adrenaline Condition|Adrenaline]] for every 2 missing [[Health and Stamina|Health]]
+		At the beginning of your turn get a stack of [[Adrenaline|Adrenaline]] for every 2 missing [[Health and Stamina|Health]]
 - The Tactician
 	- You find the weak spot in the enemy's stratagem, you devise the attack plan, but you already knew this because you have prepared for everything. ​The Tactician increases the damage output of the team 
 	- Reactions:
@@ -90,7 +90,7 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 -  Remember the plan! , Reaction
 	Condition: An ally's roll was Underwhelming
 	You encourage your ally to stick to the plan
-	Effect: The ally gains [[Adrenaline Condition|Adrenaline(1)]]
+	Effect: The ally gains [[Adrenaline|Adrenaline(1)]]
 - I've got you! , Reaction
 	Condition: An ally was [[Movement#^82257e|Flung]] 
 	You step in and grab the ally before they hit the ground
@@ -98,7 +98,7 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 - Good job! , Reaction
 	Condition: An ally dealt damage to [[Health and Stamina|Health]]
 	You compliment an Ally's skills
-	Effect: The ally gets one stack of [[Adrenaline Condition|Adrenaline]] for each point of damage they dealt to  [[Health and Stamina|Health]] this turn
+	Effect: The ally gets one stack of [[Adrenaline|Adrenaline]] for each point of damage they dealt to  [[Health and Stamina|Health]] this turn
 - Hands off of my friend! , Reaction
 	Condition: An ally's [[Health and Stamina|Stamina]] is [[Health and Stamina|Exhausted]] by a Foe
 	You avenge your ally by quickly hitting the enemy.

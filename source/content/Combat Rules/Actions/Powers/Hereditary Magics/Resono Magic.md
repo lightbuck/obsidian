@@ -15,7 +15,7 @@ Actions:
 	- [[Traits#^5d64a2|Foes]] | [[Step Trait|Step(4)]] ^6985b8
 - **You're gonna go far**, 2 AP
 	- *You lend some of your lifeforce to an ally, bolstering them*
-	- Effect: Target one Ally adjacent to you, both you and that ally gain [[Adrenaline Condition|Adrenaline(2)]]
+	- Effect: Target one Ally adjacent to you, both you and that ally gain [[Adrenaline|Adrenaline(2)]]
 	- [[Traits#^412513|Allies]] [[Aid Trait|Aid]] | [[Step Trait|Step(2)]] ^e183a4
 - **Hand in Hand**, 2 AP
 	- *You link two of your allies' Life Forces together.*
@@ -23,7 +23,7 @@ Actions:
 	- [[Traits#^412513|Allies]] [[Aid Trait|Aid]] | [[Step Trait|Step(2)]] ^4c7c29
 - ###### Life, 6 AP
 	- *You weave together a web of all your allies, the connection forms an loop that exponentially empowers all of you.*
-	- Effect: Sum together yours and all your allies stacks of [[Empowered Condition|Empowered]], this number is the new amount of [[Empowered Condition|Empowered]] you and your allies have.
+	- Effect: Sum together yours and all your allies stacks of [[Empowered|Empowered]], this number is the new amount of [[Empowered|Empowered]] you and your allies have.
 	- [[Aid Trait|Aid]] 
 
 Combo Actions:

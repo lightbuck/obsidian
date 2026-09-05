@@ -1,1 +1,0 @@
-Anytime A Foe would have Exhausted A Foe's Stamina were it not for an Action you took you gain 2 stacks of [[Empowered Condition|Empowered]].  #PH
