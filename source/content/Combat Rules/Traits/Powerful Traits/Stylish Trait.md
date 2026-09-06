@@ -1,1 +1,1 @@
-This action consumes a stack of the [[Empowered]]. This action has no AP cost and is ignored by the conditions of other Combo Actions and Reactions.
+This action consumes a stack of the [[Power]]. This action has no AP cost and is ignored by the conditions of other Combo Actions and Reactions.

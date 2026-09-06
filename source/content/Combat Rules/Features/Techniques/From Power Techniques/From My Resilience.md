@@ -1,1 +1,0 @@
-Anytime you spend 2 AP on one action with the [[Defend Trait]] you gain 1 stack of [[Empowered|Empowered]]. 

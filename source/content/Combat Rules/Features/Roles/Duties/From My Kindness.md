@@ -1,0 +1,1 @@
+When you fully remove the [[Impacted Condition]] from an Ally you gain 1 stack of [[Power|Empowered]].

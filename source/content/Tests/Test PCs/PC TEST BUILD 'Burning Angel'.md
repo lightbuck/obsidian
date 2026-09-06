@@ -18,7 +18,7 @@ Sub Armaments:[[Vehicle Aspect]]
 ## Techniques:
 ![[From My Pressure]]
 
-![[To Destruction]]
+![[To Destruction (Depracated)]]
 ## Bane:
 ![[Vengeful Bane]]
 ## Boons

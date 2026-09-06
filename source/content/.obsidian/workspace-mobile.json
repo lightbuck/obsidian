@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8fa80df526e3bea7",
+        "id": "94b03e94f2112bba",
         "type": "tabs",
         "children": [
           {
-            "id": "bfeb529c45b3ead2",
+            "id": "2a9023debb86f59a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat Rules/Actions/Powers/Practiced Arts/Mana Scripting.md",
+                "file": "Combat Rules/Actions/Power.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mana Scripting"
+              "title": "Power"
             }
           }
         ]
@@ -153,33 +153,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "bfeb529c45b3ead2",
+  "active": "2a9023debb86f59a",
   "lastOpenFiles": [
+    "Combat Rules/Traits/Trait Transfer.md",
+    "Combat Rules/Actions/Power.md",
+    "Combat Rules/Actions/Stylish Actions.md",
+    "Combat Rules/Features/Techniques/From Power.md",
+    "Combat Rules/Features/Techniques/Techniques.md",
+    "Combat Rules/Features/Roles/Duties/From My Destruction.md",
+    "Combat Rules/Features/Roles/Duties/From My Kindness.md",
+    "Combat Rules/Features/Roles/Duties/From My Pressure.md",
+    "Deprecated/To Power Techniques (Depracated)/To Bring Devastation (Depracated).md",
+    "Deprecated/To Power Techniques (Depracated)/To Crash (Depracated).md",
+    "Deprecated/To Power Techniques (Depracated)/To Twist The Knife (Depracated).md",
+    "Deprecated/To Power Techniques (Depracated)/To Stand Tall (Depracated).md",
+    "Deprecated/To Power Techniques (Depracated)/To Rescue (Depracated).md",
+    "Deprecated/To Power Techniques (Depracated)/To Protect Myself (Depracated).md",
+    "Deprecated/To Power Techniques (Depracated)/To Empower My Friends  (Depracated).md",
+    "Combat Rules/Features/Techniques/To Power Techniques/To Power Techniques (Depracated).md",
+    "Deprecated/To Power Techniques (Depracated)/To Destruction (Depracated).md",
+    "Combat Rules/Traits/Powerful Traits/Consumed Trait.md",
+    "Combat Rules/Actions/Adrenaline.md",
+    "Combat Rules/Actions/Powers/Practiced Arts/Mana Scripting.md",
     "Combat Rules/NPCS.md",
     "Tests/Builds Tests/Build 1 (Lightning Swordsman).md",
     "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Strength.md",
     "Combat Rules/Player Character Rules/Features/Power Features/To Power Features/To Rush.md",
     "Combat Rules/Player Character Rules/Features/Power Features/From Power Features/From My Strength.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Self Destructive Vulnerability.md",
-    "Combat Rules/Traits/Action Traits/Charging Trait.md",
-    "Combat Rules/Conditions/Action Conditions/Charged Condition.md",
-    "Combat Rules/Foes/Foes.md",
-    "Combat Rules/Player Character Rules/Features/Power Features/Power Features.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Control Freak Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Untitled.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Honorbound Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Introvert Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Self Desctructive Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Guillible Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Self Doubting Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Vulnerabilities.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Sworn Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Defeatist Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Arrogant Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Naive Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Vengeful Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Boastful Vulnerability.md",
-    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Lazy Vulnerability.md",
-    "Conditions.md"
+    "Combat Rules/Player Character Rules/Features/Vulnerabilities/Self Destructive Vulnerability.md"
   ]
 }

@@ -1,1 +1,0 @@
-When your Actions make you gain stamina equal to the value of your Recovery Die you gain 1 stack of [[Empowered|Empowered]].

@@ -22,7 +22,7 @@
 	- [[Move Trait|Move]] [[Charge Trait|Charge]]
 - ###### Limit Break, 7 AP
 	- *You've pushed past the limits of your body, now it's time to push past the limits of Exceed itself.*
-	- Effect: Consume all stacks of [[Empowered|Empowered]], gain one stack of [[Adrenaline|Adrenaline]] for each stack. Until the end of the Scene any damage you deal is increased by 1d6 for every 3 stacks of [[Adrenaline|Adrenaline]] you have.
+	- Effect: Consume all stacks of [[Power|Empowered]], gain one stack of [[Adrenaline|Adrenaline]] for each stack. Until the end of the Scene any damage you deal is increased by 1d6 for every 3 stacks of [[Adrenaline|Adrenaline]] you have.
 	- [[Final Trait|Final]]
 
 #### Combo Actions:
