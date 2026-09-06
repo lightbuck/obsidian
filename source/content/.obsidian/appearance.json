@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Catppuccin",
-  "theme": "obsidian",
+  "cssTheme": "RedShift - OLED Blue Light Filter",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "columns"
-  ]
+  ],
+  "accentColor": "#ff0059"
 }

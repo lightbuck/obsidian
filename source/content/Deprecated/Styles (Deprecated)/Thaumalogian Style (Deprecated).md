@@ -3,7 +3,7 @@
 Actions:
 - **This better be the final draft**, 2 AP
 	- *Description*
-	- Effect: Gain stacks of the [[Adrenaline]] equal to the round number.
+	- Effect: Gain stacks of [[Adrenaline]] equal to the round number.
 	- [[Consumed Trait|Consumed]] [[Mobile Trait|Mobile]]
 - **Mightier than the sword**, 2 AP
 	- *Description*

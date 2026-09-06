@@ -1,5 +1,6 @@
-Power is gained by fullfulling your [[Roles|Role's]] duties. And it can be expended to do one of two things, [[Trait Transfer#Flexing A Trait|Flexing a Trait]],  improving Actions or removing Wounds.
-
+Power is gained by fulfilling your [[Roles|Role's]] duties. And it can be expended to do one of two things, [[Trait Transfer#Flexing A Trait|Flexing a Trait]],  improving Actions or removing Wounds.
+# Flexing A Trait
+Consuming two Stacks of [[Power]], to temporarily make so that the previous or the next [[Actions|Action]] gains a trait for this turn. 
 # Power Boost
 By spending power you can temporarily boost an action, increasing its damage or other benefits gained. This system is dynamic and  it is up to the GM what you can increase or not. Here are a few examples of how it works, use these as guidelines and extrapolate from them !
 - Increasing size: spend one power to increase the size of [[Area Trait|Areas]] by  one

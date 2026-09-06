@@ -4,7 +4,7 @@ There are 4 types of Actions:
 - Core Actions: Can cost 1 to 4 AP. Each Core Action can be used once per turn. ^8c5a75
 - Combo Actions: Cost 1 AP. Can only be used after you or an allied character used a specific action or an action with a specific trait. ^22357c
 - Reactions: Cost no AP and can only be used under specific circumstances even if it's not your turn. Can be used only once per round. ^45d755
-- [[Stylish Actions]]: Actions that consume a stack of the [[Power]], have no AP cost and are ignored for the purposes of conditions of other Combo Actions or Reactions.
+- [[Stylish Actions]]: Actions that consume a stack of [[Power]], have no AP cost and are ignored for the purposes of conditions of other Combo Actions or Reactions.
 # Action Pools
 Player Character have access to Actions through Action Pools, such as [[Powers]] and [[Armaments]]. But all Characters have access to [[Universal Actions]].
 # Effective AP ^2c1bb5

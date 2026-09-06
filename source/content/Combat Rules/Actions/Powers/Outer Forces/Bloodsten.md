@@ -1,6 +1,11 @@
 *Bloodsten replaces a wielder's limb with a metal that the user can morph into any shape they desire.*
 
 ---
+[[Skills]]:
+- Manifest (Morph Limb) +3
+	You change the shape of your Bloodsten Prosthetic
+- Flex (Choose) +2
+- Finesse (Choose) +2
 #### Actions:
 ##### Cymbal, 1 AP
 - *You shape your Bloodsten prosthetic into a defensive form, aiming to protect yourself, such as a shield or a piece of armor.*

@@ -3,9 +3,10 @@
 ---
 %% Aoe, Buff Allies %%
 [[Skills]]:
-- "Phoenix Talon Knowledge"
-- "Work with fire"
-
+- Attune (Heat Resistance) +3
+	You are resistant to heat
+- Manifest (The Talon) +3
+	You summon the flames of the Phoenix Talon
 #### Actions:
 ###### Heart Afire, 2 AP
 - *You open your palms and unleash a wave of fire*

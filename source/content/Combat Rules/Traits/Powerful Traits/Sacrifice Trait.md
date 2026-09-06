@@ -1,1 +1,3 @@
-At the end of this action your current stamina is reduced by the size of your [[Health and Stamina|Recovery Die]]. Gain [[Meter]] equal to the amount lost. However if you currently have the [[Daemonized Condition]] you instead gain [[Meter]] equal to the amount of damage you deal, up to twice the size of your [[Health and Stamina|Recovery Die]].
+At the end of this action roll your Recovery Die and lose that amount of Stamina. Gain [[Meter]] equal to the amount lost. 
+
+However if you currently have the [[Daemonized Condition]] you instead gain [[Meter]] equal to the damage you dealt with this action, up to the size of your Recovery Die.

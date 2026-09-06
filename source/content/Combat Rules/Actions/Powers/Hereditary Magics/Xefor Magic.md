@@ -3,9 +3,11 @@
 --- 
  %%Melee Debuffer and Damage Resistance%%
 [[Skills]]:
-- "Name Knowledge"
-- "Work with Name"
-
+- Attune (Heat Resistance) +3
+	You are resistant to heat
+- Manifest (Shape Sculpt) +2
+	You temporarily shift your body in a minor way.
+- Flex (Choose) +2
 #### Actions:
 - **Born below**, 2 AP
 	- *You invigorate yourself*
@@ -38,7 +40,7 @@
 - **Burning trail**, 2 AP
 	- *You leave a trail of scorched ground as you move.*
 	- Condition: Your last action caused you to move in some way OR forced a character to move.
-	- Effect: Target the spaces you moved through with the triggering action (and any further spaces you may move through with this action) OR the spaces you forced a character to move through. Any Character (excluding Characters wielding [[Xefor Magic]] or [[The Phoenix Talon]]) that starts their turn in this Area gains the [[Impacted Condition]]. Remove this Area the next time you begin your turn.
+	- Effect: Target the spaces you moved through with the triggering action (and any further spaces you may move through with this action) OR the spaces you forced a character to move through. Any Foe that starts their turn in this Area gains the [[Impacted Condition]]. Remove this Area the next time you begin your turn.
 	- [[Mobile Trait|Mobile]] [[Area Trait|Area]] [[Afflict Trait|Afflict]]
 - **Untouchable**, 2 AP
 	- *You reinvigorate yourself*

@@ -1,1 +1,3 @@
-Your Stamina pool is unlimited. However effects such as the [[Power Features (Deprecated)#^a04714|From Overflow Feature]] still reference your original stamina pool. Any time you would deal damage you may choose to add all your current stamina as a damage bonus, and lose that amount of stamina. If you end or begin your turn Exhausted you lose this condition.
+Your current Stamina pool is unlimited. Remove this condition when you take damage to health.
+
+Any time you deal damage you may choose to add all your current stamina as a bonus and lose that amount.

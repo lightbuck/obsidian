@@ -11,10 +11,28 @@
             "id": "b6ce17b276d35322",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Combat Rules/Actions/Powers/Outer Forces/Daemonic Possession.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Daemonic Possession"
+            }
+          },
+          {
+            "id": "739fd84530770c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roleplay Rules/Skills/Skills.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skills"
             }
           }
         ]
@@ -36,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "daemo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,32 +202,32 @@
   },
   "active": "b6ce17b276d35322",
   "lastOpenFiles": [
-    "Combat Rules/Actions/Adrenaline.md",
-    "Combat Rules/Features/Roles/Aide Role.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From My Support.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From Our Teamwork.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From Our Unity.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From My Kindness.md",
-    "Combat Rules/Features/Roles/Assailant Role.md",
-    "Combat Rules/Features/Roles/Defender Role.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From Being In The Way.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From My Sacrifice.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From My Resolve.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From My Resilience.md",
+    "Combat Rules/Actions/Armaments Actions/Ranged Armament Actions.md",
+    "Combat Rules/Actions/Armaments Actions/Melee Armament Actions.md",
+    "Combat Rules/Actions/Armaments Actions/Defensive Aspect Actions.md",
+    "Combat Rules/Actions/Armaments Actions/Area Armament Actions.md",
     "Combat Rules/Actions/Powers/Hereditary Magics/Xefor Magic.md",
-    "Combat Rules/Conditions/Action Conditions/Magmania Condition.md",
+    "Combat Rules/Actions/Powers/Zodiac Magics/The Phoenix Talon.md",
+    "Combat Rules/Actions/Powers/Outer Forces/Bloodsten.md",
+    "Combat Rules/Actions/Powers/Practiced Arts/The Shadow Dance.md",
+    "Roleplay Rules/Skills/Skills.md",
+    "Combat Rules/Actions/Powers/Hereditary Magics/Starfolk Magic.md",
+    "Combat Rules/Actions/Powers/Outer Forces/Daemonic Possession.md",
+    "Combat Rules/Conditions/Action Conditions/Hidden Condition.md",
+    "Combat Rules/Conditions/Negative Conditions/Stunned Condition.md",
+    "Roleplay Rules/Skills/Skill Bundles/Vampire's Donor.md",
+    "Roleplay Rules/Skills/Skill Bundles/Orbit Habitant.md",
+    "Roleplay Rules/Skills/Skill Bundles/Paracausal Jury-Rigger.md",
+    "Roleplay Rules/Skills/Skill Bundles/Megaflora Dweller.md",
+    "Roleplay Rules/Skills/Skill Bundles/Graduate of Nebbia.md",
+    "Roleplay Rules/Skills/Skill Bundles/Maw Betrayer.md",
     "Combat Rules/Conditions/Action Conditions/Protected Condition.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From My Destruction.md",
-    "Combat Rules/Traits/Basic Traits/Defend Trait.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From My Strength.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From the Tears of My Haters.md",
-    "Combat Rules/Features/Techniques/From Power Techniques/From My Pressure.md",
-    "Combat Rules/Actions/Empowered.md",
-    "Combat Rules/Actions/Untitled.md",
-    "Combat Rules/Actions/Actions.md",
-    "Combat Rules/Actions/Universal Actions.md",
-    "Combat Rules/Actions/Stylish Actions.md",
-    "Combat Rules/Features/Armaments/Armaments.md",
+    "Combat Rules/Traits/Basic Traits/Afflict Trait.md",
+    "Combat Rules/Actions/Powers/Powers.md",
+    "Combat Rules/Conditions/Action Conditions/Daemonized Condition.md",
+    "Combat Rules/Traits/Powerful Traits/Sacrifice Trait.md",
+    "Combat Rules/Actions/Powers/Hereditary Magics/Alkean Magic.md",
+    "Combat Rules/Actions/Powers/Zodiac Magics/Vampirism.md",
     "Pasted image 20260821123806.png",
     "Roleplay Rules/Skills/Skill Bundles",
     "Roleplay Rules/Skills",

@@ -49,7 +49,7 @@
 - **Revel in your power**, 2 AP
 	- *You revel in the power you possess*
 	- Condition: Your last action dealt Overflowing damage.
-	- Effect: Gain stacks of the [[Energized Condition]] equal to the Overflowing damage. If the Overflowing damage is greater than 10 you additionally gain a stack of the [[Adrenaline]]
+	- Effect: Gain stacks of the [[Energized Condition]] equal to the Overflowing damage. If the Overflowing damage is greater than 10 you additionally gain a stack of [[Adrenaline]]
 	- [[Charge Trait|Charge]]
 
 #### Reactions:
