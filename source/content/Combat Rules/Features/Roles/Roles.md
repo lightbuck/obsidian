@@ -2,4 +2,4 @@ Roles define what you do within a team of Player Characters and define how you c
 Here is the list of Roles:
 - [[Defender Role]]
 - [[Assailant Role]]
-- [[Aide Role]]
+- [[Helper Role]]

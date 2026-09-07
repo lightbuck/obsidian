@@ -23,7 +23,7 @@ Actions:
 	- [[Traits#^412513|Allies]] [[Aid Trait|Aid]] | [[Step Trait|Step(2)]] ^4c7c29
 - ###### Life, 6 AP
 	- *You weave together a web of all your allies, the connection forms an loop that exponentially empowers all of you.*
-	- Effect: Sum together yours and all your allies stacks of [[Drive|Empowered]], this number is the new amount of [[Drive|Empowered]] you and your allies have.
+	- Effect: Sum together yours and all your allies stacks of [[Drive]], this number is the new amount of [[Drive]] you and your allies have.
 	- [[Aid Trait|Aid]] 
 
 Combo Actions:

@@ -1,14 +1,1 @@
-Boons are passive positive aspects of your character.
-[[I am Vigorous]]![[I am Vigorous]]
-[[I am Big]]![[I am Big]]
-[[I am Bulky]]![[I am Bulky]]
-[[I am Bulky]]![[I am Bulky]]
-[[I am Fast]]![[I am Fast]]
-[[I am Flexible]]![[I am Flexible]]
-[[I am Slippery]]![[I am Slippery]]
-[[I am Light]]![[I am Light]]
-[[I am Nimble]]![[I am Nimble]]
-[[I am Quick]]![[I am Quick]]
-[[I am Quick]]![[I am Quick]]
-[[I am Steadfast]]![[I am Steadfast]]
-[[I am Tough]]![[I am Tough]]
+Boons are positive aspects of your character, most can be acquired more than once but their cost increases depending on how many you wish to get. Some Boons will have a spike in their price early on, some increase linearly.

@@ -1,9 +1,10 @@
 Help others to stay alive or make them more powerful
-# Power Features
+# Duties
 [[From My Kindness]]:![[From My Kindness]]
 [[From Our Unity]]:![[From Our Unity]]
 [[From Our Teamwork]]:![[From Our Teamwork]]
 [[From My Support]]:![[From My Support]]
+
 %%
 # Acitons
 - Medic
@@ -29,6 +30,5 @@ Help others to stay alive or make them more powerful
 	- Reactions: 
 		- **Remember the plan!**, R
 			- *A* 
-			- Condition: An Ally consumes all stacks of [[Drive|Empowered]]
-			- Effect: That Ally gains stacks of [[Drive|Empowered]] equal to the amount of [[Drive|Empowered]] you have.
+			- Condition: An Ally consumes all stacks of [[Drive]]ct: That Ally gains stacks of [[Drive]] equal to the amount of [[Drive]] you have.
 			- [[Role Trait|Role]] [[Aid Trait|Aid]]

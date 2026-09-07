@@ -14,7 +14,7 @@ By spending Drive you can temporarily boost an action, increasing its damage, he
 - Increase Aid: spend a point of empowered to remove an extra stack of  a negative condition you were already removing.
 The GM should avoid allowing Drive to be used to increase the gained positive conditions by Effects of actions. For example an action's effect allows a character to gain 1 point of [[Adrenaline]], you should not be able to spend Drive to increase that effect. 
 # Drive Trick
-You can consume two Stacks of [[Drive]], to temporarily add a Trait to the next Action you take. You must already have access to this Trait but it must make sense for the Action. For example adding an [[Attack Trait]] to an action that does not deal damage does nothing. But adding the [[Mobile Trait]] would work. While adding the [[Move Trait]] would not. 
+You can consume a stack of [[Drive]], to temporarily add a Trait to the next Action you take. You must already have access to this Trait and it must make sense for the Action. For example adding an [[Attack Trait]] to an action that does not deal damage does nothing. But adding the [[Mobile Trait]] would work. While adding the [[Move Trait]] would not. 
 A general rule of thumb is if the trait you are adding changes or improves something the action is already doing then it will work. While if you are trying to add something new to the action it likely won't.
 # Drive Tag
-Consuming two Stacks of [[Drive]] use an Ally's [[Crossover Trait|Crossover]] Action
+Consume two Stacks of [[Drive]] use an Ally's [[Crossover Trait|Crossover]] Action

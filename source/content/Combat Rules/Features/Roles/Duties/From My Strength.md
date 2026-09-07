@@ -1,1 +1,1 @@
-When you knock out a Unit you gain 1 stack of [[Drive|Empowered]]. 
+When you deal Overwhelming Damage or exhaust more than one unit's stamina at once, gain 1 [[Drive]].

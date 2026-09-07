@@ -1,1 +1,1 @@
-When you become exhausted as a result of a Foe's Action you gain 1 stack of [[Drive|Empowered]].
+When you take damage to health you gain 1 stack of [[Drive]].

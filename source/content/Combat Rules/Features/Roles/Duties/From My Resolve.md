@@ -1,1 +1,1 @@
-When your Actions make you gain stamina equal to the value of your Recovery Die you gain 1 stack of [[Drive|Empowered]].
+When your Actions in a Turn make you gain an amount of Stamina at least equal to the value of your Recovery Die you gain 1 stack of [[Drive]].

@@ -1,10 +1,11 @@
 Redirect damage to yourself, force foes to deal with you.
-# Power Features
+# Duties
  [[From My Resilience]]: ![[From My Resilience]]
  [[From My Resolve]]: ![[From My Resolve]]
  [[From My Sacrifice]]:![[From My Sacrifice]]
- [[From Being In The Way]]:![[From Being In The Way]]
-%%
+ [[From Acting as a shield]]:![[From Acting as a shield]]
+ 
+ %%
 #  Actions
 - Wall
 	- Combo Actions:

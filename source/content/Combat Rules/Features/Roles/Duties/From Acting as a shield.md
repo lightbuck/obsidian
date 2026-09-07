@@ -1,0 +1,1 @@
+When you redirect or stop in some way an Attack that would have hit an Allied Character you gain 1 stack of [[Drive]]. 
