@@ -1,1 +1,1 @@
-When you target more than one Ally with an action with the [[Aid Trait]] 1 stack of [[Power|Empowered]].
+When you target more than one Ally with an action with the [[Aid Trait]] 1 stack of [[Drive|Empowered]].

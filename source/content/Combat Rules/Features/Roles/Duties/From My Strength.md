@@ -1,1 +1,1 @@
-When you knock out a Unit you gain 1 stack of [[Power|Empowered]]. 
+When you knock out a Unit you gain 1 stack of [[Drive|Empowered]]. 

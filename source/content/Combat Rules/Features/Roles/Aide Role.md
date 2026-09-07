@@ -29,6 +29,6 @@ Help others to stay alive or make them more powerful
 	- Reactions: 
 		- **Remember the plan!**, R
 			- *A* 
-			- Condition: An Ally consumes all stacks of [[Power|Empowered]]
-			- Effect: That Ally gains stacks of [[Power|Empowered]] equal to the amount of [[Power|Empowered]] you have.
+			- Condition: An Ally consumes all stacks of [[Drive|Empowered]]
+			- Effect: That Ally gains stacks of [[Drive|Empowered]] equal to the amount of [[Drive|Empowered]] you have.
 			- [[Role Trait|Role]] [[Aid Trait|Aid]]

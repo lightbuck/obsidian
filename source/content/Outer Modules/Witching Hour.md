@@ -7,7 +7,7 @@ These are the rules for the implementation of Dark Magic for player characters, 
 - "Work with Name"
 
 [[Power Features (Deprecated)]]:
-- From Souls: Gain stacks of [[Power|Empowered]] when a Foe takes an action by your suggestion.
+- From Souls: Gain stacks of [[Drive|Empowered]] when a Foe takes an action by your suggestion.
 
 Actions:
 - **Suggest**, 1 AP

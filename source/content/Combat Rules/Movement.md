@@ -3,7 +3,7 @@ Movement can happen in many different ways, a character can choose to move, they
 When in the air, Characters fall at the end of your turn. They take a points of damage for every space they fell.
 # Hanging On
 Characters may maintain their height when in the air, if they are adjacent to a surface, but they fall if they use their [[Actions#^45d755|Reactions]].
-# Forced Movement ^82257e
+# Forced Movement
 A character may be subjected to forced movement (such as being target by a an action with the [[Fling Trait]] or [[Push Trait]]). The character may endure some negatives effect depending on the result of movement.
 ## Hitting a surface
 If the forced movement ends in such a way that it would continue were it not for a surface in the way, the character moved will gain the [[Impacted Condition]]

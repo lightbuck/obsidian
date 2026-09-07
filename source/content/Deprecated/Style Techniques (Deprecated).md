@@ -1,5 +1,5 @@
 #Deprecated 
-Style Techniques are Stylish Actions that grant small buffs, similar to [[To Power Techniques (Depracated)]] but weaker and always cost one Stack of the [[Power]].
+Style Techniques are Stylish Actions that grant small buffs, similar to [[To Power Techniques (Depracated)]] but weaker and always cost one Stack of the [[Drive]].
 Players may work with the GM to create their own Style Techniques, (with the understanding that these actions cannot have the [[Attack Trait]]). 
 Style Techniques are neither Combo Actions nor Main Actions.
 

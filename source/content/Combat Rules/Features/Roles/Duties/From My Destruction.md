@@ -1,1 +1,1 @@
-Anytime you spend 2 AP on one action with the [[Attack Trait]] you gain 1 stack of [[Power|Empowered]]. 
+Anytime you spend 2 AP on one action with the [[Attack Trait]] you gain 1 stack of [[Drive|Empowered]]. 

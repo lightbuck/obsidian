@@ -1,2 +1,2 @@
 Consumption: 1 Stack
-Effect: All other allied characters gain 1 stack of [[Power|Empowered]].
+Effect: All other allied characters gain 1 stack of [[Drive|Empowered]].

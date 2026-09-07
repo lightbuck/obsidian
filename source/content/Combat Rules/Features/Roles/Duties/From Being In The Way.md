@@ -1,1 +1,1 @@
-When you redirect an Attack that would have hit an Allied Character to yourself you gain 1 stack of [[Power|Empowered]]. 
+When you redirect an Attack that would have hit an Allied Character to yourself you gain 1 stack of [[Drive|Empowered]]. 

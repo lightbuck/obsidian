@@ -1,1 +1,1 @@
-When you inflict 2 stacks of the [[Impacted Condition]] you gain 1 stack of [[Power|Empowered]]. 
+When you inflict 2 stacks of the [[Impacted Condition]] you gain 1 stack of [[Drive|Empowered]]. 
