@@ -1,0 +1,1 @@
+Once per Session you may opt to hide something that you are doing from any other characters. The characters will know you have done something but won't know what.
