@@ -1,0 +1,1 @@
+After this action the Character leaves the scene

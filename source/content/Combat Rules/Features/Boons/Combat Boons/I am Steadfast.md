@@ -1,3 +1,0 @@
-[[Changing Dice Size|Increase]] the size of your Recovery Die by a step.
-
-Type: Basic

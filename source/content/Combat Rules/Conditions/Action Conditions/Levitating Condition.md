@@ -1,0 +1,1 @@
+You do not fall. Remove this condition at the beginning of your turn or when you become exhausted.

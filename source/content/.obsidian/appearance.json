@@ -1,6 +1,6 @@
 {
-  "cssTheme": "RedShift - OLED Blue Light Filter",
-  "theme": "moonstone",
+  "cssTheme": "Faded",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "columns"
   ],
