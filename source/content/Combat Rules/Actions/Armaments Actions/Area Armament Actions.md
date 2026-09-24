@@ -43,5 +43,5 @@
 ##### Beam-O-War, R
 - *You stop an Area attack with one of your own*
 - Condition: You are targeted with an [[Area Trait|Area]] Attack
-- Effect: You do not take any damage from this Attack.
+- Effect:   Take a 1 AP Attack with the [[Area Trait]] targeting the Triggering Foe.
 - [[Defend Trait|Defend]]

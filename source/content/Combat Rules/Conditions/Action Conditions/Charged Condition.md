@@ -1,1 +1,3 @@
-When you take an action without the [[Charging Trait]] increase any damage it might deal (or any stamina it might grant) by 1d6 for every [[Actions#^2c1bb5|Effective AP]] spent since you last gained this condition including this action. Afterward this condition is removed. 
+At the end of your turn, gain a stack of this condition for every Effctive AP spent on an action with the [[Charging Trait]].
+
+When you take an Action without the [[Charging Trait]] spend all stacks of this Condition and if that action had the [[Attack Trait]] increase one of its damaging results for every 4 stacks you spent. If the action had the [[Defend Trait]] any stamina you gained from it is increased by 1d6 for every 4 stacks you spent.

@@ -31,5 +31,5 @@
 ##### Shoot the Bullet, R ^4c126c
 - *You stop a ranged attack with one of your own*
 - Condition: You are targeted with a [[Ranged Trait|Ranged]] Attack
-- Effect: You do not take any damage from this Attack.
+- Effect:  Take a 1 AP Attack with the [[Ranged Trait]] targeting the Triggering Foe.
 - [[Defend Trait|Defend]]

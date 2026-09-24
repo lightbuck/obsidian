@@ -24,13 +24,13 @@
 - *You lift yourself with lightning, leaping a great distance*
 - Effect: Move your speed twice. You may choose to land in a space occupied by a Foe, forcing them to move to an adjacent space.
 - [[Charging Trait|Charging]] [[Move Trait|Move]]
-- ###### The Storm, 4 AP ^13a4b0
+###### The Storm, 4 AP ^13a4b0
 - *You become one with the storm, appearing and disappearing like a lightning strike.*
 - Effect: Reposition up to three times anywhere in the battlefield. After each time you repositioned deal 4d8 damage to all Foes within Range 2 of you. You may reposition in to the same place. For any Foe you make Exhausted you gain one stack of[[Adrenaline|Adrenaline]]. Finally you reappear either at your starting position or at any position you repositioned to. 
 - [[Attack Trait|Attack]] [[Final Trait|Final]]
 
 #### Combo Actions: 
-##### Danger, High Voltage, 2 AP ^1cf9b7
+##### Danger, High Voltage, 3 AP ^1cf9b7
 - *The lightning from one of your strikes jumps to another foe*
 - Condition: Your last action had the [[Charging Trait]] and the [[Attack Trait]]
 - Effect: target a second foe within a radius of 3 of your original target, they take the same damage you dealt with your previous action. If this attack exhausts a target's stamina you may repeat this effect once.

@@ -9,11 +9,11 @@
 - [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Crushing Trait|Crushing]]
 ##### Cutting Advance, 1 AP ^dddb31
 - *You move forward unleashing a series of attacks to anyone in your path*
-- Effect: Target one Foe that you can see, move in a line toward them, additionally target any Foe that was adjacent to you during this movement. All Foes take 1d4 damage.
+- Effect: Target one Foe that you can see, move in a line toward them, additionally target any Foe that was adjacent to you during this movement. Both Foes take 1d4 damage.
 - [[Attack Trait|Attack]] [[Melee Trait|Melee]]
 ##### Crash, 2 AP
 - *You move and use your momentum to strike down a foe.*
-- Effect: Move in a line, target all foes within the line and deal a d6 of damage for every 3 Spaces you moved through at the point where the Foe is. Any previous movement that could be considered part of this line is also included.
+- Effect: Move in a line, target a foe the line and deal a d6 of damage for every 3 Spaces you moved through at the point where the Foe is. Any previous movement that could be considered part of this line is also included.
 - [[Move Trait|Move]] [[Attack Trait|Attack]] [[Melee Trait|Melee]]
 ##### Sharpening Anticipation, 1 AP
 - *You prepare yourself to deliver a devastating blow with your melee weapon*
@@ -41,5 +41,5 @@
 ##### Clashing of Blades, R ^4d8133
 - *You stop a melee attack with one of your own*
 - Condition: You are targeted with a [[Melee Trait|Melee]] Attack
-- Effect: You do not take any damage from this Attack.
+- Effect:   Take a 1 AP Attack with the [[Melee Trait]] targeting the Triggering Foe.
 - [[Defend Trait|Defend]]
