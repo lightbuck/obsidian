@@ -4,7 +4,7 @@ Monsters come in many size Classes
 ### Critters
 Small Creatures that act together, usually composed only of [[Combat Rules/Foes/NPCs#^e3bd6a|Grunts]]
 ### Tale Beasts
-Usually a single [[Combat Rules/Foes/NPCs#^4cc935|Heavy]] Foe, some may summon 'Minions', which are [[Combat Rules/Foes/NPCs#^e3bd6a|Grunts]]
+Usually a single [[Combat Rules/Foes/NPCs#^4cc935|Heavy]] Foe, some may summon 'Minions'.
 ### Maws
 Usually a single [[Combat Rules/Foes/NPCs#^dbb12a|Captains]] Foe
 ### Leviathans

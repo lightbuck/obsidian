@@ -3,7 +3,7 @@ This module adds rules to create crew spaceships and to navigate Limbo and the V
 ## Attributes
 ### Power
 Each Room and Module Requires Power to function. Power can be redirected, deactivating Rooms or Components and activating others.
-### Cargo Space
+### 
 A ship's inventory size.
 ### Endurance
 The overall health of the ship, when this number reaches 0 the GM determines what happens to the ship from this list:
