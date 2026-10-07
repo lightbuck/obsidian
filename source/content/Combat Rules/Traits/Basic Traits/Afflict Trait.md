@@ -1,1 +1,1 @@
-This Action's effect makes its targets gain a negative [[Conditions|Condition]].
+This Action's effect makes its targets gain a negative [[Statuses|Condition]].

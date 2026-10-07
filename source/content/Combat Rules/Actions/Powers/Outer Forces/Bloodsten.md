@@ -9,23 +9,23 @@
 #### Actions:
 ##### Cymbal, 1 AP
 - *You shape your Bloodsten prosthetic into a defensive form, aiming to protect yourself, such as a shield or a piece of armor.*
-- Effect: Gain the [[Forging Condition|Forging(Cymbal) Condition]], then, roll your recovery die.
+- Effect: Gain the [[Forged Install|Forging(Cymbal) Condition]], then, roll your recovery die.
 - [[Charge Trait|Charge]] [[Mobile Trait|Mobile]]
 ##### Snare, 1 AP
 - *You shape your Bloodsten prosthetic into an agile and more flexible form, such as a whip or a spear.*
-- Effect: Gain the [[Forging Condition|Forging(Snare) Condition]], 
+- Effect: Gain the [[Forged Install|Forging(Snare) Condition]], 
 - [[Charge Trait|Charge]] [[Mobile Trait|Mobile]]
 ##### Tom, 1 AP
 - *You shape your Bloodsten prosthetic into a blunt and heavy form, such as a hammer or a mace.*
-- Effect: Gain the [[Forging Condition|Forging(Tom) Condition]], 
+- Effect: Gain the [[Forged Install|Forging(Tom) Condition]], 
 - [[Charge Trait|Charge]]
 ##### Drum, 1 AP
 - *You shape your Bloodsten prosthetic, in a large and cutting form, such as a claymore or an axe.*
-- Effect: Gain the [[Forging Condition|Forging(Drum) Condition]], 
+- Effect: Gain the [[Forged Install|Forging(Drum) Condition]], 
 - [[Charge Trait|Charge]]
 ##### Rim Shatter, 2 AP
 - *You reshape Bloodsten prosthetic returning it to the form of its body part and fixing it.*
-- Effect: Roll your recovery die thrice and pick two results to gain. If you have it lose the [[Forging Condition]] and instead gain all three results.
+- Effect: Roll your recovery die thrice and pick two results to gain. If you have it lose the [[Forged Install]] and instead gain all three results.
 - [[Charge Trait|Charge]]
 
 #### Combo Actions: 

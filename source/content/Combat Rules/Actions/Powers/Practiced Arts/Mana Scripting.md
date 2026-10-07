@@ -35,7 +35,7 @@
 - **Flare**, 4 AP
 	- *You unleash a blast of pure heat and light*
 	- Condition: Your previous action had the [[Charge Trait]]
-	- Effect: Target a Radius of 3 spaces, deal 4d10 damage to all Characters within it. Foes hit by this attack gain a stack of the [[Impacted Condition]].
+	- Effect: Target a Radius of 3 spaces, deal 4d10 damage to all Characters within it. Foes hit by this attack gain a stack of the [[Impacted Curse]].
 	- [[Attack Trait|Attack]] [[Area Trait|Area]] [[Consumed Trait|Consumed]] [[Immobile Trait|Immobile]] 
 - ###### **Ultima**, 7 AP
 	- *You concatenate three spells, one spell is to summon a sufficient amount of uranium-235, a second spell to tear an atom of it in two and a third spell to limit the blast.*
@@ -55,12 +55,12 @@
 - **Gust of Gas**, 2 AP
 	- *You summon a cloud of corrosive Gas*
 	- Condition: Your previous action had the [[Charge Trait]]
-	- Effect: Target a Radius of 2 spaces, enemies are pushed from the center outward by 3 spaces. Afterward, the targeted area remains until its area is overlapped by another [[Area Trait|Area]] Action. Foes that end their turn in the Area gain the [[Impacted Condition]].
+	- Effect: Target a Radius of 2 spaces, enemies are pushed from the center outward by 3 spaces. Afterward, the targeted area remains until its area is overlapped by another [[Area Trait|Area]] Action. Foes that end their turn in the Area gain the [[Impacted Curse]].
 	- [[Area Trait|Area]] [[Immobile Trait|Immobile]]
 - **Frozen Field**, 2 AP
 	- *You freeze the floor ahead of your*
 	- Condition: Your previous action had the [[Charge Trait]]
-	- Effect: Target a Radius of 4 spaces, Foes within the targeted spaces gain the [[Immobilized Condition]]. Afterward, the targeted area remains until its area is overlapped by another [[Area Trait|Area]] Action. Characters taking a move action within the Area gain the [[Impacted Condition]].
+	- Effect: Target a Radius of 4 spaces, Foes within the targeted spaces gain the [[Immobilized Hex]]. Afterward, the targeted area remains until its area is overlapped by another [[Area Trait|Area]] Action. Characters taking a move action within the Area gain the [[Impacted Curse]].
 	- [[Area Trait|Area]] [[Immobile Trait|Immobile]]
 
 #### Reactions: 

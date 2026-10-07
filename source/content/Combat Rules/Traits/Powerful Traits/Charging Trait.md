@@ -1,1 +1,1 @@
-You gain or sustain the [[Charged Condition]].
+You gain or sustain the [[Charged Blessing]].

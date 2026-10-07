@@ -28,7 +28,7 @@ Combo Actions:
 - **Academically Induced Mental Breakdown**, 2 AP
 	- *Description*
 	- Condition: You consumed your last stack of the [[Adrenaline]] with your last action
-	- Effect: You exhaust your Stamina, gain the [[Stunned Condition]] and gain 2d4 stacks of [[Adrenaline|Adrenaline]].
+	- Effect: You exhaust your Stamina, gain the [[Stunned Curse]] and gain 2d4 stacks of [[Adrenaline|Adrenaline]].
 	- [[Consumed Trait|Consumed]]
 
 Reactions: 

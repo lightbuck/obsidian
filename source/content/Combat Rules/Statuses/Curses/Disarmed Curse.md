@@ -1,0 +1,1 @@
+You lose access to one of your [[Armaments]]. Remove this Curse at the end of your turn.

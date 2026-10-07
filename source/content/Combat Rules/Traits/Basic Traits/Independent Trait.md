@@ -1,1 +1,1 @@
-Once per Round you can take an action with this trait, even if you have the [[Impacted Condition]] or the [[Stunned Condition]], at the cost of the Reaction you would gain after this turn instead of its normal AP cost.
+Once per Round you can take an action with this trait, even if you have the [[Impacted Curse]] or the [[Stunned Curse]], at the cost of the Reaction you would gain after this turn instead of its normal AP cost.

@@ -47,23 +47,24 @@
 - [[Aid Trait|Aid]] [[Mobile Trait|Mobile]]
 ##### You've Been Thunderstruck, 4 AP
 - *You force the lightning you just discharged to return to you in a massive blast*
-- Condition: Your last action caused you to lose the [[Charged Condition]]
+- Condition: Your last action caused you to lose the [[Charged Blessing]]
 - Effect: Target a radius of 3 centered on you, deal 3d6 damage to all Characters.
 - [[Attack Trait|Attack]] [[Charging Trait|Charging]] [[Area Trait|Area]]
-##### Don't Be a Stranger, 1 AP
-- *You use the electricity of your strikes to magnetically move your foes*
-- Condition: Your last action had the [[Charging Trait]] and the [[Attack Trait]]
-- Effect: Target any foe affected by your last action, cause them to move to an adjacent space to you, or you may instead move yourself to a space adjacent to a foe you just affected.
-- [[Attack Trait|Attack]] [[Move Trait|Move]] [[Charging Trait|Charging]] 
 
-#### Reactions: 
-##### Garden in the Rain, R ^974ee5
-- *You release your lightning to someone who was foolish enough to strike you*
-- Condition: You have the  [[Charged Condition]] and a Foe targeted you with a melee attack
-- Effect: Deal 1d6 damage to the triggering foe, if their stamina is exhausted by this action their action is cancelled.
-- [[Attack Trait|Attack]] [[Defend Trait|Defend]]
-##### Tempest's Overture, R
-- *You got hit, but this only made you more determined to strike down your foes.*
-- Condition: You take damage from an attack
-- Effect: You gain the [[Charged Condition]] as if you had gained it with a 1 AP action.
-- [[Charge Trait|Charge]]
+#### Drive Actions:
+##### Garden in the Rain
+- *You release your in a protective fashion, pushing away your foes.*
+- Effect: Take no damage from an attack that is targeting you. (After resolving that action) Move all adjacent foes 3 spaces in the opposite direction of you.
+- [[Driven Trait|Driven]] [[Counter Trait|Counter]]
+##### Prospero's Speech
+- *The storm crackles around you, forcing your Foes to remain in place.*
+- Effect: Replace the behavior of all adjacent Foes: "Remain adjacent to STORM", changing 'STORM' to your character's name. At the beginning of your turn they lose this behavior.
+- [[Driven Trait|Driven]] [[Counter Trait|Counter]]
+##### Don't Be a Stranger
+- *With a spark of lightning you zip up to a Foe.*
+- Effect: Target a character, move to a space adjacent to them. You gain the [[Charged Blessing]] as if you had gained it with a 1 AP action.
+- [[Driven Trait|Driven]] [[Woven Trait|Woven]]
+##### Black Clouds in Isolation
+- *You let your lightning course through your body, temporarily letting you float.*
+- Effect: Gain the [[Levitating Blessing]] which you lose at the end of this turn. For this turn all actions with the [[Charging Trait]] also gain [[Step Trait|Step(3)]].
+- [[Driven Trait|Driven]] [[Woven Trait|Woven]]

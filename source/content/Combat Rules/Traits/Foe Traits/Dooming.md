@@ -1,0 +1,1 @@
+This requires [[N]] Doom to be spent to be used.

@@ -17,7 +17,7 @@
 	- [[Attack Trait|Attack]] [[Spend Trait|Spend(All)]]
 - **Commanding Grab**, 2 AP
 	- *You grab a hold of an enemy and hold them still by absorbing their kinetic energy*
-	- Effect: Target one foe within melee range, that foe gains an amount of [[Conditions#^8081d3|Slowed]] equal to their movement speed and you gain an equal amount of [[Meter]]. Additionally you gain the [[Centered Condition]]. 
+	- Effect: Target one foe within melee range, that foe gains an amount of [[Statuses#^8081d3|Slowed]] equal to their movement speed and you gain an equal amount of [[Meter]]. Additionally you gain the [[Centered Condition]]. 
 - 	[[Traits]]
 
 #### Combo Actions: 

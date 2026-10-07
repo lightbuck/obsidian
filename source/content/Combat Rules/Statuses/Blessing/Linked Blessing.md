@@ -1,0 +1,1 @@
+Your life force is linked to a specific Ally, when they gain stamina so do you.

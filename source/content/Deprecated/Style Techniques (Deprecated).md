@@ -10,7 +10,7 @@ Here are some examples:
 	- [[Stylish Trait|Stylish]]
 - **Full Throttle**
 	- *You rev up your engine*
-	- Effect: Gain 1d6 stacks of the [[Energized Condition]] per Round Number and then take a move action.
+	- Effect: Gain 1d6 stacks of the [[Energized Blessing]] per Round Number and then take a move action.
 	- [[Stylish Trait|Stylish]]
 - **Leave me alone!**
 	- *Description*
@@ -18,7 +18,7 @@ Here are some examples:
 	- [[Stylish Trait|Stylish]] [[Push Trait]]
 - **I won't give up!**
 	- *You lose your patience and set your power loose*
-	- Effect: Remove 2 stacks of the [[Impacted Condition]] if you have any.
+	- Effect: Remove 2 stacks of the [[Impacted Curse]] if you have any.
 	- [[Stylish Trait|Stylish]]
 - **Get in loser**
 	- *You rush ahead, bringing along a friend*
@@ -30,11 +30,11 @@ Here are some examples:
 	- [[Stylish Trait|Stylish]]
 - **Slide to a stop**
 	- *You slide to a stop*
-	- Effect: If Your last action was a move action, you may move an additional number of spaces equal to half the amount you moved with your last action, also gain stacks of [[Energized Condition|Energized]] equal to that amount. 
+	- Effect: If Your last action was a move action, you may move an additional number of spaces equal to half the amount you moved with your last action, also gain stacks of [[Energized Blessing|Energized]] equal to that amount. 
 	- [[Stylish Trait|Stylish]]
 - **Isn't there a bounty on your head?**
 	- *You threaten your foe*
-	- Effect: Target a Character, they gain the [[Hunted Condition]].
+	- Effect: Target a Character, they gain the [[Hunted Curse]].
 	- [[Stylish Trait|Stylish]] [[Afflict Trait|Afflict]]
 - **Now I'm motivated!**
 	- *You are ready for the fight*
@@ -42,9 +42,9 @@ Here are some examples:
 	- [[Stylish Trait|Stylish]]
 - **Sheathe Weapon**
 	- *You put away your weapon*
-	- Effect: The Foe you attacked with the previous action gains the [[Impacted Condition]].
+	- Effect: The Foe you attacked with the previous action gains the [[Impacted Curse]].
 	- [[Stylish Trait|Stylish]] [[Consumed Trait|Consumed]] [[Afflict Trait|Afflict]]
 - **I won't lose!**
 	- *You lose your patience and set your power loose*
-	- Effect: Gain 5 stacks of the [[Boosted Condition]].
+	- Effect: Gain 5 stacks of the [[Boosted Blessing]].
 	- [[Stylish Trait|Stylish]]

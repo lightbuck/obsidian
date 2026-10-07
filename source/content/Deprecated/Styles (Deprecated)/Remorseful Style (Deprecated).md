@@ -14,7 +14,7 @@ Combo Actions:
 - **You're going to make me angry!**, 1 AP
 	- *You threaten your Foe with the promise of showing what you're truly capable of*
 	- Condition: Your last action had the [[Attack Trait]] 
-	- Effect: Your Foe gains the [[Impacted Condition]]
+	- Effect: Your Foe gains the [[Impacted Curse]]
 	- [[Afflict Trait|Afflict]]
 - **You forced me to do this!**, 1 AP
 	- *You lose your patience and set your power loose*

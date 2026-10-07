@@ -1,0 +1,1 @@
+Take damage equal to the stacks of this condition every time you voluntarily move.

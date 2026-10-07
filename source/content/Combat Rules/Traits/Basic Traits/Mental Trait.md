@@ -1,0 +1,1 @@
+This action cannot deal damage to Health. If this action deals damage, its damage is reduced to leave one point of stamina left. When this happens, you still trigger conditions such as the [[Hunted Curse]] or Duties such as [[From My Strength]]as if the damage wasn't reduced.

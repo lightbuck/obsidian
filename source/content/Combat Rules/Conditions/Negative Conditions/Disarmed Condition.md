@@ -1,1 +1,0 @@
-You cannot take actions with the [[Attack Trait]]. Remove this condition after taking a Main or Combo Action.

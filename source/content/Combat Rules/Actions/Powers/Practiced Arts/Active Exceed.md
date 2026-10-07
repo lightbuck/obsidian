@@ -14,7 +14,7 @@
 	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Crushing Trait|Crushing]]
 - **Earth Shaker**, 1 AP
 	- *You slam a Foe into the ground*
-	- Effect: Target one Foe, deal 1d6 damage. If the Target already had the [[Impacted Condition]] or would gain it because of this action, you deal an extra 1d6 damage.
+	- Effect: Target one Foe, deal 1d6 damage. If the Target already had the [[Impacted Curse]] or would gain it because of this action, you deal an extra 1d6 damage.
 	-  [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Crushing Trait|Crushing]] [[Mobile Trait]]
 - **Burst Dash**, 2 AP
 	- *You suddenly move at incredible speed, suddenly appearing next to a foe*
@@ -49,14 +49,14 @@
 - **Revel in your power**, 2 AP
 	- *You revel in the power you possess*
 	- Condition: Your last action dealt Overflowing damage.
-	- Effect: Gain stacks of the [[Energized Condition]] equal to the Overflowing damage. If the Overflowing damage is greater than 10 you additionally gain a stack of [[Adrenaline]]
+	- Effect: Gain stacks of the [[Energized Blessing]] equal to the Overflowing damage. If the Overflowing damage is greater than 10 you additionally gain a stack of [[Adrenaline]]
 	- [[Charge Trait|Charge]]
 
 #### Reactions:
 - Iron Skin
 	- *Just as a foe is about to strike you, you channel your power to fortify yourself.*
 	- Condition: a Foe targets you with an attack.
-	- Effect: gain 2d6 stacks of the [[Protected Condition]] before taking damage from the triggering attack
+	- Effect: gain 2d6 stacks of the [[Protected Blessing]] before taking damage from the triggering attack
 	- [[Defend Trait|Defend]]
 - Immovable Object
 	- *You resist others' attempts to push you around*

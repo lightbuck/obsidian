@@ -7,7 +7,7 @@
 Actions:
 - **Hey, do your job!**, 1 AP ^8df064
 	- *You make a flourish as you flash a smile to your foes.*
-	- Effect: Gain the [[Hunted Condition]], take a [[Actions#^ffdf5f|Flourish Action]] for free. If by your next turn you still have the Hunted Condition you lose it and gain 1d4 Stamina for every round passed.
+	- Effect: Gain the [[Hunted Curse]], take a [[Actions#^ffdf5f|Flourish Action]] for free. If by your next turn you still have the Hunted Condition you lose it and gain 1d4 Stamina for every round passed.
 	- [[Immobile Trait|Immobile]]
 
 Combo Actions: 
@@ -25,11 +25,11 @@ Combo Actions:
 Reactions: 
 - **Where's your motivation?**, R ^64b866
 	- *You taunt an enemy that hasn't even managed to scratch you*
-	- Condition: A foe has targeted you with an attack, but it has not managed to exhausted your stamina nor caused you to gain any [[Conditions]]
+	- Condition: A foe has targeted you with an attack, but it has not managed to exhausted your stamina nor caused you to gain any [[Statuses]]
 	- Effect: Gain one stack of [[Drive]], gain an extra stack for every attack the Triggering Foe makes this turn until you become exhausted. If you don't become exhausted this Turn you regain your reaction once this Round.
 	- -
 - **This could be fun!**, R ^f7da0b
 	- *You look at the battlefield and you flash a grin to your enemies*
 	- Condition: The round begins
-	- Effect: Gain the [[Hunted Condition]] and roll your recovery die. On your turn gain Stamina for every turn that has passed.
+	- Effect: Gain the [[Hunted Curse]] and roll your recovery die. On your turn gain Stamina for every turn that has passed.
 	- -

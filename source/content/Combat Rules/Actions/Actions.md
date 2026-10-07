@@ -1,4 +1,4 @@
-During combat, Player Characters may only act through Actions, which require them to spend Action Points. At the beginning of a Character's turn they gain 4 Action points, they can never gain more than 4, but may start with less due to [[Conditions]] such as the [[Impacted Condition]]. If a Character starts their turn with 0 AP for whatever reason, they don't take their turn and gain stacks of the [[Vulnerable Condition]] determined by the GM.
+During combat, Player Characters may only act through Actions, which require them to spend Action Points. At the beginning of a Character's turn they gain 4 Action points, they can never gain more than 4, but may start with less due to [[Statuses]] such as the [[Impacted Curse]]. If a Character starts their turn with 0 AP for whatever reason, they don't take their turn and gain stacks of the [[Vulnerable Hex]] determined by the GM.
 # Action Types
 There are 4 types of Actions: 
 - Core Actions: Can cost 1 to 4 AP. Each Core Action can be used once per turn. ^8c5a75

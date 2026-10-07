@@ -69,5 +69,5 @@ Reactions:
 Style Techniques:
 ##### I won't give up!
 - *You lose your patience and set your power loose*
-- Effect: Remove 2 stacks of the [[Impacted Condition]] if you have any.
+- Effect: Remove 2 stacks of the [[Impacted Curse]] if you have any.
 - [[Stylish Trait|Stylish]]

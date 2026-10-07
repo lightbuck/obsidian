@@ -1,0 +1,1 @@
+When you gain this condition you take damage equal to the amount of stacks of this condition you already had.

@@ -1,3 +1,3 @@
-Increase the Speed of the movement you take with actions with the [[Step Trait]] by two.
+Increase the value of the [[Step Trait]] of any action you have by one.
 
 Type: Advanced

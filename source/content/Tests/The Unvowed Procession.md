@@ -18,11 +18,11 @@ Main Actions:
 	- [[Melee Trait|Melee]] [[Attack Trait|Attack]]
 - **Burrow**, 1 AP
 	- *Description*
-	- Effect: gain the [[Hidden Condition]]
+	- Effect: gain the [[Hidden Blessing]]
 	- -
 - **Louder than a chainsaw**, 1 AP
 	- *Description*
-	- Effect: Target a Burst of size 5, deal 2d4 damage. Increase the stacks of any Character's [[Impacted Condition]] if they have any.
+	- Effect: Target a Burst of size 5, deal 2d4 damage. Increase the stacks of any Character's [[Impacted Curse]] if they have any.
 	- [[Attack Trait|Attack]] [[Area Trait|Area]] [[Afflict Trait|Afflict]]
 - **Ramming Bug**, 2 AP
 	- *Description*
@@ -33,11 +33,11 @@ Combo Actions:
 - **Dragged Down**, 1 AP
 	- *Description*
 	- Condition: The Unvowed Cicada has damaged a Foe's Health with its last action.
-	- Effect: Target the triggering Foe, they gain one stack of the [[Impacted Condition]] and the [[Hidden Condition]]. The Cicada gains the [[Hidden Condition]].
+	- Effect: Target the triggering Foe, they gain one stack of the [[Impacted Curse]] and the [[Hidden Blessing]]. The Cicada gains the [[Hidden Blessing]].
 	- [[Attack Trait|Attack]] [[Afflict Trait|Afflict]] [[Melee Trait|Melee]] 
 - **17 Year Strike**, 1 AP
 	- *Description*
-	- Condition: The Unvowed Cicada has the [[Hidden Condition]] 
+	- Condition: The Unvowed Cicada has the [[Hidden Blessing]] 
 	- Effect: Target a Foe, appear adjacent to them, deal 3d6 damage.
 	- [[Melee Trait|Melee]] [[Attack Trait|Attack]] [[Surprising Trait|Surprising]]
 - **Surprise Wing Strike**, 2 AP
@@ -75,7 +75,7 @@ Combo Actions:
 - **Headbutt**, 1 AP
 	- *Description*
 	- Condition: Your last action had the [[Melee Trait]]
-	- Effect: A target of your previous action gains one stack of the [[Impacted Condition]]
+	- Effect: A target of your previous action gains one stack of the [[Impacted Curse]]
 	- [[Afflict Trait|Afflict]]
 - **Stumble Back**, 1 AP
 	- *Description*
@@ -96,7 +96,7 @@ The Assassin Cicada targets the Foe with the highest current Stamina with its At
 Main Actions:
 - **Dig Down**, 1 AP
 	- *Description*
-	- Effect: Gain the [[Hidden Condition]]
+	- Effect: Gain the [[Hidden Blessing]]
 	- [[Charge Trait|Charge]]
 - **Jump Stab**, 1 AP
 	- *Description*
@@ -106,7 +106,7 @@ Main Actions:
 Combo Actions: 
 - **Backstabbing Cicada**, 1 AP
 	- *Description*
-	- Condition: You have the [[Hidden Condition]]
+	- Condition: You have the [[Hidden Blessing]]
 	- Effect: Target a Foe, deal 2d6 damage
 	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Behavior Trait|Behavior(+6)]]
 # Swarming Cicadas

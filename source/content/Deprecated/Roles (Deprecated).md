@@ -37,7 +37,7 @@ What Role does your character play in a team? Roles give you ways to contribute 
 	- Reactions:
 		- "Remember the plan!" R,  
 			Condition: Whenever an ally's roll is Underwhelming
-			That Ally's next attack applies the [[Conditions#^07224d|Targeted Condition]] to their targets
+			That Ally's next attack applies the [[Statuses#^07224d|Targeted Condition]] to their targets
 			-|
 		- "Look Behind You" R, 
 			Condition: When an ally's [[Health and Stamina|Stamina is exhausted]]
@@ -47,14 +47,14 @@ What Role does your character play in a team? Roles give you ways to contribute 
 	- Actions:
 		- "Taking Notes" Combo 1 AP, After dealing damage to [[Health and Stamina|Stamina]], 
 			*You study your target's moves and how to counter them* 
-			Your target(s) gains 1 stack of the [[Conditions#^07224d|Targeted Condition]]
+			Your target(s) gains 1 stack of the [[Statuses#^07224d|Targeted Condition]]
 			-|
 		- "Expose Weak point",  Combo 2 AP, 
 			Condition: The previous action had the attack trait 
-			Apply 3 stacks of the [[Conditions#^07224d|Targeted Condition]] to one of the targets you attacked
+			Apply 3 stacks of the [[Statuses#^07224d|Targeted Condition]] to one of the targets you attacked
 			-|
 	- Passive:
-		At the beginning of your round gain 1 point of [[Health and Stamina|Stamina]] for every foe with the [[Conditions#^07224d|Targeted Condition]],  if there's only one foe you instead gain 1 point of [[Health and Stamina|Stamina]] for every stack of the [[Conditions#^07224d|Targeted Condition]]
+		At the beginning of your round gain 1 point of [[Health and Stamina|Stamina]] for every foe with the [[Statuses#^07224d|Targeted Condition]],  if there's only one foe you instead gain 1 point of [[Health and Stamina|Stamina]] for every stack of the [[Statuses#^07224d|Targeted Condition]]
 - The Heart
 	- You hold your team together, you convince the enemy to lay down their weapons, you elevate your team to heights far taller than what they could have achieved alone. The Heart increases ally results and removes conditions
 		- "You got this!" R, Whenever an ally fails a [[Health and Stamina#Tank Or Flank?]] Check, allow them to try again
@@ -94,7 +94,7 @@ Roles actions are [[Actions#^22357c|Combo Actions]], [[Actions#^45d755|Reactions
 - I've got you! , Reaction
 	Condition: An ally was [[Movement#^82257e|Flung]] 
 	You step in and grab the ally before they hit the ground
-	Effect: Take a [[Actions#^642a2c|Move Action]] to move toward the ally, if you reach an adjacent square to them they end the forced movement without taking the [[Impacted Condition]]
+	Effect: Take a [[Actions#^642a2c|Move Action]] to move toward the ally, if you reach an adjacent square to them they end the forced movement without taking the [[Impacted Curse]]
 - Good job! , Reaction
 	Condition: An ally dealt damage to [[Health and Stamina|Health]]
 	You compliment an Ally's skills

@@ -1,0 +1,1 @@
+Your AP are lowered to 1. . Remove this curse at the end of your turn.

@@ -1,1 +1,0 @@
-You have been crushed into a surface, made to fall or in some way incapacitated. Lower the amount of Action Points you gain on your turn by the amount of stacks of this Condition, then remove all stacks.

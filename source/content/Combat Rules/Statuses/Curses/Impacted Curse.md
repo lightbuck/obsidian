@@ -1,0 +1,1 @@
+Lower the amount of Action Points you gain on your turn by the amount of stacks of this Condition. Lose all stacks at the end of your turn.

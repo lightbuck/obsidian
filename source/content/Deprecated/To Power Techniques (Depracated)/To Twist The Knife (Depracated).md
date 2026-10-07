@@ -1,2 +1,2 @@
 Consumption: All Stacks, minimum of 3
-Effect: The next time you make a Foe Gain [[Impacted Condition|Impacted]] or [[Stunned Condition|Stunned]] you deal 1d6 damage for every stack of [[Drive]] consumed to all the affected characters.
+Effect: The next time you make a Foe Gain [[Impacted Curse|Impacted]] or [[Stunned Curse|Stunned]] you deal 1d6 damage for every stack of [[Drive]] consumed to all the affected characters.

@@ -1,1 +1,1 @@
-This action removes negative effects in some way described by the effect. Alternatively lose a stack of the [[Impacted Condition]] instead.
+This action removes negative effects in some way described by the effect.

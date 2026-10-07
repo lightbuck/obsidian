@@ -1,1 +1,0 @@
-Take [[N]] Damage for every space you voluntarily move.

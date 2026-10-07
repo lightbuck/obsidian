@@ -31,6 +31,10 @@
 - *You leap away with a blast*
 - Effect: Target a Radius of 2 spaces. Deal 1d4 damage to all Foes and then take a Move Action.
 - [[Attack Trait|Attack]] [[Area Trait|Area]] [[Move Trait|Move]]
+##### Opening Blast, 2 AP
+- *You blast a Foe, opening them up for further attacks*
+- Effect: Target a Radius of 2 spaces, deal 1d4 damage to all Foes within it. Choose one of the Targeted Foes, until they take damage to health, any action without the [[Area Trait]] that targets them deals an extra 1d6 damage. 
+- [[Attack Trait|Attack]] [[Area Trait|Area]] [[Mobile Trait|Mobile]]
 
 #### Combo Actions: 
 ##### The Bigger The Better, 1 AP
@@ -38,6 +42,11 @@
 - Condition: your last action had [[Charge Trait]]
 - Effect: The next action that has the [[Area Trait]] has increased size by one.
 - [[Charge Trait|Charge]] 
+##### Closing Blast, 1 AP
+- *You deliver a final strike with your Armament.*
+- Condition: your last action had the [[Attack Trait]]
+- Effect: Target a Radius of 2 spaces, deal 1d4 damage to all Foes within it for every action you took this turn that had the [[Attack Trait]] but not the [[Area Trait]]. 
+-  [[Attack Trait|Attack]] [[Area Trait|Area]] [[Consumed Trait|Consumed]]
 
 #### Reactions: 
 ##### Beam-O-War, R

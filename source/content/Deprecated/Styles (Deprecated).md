@@ -24,14 +24,14 @@ Actions:
 	- [[Attack Trait|Attack]][[Melee Trait|Melee]] |
 - Make A Stand. 2 AP
 	- *You plant your feet and stop right where you are, determined to not let anyone pass*
-	- Effect: Until your next turn, your reach with melee weapons is increased by 1 space and any time you take an action with the [[Attack Trait]]your target(s) gains stacks of [[Conditions#^8081d3|Slowed]] equal to the damage you deal. 
+	- Effect: Until your next turn, your reach with melee weapons is increased by 1 space and any time you take an action with the [[Attack Trait]]your target(s) gains stacks of [[Statuses#^8081d3|Slowed]] equal to the damage you deal. 
 	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Immobile Trait|Immobile]] |
 Combo Actions:
 - **One Two**, 1 AP
 	- *You follow up a strike with a quick jab.*
 	- Condition: Your last action had the [[Attack Trait]]and the[[Melee Trait]]
 	- Effect: Target one foe with your Melee weapon, dealing 1d4 damage
-	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Conditions#^9ed920|Stressing(2)]] | ^486153
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Statuses#^9ed920|Stressing(2)]] | ^486153
 - **And Bow**, 2 AP
 	- *You use the momentum from your last attack to spin around, hitting anyone in the way.
 	- Condition: Your last action had the [[Attack Trait]]*
@@ -41,13 +41,13 @@ Combo Actions:
 	- *After a short break you immediately return to smashing someone's face in.*
 	- Condition: Your last action did not have the  [[Attack Trait]]
 	- Effect: Target one foe with your Melee weapon, dealing 1d6 damage
-	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Conditions#^9ed920|Stressing(2)]] |  ^2433da
+	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Statuses#^9ed920|Stressing(2)]] |  ^2433da
 
 Reactions:
 - **Clashing Arms**, R
 	- *You raise your weapon to stop an enemy's strike*
 	- Condition: Whenever you take damage to your [[Health and Stamina|Stamina]] from an action with the [[Attack Trait]]and the [[Melee Trait]]
-	- Effect: Gain 3d4 stacks of [[Conditions#^9f2db4|Protected]] before you take the damage that triggered this attack
+	- Effect: Gain 3d4 stacks of [[Statuses#^9f2db4|Protected]] before you take the damage that triggered this attack
 	- [[Melee Trait|Melee]] ^09e508
 - **Cut the Wind**, R
 	- *You use your weapon to deflect a ranged attack to an enemy close to you.*
@@ -64,7 +64,7 @@ Actions: ^eb8eb1
 	- [[Attack Trait|Attack]] [[Ranged Trait]] | ^ba66aa
 - Trick Shot , 2 AP
 	- *You skillfully fire a shot that has extra effects*
-	- Effect: Target 1 Foe with your weapon, deal 1d4 damage. This action gains a [[Traits|Trait]] of your choice from the following list: [[Fling Trait|Fling(4)]], [[Conditions#^9ed920|Stressing(2)]], [[Mobile Trait|Mobile]], [[Traits#^c65353|Loaded(2)]], [[Brutal Trait|Brutal]] or [[Piercing Trait|Piercing]].
+	- Effect: Target 1 Foe with your weapon, deal 1d4 damage. This action gains a [[Traits|Trait]] of your choice from the following list: [[Fling Trait|Fling(4)]], [[Statuses#^9ed920|Stressing(2)]], [[Mobile Trait|Mobile]], [[Traits#^c65353|Loaded(2)]], [[Brutal Trait|Brutal]] or [[Piercing Trait|Piercing]].
 	- |  ^9e667a
 - Reload , 1 AP
 	- *Load ammunition into your weapon*
@@ -76,7 +76,7 @@ Actions: ^eb8eb1
 	- | 
 - Aim for the Knee , 2 AP
 	- *You aim to cripple a Foe, prematurely ending their adventuring career.*
-	- Effect: Target 1 Foe with your weapon, deal 1d8 damage. If this action deals damage to the target's Health, you remove any positive [[Conditions|Condition]] they may be benefitting from.
+	- Effect: Target 1 Foe with your weapon, deal 1d8 damage. If this action deals damage to the target's Health, you remove any positive [[Statuses|Condition]] they may be benefitting from.
 
 Combo Actions:
 - RicoShot , 1 AP
@@ -97,7 +97,7 @@ Combo Actions:
 - Hipfire , 1 AP
 	- *You quickly fire a shot.*
 	- Condition: You previous action did not have the [[Attack Trait]]
-	- Effect: Target one Foe with your weapon, deal 1d8. If this action exhausts the target's stamina you gain [[Conditions|Adrenaline]]
+	- Effect: Target one Foe with your weapon, deal 1d8. If this action exhausts the target's stamina you gain [[Statuses|Adrenaline]]
 	- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Mobile Trait|Mobile]]| ^e11950
 
 Reaction:
@@ -121,7 +121,7 @@ Actions:
 	- [[Aid Trait|Aid]]
 - **Paw The Ground**, 1 AP
 	- *You prepare to rush down a Foe*
-	- Effect: You gain an amount of stacks of [[Energized Condition|Energized]] equal to your speed. Target one foe, if you exhaust your target's stamina this turn you gain the same amount of [[Energized Condition|Energized]] again.
+	- Effect: You gain an amount of stacks of [[Energized Blessing|Energized]] equal to your speed. Target one foe, if you exhaust your target's stamina this turn you gain the same amount of [[Energized Blessing|Energized]] again.
 	- [[Aid Trait|Aid]]
 
 Combo Actions:
@@ -147,7 +147,7 @@ You use ambush tactics, you appear for a quick strike and then you're gone again
 Actions:
 - **Hide**, 2 AP
 	- *Description*
-	- Effect: Gain the [[Hidden Condition]]e37|Hidden Condition]]
+	- Effect: Gain the [[Hidden Blessing]]e37|Hidden Condition]]
 	- [[Traits]]
 - **Name**, 1 AP
 	- *Description*
@@ -162,7 +162,7 @@ Combo Actions:
 - **Hidden Sprint**, 1 AP
 	- *Description*
 	- Condition: Your last action had the move trait
-	- Effect: Gain the [[Hidden Condition]]
+	- Effect: Gain the [[Hidden Blessing]]
 	- [[Traits]]
 - **Name**, 1 AP
 	- *Description*

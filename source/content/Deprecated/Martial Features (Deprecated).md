@@ -13,4 +13,4 @@
 	On your first turn of combat you gain +1d6 [[Drive]]
 - Shadowy Approach
 	-6 to initiative rolls
-	Begin combat with the [[Hidden Condition]]
+	Begin combat with the [[Hidden Blessing]]

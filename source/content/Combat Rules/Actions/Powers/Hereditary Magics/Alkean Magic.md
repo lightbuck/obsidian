@@ -1,13 +1,11 @@
-*Alkeans have the inborn ability to manipulate Spirit Energy, which is the energy left behind by the death of living things, excluding Humans. They can bind this energy to themselves to summon constructs of bone or even temporarily bring back to life the original creatures from which the Spirit Energy originated.* 
+*Alkeans have the inborn ability to manipulate Spirit Energy, which is the energy left behind by the death of living things, excluding Humans. They can bind this energy to themselves to summon constructs of bone or even temporarily bring back to life the original creatures from which the Spirit Energy originated.*
 
-*Alkeans usually specialize in creating a constructs to fight both in close quarters and at range. For example they could summon a blade to slash at their foes, or a bear to do the same in their stead, or they could summon a bow and arrows or send out a hawk to strike at their foes.*
+*Alkeans are capable of summoning any weapons they may desire, especially if that weapon is a once living being. For example they could summon a blade to slash at their foes, or a bear to do the same in their stead, or they could summon a bow and arrows or send out a wyvern to bite at their foes.*
 
 ---
 %%Gain n Spend Meter, Summon Things%%
 [[Skills]]:
-- "Alkean Magic"
-- "Work with the dead"
-
+- 
 #### Main Actions:
 ##### Gather Spirit, 1 AP
 - *You reach out and absorb nearby Spirit Energy*
@@ -18,7 +16,7 @@
 - [[Immobile Trait|Immobile]] [[Gain Trait|Gain(+3)]] 
 ##### From the Spirits with Love, 3 AP
 - *You spend Spirit Energy you have accumulated to summon a massive bone blade that thrusts forward.*
-- Effect: Target a 10 length line originating from you, or every point of [[Meter]] spent you deal +d4 to all [[Combat Rules/Foes/NPCs]] in that line.
+- Effect: Target a 10 length line originating from you, or every point of [[Meter]] spent you deal +d4 to all [[Combat Rules/Foe Rules/NPCs]] in that line.
 - [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Spend Trait|Spend(10)]] ^d1cd4e
 ##### Spirit Barrier, 1 AP
 - *You use Spirit Energy to create a barrier between you and your Foes*
@@ -33,7 +31,7 @@
 ##### Ain't afraid of no Spirits, 2 AP
 - *After attacking a foe with Spirit Energy you force said energy into your Foe's body*
 - Condition: The Previous action had the [[Spend Trait]] and the [[Attack Trait]]
-- Effect: Target a Foe you targeted with your previous action, they get 1 stack of the [[Stunned Condition]] ^a5d02f
+- Effect: Target a Foe you targeted with your previous action, they get 1 stack of the [[Stunned Curse]] ^a5d02f
 - [[Attack Trait|Attack]]
 ##### Possessed and Obsessed, 1 AP
 - *You infuse yourself with the Spirit Energy you collected, temporarily empowering yourself*

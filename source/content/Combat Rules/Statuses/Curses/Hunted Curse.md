@@ -1,0 +1,1 @@
+Once per round when this Unit's health is damaged, the character who dealt the damage gains one stack of Adrenaline and this Unit loses this Condition.

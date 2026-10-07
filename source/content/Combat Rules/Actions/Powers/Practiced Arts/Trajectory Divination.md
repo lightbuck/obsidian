@@ -9,7 +9,7 @@
 Actions:
 - **Premuntion**, 4 AP
 	- *You study the battlefield until you know it like the back of your own hand.*
-	- Effect: Your next Action this Round deals double damage to stamina if it deals damage and it afflicts double the number of stacks of the [[Impacted Condition]] if it afflicts that condition. 
+	- Effect: Your next Action this Round deals double damage to stamina if it deals damage and it afflicts double the number of stacks of the [[Impacted Curse]] if it afflicts that condition. 
 	- [[Charge Trait|Charge]] [[Immobile Trait|Immobile]]
 - **Trickshot**, 1 AP
 	- *You aim to have your next shot bounce off of someone in the battlefield.*
@@ -20,7 +20,7 @@ Combo Actions:
 - **Fakeout**, 1 AP
 	- *After failing to hurt a Foe, you reveal your true intentions with that shot*
 	- Condition: Your last action had the [[Attack Trait]] and the [[Ranged Trait]] and it did not exhaust a Foe's stamina
-	- Effect: The triggering Foe gains a stack of the [[Impacted Condition]]
+	- Effect: The triggering Foe gains a stack of the [[Impacted Curse]]
 	- [[Afflict Trait|Afflict]]
 - **Name**, 1 AP
 	- *Description*

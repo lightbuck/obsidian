@@ -1,0 +1,1 @@
+When you remove the [[Hunted Curse]] from a Target because you dealt damage to their Health, you immediately add it back.

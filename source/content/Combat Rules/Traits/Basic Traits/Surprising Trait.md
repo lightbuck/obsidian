@@ -1,1 +1,1 @@
-This action's target gains a stack of the [[Impacted Condition]]
+This action's target gains a stack of the [[Impacted Curse]]

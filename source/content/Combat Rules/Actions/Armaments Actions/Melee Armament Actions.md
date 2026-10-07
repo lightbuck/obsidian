@@ -19,6 +19,10 @@
 - *You prepare yourself to deliver a devastating blow with your melee weapon*
 - Effect: Your next Melee Attack deals an extra 1d6 damage.
 - [[Charge Trait|Charge]] [[Mobile Trait|Mobile]]
+##### Opening Slam, 2 AP
+- *You strike at a Foe, opening them up for further attacks*
+- Effect: Target one Foe, deal 1d6 damage. Until the Targeted Foe takes damage to health, any action without the [[Melee Trait]] that targets them deals an extra 1d6 damage. 
+- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Mobile Trait|Mobile]]
 
 #### Combo Actions: 
 ##### One-Two, 1 AP
@@ -34,8 +38,13 @@
 ##### Unbalancing Hit, 1 AP
 - *You slam into your foe trying to push them off balance*
 - Condition: your last action had the [[Melee Trait]].
-- Effect: Target a Foe adjacent to you that you targeted with your last Action. They gain one stack of the [[Impacted Condition]].
+- Effect: Target a Foe adjacent to you that you targeted with your last Action. They gain one stack of the [[Impacted Curse]].
 - [[Attack Trait|Attack]] [[Melee Trait|Melee]] 
+##### Closing Slam, 1 AP
+- *You deliver a final strike with your Armament.*
+- Condition: your last action had the [[Attack Trait]]
+- Effect: Target a Foe, deal a 1d8 of damage for every action you took this turn that had the [[Attack Trait]] but not the [[Melee Trait]]. 
+-  [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Consumed Trait|Consumed]]
 
 #### Reactions: 
 ##### Clashing of Blades, R ^4d8133

@@ -13,7 +13,7 @@ Actions:
 	- [[Move Trait|Move]] [[Charge Trait|Charge]]
 - **Down comes the night**, 2 AP
 	- *You sheath your weapon to recover from its heat.*
-	- Effect: Roll your recovery die twice and pick a result as normal, the result you didn't pick you instead gain as stacks of the [[Protected Condition]].
+	- Effect: Roll your recovery die twice and pick a result as normal, the result you didn't pick you instead gain as stacks of the [[Protected Blessing]].
 	- [[Charge Trait|Charge]] [[Aid Trait|Aid]] [[Defend Trait|Defend]]
 - **Hold on forever**, 2 AP
 	- *Description*

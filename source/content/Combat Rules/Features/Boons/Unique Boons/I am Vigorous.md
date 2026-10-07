@@ -1,3 +1,3 @@
-Whenever you lose a [[Conditions|Condition]] due to an Action with the [[Aid Trait]] you lose two stacks of that condition.
+Whenever you lose a [[Statuses|Condition]] due to an Action with the [[Aid Trait]] you lose two stacks of that condition.
 
 Type: Unique

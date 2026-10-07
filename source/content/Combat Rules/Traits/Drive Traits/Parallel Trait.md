@@ -1,0 +1,1 @@
+This action is used during your turn, it does not affect ongoing actions.

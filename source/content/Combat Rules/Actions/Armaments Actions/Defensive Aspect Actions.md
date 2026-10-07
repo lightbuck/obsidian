@@ -1,7 +1,7 @@
 #### Main Actions:
 ##### Raise Defenses, 2 AP
 - *You prepare yourself for incoming attacks*
-- Effect: Roll your recovery Die twice, gain any overflowing stamina as stacks of the [[Protected Condition]].
+- Effect: Roll your recovery Die twice, gain any overflowing stamina as stacks of the [[Protected Blessing]].
 - [[Defend Trait|Defend]]
 ##### Stand with me, 2 AP
 - *You offer protection to an Ally*
@@ -15,19 +15,19 @@
 #### Combo Actions: 
 ##### Share defenses, 1 AP
 - *You inspire a nearby ally to prepare themselves*
-- Condition: your last action made you gain the [[Protected Condition]]
-- Effect: Target an adjacent Ally, they gain half the amount of stacks of the [[Protected Condition]] that you gained.
+- Condition: your last action made you gain the [[Protected Blessing]]
+- Effect: Target an adjacent Ally, they gain half the amount of stacks of the [[Protected Blessing]] that you gained.
 - [[Defend Trait|Defend]] [[Mobile Trait|Mobile]]
 ##### I'll cover you!, 1 AP
 - *You yell out to an Ally to move*
 - Condition: your last action had the [[Aid Trait]] or the [[Defend Trait]] and targeted an Ally
-- Effect: That Ally gains 1d6 stacks of the [[Protected Condition]] a move action.
+- Effect: That Ally gains 1d6 stacks of the [[Protected Blessing]] a move action.
 -  [[Defend Trait|Defend]]
 
 #### Reactions: 
 ##### Is that all you've got?, R ^4d8133
 - *You are unimpressed with your Foe's efforts*
-- Condition: An attack consumed all your remaining stacks of the [[Protected Condition]]
+- Condition: An attack consumed all your remaining stacks of the [[Protected Blessing]]
 - Effect: gain stamina equal to the amount of stacks lost, before that attack would make you exhausted.
 - [[Defend Trait|Defend]]
 ##### Get behind me!, R

@@ -8,7 +8,7 @@ Turns: 2
 Characters: 1
 ## Declaration
 **Pox Blast**
-The Biggest Raider fires his shoulder mounted cannon, targeting every character (not belonging to [[The ProPox Raiders]]) **One By One**, placing Radius of 2 spaces centered on them. Characters caught in the area take 3d4 stacks of the [[Poisoned Condition]].
+The Biggest Raider fires his shoulder mounted cannon, targeting every character (not belonging to [[The ProPox Raiders]]) **One By One**, placing Radius of 2 spaces centered on them. Characters caught in the area take 3d4 stacks of the [[Poisoned Hex]].
 ## Actions
 Main Actions:
 - **Shotgun Blast**, 1 AP
@@ -17,22 +17,22 @@ Main Actions:
 	-  [[Attack Trait|Attack]] [[Area Trait|Area]]
 - **Bayonet Scalpel**, 1 AP
 	- *Description*
-	- Effect: Target a Foe, deal 2d6 damage to them and make them gain 1d4 stacks of the [[Poisoned Condition]].
+	- Effect: Target a Foe, deal 2d6 damage to them and make them gain 1d4 stacks of the [[Poisoned Hex]].
 	-  [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Afflict Trait|Afflict]]
 - **Rising Slash**, 2 AP
 	- *Description*
-	- Effect: Target a Foe, deal 4d6 damage to them and take two Move Actions. Gain the [[Levitating Condition]].
+	- Effect: Target a Foe, deal 4d6 damage to them and take two Move Actions. Gain the [[Levitating Blessing]].
 	-  [[Attack Trait|Attack]] [[Melee Trait|Melee]]
 
 Combo Actions: 
 - **Poxing Needle**, 1 AP
 	- *Description*
 	- Condition: You damaged a Foe's Health with its last action.
-	- Effect: Target the triggering Foe, they gain 1d6 stacks of the [[Poisoned Condition]].
+	- Effect: Target the triggering Foe, they gain 1d6 stacks of the [[Poisoned Hex]].
 	- [[Attack Trait|Attack]] [[Afflict Trait|Afflict]] [[Melee Trait|Melee]] 
 - **Crash Down**, 1 AP
 	- *Description*
-	- Condition: You have the [[Levitating Condition]].
+	- Condition: You have the [[Levitating Blessing]].
 	- Effect: Target a Foe below you, move into their space and deal 2d6 damage plus the amount of spaces your moved with this action.
 	- [[Attack Trait|Attack]] [[Move Trait|Move]] [[Melee Trait|Melee]] 
 # Flying Raider
@@ -49,7 +49,7 @@ The Flying Raider targets the character with the Recovery Die of the biggest siz
 Main Actions:
 - **Activate Jetpack**, 1 AP
 	- *Description*
-	- Effect: Take a move action and gain the [[Levitating Condition]].
+	- Effect: Take a move action and gain the [[Levitating Blessing]].
 	-  [[Move Trait|Move]]
 - **Aimed Shot**, 2 AP
 	- *Description*
@@ -80,7 +80,7 @@ The Meathead Raiders target the closest Foe with at least one attack every round
 Main Actions:
 - **Poison Weapons**, 1 AP
 	- *Description*
-	- Effect: This character's next action takes gains the [[Afflict Trait]] and makes its targets gain 1d6 stacks of the [[Poisoned Condition]].
+	- Effect: This character's next action takes gains the [[Afflict Trait]] and makes its targets gain 1d6 stacks of the [[Poisoned Hex]].
 	-  [[Charge Trait|Charge]]
 - **Group Charge**, 2 AP
 	- *Description*

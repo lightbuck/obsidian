@@ -39,7 +39,7 @@ List:
 
 ## Environment Traits
 - The Floor Is Lava(N): Characters that end their turn adjacent a specified surface take N damage
-- Slippery: when character's [[Health and Stamina#Gates|Gate]] is triggered they become [[Impacted Condition|Impacted]]
+- Slippery: when character's [[Health and Stamina#Gates|Gate]] is triggered they become [[Impacted Curse|Impacted]]
 - Crumbling: at the end of the round all characters in this area take 2 damage. They can attempt a [[Saves|Reflex Save]] to avoid the damage if they succeed or take 3 damage if they fail.
 - Royale(N): At the end of every turn all characters who aren't in this area take N damage
 - Trudging(N): All characters in this area have a N movement tax

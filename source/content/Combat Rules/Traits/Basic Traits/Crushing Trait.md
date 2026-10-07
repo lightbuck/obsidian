@@ -1,1 +1,1 @@
-If this action exhausts its target's stamina, they also gain a stack of the [[Impacted Condition]].
+If this action exhausts its target's stamina, they also gain a stack of the [[Impacted Curse]].

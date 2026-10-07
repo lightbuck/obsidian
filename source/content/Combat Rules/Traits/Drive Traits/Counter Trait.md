@@ -1,0 +1,1 @@
+This can only be used during a Foe's Turn.

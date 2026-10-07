@@ -9,7 +9,7 @@ Gates
 
 Rising Bonuses
 - Just Enough
-	Each round gain [[Energized Condition|Energized(1)]]
+	Each round gain [[Energized Blessing|Energized(1)]]
 - Faster than you thought
 	Your [[Actions#^5b10a9|Rising Action]] has a +2 speed or +2 to its results if it is a recovery 
 
@@ -21,7 +21,7 @@ Recoveries
 
 Gate Triggers
 - Light footed
-	When one of you gates is triggered you gain 3 stack of [[Energized Condition|Energized]]
+	When one of you gates is triggered you gain 3 stack of [[Energized Blessing|Energized]]
 - Fight or Flight
 	When one of you gates is triggered you get 1 stack of [[Adrenaline|Adrenaline]]
 # V2
@@ -41,7 +41,7 @@ Feats 'From Power' are passive abilities that grant [[Drive]]t you a free From P
 	Gain 3d4 stacks of [[Driv[[Drive]]you spend 3 Action points or more in a single [[Actions#^8c5a75|Core Actions]] or [[Actions#^22357c|Combo Actions]] during your turn
 - From Overkill
 	Any[[Drive]]r greater to twice the stamina pool of your target you gain 2d8 stacks of [[Driveu cause a foe to become [[Impacted Condition|I[[Drive]]se
-	Gain 2d6 stacks of [[Drive]] [[Impacted Condition]]
+	Gain 2d6 stacks of [[Drive]] [[Impacted Curse]]
 - From Teamwork
 	At the end of your [[Drive]]very AP spent on actions with the [[Aid Trait]]
 - From Overflow
@@ -84,9 +84,9 @@ Feats 'To Power' are active abilit[[Drive]]e a [[Actions#^ffdf5f|Flourish Action
 - To Strength
 	Consume all stacks of [[Drive]], any[[Drive]]ge this turn increase the result by 2 for every 5 stacks of [[Drive]]
 - To Resilience
-	Consume all stacks of [[Drive]] gain one stack of [[Conditions#^9f2db4|Protected]] for every 5 stacks
+	Consume all stacks of [[Drive]] gain one stack of [[Statuses#^9f2db4|Protected]] for every 5 stacks
 - To Speed
-	Consume all stacks of [[Drive]], for every 2 stacks consumed you receive a stack of [[Energized Condition|Energized]] 
+	Consume all stacks of [[Drive]], for every 2 stacks consumed you receive a stack of [[Energized Blessing|Energized]] 
 - To Adrenaline
 	Consume all stacks of [[Drive]], for every 7 stacks you receive a stack of [[Adrenaline|Adrenaline]] 
 - To Stamina
