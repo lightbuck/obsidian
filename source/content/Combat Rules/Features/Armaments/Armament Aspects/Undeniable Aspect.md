@@ -1,0 +1,1 @@
+When you have the Impacted Curse you may take for free a 1 AP main action with one Armament with this Aspect.

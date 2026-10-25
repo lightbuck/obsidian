@@ -1,0 +1,1 @@
+Increase Speed by 3 when not adjacent to a surface. You don't fall at the end of your turn if you moved with your last action this turn.

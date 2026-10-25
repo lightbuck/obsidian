@@ -24,14 +24,8 @@
 - Effect: That Ally gains 1d6 stacks of the [[Protected Blessing]] a move action.
 -  [[Defend Trait|Defend]]
 
-#### Reactions: 
-##### Is that all you've got?, R ^4d8133
-- *You are unimpressed with your Foe's efforts*
-- Condition: An attack consumed all your remaining stacks of the [[Protected Blessing]]
-- Effect: gain stamina equal to the amount of stacks lost, before that attack would make you exhausted.
-- [[Defend Trait|Defend]]
-##### Get behind me!, R
+#### Drive Actions: 
+##### Get behind me!
 - *You defend an Ally*
-- Condition: An Ally that you can see, and that is within [[Ranges#^21f354|A Move Range of 2]], takes damage from a Foe's Attack.
-- Effect: move to a space adjacent to the triggering Ally, Re-Target the triggering to you
-- [[Defend Trait|Defend]] [[Move Trait|Move]]
+- Effect: An Ally that you can see takes no damage from an attack that is targeting them, move next to them and Re-Target the triggering Attack to you
+- [[Driven Trait|Driven]] [[Counter Trait|Counter]]

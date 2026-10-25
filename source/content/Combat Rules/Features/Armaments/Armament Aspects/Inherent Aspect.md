@@ -1,2 +1,1 @@
-*This Armament is a part of your body or is your body, it could be your fists or a transforming prosthetic.*
-You cannot gain the [[Disarmed Curse]]
+You don't need to swap to this Armament to use it, you can use other armaments along side it.

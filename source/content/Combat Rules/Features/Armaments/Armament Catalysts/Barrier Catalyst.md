@@ -1,0 +1,1 @@
+You provide lesser cover for your allies but you cannot make use of lesser cover.

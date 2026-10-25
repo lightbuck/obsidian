@@ -1,0 +1,1 @@
+Increase the size of Damage Rolls by one against Foes targeted by this Armament, that are adjacent to you. Decrease the Size of Damage Rolls against Foes not adjacent to you by one.

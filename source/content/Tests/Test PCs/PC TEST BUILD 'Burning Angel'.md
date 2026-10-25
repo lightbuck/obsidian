@@ -6,12 +6,12 @@ d4 Stamina
 2 Speed
 ## Action Pools:
 [[The Phoenix Talon]]
-[[Area Armament Actions]]
+[[Area Armament Techniques]]
 ## Armaments:
 ### "The Burn"
 *I fight by expelling waves of fire from my palms. I  also often concentrate these waves to propel myself around the battleground.*
 Type:[[Area Armament]]
-Sub Armaments:[[Vehicle Aspect]]
+Sub Armaments:[[Vehicle Armament]]
 
 ## Role:
 [[Assailant Role]]
@@ -48,9 +48,9 @@ Main Actions:
 
 ![[The Phoenix Talon#Bless your future, 2 AP]]+[[Vehicle Trait]]
 
-![[Area Armament Actions#Eye For Sizes, 1 AP]]+[[Vehicle Trait]]
+![[Area Armament Techniques#Eye For Sizes, 1 AP]]+[[Vehicle Trait]]
 
-![[Area Armament Actions#Propelling Flare , 1 AP]]+[[Vehicle Trait]]
+![[Area Armament Techniques#Propelling Flare , 1 AP]]+[[Vehicle Trait]]
 
 ![[The Phoenix Talon#On Parade, 2 AP]]+[[Vehicle Trait]]
 
@@ -59,12 +59,12 @@ Combo Actions:
 
 ![[The Phoenix Talon#Work Forces, 1 AP]]+[[Vehicle Trait]]
 
-![[Area Armament Actions#The Bigger The Better, 1 AP]]+[[Vehicle Trait]]
+![[Area Armament Techniques#The Bigger The Better, 1 AP]]+[[Vehicle Trait]]
 
 Reactions:
 ![[The Phoenix Talon#Ignite The Suits, R]]+[[Vehicle Trait]]
 
-![[Area Armament Actions#Beam-O-War, R]]+[[Vehicle Trait]]
+![[Area Armament Techniques#Beam-O-War, R]]+[[Vehicle Trait]]
 
 Style Techniques:
 ##### I won't give up!

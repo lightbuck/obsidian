@@ -1,0 +1,1 @@
+If you are at 1 Health and you take damage, you don't take the damage and you instead Break this Armament.

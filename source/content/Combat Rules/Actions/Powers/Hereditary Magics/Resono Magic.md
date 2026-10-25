@@ -5,24 +5,16 @@
 [[Skills]]:
 - 
 #### Actions:
-##### **Everybody in the world**, 4 AP
-- *Link together yourself and as many allies as possible.*
-- Effect: Target any amount of Allies that you can see. All allies gain the [[Linked Blessing|Linked(Name) Blessing]] where Name is your Character.
-- [[Step Trait|Step(3)]] [[Aid Trait|Aid]]
 ##### **You're gonna go far**, 1 AP
 - *You lend some of your lifeforce to an ally, bolstering them*
-- Effect: Target an Ally that you can see they gain the [[Linked Blessing|Linked(Name) Blessing]] where Name is your Character.
+- Effect: Target an ally adjacent to you, both you and the Ally gain 1d8 Stamina and an extra 1d10 for every stack of [[Drive]] either of you have. 
 - [[Step Trait|Step(3)]] [[Aid Trait|Aid]]
 ##### **Hand in Hand**, 2 AP
 - *You link two of your allies' Life Forces together.*
-- Effect: 
+- Effect: Target an Ally adjacent to you, that is at Maximum Stamina. Both of you gain a stack of [[Drive]]
 - [[Step Trait|Step(3)]] [[Aid Trait|Aid]]
-##### **Hand in Hand**, 2 AP
-- *You link two of your allies' Life Forces together.*
-- Effect: 
-- [[Step Trait|Step(3)]] [[Aid Trait|Aid]]
-##### **Hand in Hand**, 2 AP
-- *You link two of your allies' Life Forces together.*
+##### **Everybody in the world**, 3 AP
+- *Link together yourself and as many allies as possible.*
 - Effect: 
 - [[Step Trait|Step(3)]] [[Aid Trait|Aid]]
 ###### Life, 6 AP
@@ -31,11 +23,20 @@
 #### Combo Actions:
 ##### **Got em where I want em now**, 2 AP
 - *You grab an opponent by the life force and paralyze them* 
+- Condition: 
+- Effect: 
+- [[Step Trait|Step(3)]] [[Aid Trait|Aid]]
 ##### **What you get**, 1 AP
 - *After injuring a foe you transfer a negative condition from yourself to them*
+- Condition: 
+- Effect: 
+- [[Step Trait|Step(3)]] [[Aid Trait|Aid]]
 ##### **I get this Feeling**, 2 AP
 - *Choose a positive condition you gained with your last action, all allies gain it.*
+- Condition: 
+- Effect: 
+- [[Step Trait|Step(3)]] [[Aid Trait|Aid]]
 
-#### Reactions:
+#### Drive Actions
 ##### **Before I come Undone**, R
 - *After you take damage you physically pull on your connection with an ally to move closer to them*

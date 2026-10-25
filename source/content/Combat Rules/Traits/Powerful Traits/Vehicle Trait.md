@@ -1,1 +1,1 @@
-This action allows you to move as if it had the [[Mobile Trait]], if it already has such Trait then it allows you to move twice.
+This action allows you to move as if it had the [[Mobile Trait]] , if it already has such Trait it does not allow you to move twice. You cannot take this action if you have the [[Immobilized Hex]] or if you do not move at least 3 spaces and end that movement in a space different than the one you started from.

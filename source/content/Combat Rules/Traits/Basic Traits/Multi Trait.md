@@ -1,0 +1,2 @@
+This action counts as having the [[Melee Trait]], [[Ranged Trait]] or the [[Area Trait]], depending on what's in the brackets, and can be used if you have either of the respective Armaments.
+For example: [[Multi Trait| Multi (Melee, Area)]] counts as both having the [[Melee Trait]] and the [[Area Trait]] and could be used by the [[Melee Armament]]

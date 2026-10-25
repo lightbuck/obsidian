@@ -2,49 +2,46 @@
 
 --- 
 %% High melee DPS, self Damage %%
-Actions:
-- **Broken Bones**, 2 AP
-	- *Description*
-	- Effect: Target one Foe, deal 2d6 damage. Increase the die size of any damage bonus applied to this attack by one. Any damage bonus applied to this attack is also dealt to you after taking this action. Reduce the cost of this action by 1 for every damage bonus applied to it to a minimum of one.
-	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Consumed Trait|Consumed]]
-- **Face the sunrise**, 1 AP
-	- *Description
-	- Effect: Target one Foe that you can see, move to a space adjacent to them. Your next attack deals an extra 1d4 of damage.
-	- [[Move Trait|Move]] [[Charge Trait|Charge]]
-- **Down comes the night**, 2 AP
-	- *You sheath your weapon to recover from its heat.*
-	- Effect: Roll your recovery die twice and pick a result as normal, the result you didn't pick you instead gain as stacks of the [[Protected Blessing]].
-	- [[Charge Trait|Charge]] [[Aid Trait|Aid]] [[Defend Trait|Defend]]
-- **Hold on forever**, 2 AP
-	- *Description*
-	- Effect: Your next attack deals an extra 2d4 of damage.
-	- [[Charge Trait|Charge]]
+#### Actions:
+##### Broken Bones, 1 AP
+- *Description*
+- Effect: Target a Foe, deal 1d10 damage. For every AP spent on this action past 1 deal an extra 1d4 damage. If this action costs 4 AP it gains the [[Brutal Trait]].
+- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Poly Trait|Poly]]
+##### Hold on forever, 1 AP
+- *Description*
+- Effect: Any 1d4 you roll to deal damage on your next attack is increase it to 1d10, but you also take the result of **any** 1d10 of that attack as damage.
+- [[Charge Trait|Charge]]
+##### Down comes the night, 1 AP
+- *You sheath your weapon, blowing off any remaining heat.*
+- Effect: Target all adjacent foes, deal 1d6 damage. Return to your starting stamina.
+- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Fling Trait|Fling(1)]] [[Consumed Trait|Consumed]]
+##### Flashbang Summersault 1 AP
+- *Description
+- Effect: Take a Move Action, passing through spaces occupied by your Foes, that ends in a space adjacent to a Foe. The Foe takes an extra 1d4 damage from your next attack.
+- [[Move Trait|Move]]
 
-Combo Actions: 
-- **Undeniable slash**, 2 AP
-	- *Description*
-	- Condition: Your previous action granted your next attack a damage bonus.
-	- Effect: Target one Foe, deal 1d4 damage. If this action exhausts a Foe's stamina you may pick a damage bonus that was applied to this action and re apply it to your next Attack.
-	- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Mobile Trait|Mobile]] [[Charge Trait|Charge]]
-- **Void cut**, 3 AP
-	- *Description*
-	- Condition: Your previous action had the [[Charge Trait]]
-	- Effect: Target a Cone angled from you of 3 spaces, deal 1d4 damage to all Characters within it. Gain a damage bonus of +1d4 for every Character targeted by this attack. You may choose to have damage bonuses that apply 'to your next Attack' ignore this Attack.
-	- [[Attack Trait|Attack]] [[Area Trait|Area]] [[Melee Trait|Melee]]
-- **Name**, 1 AP
-	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
-- **Name**, 1 AP
-	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
-
-Reactions: 
-- **Name**, R
-	- *Description*
-	- Condition:
-	- Effect:
-	- [[Traits]]
+#### Combo Actions: 
+##### Undeniable Determination, 1 AP
+- *Description*
+- Condition: Your previous action had the [[Charge Trait]]
+- Effect: You don't take any self damage this turn. Lose a point of Health now, without triggering a Fight Forever Check. 
+- [[Charge Trait|Charge]]
+##### Reflected Slash, 1 AP
+- *Your previous attack leaves a shining afterimage that burns the eyes of a nearby Foe*
+- Condition: Your previous action had the [[Melee Trait]] and the [[Attack Trait]]
+- Effect: Target a Foe within line of sight of the target of the triggering action. They take 2d4 damage.
+- [[Attack Trait|Attack]] 
+#####  Taking Back what's mine, 1 AP
+- *Description*
+- Condition: Your previous action had the [[Melee Trait]] and the [[Attack Trait]]
+- Effect: Target the Foe you targeted of the triggering action. For every AP sent on this action you deal 2d4 damage.
+- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Poly Trait|Poly]]
+#### Drive Actions:
+##### Face the sunrise
+- *Description*
+- Effect: Your next [[Melee Trait|Melee]] Attack may target a foe as if it was an Attack with the [[Ranged Trait]] while utilizing a [[Melee Armament]].
+- [[Driven Trait|Driven]] [[Woven Trait|Woven]]
+##### Shine inside
+- *Description*
+- Effect: Your next [[Melee Trait|Melee]] Attack gains the [[Mobile Trait]].
+- [[Driven Trait|Driven]] [[Woven Trait|Woven]]

@@ -1,0 +1,1 @@
+When destroying Cover with Actions from this Armament, you may retroactively target Foes that were unable to be targeted because of said Cover.

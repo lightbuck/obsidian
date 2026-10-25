@@ -1,0 +1,1 @@
+When you damage a Foe immediately remove the Floating Blessing from them and they fall at the end of the triggering action.

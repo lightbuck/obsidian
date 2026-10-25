@@ -1,0 +1,1 @@
+This action makes you gain or lose N stacks of the [[Spirit Energy Blessing]]. If this has a '+' then it makes you gain that amount of stacks, if it has the '-' then it makes you lose that amount of stacks (If you don't have enough stacks you lose a point of Health without triggering a Fight Forever Check and you gain a Wound).

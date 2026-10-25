@@ -1,0 +1,1 @@
+Any time you take a move action, either standard, using Drive Dash or with the [[Mobile Trait]] you may instead move in a line by twice your speed.

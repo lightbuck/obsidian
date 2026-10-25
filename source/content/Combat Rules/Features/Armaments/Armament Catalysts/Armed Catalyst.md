@@ -1,0 +1,1 @@
+Choose another Armament between [[Melee Armament]], [[Ranged Armament]] and [[Area Armament]], this Armament counts as that armament but may not make use of the chosen Armamanet's Catalysts.

@@ -1,0 +1,1 @@
+You may end a move action so that both you and this armament are in the same place. This armament temporarily counts as a [[Vehicle Armament]].

@@ -1,1 +1,1 @@
-You may at will increase the cost of this action as long as its cost doesn't exceed your current AP. Reducing the cost of this action with Adrenaline happens after you increased the cost with this trait.
+You may at will increase the cost of this action as long as its cost doesn't exceed your current AP. Adrenaline is applied before this trait.

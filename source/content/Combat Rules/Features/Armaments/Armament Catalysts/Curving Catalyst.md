@@ -1,0 +1,1 @@
+Actions with this armament may target a space, from which you may chose a target as normal using that point for line of sight. All actions taken with this armament gain the Immobile Trait.

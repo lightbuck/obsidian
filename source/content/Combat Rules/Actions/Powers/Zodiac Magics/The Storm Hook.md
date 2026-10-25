@@ -67,4 +67,4 @@
 ##### Black Clouds in Isolation
 - *You let your lightning course through your body, temporarily letting you float.*
 - Effect: Gain the [[Levitating Blessing]] which you lose at the end of this turn. For this turn all actions with the [[Charging Trait]] also gain [[Step Trait|Step(3)]].
-- [[Driven Trait|Driven]] [[Woven Trait|Woven]]
+- [[Driven Trait|Driven]] [[Parallel Trait|Parallel]]

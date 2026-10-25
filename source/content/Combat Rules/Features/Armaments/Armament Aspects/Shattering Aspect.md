@@ -1,0 +1,1 @@
+Deal double damage to The Battlefield.
