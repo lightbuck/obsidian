@@ -1,0 +1,1 @@
+You cannot gain [[Health and Stamina|Stamina]].

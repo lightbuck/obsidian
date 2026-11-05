@@ -1,3 +1,5 @@
-*You are sooooo much better than everyone else, and you have to prove it.*
-Bane Condition:  When you end a turn without dealing more damage with an Attack  than the highest damage roll (from another character) yet this round. If you act first it must be higher than the previous turn's highest damage roll.
-**Boons:** +2
+You are arrogant.
+##### Baneful Taunt, 1 AP
+- *You proclaim your greatness, which invites your foes to take you down a peg.*
+- Effect: Gain the [[Hunted Curse]].
+- [[Bane Trait|Bane]]

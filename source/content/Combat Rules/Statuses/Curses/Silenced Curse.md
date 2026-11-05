@@ -1,1 +1,0 @@
-You cannot gain or spend [[Drive]], lose a stack of this Curse when you would gain Drive.

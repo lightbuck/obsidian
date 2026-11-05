@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1ab8ff1c2bce7be",
+        "id": "7ba6e439732754b2",
         "type": "tabs",
         "children": [
           {
-            "id": "8d7669e28613767b",
+            "id": "472ed1116315f4fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat Rules/Features/Armaments/Armament Aspects/Combined Aspect.md",
+                "file": "Combat Rules/Features/Banes/Defeatist Bane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combined Aspect"
-            }
-          },
-          {
-            "id": "515cbb657ec2ade1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miscellaneous Rules/Character Creation and Progression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character Creation and Progression"
+              "title": "Defeatist Bane"
             }
           }
         ]
@@ -200,34 +186,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d7669e28613767b",
+  "active": "472ed1116315f4fd",
   "lastOpenFiles": [
-    "Combat Rules/Features/Armaments/Armament Aspects/Inherent Aspect.md",
-    "Combat Rules/Features/Armaments/Armament Aspects/Combined Aspect.md",
-    "Combat Rules/Actions/Techniques/Companion Armament Techniques.md",
-    "Combat Rules/Traits/Powerful Traits/Companion Trait.md",
-    "Combat Rules/Actions/Techniques/Shotgun Techniques.md",
-    "Combat Rules/Actions/Techniques/Area Armament Techniques.md",
-    "Combat Rules/Features/Armaments/Companion Armament.md",
-    "Combat Rules/Features/Armaments/Armament Catalysts/Mount Catalyst.md",
-    "Combat Rules/Features/Armaments/Armament Catalysts/Winged Catalyst.md",
-    "Combat Rules/Features/Armaments/Armament Catalysts/Armed Catalyst.md",
-    "Combat Rules/Features/Armaments/Armament Catalysts/Mortar Catalyst.md",
-    "Combat Rules/Features/Armaments/Armament Catalysts/Levitating Catalyst.md",
-    "Combat Rules/Features/Armaments/Armament Catalysts/Curving Catalyst.md",
-    "Combat Rules/Features/Armaments/Armament Catalysts/Barrier Catalyst.md",
-    "Combat Rules/Features/Armaments/Armament Catalysts/Armor Catalyst.md",
-    "Combat Rules/Features/Armaments/Armament Aspects/Undeniable Aspect.md",
-    "Combat Rules/Features/Armaments/Armament Aspects/Transforming Aspect.md",
-    "Combat Rules/Features/Armaments/Armament Aspects/Stunning Aspect.md",
-    "Combat Rules/Features/Armaments/Armament Aspects/Shattering Aspect.md",
-    "Combat Rules/Features/Armaments/Armament Aspects/Reliable Aspect.md",
-    "Combat Rules/Features/Armaments/Armament Aspects/Quickdraw Aspect.md",
-    "Combat Rules/Features/Armaments/Armament Catalysts/Shotgun Catalyst.md",
-    "Combat Rules/Features/Armaments/Armament Catalysts/Reaching Catalyst.md",
-    "Combat Rules/Features/Armaments/Armament Catalysts/Piercing Catalyst.md",
-    "Combat Rules/Features/Armaments/Armament Catalysts/Leaping Catalyst.md",
-    "Combat Rules/Features/Armaments/Vehicle Armament.md",
+    "Combat Rules/Features/Banes/Cowardly Bane.md",
+    "Combat Rules/Features/Banes/Defeatist Bane.md",
+    "Combat Rules/Features/Banes/D.md",
+    "Combat Rules/Features/Banes/Insecure Bane.md",
+    "Deprecated/Banes (Deprecated)/Insecure Bane (Deprecated).md",
+    "Deprecated/Banes (Deprecated)/Banes (Deprecated).md",
+    "Combat Rules/Features/Banes/Wrathful Bane.md",
+    "Combat Rules/Features/Banes/Inattentive Bane.md",
+    "Combat Rules/Traits/Basic Traits/Surprising Trait.md",
+    "Combat Rules/Features/Banes/Indecisive Bane.md",
+    "Combat Rules/Features/Banes/Naive Bane.md",
+    "Combat Rules/Statuses/Blessing/Hidden Blessing.md",
+    "Combat Rules/Features/Banes/Loner Bane.md",
+    "Combat Rules/Features/Banes/Lazy Bane.md",
+    "Combat Rules/Features/Banes/Controlling Bane.md",
+    "Combat Rules/Features/Banes/Arrogant Bane.md",
+    "Combat Rules/Statuses/Installs/Lycan Install.md",
+    "Combat Rules/Statuses/Installs/Forged Install.md",
+    "Combat Rules/Statuses/Installs/Daemonized Install.md",
+    "Combat Rules/Statuses/Curses/Indolence Curse.md",
+    "Combat Rules/Statuses/Curses/Impacted Curse.md",
+    "Combat Rules/Traits/Drive Traits/Bane Trait.md",
+    "Combat Rules/Foe Rules/Doom.md",
+    "Combat Rules/Statuses/Statuses.md",
+    "Deprecated/Banes (Deprecated)/Lazy Bane (Deprecated).md",
+    "Combat Rules/Features/Banes/Tired.md",
+    "Combat Rules/Features/Banes",
     "Combat Rules/Features/Armaments/Armament Catalysts",
     "Combat Rules/Traits/Drive Traits",
     "Combat Rules/Game",
@@ -240,7 +227,6 @@
     "Combat Rules/Features/Boons/Basic Boons",
     "Combat Rules/Features/Boons/Combat Boons/Untitled.canvas",
     "Pasted image 20260821123806.png",
-    "Roleplay Rules/Skills/Skill Bundles",
     "Combat Rules/Features/Features.canvas",
     "Pasted image 20260605002041.png",
     "Images/Armaments Sheet.png",

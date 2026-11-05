@@ -1,3 +1,5 @@
-*You're quick to give up.*
-Bane Condition: When you become exhausted.
-**Boons:** +3
+You are .
+##### Baneful Surrender, 1 AP
+- *You hesitate.*
+- Effect: Gain a stack of the [[Impacted Curse]]
+- [[Bane Trait|Bane]]

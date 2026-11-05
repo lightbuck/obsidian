@@ -1,3 +1,5 @@
-*You believe your Foes would never actually try harm you, would they?*
-Bane Condition: When you are attacked by Foes who had not yet Attacked this Combat.
-**Boons:** +2
+You are naive.
+##### Baneful Ignorance, 1 AP
+- *You lower your guard.*
+- Effect: The next Action with the [[Attack Trait]] that targets you gains the [[Surprising Trait]].
+- [[Bane Trait|Bane]]

@@ -20,7 +20,7 @@ Sub Armaments:[[Vehicle Armament]]
 
 ![[To Destruction (Depracated)]]
 ## Bane:
-![[Vengeful Bane]]
+![[Vengeful Bane (Deprecated)]]
 ## Boons
 Free Roleplay Boon:
 ![[I am Good At Planning]]

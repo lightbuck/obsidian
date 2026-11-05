@@ -1,3 +1,5 @@
-*You really would rather not move.*
-Bane Condition: When you take a Move Action (not another action with the [[Move Trait]], [[Step Trait]] or [[Mobile Trait]] )
-**Boons:** +2
+You are lazy.
+##### Baneful Yawn, 1 AP
+- *You yawn are too tired and don't really feel like fighting.*
+- Effect: Gain two stacks of the [[Indolence Curse]].
+- [[Bane Trait|Bane]]

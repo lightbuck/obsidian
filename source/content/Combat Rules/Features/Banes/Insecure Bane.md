@@ -1,3 +1,5 @@
-*You don't believe that you can defeat Foes alone.*
-Bane Condition: When you Attack Foes that haven't already taken damage to their Health this combat.
-**Boons:** +2
+You are insecure.
+##### Baneful Tremble, 1 AP
+- *You tremble.*
+- Effect: You lower your stamina to 1.
+- [[Bane Trait|Bane]]
