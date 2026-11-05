@@ -1,1 +1,2 @@
 You don't need to swap to this Armament to use it, you can use other armaments along side it.
+**Cost**: 100 CR

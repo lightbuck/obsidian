@@ -1,1 +1,2 @@
 You may target Foes 3 spaces away but you cannot target Foes adjacent to you.
+**Cost**: 200 CR

@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "b9aab34a77883b9b",
+        "id": "c1ab8ff1c2bce7be",
         "type": "tabs",
         "children": [
           {
-            "id": "e7e83dbecd36a5ba",
+            "id": "8d7669e28613767b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat Rules/Features/Armaments/Armament Aspects/Combined Aspect.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combined Aspect"
+            }
+          },
+          {
+            "id": "515cbb657ec2ade1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Character Creation and Progression"
-            }
-          },
-          {
-            "id": "2e3690608f6384e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roleplay Rules/Skills/Skills.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Skills"
             }
           }
         ]
@@ -200,34 +200,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7e83dbecd36a5ba",
+  "active": "8d7669e28613767b",
   "lastOpenFiles": [
-    "Roleplay Rules/Skills/Skills.md",
-    "Miscellaneous Rules/Character Creation and Progression.md",
-    "Combat Rules/Features/Boons/Basic Boons/I am Skilled.md",
+    "Combat Rules/Features/Armaments/Armament Aspects/Inherent Aspect.md",
+    "Combat Rules/Features/Armaments/Armament Aspects/Combined Aspect.md",
+    "Combat Rules/Actions/Techniques/Companion Armament Techniques.md",
+    "Combat Rules/Traits/Powerful Traits/Companion Trait.md",
+    "Combat Rules/Actions/Techniques/Shotgun Techniques.md",
+    "Combat Rules/Actions/Techniques/Area Armament Techniques.md",
+    "Combat Rules/Features/Armaments/Companion Armament.md",
+    "Combat Rules/Features/Armaments/Armament Catalysts/Mount Catalyst.md",
+    "Combat Rules/Features/Armaments/Armament Catalysts/Winged Catalyst.md",
+    "Combat Rules/Features/Armaments/Armament Catalysts/Armed Catalyst.md",
+    "Combat Rules/Features/Armaments/Armament Catalysts/Mortar Catalyst.md",
+    "Combat Rules/Features/Armaments/Armament Catalysts/Levitating Catalyst.md",
+    "Combat Rules/Features/Armaments/Armament Catalysts/Curving Catalyst.md",
+    "Combat Rules/Features/Armaments/Armament Catalysts/Barrier Catalyst.md",
+    "Combat Rules/Features/Armaments/Armament Catalysts/Armor Catalyst.md",
+    "Combat Rules/Features/Armaments/Armament Aspects/Undeniable Aspect.md",
+    "Combat Rules/Features/Armaments/Armament Aspects/Transforming Aspect.md",
+    "Combat Rules/Features/Armaments/Armament Aspects/Stunning Aspect.md",
     "Combat Rules/Features/Armaments/Armament Aspects/Shattering Aspect.md",
     "Combat Rules/Features/Armaments/Armament Aspects/Reliable Aspect.md",
     "Combat Rules/Features/Armaments/Armament Aspects/Quickdraw Aspect.md",
-    "Combat Rules/Features/Boons/Advanced Boons/I am Cooperative.md",
-    "Combat Rules/Features/Boons/Advanced Boons/I am Big.md",
-    "Combat Rules/Features/Boons/Advanced Boons/I am Alert.md",
-    "Combat Rules/Features/Boons/Boons.md",
-    "Combat Rules/Features/Boons/Basic Boons/I am Connected.md",
-    "Combat Rules/Features/Boons/Advanced Boons/I am Nimble.md",
-    "Combat Rules/Features/Boons/Unique Boons/I am Bulky.md",
-    "Combat Rules/Features/Boons/Unique Boons/I am Resilient.md",
-    "Combat Rules/Features/Boons/Unique Boons/I am Slippery.md",
-    "Combat Rules/Features/Boons/Unique Boons/I am Vigorous.md",
-    "Combat Rules/Features/Boons/Unique Boons/I am Adventurous.md",
-    "Combat Rules/Features/Boons/Advanced Boons/I am Light.md",
-    "Combat Rules/Features/Boons/Advanced Boons/I am Driven.md",
-    "Combat Rules/Features/Boons/Basic Boons/I am Fast.md",
-    "Combat Rules/Features/Boons/Basic Boons/I am Focused.md",
-    "Roleplay Rules/Items.md",
-    "Combat Rules/Actions/Techniques/Techniques.md",
-    "Howl loudly. Gain a [[Melee Armament.md",
-    "Combat Rules/Features/Boons/Unique Boons/I am Armed.md",
-    "Combat Rules/Actions/Techniques/Shotgun Techniques.md",
+    "Combat Rules/Features/Armaments/Armament Catalysts/Shotgun Catalyst.md",
+    "Combat Rules/Features/Armaments/Armament Catalysts/Reaching Catalyst.md",
+    "Combat Rules/Features/Armaments/Armament Catalysts/Piercing Catalyst.md",
+    "Combat Rules/Features/Armaments/Armament Catalysts/Leaping Catalyst.md",
+    "Combat Rules/Features/Armaments/Vehicle Armament.md",
     "Combat Rules/Features/Armaments/Armament Catalysts",
     "Combat Rules/Traits/Drive Traits",
     "Combat Rules/Game",

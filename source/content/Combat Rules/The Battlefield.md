@@ -9,9 +9,9 @@ Walls can have different [[Health and Stamina#^227d2d|Object Health]] values, he
 - Subspace Matter: 30 Health
 ## Cover
 A piece of Cover is something that stops line of sight in some way but does not impede movement. Pieces of Cover have [[Health and Stamina#^227d2d|Object Health]] like Walls, but usually halved from what a Wall would have, a flipped over Wooden Table would have 2 Health compared to a Wooden Wall, which would have 4 Health.
-### Partial Cover ^909037
-A piece of cove r is something that exists within the environment that stops line of sight for characters that aren't adjacent to it, but can be moved through.
-### Full Cover ^4eb84d
+### Partial Cover
+A piece of cover is something that exists within the environment that stops line of sight for characters that aren't adjacent to it, but can be moved through.
+### Full Cover
 A piece of cover is something that exists within the environment that stops line of sight for all characters but can be moved through.
 # Surfaces
 Surfaces are what characters are standing on or are [[Movement#Hanging On|Hanging On]] to. Sometimes they can have properties that hamper or facilitate movement, here's some examples:

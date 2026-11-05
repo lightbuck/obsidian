@@ -6,24 +6,21 @@ During character Creation, you choose a Kin for your character to be, this will 
 Then you choose an initial Power. 
 Now you have 19 points of Experience to spend according to this table:
 
-| Option                       | EXP Cost |
-| ---------------------------- | -------- |
-| Power                        | 10       |
-| Technique                    | 10       |
-| Unique Boon                  | 5        |
-| Advanced Boon                | 3        |
-| Basic Boon                   | 1+       |
-| 5 Skills at Beginner Tier    | 3        |
-| Upgrade a skill to Competent | 1        |
-Next you have 500 CR to spend according to this table:
-
-| Option             | CR Cost |
-| ------------------ | ------- |
-| Armament           | 200     |
-| Aspect             | 50      |
-| Catalyst           | 250     |
-| Learning Implement | 25      |
-| Consumable         | 5       |
+| Option        | EXP Cost |
+| ------------- | -------- |
+| Power         | 10       |
+| Technique     | 10       |
+| Unique Boon   | 5        |
+| Advanced Boon | 3        |
+| Basic Boon    | 1+       |
+| +200 Crystals | 1        |
+Next you have **350 CR** to spend on the following options:
+- Armaments
+	- Aspects
+	- Catalysts
+- Items
+	- Consumables
+	- Learning Implements
 # Character Progression
 During play, characters do not have access to the same options as Character Creation to spend EXP on. This table is used instead:
 

@@ -1,1 +1,2 @@
 When placing an Area you may chose to place it in a space you can't see but that you can path to. You take damage from the Areas you place, counting as a Foe for your own effects.
+**Cost**: 200 CR
