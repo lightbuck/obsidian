@@ -1,1 +1,1 @@
-After taking this action you may no longer take a move action or move with an action that has the [[Mobile Trait]] for the rest of this turn.
+You may not move during this action nor after this action, until you spend at least 1 AP on an actin or your turn ends.

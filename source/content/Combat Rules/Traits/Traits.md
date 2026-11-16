@@ -16,7 +16,6 @@ Traits are used to described basic functions of an Action along side the Action 
 ![[Expend Trait]]
 ![[Final Trait]]
 ![[Fling Trait]]
-![[Gain Trait]]
 ![[Immobile Trait]]
 ![[Melee Trait]]
 ![[Mobile Trait]]
@@ -27,7 +26,7 @@ Traits are used to described basic functions of an Action along side the Action 
 ![[Ranged Trait]]
 ![[Role Trait]]
 ![[Sacrifice Trait]]
-![[Spend Trait]]
+![[Spirits Trait]]
 ![[Step Trait]]
 ![[Defend Trait]]
 ## Magic Traits 

@@ -20,19 +20,19 @@
 ##### Mono-Threaded Crucifixion, 2 AP
 - *You use your Daemon to deliver a devastating Blow and then you let it feed on the spoils*
 - Effect: Target a Foe that you can see with one of your Armaments, deal 4d6 damage.
-- [[Sacrifice Trait|Sacrifice]] [[Attack Trait|Attack]] [[Adaptive Trait|Adaptive]]
+- [[Sacrifice Trait|Sacrifice]] [[Attack Trait|Attack]] [[Hands Free Trait|Hands Free]]
 ##### Multi-Threaded Skewering, 1 AP
 - *You use your Daemon to deliver a devastating Blow and then you let it feed on the spoils*
 - Effect: Target a Foe that you can see with one of your Armaments, deal 2d6 damage.
-- [[Sacrifice Trait|Sacrifice]] [[Attack Trait|Attack]] [[Adaptive Trait|Adaptive]]
+- [[Sacrifice Trait|Sacrifice]] [[Attack Trait|Attack]] [[Hands Free Trait|Hands Free]]
 ##### Push, 1 AP
 - *You allow your Daemon to take over your body*
-- Effect: You gain the [[Daemonized Install]] if you didn't already have it, replace your current stamina by an amount equal to every point of [[Meter]] Spent by this action. 
-- [[Spend Trait|Spend(ALL)]]
+- Effect: You gain the [[Daemonized Install]] if you didn't already have it, replace your current stamina by an amount equal to every point of [[Spirit Energy Blessing]] Spent by this action. 
+- [[Spirits Trait|Spirits (- All)]]
 ##### Deliverance, 6 AP
 - *Your Daemon is unleashed, but instead of stealing your life force it fights by your side completely autonomously.*
 - Effect: If you had it, you lose the [[Daemonized Install]]. Place a token on the field representing your Daemon as a [[Companions|Companion]], which has the [[Daemonized Install]] with stamina equal to every point of meter spent by this action. The Daemon can take actions only from [[Daemonic Possession]] and. Whenever you or your Daemon gain Stamina you can split it between you and your Daemon. If the Daemon becomes Exhausted it is removed from the field. While the Daemon is on the field you cannot gain the [[Daemonized Install]]. 
-- [[Spend Trait|Spend(ALL)]] [[Final Trait|Final]]
+- [[Spirits Trait|Spend(ALL)]] [[Final Trait|Final]]
 #### Combo Actions: 
 ##### Asynchronous Carnage, 1 AP
 - *Description*

@@ -92,6 +92,6 @@ Feats 'To Power' are active abilit[[Drive]]e a [[Actions#^ffdf5f|Flourish Action
 - To Stamina
 	Consume all stacks of [[Drive]] the next time you roll your recovery die, increasing the result by one for every 2 stacks
 - To Consumption
-	Consume all stacks of [[Drive]]. Your two next actions this turn gain a [[Spend Trait]] with a value equal to half the stacks of  [[Drive]] consumed
+	Consume all stacks of [[Drive]]. Your two next actions this turn gain a [[Spirits Trait]] with a value equal to half the stacks of  [[Drive]] consumed
 - To Allies
 	Consume all stacks of [[Drive]]. Split your stacks of [[Drive]] equally among any amount allied characters.

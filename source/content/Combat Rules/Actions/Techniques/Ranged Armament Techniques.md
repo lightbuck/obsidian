@@ -1,8 +1,8 @@
 #### Main Actions:
-##### Quick Fire, 1 AP
+##### Hip Fire, 1 AP
 - *You shoot a Foe*
-- Effect: Target one Foe that you can see, deal 1d6 damage.
-- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Mobile Trait|Mobile]]
+- Effect: Target one Foe that you can see, deal 1d6 damage. For this action you may make use of a [[Ranged Armament]] you don't have currently equipped.
+- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]]
 ##### Snipe, 2 AP
 - *You shoot a Foe*
 - Effect: Target one Foe that you can see, deal 4d4 damage.

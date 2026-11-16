@@ -1,0 +1,2 @@
+Spirit Energy does not do anything in and of itself, but it may be required to use certain actions.
+If you Spend more points from Meter than you currently have, you take the remaining amount as damage to your Health.

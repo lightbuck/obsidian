@@ -1,0 +1,1 @@
+This action spends or gains [[N]] [[Spirit Energy Blessing]] after resolving its rolls, depending on whether [[N]] had a - or + before it. However if the action did not specify an effect for the spent [[Spirit Energy Blessing]], you may gain the amount as [[Health and Stamina|Stamina]].

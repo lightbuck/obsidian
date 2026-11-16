@@ -11,7 +11,7 @@
 ##### Of Ice And Snow, 2 AP
 - *You strike a foe with a lightning bolt*
 - Effect: Target one foe within 3 spaces of you, deal 2d6 damage.
-- [[Attack Trait|Attack]] [[Adaptive Trait|Adaptive]] [[Charging Trait|Charging]] 
+- [[Attack Trait|Attack]] [[Hands Free Trait|Hands Free]] [[Charging Trait|Charging]] 
 ##### The Hammer Of The Gods, 3 AP ^b6640f
 - *You channel lightning through your conduit and into a foe as you strike them*
 - Effect: Target one Foe, deal 3d8 damage.
@@ -24,10 +24,6 @@
 - *You lift yourself with lightning, leaping a great distance*
 - Effect: Move your speed twice. You may choose to land in a space occupied by a Foe, forcing them to move to an adjacent space.
 - [[Charging Trait|Charging]] [[Move Trait|Move]]
-###### The Storm, 4 AP ^13a4b0
-- *You become one with the storm, appearing and disappearing like a lightning strike.*
-- Effect: Reposition up to three times anywhere in the battlefield. After each time you repositioned deal 4d8 damage to all Foes within Range 2 of you. You may reposition in to the same place. For any Foe you make Exhausted you gain one stack of[[Adrenaline|Adrenaline]]. Finally you reappear either at your starting position or at any position you repositioned to. 
-- [[Attack Trait|Attack]] [[Final Trait|Final]]
 
 #### Combo Actions: 
 ##### Danger, High Voltage, 3 AP ^1cf9b7
@@ -66,5 +62,9 @@
 - [[Driven Trait|Driven]] [[Woven Trait|Woven]]
 ##### Black Clouds in Isolation
 - *You let your lightning course through your body, temporarily letting you float.*
-- Effect: Gain the [[Levitating Blessing]] which you lose at the end of this turn. For this turn all actions with the [[Charging Trait]] also gain [[Step Trait|Step(3)]].
+- Effect: Gain the [[Flighted Blessing]] which you lose at the end of this turn. For this turn all actions with the [[Charging Trait]] also gain [[Step Trait|Step(3)]].
 - [[Driven Trait|Driven]] [[Parallel Trait|Parallel]]
+###### The Storm
+- *You become one with the storm, appearing and disappearing like a lightning strike.*
+- Effect: Reposition up to three times anywhere in the battlefield. After each time you repositioned deal 4d8 damage to all Foes within Range 2 of you. You may reposition in to the same place. For any Foe you make Exhausted you gain one stack of[[Adrenaline|Adrenaline]]. Finally you reappear either at your starting position or at any position you repositioned to. 
+- [[Driven Trait|Driven]] [[Final Trait|Final]]

@@ -1,0 +1,1 @@
+This action does not require an Armament to be used.

@@ -5,51 +5,78 @@
 ---
 %%Gain n Spend Meter, Summon Things%%
 [[Skills]]:
-- 
-#### Main Actions:
-##### Gather Spirit, 1 AP
-- *You reach out and absorb nearby Spirit Energy*
-- [[Gain Trait|Gain(+2)]] ^6989f2
-##### Combat Communion, 3 AP
-- You focus completely on absorbing nearby spirit energy from the battlefield.*
-- Effect: Gain an extra point of [[Meter]] per round number.
-- [[Immobile Trait|Immobile]] [[Gain Trait|Gain(+3)]] 
-##### From the Spirits with Love, 3 AP
-- *You spend Spirit Energy you have accumulated to summon a massive bone blade that thrusts forward.*
-- Effect: Target a 10 length line originating from you, or every point of [[Meter]] spent you deal +d4 to all [[Combat Rules/Foe Rules/NPCs]] in that line.
-- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Spend Trait|Spend(10)]] ^d1cd4e
-##### Spirit Barrier, 1 AP
-- *You use Spirit Energy to create a barrier between you and your Foes*
-- Effect: Create within a radius of 5 a piece of [[The Battlefield#^4eb84d|Full Cover]] for every 2 points of [[Meter]] spent by this action
-- [[Spend Trait|Spend(4)]] [[Traits#^2d7726|Create]] [[Defend Trait|Defend]]
-- ###### Death, 6 AP
-- *You use your magic to catalyze all nearby Spirit Energy and you channel it into a devastating blow*
-- Effect: Target a radius of 1, for every point of [[Meter]] spent by this action deal 2d6 damage to all characters within the radius. Until the end of the Scene any time a character is knocked out you gain 1 stack of [[Adrenaline|Adrenaline]] 
-- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Spend Trait|Spend(All)]] [[Final Trait|Final]]
-
+- Attune (Sense Spirits) +3
+	You sense nearby Spirit Energy
+- Manifest (Weave Raet) +3
+	You channel Raet, the physical side of Spirit Energy, and make a temporary bone construct with a green sheen.
+- Manifest (Project Etru) +3
+	You channel Etru, the psychical side of Spirit Energy, and make a glowing purple floating image.
+# Special
+## Paths:
+Most Alkeans follow tradition and learn to create bone constructs in the shape of animals. But in the modern era some Alkeans have began making constructs in the shape of low tech weapons. These two traditions are respectively referred to as 'the path of the ancients' and 'the path of the schismatics'. 
+When gaining this Power choose a path, you may learn actions from that path alongside your normal selection of actions. You also gain a special Armament when choosing a Path.
+To choose another path you must gain this Power again.
+### Path of the ancients
+#### Starting Companion
+Gain a [[Companion Armament]] with two Catalysts of your choice from its normal list and with the [[Spirited Catalyst]].
+#### Main Actions
+##### Combat Resurrection, 1 AP
+- *You summon a construct of spirit energy taking the form an animal whose Spirit Energy you absorbed.*
+- Effect: Equip a [[Companion Armament]]  you have that has the [[Spirited Catalyst]].
+- [[Charge Trait|Charge]] [[Immobile Trait|Immobile]] [[Spirit Trait|Spirit (-6)]]
+##### Symbiotic Possession, 1 AP
+- *You infuse yourself with the Spirit Energy you collected, temporarily gaining a trait of an animal whose Spirit Energy you absorbed.*
+- Effect: Choose one of the following benefits to gain, until the end until the beginning of your next turn: +1d6 extra damage, +5 speed, [[Flighted Blessing]] or +2d4 stacks of the [[Protected Blessing]].
+- [[Charge Trait|Charge]] [[Spirit Trait|Spirit (-6)]]
 #### Combo Actions:
-##### Ain't afraid of no Spirits, 2 AP
-- *After attacking a foe with Spirit Energy you force said energy into your Foe's body*
-- Condition: The Previous action had the [[Spend Trait]] and the [[Attack Trait]]
-- Effect: Target a Foe you targeted with your previous action, they get 1 stack of the [[Stunned Curse]] ^a5d02f
-- [[Attack Trait|Attack]]
-##### Possessed and Obsessed, 1 AP
-- *You infuse yourself with the Spirit Energy you collected, temporarily empowering yourself*
-- Condition: The Previous action had the [[Gain Trait]] 
-- Effect: gain 1 stack of [[Adrenaline|Adrenaline]] and Gain 3 point of stamina for each point of [[Meter]] Spent by this action
-- [[Spend Trait|Spend(ALL)]]| ^50bd9f
-##### Spirit Armor, 2 AP
-- *You recycle some of the Spirit Energy you used to defend yourself*
-- Condition: The Previous action had the [[Spend Trait]] 
-- Effect: You gain 1 point of [[Health and Stamina|Stamina]] for each point of [[Meter]] spent by the previous action
-- [[Immobile Trait|Immobile]] [[Defend Trait|Defend]]
-##### Death Begets Death, 1 AP
-- *You collect the Spirit Energy of a foe you just defeated.*
-- Condition: You knocked out a Foe with your last action
-- Effect: Gain 1d4 of [[Meter]] for every rank of the Foe you defeated.
-- [[Gain Trait|Gain]]
-#### Reactions:
-##### Bones from Blood, R
-- *You collect your sprit energy from a strike that you managed to avoid* 
-- Condition: You took damage to your stamina
-- [[Gain Trait|Gain(+2)]] ^909a48
+### Path of the schismatics
+#### Main Actions
+##### Osseoturgy, 1 AP
+- *You summon a weapon made of bone.*
+- Effect: Gain either a [[Melee Armament]] or a [[Ranged Armament]], with the [[Spirited Catalyst]] and no other Catalysts or Aspects. Swap to this Armament for free. When you swap off of this Armament you lose it. Alternatively a currently equipped Armament gains a Catalyst.
+- [[Mobile Trait|Mobile]] [[Spirit Trait|Spirit (-4)]]
+##### Wrathful Spirits, 1 AP
+- *You summon bone bullets, coat your weapon with sharpened bone fragments or empower your weapons in some other way Using Spirit Energy.*
+- Effect: Your next attack gains +1d6 damage. Add an extra +1d4 damage for every extra AP spent on this action, and an extra -1 to the [[Spirit Trait]] of this action.
+- [[Charge Trait|Charge]] [[Spirit Trait|Spirit (-4)]] [[Poly Trait|Poly]]
+#### Combo Actions:
+##### Twist the bone knife, 1 AP
+- *You overflow Foe's wound with Spirit Energy to make them more vulnerable.*
+- Condition: Your last action dealt damage to a Foe's [[Health and Stamina|Health]]
+- Effect: Target the triggering Foe, they take 1d4 damage and your next attack against them deals an extra 1d8 damage.
+- [[Attack Trait|Attack]] [[Hands Free Trait|Hands Free]] [[Afflict Trait|Afflict]] [[Spirit Trait|Spirit (-6)]]
+
+# Actions
+#### Main Actions:
+##### Still Here, 1 AP
+- *You take notice of nearby Spirit Energy.*
+- Effect: Gain 2d4 stacks of [[Spirit Energy Blessing]].
+- [[Charge Trait|Charge]] 
+##### From the Spirits with Love, 2 AP
+- *You spend all the Spirit Energy you have accumulated to summon a massive bone blade that thrusts forward.*
+- Effect: Target a line starting from you of width 4, its length is determined by the amount of stacks of [[Spirit Energy Blessing]] spent by this action. All Characters in the Area take 1d4 damage +1d4 extra damage for every 5 stacks spent. Additionally If you spend more than 20 stacks you may target a second Line like the first one.
+- [[Attack Trait|Attack]] [[Area Trait|Area]] [[Hands Free Trait|Hands Free]] [[Spirit Trait|Spirit (-All)]]
+##### Combat Communion, 3 AP
+- *You focus completely on absorbing nearby spirit energy from the battlefield.*
+- Effect: Gain 2d6 stacks of [[Spirit Energy Blessing]] and an extra stack for every missing point of [[Health and Stamina#Health|Health]] from any Foe on the battlefield (excluding knocked out foes).  
+- [[Charge Trait|Charge]] [[Immobile Trait|Immobile]]
+##### Dance of the dead, 3 AP
+- *You make all spirit energy.*
+- Effect: For the rest of this scene, the first time each Foe takes damage, the GM must place a token in an adjacent space to them that represents a Whisp of Spirit Energy. All Alkean characters, characters with the [[Daemonic Possession]] Power and characters with the [[Daemon In Machina]] Power may gain 12 stacks of the [[Spirit Energy Blessing]] if they enter a space where a whisp is present. If other characters enter the space remove the Whisp.
+- [[Charge Trait|Charge]] [[Immobile Trait|Immobile]]
+#### Combo Actions:
+##### Ain't afraid of no Spirits, 1 AP
+- *You redirect spirit energy to flow around you in a chaotic manner.*
+- Condition: Your last action spent [[Spirit Energy Blessing]].
+- Effect: Target a radius around you, deal 1d4 damage for every stack of the [[Spirit Energy Blessing]] spent by the triggering action up to 4d4. Push all Foes 1 space away.
+- [[Attack Trait|Attack]] [[Area Trait|Area]] [[Hands Free Trait|Hands Free]]
+##### Death Begets Death, 2 AP
+- *You collect the Spirit Energy of a foe you just harmed.*
+- Condition: Your last action knocked dealt damage to a Foe's Health.
+- Effect: Gain 1d6 [[Spirit Energy Blessing]] and an extra 1d6 for every point of Health that Foe has missing.
+- [[Charge Trait|Charge]]
+#### Drive Actions
+##### **Death**
+- *You use your magic to catalyze all nearby Spirit Energy and you channel it into a devastating blow*
+- Effect: Target a Foe and spend all stacks of the [[Spirit Energy Blessing]], for every stack spent deal 2d6 damage to the Target. The target also gains 4 stacks of the [[Impacted Curse]]. Until the end of the Scene any time a character is knocked out you gain 1 stack of [[Adrenaline|Adrenaline]].
+- [[Driven Trait|Driven]] [[Final Trait|Final]]

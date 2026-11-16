@@ -7,7 +7,7 @@ What Role does your character play in a team? Roles determine your health and st
 	- Trait: [[Traits#^0c3ae0|BIG]]
 - The Tactician
 	- You find the weak spot in the enemy's stratagem, you devise the attack plan, but you already knew this because you have prepared for everything. ​The Tactician has reactions they can use to gather information on the enemy and interced in their plans. 
-		- "Taking Notes" 1 AP, Whenever a roll's result is less than half of the dice, add +1 to your [[Meter]]
+		- "Taking Notes" 1 AP, Whenever a roll's result is less than half of the dice, add +1 to your [[Spirit Energy Blessing]]
 		- "All according to plan" 1 AP, Whenever a roll's result is more than half of the dice
 	- Trait: [[Traits#^167655|TCT]]
 - The Heart
@@ -16,7 +16,7 @@ What Role does your character play in a team? Roles determine your health and st
 	- Trait: [[Traits#^effdd1|HRT]]
 - The Ace
 	- You shoot a target in the eye from a kilometer away, you slice a bullet flying through the air, when your team needs to do something impossible they ask you. The Ace has combo actions to set up buffs to greatly increase their results. 
-		- "Keeping Count" 1 AP Whenever you exhaust a character's [[Health and Stamina|Stamina]] you add a +1 to your [[Meter]], if you down an enemy you add a +2 #ph
+		- "Keeping Count" 1 AP Whenever you exhaust a character's [[Health and Stamina|Stamina]] you add a +1 to your [[Spirit Energy Blessing]], if you down an enemy you add a +2 #ph
 		- "You thought I was done?" 2 AP Whenever you roll less than half on an attack action that costed 2 ap or less, you can roll all its damage again, adding the [[Surprising Trait]] and the [[Traits#^b15948|ACE trait]] in a new aspect
 	- Trait: [[Traits#^b15948|ACE]]
 
@@ -62,7 +62,7 @@ What Role does your character play in a team? Roles give you ways to contribute 
 	- Passive	
 - The Ace
 	- You shoot a target in the eye from a kilometer away, you slice a bullet flying through the air, when your team needs to do something impossible they ask you. The Ace has combo actions to set up buffs to greatly increase their results. 
-		- "Keeping Count" 1 AP Whenever you exhaust a character's [[Health and Stamina|Stamina]] you add a +1 to your [[Meter]], if you down an enemy you add a +2 #ph
+		- "Keeping Count" 1 AP Whenever you exhaust a character's [[Health and Stamina|Stamina]] you add a +1 to your [[Spirit Energy Blessing]], if you down an enemy you add a +2 #ph
 		- "You thought I was done?" 2 AP Whenever you roll less than half on an attack action that costed 2 ap or less, you can roll all its damage again, adding the [[Surprising Trait]] and the [[Traits#^b15948|ACE trait]] in a new aspect
 	- Trait: [[Traits#^b15948|ACE]]
 ## VERSION 3

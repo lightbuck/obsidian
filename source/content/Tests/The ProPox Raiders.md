@@ -21,7 +21,7 @@ Main Actions:
 	-  [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Afflict Trait|Afflict]]
 - **Rising Slash**, 2 AP
 	- *Description*
-	- Effect: Target a Foe, deal 4d6 damage to them and take two Move Actions. Gain the [[Levitating Blessing]].
+	- Effect: Target a Foe, deal 4d6 damage to them and take two Move Actions. Gain the [[Flighted Blessing]].
 	-  [[Attack Trait|Attack]] [[Melee Trait|Melee]]
 
 Combo Actions: 
@@ -32,7 +32,7 @@ Combo Actions:
 	- [[Attack Trait|Attack]] [[Afflict Trait|Afflict]] [[Melee Trait|Melee]] 
 - **Crash Down**, 1 AP
 	- *Description*
-	- Condition: You have the [[Levitating Blessing]].
+	- Condition: You have the [[Flighted Blessing]].
 	- Effect: Target a Foe below you, move into their space and deal 2d6 damage plus the amount of spaces your moved with this action.
 	- [[Attack Trait|Attack]] [[Move Trait|Move]] [[Melee Trait|Melee]] 
 # Flying Raider
@@ -49,7 +49,7 @@ The Flying Raider targets the character with the Recovery Die of the biggest siz
 Main Actions:
 - **Activate Jetpack**, 1 AP
 	- *Description*
-	- Effect: Take a move action and gain the [[Levitating Blessing]].
+	- Effect: Take a move action and gain the [[Flighted Blessing]].
 	-  [[Move Trait|Move]]
 - **Aimed Shot**, 2 AP
 	- *Description*

@@ -14,10 +14,10 @@
 - **Half Circle Heavy Strike**, 1 AP
 	- *You release a large amount of kinetic energy into a single devastating blow*
 	- Effect: Target one foe within Melee Range, deal 2d6 damage
-	- [[Attack Trait|Attack]] [[Spend Trait|Spend(All)]]
+	- [[Attack Trait|Attack]] [[Spirits Trait|Spend(All)]]
 - **Commanding Grab**, 2 AP
 	- *You grab a hold of an enemy and hold them still by absorbing their kinetic energy*
-	- Effect: Target one foe within melee range, that foe gains an amount of [[Statuses#^8081d3|Slowed]] equal to their movement speed and you gain an equal amount of [[Meter]]. Additionally you gain the [[Centered Condition]]. 
+	- Effect: Target one foe within melee range, that foe gains an amount of [[Statuses#^8081d3|Slowed]] equal to their movement speed and you gain an equal amount of [[Spirit Energy Blessing]]. Additionally you gain the [[Centered Condition]]. 
 - 	[[Traits]]
 
 #### Combo Actions: 

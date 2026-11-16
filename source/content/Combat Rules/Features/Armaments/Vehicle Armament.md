@@ -2,6 +2,5 @@
 Add the [[Vehicle Trait]] to up to three actions you have.
 **Cost**: 200 CR
 # Catalysts
-- [[Winged Catalyst]]
-- [[Levitating Catalyst]]
+- [[Flying Catalyst]]
 - [[Leaping Catalyst]]
