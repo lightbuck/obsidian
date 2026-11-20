@@ -1,1 +1,1 @@
-You cannot gain [[Health and Stamina|Stamina]].
+You cannot gain [[Health and Stamina|Stamina]], when you take damage to your health you regain only one point of stamina.

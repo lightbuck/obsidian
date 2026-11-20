@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "columns"
   ],
-  "accentColor": "#ff0059"
+  "accentColor": "#ff0059",
+  "showRibbon": true
 }

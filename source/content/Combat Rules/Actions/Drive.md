@@ -1,12 +1,10 @@
 Drive is gained by fulfilling your [[Roles|Role's]] duties, and it is the main way you expand the options available to you! In practice it can be expended to do one of several things:
-# Drive Recovery
-A player character may spend 2 Drive to remove a Wound. You may also do this on an adjacent Ally.
 # Drive Boost
-Consume a stack of drive to take a move action
-# Drive Burst
-Consume two stacks of drive to take Drive Action.
+Consume a stack of drive to take a [[Universal Actions|Universal Action]] at no AP Cost.
+# Drive Actions
+Consume two stacks of drive to take an Action that has the [[Driven Trait]]
 # Drive Tag
-Consume two Stacks of [[Drive]] use an Ally's [[Crossover Trait|Crossover]] Action
+Consume two Stacks of [[Drive]] use an Ally's [[Crossover Trait|Crossover]] Action at half AP cost.
 
 %%
 # Deprecated
