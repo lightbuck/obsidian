@@ -1,3 +1,4 @@
+#WIP 
 *All Humans have the ability to exceed the natural limitations of their body. Most fighters do so subconsciously in moments of high stress, but some have learned to use this magic intentionally, allowing them to accomplish awe inspiring feats worthy of legend on a regular basis.*
 
 ---

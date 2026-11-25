@@ -1,1 +1,1 @@
-At any point during this action you can move one space [[N]] times. [[Energized Blessing|Energized]] can not be consumed to increase the space moved.
+At any point during this action you can move one space [[N]] times. [[Energized Blessing|Energized]] can not be consumed to increase the space moved. This movement can only be taken while being adjacent to a surface and can't be used to Jump.

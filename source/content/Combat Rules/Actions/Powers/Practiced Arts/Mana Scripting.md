@@ -1,4 +1,5 @@
-**Mana Scripting is likely the most accessible Aspect of Magic, technically speaking all it requires is for the caster to be conscious. This is due to the fact that Mana Scripting is not an embodied form of magic. But instead it consists in writing spells with liquid Mana, much like one would write high level computer code. These spells often consist of simple matter and energy generation, but in combat * 
+#WIP 
+*Mana Scripting is likely the most accessible Aspect of Magic, technically speaking all it requires is for the caster to be conscious. This is due to the fact that Mana Scripting is not an embodied form of magic. But instead it consists in writing spells with liquid Mana, much like one would write high level computer code. These spells often consist of simple matter and energy generation, but in combat * 
 
 ---
 %%Area, environment manipulation, self debuffing%%

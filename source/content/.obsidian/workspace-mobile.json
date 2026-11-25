@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b659dfc587542010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat Rules/Actions/Powers/Practiced Arts/Mana Scripting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mana Scripting"
-            }
-          },
-          {
             "id": "5d57949fe9094abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat Rules/Actions/Powers/Zodiac Magics/The Storm Hook.md",
+                "file": "Combat Rules/Actions/Techniques/Gymnastic Gunplay Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Storm Hook"
+              "title": "Gymnastic Gunplay Techniques"
+            }
+          },
+          {
+            "id": "2b979939b5f0c9db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat Rules/Actions/Techniques/Melee Armament Techniques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Melee Armament Techniques"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Combat Rules/Actions/Powers/Practiced Arts/Mana Scripting.md",
+            "file": "Combat Rules/Actions/Techniques/Gymnastic Gunplay Techniques.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,16 +169,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b659dfc587542010",
+  "active": "5d57949fe9094abb",
   "lastOpenFiles": [
-    "Combat Rules/Traits/Basic Traits/Step Trait.md",
+    "Combat Rules/Actions/Techniques/Melee Armament Techniques.md",
+    "Combat Rules/Foe Rules/Behaviours.md",
+    "Combat Rules/Changing Dice Size.md",
+    "Combat Rules/Foe Rules/NPCs.md",
+    "Combat Rules/Actions/Techniques/Gymnastic Gunplay Techniques.md",
+    "Combat Rules/Traits/Basic Traits/Defend Trait.md",
+    "Combat Rules/Traits/Basic Traits/Surprising Trait.md",
     "Combat Rules/Actions/Powers/Practiced Arts/Mana Scripting.md",
+    "Combat Rules/Traits/Basic Traits/Step Trait.md",
+    "Combat Rules/Actions/Powers/Practiced Arts/Active Exceed.md",
+    "Combat Rules/Actions/Techniques/Wrestler Techniques.md",
+    "Combat Rules/Actions/Powers/Zodiac Magics/The Storm Hook.md",
     "Combat Rules/Statuses/Blessing/Flighted Blessing.md",
     "Combat Rules/Statuses/Blessing/Boosted Blessing.md",
     "Combat Rules/Traits/Drive Traits/Woven Trait.md",
     "Combat Rules/Traits/Drive Traits/Parallel Trait.md",
     "Combat Rules/Traits/Drive Traits/Counter Trait.md",
-    "Combat Rules/Actions/Powers/Zodiac Magics/The Storm Hook.md",
     "Combat Rules/The Battlefield.md",
     "Combat Rules/Traits/Basic Traits/Ensured Trait.md",
     "Combat Rules/Traits/Traits.md",
@@ -188,15 +197,6 @@
     "Combat Rules/Features/Banes/Banes.md",
     "Combat Rules/Traits/Drive Traits/Bane Trait.md",
     "Combat Rules/Statuses/Hexes/Weakened Hex.md",
-    "Combat Rules/Features/Banes/Defeatist Bane.md",
-    "Combat Rules/Features/Banes/Cowardly Bane.md",
-    "Combat Rules/Features/Banes/Controlling Bane.md",
-    "Combat Rules/Features/Banes/Arrogant Bane.md",
-    "Combat Rules/Traits/Drive Traits/Final Trait.md",
-    "Combat Rules/Traits/Powerful Traits/Poly Trait.md",
-    "Deprecated/Stylish Actions (Deprecated).md",
-    "Combat Rules/Statuses/Curses/Indolence Curse.md",
-    "Combat Rules/Features/Banes/Lazy Bane.md",
     "Combat Rules/Features/Roles/Merits"
   ]
 }
