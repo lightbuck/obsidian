@@ -1,6 +1,6 @@
 Movement can happen in many different ways, a character can choose to move, they might have to move because of the effects of their actions, they could be flung by an action or they could fall.
 # Falling ^3e2baa
-When in the air, Characters fall at the end of your turn. They take a points of damage for every space they fell.
+When in the air, Characters fall at the end of their turn. They take 1d6 damage for every 6 spaces they fell.
 # Hanging On
 Characters may maintain their height when in the air, if they are adjacent to a surface, but they fall if they use their [[Actions#^45d755|Reactions]].
 # Forced Movement
