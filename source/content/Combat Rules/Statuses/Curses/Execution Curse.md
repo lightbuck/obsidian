@@ -1,0 +1,1 @@
+At the end of your turn, lower your stamina (to a minimum of 1) for every stack of the [[Execution Curse]] you have, then remove all stacks. 
