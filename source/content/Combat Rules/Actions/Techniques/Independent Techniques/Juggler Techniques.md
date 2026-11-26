@@ -3,7 +3,7 @@ Recommended Armaments: At least 3 Armaments of any type, except Armaments who ca
 #### Main Actions:
 ##### Devil May Juggle, 1 AP
 - *You ready yourself to swap between your armaments.*
-- Effect: For the duration of this Round any time you use an Armament you haven't used this Round yet, the first Attack with it gains the [[Surprising Trait]]. If you make use of at least three different Armaments by the end of this Round, you restart the effect the next Round for free, this can be done so indefinetely.
+- Effect: For the duration of this Round any time you use an Armament you haven't used this Round yet, the first Attack with it gains the [[Surprising Trait]]. If you make use of at least three different Armaments by the end of this Round, you restart the effect the next Round for free, this can be done so indefinitely.
 - [[Charge Trait|Charge]]
 ##### Quick Strike, 1 AP
 - *You quickly pull out an Armament to strike a Foe.*
