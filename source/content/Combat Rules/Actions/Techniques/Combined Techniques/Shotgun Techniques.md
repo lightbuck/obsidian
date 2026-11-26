@@ -1,3 +1,5 @@
+Shotgun Techniques allow characters to fulfill the fantasy of using close quarters ranged weapons such as shotguns in the same way as melee weapons.
+Recommended Armaments: an [[Area Armament]] or a [[Melee Armament]]
 #### Main Actions:
 ##### Shotgun Burst, 2 AP
 - *You unleash a wide attack in front of you.*

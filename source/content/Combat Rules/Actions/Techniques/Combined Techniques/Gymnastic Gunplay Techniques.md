@@ -1,4 +1,5 @@
-
+These techniques aim to allow characters to make use of ranged weapons and melee attacks, supplementing them with high mobility and some afflictions.
+Recommended Armaments: a [[Ranged Armament]] with a [[Melee Armament]] and either of them should have the [[Inherent Aspect]]. 
 #### Main Actions:
 ##### Step Shot, 1 AP
 - *You shoot a Foe*

@@ -1,4 +1,4 @@
-These techniques aim to allow Characters to make use of Thrown Weapons, meaning weapons that are both ranged and melee.
+These techniques aim to allow Characters to make use of Thrown Weapons, meaning weapons that are both ranged and melee. It also has multiple instances of the [[Piercing Trait]].
 Recommended Armaments: a [[Melee Armament]] or a [[Ranged Armament]]
 #### Main Actions:
 ##### Double Throw, 1 AP
@@ -23,7 +23,7 @@ Recommended Armaments: a [[Melee Armament]] or a [[Ranged Armament]]
 - [[Attack Trait|Attack]] [[Multi Trait|Multi(Melee,Ranged)]]
 #### Combo Actions: 
 ##### Catch Weapon, 1 AP
-- *Description.*
+- *Your weapon bounces off of your foe and you catch it in the air.*
 - Condition: Your last action had the [[Ranged Trait]] and the [[Attack Trait]]
 - Effect: Your next [[Multi Trait|Multi(Melee,Ranged)]] gains the [[Piercing Trait]] and deals an extra 1d4 damage.
 - [[Move Trait|Move]] [[Charge Trait|Charge]]
