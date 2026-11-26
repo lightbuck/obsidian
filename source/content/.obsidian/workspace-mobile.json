@@ -4,49 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f02b71a2cf6094cb",
+        "id": "90a92b8304ba3b72",
         "type": "tabs",
         "children": [
           {
-            "id": "2b979939b5f0c9db",
+            "id": "991f038481e992d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat Rules/Actions/Techniques/Wrestler Techniques.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Wrestler Techniques"
-            }
-          },
-          {
-            "id": "966c149c4af64583",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat Rules/Movement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Movement"
-            }
-          },
-          {
-            "id": "2fee3d56a7b28c70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roleplay Rules/Skills/Skills.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Skills"
+              "title": "New tab"
             }
           }
         ]
@@ -128,7 +96,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Combat Rules/Actions/Techniques/Wrestler Techniques.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,16 +150,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b979939b5f0c9db",
+  "active": "991f038481e992d2",
   "lastOpenFiles": [
-    "Combat Rules/Actions/Powers/Practiced Arts/Active Exceed.md",
+    "Combat Rules/Actions/Techniques/Melee Armament Techniques.md",
+    "Combat Rules/Actions/Techniques/Ranged Armament Techniques.md",
+    "Combat Rules/Actions/Techniques/Juggler Techniques.md",
+    "Combat Rules/Actions/Techniques/Thrown Weapon Techniques.md",
+    "Combat Rules/Traits/Basic Traits/Piercing Trait.md",
+    "Combat Rules/Traits/Basic Traits/Multi Trait.md",
+    "Combat Rules/Features/Armaments/Melee Armament.md",
+    "Combat Rules/Features/Armaments/Ranged Armament.md",
+    "Combat Rules/Actions/Techniques/Techniques.md",
+    "Combat Rules/Actions/Techniques/Shotgun Techniques.md",
+    "Combat Rules/Actions/Techniques/Wrestler Techniques.md",
+    "Combat Rules/Actions/Techniques/Gymnastic Gunplay Techniques.md",
+    "Combat Rules/Features/Armaments/Armament Catalysts/Shotgun Catalyst.md",
+    "Combat Rules/Movement.md",
     "Roleplay Rules/Skills/Skills.md",
+    "Combat Rules/Actions/Powers/Practiced Arts/Active Exceed.md",
     "Combat Rules/Traits/Basic Traits/Ensured Trait.md",
     "Combat Rules/Statuses/Blessing/Energized Blessing.md",
-    "Combat Rules/Movement.md",
-    "Combat Rules/Actions/Techniques/Wrestler Techniques.md",
-    "Combat Rules/Actions/Techniques/Melee Armament Techniques.md",
-    "Combat Rules/Actions/Techniques/Gymnastic Gunplay Techniques.md",
     "Combat Rules/Foe Rules/Behaviours.md",
     "Combat Rules/Changing Dice Size.md",
     "Combat Rules/Foe Rules/NPCs.md",
@@ -201,16 +178,6 @@
     "Combat Rules/Actions/Powers/Practiced Arts/Mana Scripting.md",
     "Combat Rules/Traits/Basic Traits/Step Trait.md",
     "Combat Rules/Actions/Powers/Zodiac Magics/The Storm Hook.md",
-    "Combat Rules/Statuses/Blessing/Flighted Blessing.md",
-    "Combat Rules/Statuses/Blessing/Boosted Blessing.md",
-    "Combat Rules/Traits/Drive Traits/Woven Trait.md",
-    "Combat Rules/Traits/Drive Traits/Parallel Trait.md",
-    "Combat Rules/Traits/Drive Traits/Counter Trait.md",
-    "Combat Rules/The Battlefield.md",
-    "Combat Rules/Traits/Traits.md",
-    "Combat Rules/Actions/Drive.md",
-    "Combat Rules/Actions/Universal Actions.md",
-    "Combat Rules/Actions/Adrenaline.md",
     "Combat Rules/Features/Roles/Merits"
   ]
 }

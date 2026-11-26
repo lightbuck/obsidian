@@ -6,12 +6,12 @@
 - [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Step Trait|Step(3)]]
 ##### Kickback, 1 AP
 - *You kick away your Foe*
-- Effect: Target a Foe, deal 1d6 damage to them. You may increase the cost of this action by 1 AP to increase the damage to 1d8 and increase this action's Fling Trait's Value to 7.
+- Effect: Target a Foe, deal 1d6 damage to them. You may increase the cost of this action by 1 AP to increase the damage to 2d4 and increase this action's Fling Trait's Value to 7.
 -  [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Fling Trait|Fling(3)]] [[Poly Trait|Poly]]
 ##### Dive Kick, 1 AP
 - *You slam a Foe*
 - Effect: Target one Foe, move in a line up to your speed toward them and deal 1d6 damage. If you are **not** on top of a surface when you take this action, this action gains the [[Surprising Trait]].
-- [[Attack Trait|Attack]] [[Melee Trait|Melee]] 
+- [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Move Trait|Move]]
 ##### Opening Kick, 2 AP
 - *You strike at a Foe, opening them up for further attacks*
 - Effect: Target one Foe, deal 1d6 damage. Until the Targeted Foe takes damage to health, any action with the [[Melee Trait]] deals an extra 1d6 damage and actions with the [[Ranged Trait]] deals an extra 1d8 damage.
@@ -37,3 +37,8 @@
 - Condition: your last action had the [[Attack Trait]]
 - Effect: Target a Foe that you can see, deal a 1d6 of damage for every action you took this turn that had the [[Attack Trait]] but not the [[Ranged Trait]]. 
 -  [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] [[Consumed Trait|Consumed]]
+#### Drive Actions:
+##### Feint N Flip
+- *You feint an attack, using the opening to move away*
+- Effect: Your next attack gains the [[Mental Trait]], after resolving that action take up to two move actions, you may move through the spaces of the Foes targeted by that Action.
+- [[Driven Trait|Driven]] [[Woven Trait|Woven]]

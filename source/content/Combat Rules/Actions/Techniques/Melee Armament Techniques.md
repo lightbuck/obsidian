@@ -9,7 +9,7 @@
 - [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Crushing Trait|Crushing]]
 ##### Cutting Advance, 1 AP
 - *You move forward unleashing a series of attacks to anyone in your path*
-- Effect: Target one Foe that you can see, move in a line toward them, additionally target one other Foe that was adjacent to you during this movement. Both Foes take 1d4 damage.
+- Effect: Target one Foe that you can see, move in a line toward them up to your speed, additionally target one other Foe that was adjacent to you during this movement. Both Foes take 1d4 damage.
 - [[Attack Trait|Attack]] [[Melee Trait|Melee]]
 ##### Crash, 2 AP
 - *You move and use your momentum to strike down a foe.*
