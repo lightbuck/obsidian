@@ -1,8 +1,8 @@
 Movement can happen in many different ways, a character can choose to move, they might have to move because of the effects of their actions, they could be flung by an action or they could fall.
-# Falling ^3e2baa
-When in the air, Characters fall at the end of their turn. They take 1d6 damage for every 6 spaces they fell.
-# Hanging On
-Characters may maintain their height when in the air, if they are adjacent to a surface, but they fall if they use their [[Actions#^45d755|Reactions]].
+# Falling
+When in the air, or rather while not adjacent to any surface, Characters fall at the end of their turn. They take 1d6 damage for every 6 spaces they fell. 
+## Hanging On
+Characters do not begin to Fall, if they are adjacent to at least one vertical surface. However if the character takes damage to Health, gains the [[Impacted Curse]] or takes an action with the [[Counter Trait]] they will begin to Fall.
 # Forced Movement
 A character may be subjected to forced movement (such as being targeted by a an action with the [[Fling Trait]] or [[Push Trait]]). The character may endure some negatives effect depending on the result of movement.
 ## Hitting a surface

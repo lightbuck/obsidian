@@ -1,0 +1,1 @@
+Any time you take an action you take damage equal to the amount of stacks of this condition, after resolving that action. When you move, lower the amount of stacks of this condition by the amount of spaces moved.

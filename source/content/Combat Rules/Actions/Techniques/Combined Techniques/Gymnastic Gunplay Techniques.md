@@ -10,18 +10,18 @@
 -  [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Fling Trait|Fling(3)]] [[Poly Trait|Poly]]
 ##### Dive Kick, 1 AP
 - *You slam a Foe*
-- Effect: Target one Foe, move in a line up to your speed toward them and deal 1d6 damage. If you are **not** on top of a surface when you take this action, this action gains the [[Surprising Trait]].
+- Effect: Target one Foe, move in a line up to your speed toward them and deal 1d6 damage. If your vertical position is higher than your target's when you take this action, this action gains the [[Surprising Trait]].
 - [[Attack Trait|Attack]] [[Melee Trait|Melee]] [[Move Trait|Move]]
 ##### Opening Kick, 2 AP
 - *You strike at a Foe, opening them up for further attacks*
-- Effect: Target one Foe, deal 1d6 damage. Until the Targeted Foe takes damage to health, any action with the [[Melee Trait]] deals an extra 1d6 damage and actions with the [[Ranged Trait]] deals an extra 1d8 damage.
+- Effect: Target one Foe, deal 1d6 damage. Until the Targeted Foe takes damage to Health, any action with the [[Melee Trait]] deals an extra 1d6 damage and actions with the [[Ranged Trait]] deal an extra 1d8 damage.
 - [[Attack Trait|Attack]] [[Melee Trait|Melee]]
 #### Combo Actions: 
 ##### Recoiling Flip, 1 AP
 - *You shoot a Foe*
 - Condition: your last action had the [[Ranged Trait]] and the [[Attack Trait]]
-- Effect: Move in a line up to your speed, in the opposite direction of the Triggering Action's Target. Alternatively you may move in that direction with half your speed while moving half your speed upward. Additionally roll your Recovery Die once and gain that stamina.
-- [[Move Trait|Move]] [[Defend Trait|Defend]]
+- Effect: Move in a line up to your speed, in the opposite direction of the Triggering Action's Target. Alternatively you may move in that direction with half your speed while moving half your speed upward. If you were adjacent to the Target when you took this action, they gain 1 stack of the [[Impacted Curse]] if they didn't have any.
+- [[Move Trait|Move]] [[Defend Trait|Defend]] [[Afflict Trait|Afflict]]
 ##### Unorthodox Reload, 1 AP
 - *You reload your armament while smacking your foe.*
 - Condition: your last action had the [[Ranged Trait]] and the [[Attack Trait]]

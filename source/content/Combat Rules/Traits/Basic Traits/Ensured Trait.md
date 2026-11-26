@@ -1,1 +1,1 @@
-You may roll the damage rolls of this action a second time, choose the better result.
+You may reroll any rolls of this action one time, choosing which to use every time.

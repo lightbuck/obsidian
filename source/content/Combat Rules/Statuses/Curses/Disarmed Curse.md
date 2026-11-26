@@ -1,1 +1,1 @@
-You lose access to one of your [[Armaments]]. Remove this Curse at the end of your turn.
+You lose access to one of your [[Armaments]]. Remove this Curse at the end of your turn or if you take a Swap Action to swap back to the Armament you lost access to.
