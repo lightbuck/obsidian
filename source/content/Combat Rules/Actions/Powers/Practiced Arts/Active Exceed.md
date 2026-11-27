@@ -11,6 +11,10 @@ or
 - Master in Fleet.
 
 #### Actions:
+##### Mega Fist, 4 AP
+- *You charge forward, destroying anything in your path*
+- Effect: Target a Foe, deal 6d8 damage.
+- [[Melee Trait|Melee]] [[Attack Trait|Attack]]
 ##### Siege Engine, 2 AP
 - *You charge forward, destroying anything in your path*
 - Effect: Move in a line for double your speed. Destroy any cover in your path. Foes adjacent to you at any point during this movement gain a stack of the [[Impacted Curse]] if they didn't have any.

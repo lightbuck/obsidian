@@ -1,4 +1,8 @@
 #### Main Actions:
+##### Shoot, 1 AP
+- *You shoot a Foe*
+- Effect: Target one Foe that you can see, deal 2d4 damage.
+- [[Attack Trait|Attack]] [[Ranged Trait|Ranged]] 
 ##### Hip Fire, 1 AP
 - *You shoot a Foe*
 - Effect:  You may swap to a [[Ranged Armament]]. Target one Foe that you can see, deal 1d6 damage.
