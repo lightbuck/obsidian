@@ -24,12 +24,12 @@ Combo Actions:
 - **Complication**, 1 AP
 	- *You double down on a Foe, digging your claws and twisting them not to actually wound them, but to provoke as much pain as possible*
 	- Condition: Your previous action inflicted the [[Impacted Curse]]
-	- Effect: The Target gains another stack of the [[Impacted Curse]], if the Target becomes [[Vulnerable Hex|Vulnerable]] because of this action you gain one stack of [[Adrenaline]]
+	- Effect: The Target gains another stack of the [[Impacted Curse]], if the Target becomes [[Vulnerable Curse|Vulnerable]] because of this action you gain one stack of [[Adrenaline]]
 	- [[Afflict Trait|Afflict]]
 - **The Big Come Down**, 2 AP
 	- *You grab a Foe and dig your fangs into them, finally able to siphon them.*
-	- Condition: Your last action inflected the [[Vulnerable Hex]]
-	- Effect: Target the Foe you made [[Vulnerable Hex|Vulnerable]], deal damage to health equal to the amount of Action Points you had left before you took this action. Additionally gain stacks of [[Adrenaline]] equal to that amount. If this action knocks out the Target you may remove a [[Wounds|Wound]] and restore one point of Health.
+	- Condition: Your last action inflected the [[Vulnerable Curse]]
+	- Effect: Target the Foe you made [[Vulnerable Curse|Vulnerable]], deal damage to health equal to the amount of Action Points you had left before you took this action. Additionally gain stacks of [[Adrenaline]] equal to that amount. If this action knocks out the Target you may remove a [[Wounds|Wound]] and restore one point of Health.
 	- [[Melee Trait|Melee]] [[Attack Trait|Attack]] [[Consumed Trait|Consumed]]
 
 Reactions: 
